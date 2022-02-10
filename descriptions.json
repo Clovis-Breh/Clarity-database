@@ -1,7 +1,9 @@
 {
-  "0": {
-    "name": "Fading Memory",
-    "id": 0,
+  "2799418574": {
+    "name": "Rites of Ember",
+    "id": 2799418574,
+    "armorName": "Dawn Chorus",
+    "armorId": 2316914168,
     "description": [
       {
         "lineText": [
@@ -96,6 +98,6 @@
         "className": "table"
       }
     ],
-    "lastUpdate": "2022-02-10T21:16:38.566Z"
+    "lastUpdate": "2022-02-10T21:19:59.071Z"
   }
 }
