@@ -1,296 +1,101 @@
 {
-  "0": "e",
-  "1": "3",
-  "2": "0",
-  "3": "K",
-  "4": "\n",
-  "": {
-    "0": {
-      "name": "",
-      "id": 0,
-      "description": [
-        {
-          "lineText": [
-            {
-              "className": "highlight_1",
-              "text": " If fusion grenades. "
-            }
-          ],
-          "className": "center"
-        },
-        {
-          "className": "spacer"
-        },
-        {
-          "lineText": [
-            {
-              "className": "highlight_2",
-              "text": " Gain an extra Grenade Charge. "
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "className": "highlight_3",
-              "text": " 20% Grenade Energy "
-            },
-            {
-              "text": " per Weapon Damage Instance while "
-            },
-            {
-              "className": "highlight_4",
-              "text": " Empowered "
-            },
-            {
-              "text": " (0.5s Cooldown)"
-            }
-          ]
-        },
-        {
-          "className": "spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "100% Class Ability Energy on "
-            },
-            {
-              "className": "highlight_3",
-              "text": " Grenade Kill "
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "className": "highlight_4",
-              "text": " Empowered is either Well of Guiding Flame. "
-            }
-          ]
-        },
-        {
-          "className": "spacer"
-        },
-        {
-          "table": [
-            {
-              "lineText": [
-                {
-                  "text": ""
-                },
-                {
-                  "className": "bold",
-                  "text": "Range"
-                },
-                {
-                  "className": "bold",
-                  "text": "Zoom"
-                },
-                {
-                  "className": "bold",
-                  "text": "Stab"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "className": "bold",
-                  "text": "1x"
-                },
-                {
-                  "text": "5"
-                },
-                {
-                  "text": "5"
-                },
-                {
-                  "text": "5"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "className": "bold",
-                  "text": "2x"
-                },
-                {
-                  "text": "10"
-                },
-                {
-                  "text": "10"
-                },
-                {
-                  "text": "10"
-                }
-              ],
-              "className": "background"
-            },
-            {
-              "lineText": [
-                {
-                  "className": "bold",
-                  "text": "3x"
-                },
-                {
-                  "text": "15"
-                },
-                {
-                  "text": "15"
-                },
-                {
-                  "text": "15"
-                }
-              ]
-            }
-          ],
-          "className": "table"
-        }
-      ],
-      "simpleDescription": [
-        {
-          "lineText": [
-            {
-              "className": "highlight_1",
-              "text": " If fusion grenades. "
-            }
-          ],
-          "className": "center"
-        },
-        {
-          "className": "spacer"
-        },
-        {
-          "lineText": [
-            {
-              "className": "highlight_2",
-              "text": " Gain an extra Grenade Charge. "
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "className": "highlight_3",
-              "text": " 20% Grenade Energy "
-            },
-            {
-              "text": " per Weapon Damage Instance while "
-            },
-            {
-              "className": "highlight_4",
-              "text": " Empowered "
-            },
-            {
-              "text": " (0.5s Cooldown)"
-            }
-          ]
-        },
-        {
-          "className": "spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "100% Class Ability Energy on "
-            },
-            {
-              "className": "highlight_3",
-              "text": " Grenade Kill "
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "className": "highlight_4",
-              "text": " Empowered is either Well of Guiding Flame. "
-            }
-          ]
-        },
-        {
-          "className": "spacer"
-        },
-        {
-          "table": [
-            {
-              "lineText": [
-                {
-                  "text": ""
-                },
-                {
-                  "className": "bold",
-                  "text": "Range"
-                },
-                {
-                  "className": "bold",
-                  "text": "Zoom"
-                },
-                {
-                  "className": "bold",
-                  "text": "Stab"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "className": "bold",
-                  "text": "1x"
-                },
-                {
-                  "text": "5"
-                },
-                {
-                  "text": "5"
-                },
-                {
-                  "text": "5"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "className": "bold",
-                  "text": "2x"
-                },
-                {
-                  "text": "10"
-                },
-                {
-                  "text": "10"
-                },
-                {
-                  "text": "10"
-                }
-              ],
-              "className": "background"
-            },
-            {
-              "lineText": [
-                {
-                  "className": "bold",
-                  "text": "3x"
-                },
-                {
-                  "text": "15"
-                },
-                {
-                  "text": "15"
-                },
-                {
-                  "text": "15"
-                }
-              ]
-            }
-          ],
-          "className": "table"
-        }
-      ],
-      "lastUpdate": "2022-02-06T15:28:03.827Z"
-    }
+  "0": {
+    "name": "Fading Memory",
+    "id": 0,
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Burns last X seconds longer and grant X% Melee Energy on Solar Burn DoT"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Daybreak applies burning."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Solar Burns add Rites of Ember debuff, which amplify the damage dealt by Daybreak."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Only Daybreak projectiles, Igniting Touch, and Phoenix Dive work."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {},
+          {
+            "lineText": [
+              {
+                "text": "Stacks"
+              },
+              {
+                "text": "Top"
+              },
+              {
+                "text": "Bottom"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "1-4"
+              },
+              {
+                "text": "45%"
+              },
+              {
+                "text": "35%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "5-6"
+              },
+              {
+                "text": "110%"
+              },
+              {
+                "text": "95%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "7+"
+              },
+              {
+                "text": "205%"
+              },
+              {
+                "text": "183%"
+              }
+            ]
+          }
+        ],
+        "className": "table"
+      }
+    ],
+    "lastUpdate": "2022-02-10T21:16:38.566Z"
   }
 }
