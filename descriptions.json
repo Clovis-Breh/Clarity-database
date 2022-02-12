@@ -9,97 +9,16 @@
         {
           "lineText": [
             {
-              "text": "Burns last X seconds longer and grant X% Melee Energy on Solar Burn DoT"
+              "text": "asdasxzczxc"
             }
           ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "Daybreak applies burning."
-            }
-          ]
-        },
-        {
-          "className": "spacer"
-        },
-        {
-          "lineText": [
-            {
-              "text": "Solar Burns add Rites of Ember debuff, which amplify the damage dealt by Daybreak."
-            }
-          ]
-        },
-        {
-          "lineText": [
-            {
-              "text": "Only Daybreak projectiles, Igniting Touch, and Phoenix Dive work."
-            }
-          ]
-        },
-        {
-          "className": "spacer"
-        },
-        {
-          "table": [
-            {},
-            {
-              "lineText": [
-                {
-                  "text": "Stacks"
-                },
-                {
-                  "text": "Top"
-                },
-                {
-                  "text": "Bottom"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "text": "1-4"
-                },
-                {
-                  "text": "45%"
-                },
-                {
-                  "text": "35%"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "text": "5-6"
-                },
-                {
-                  "text": "110%"
-                },
-                {
-                  "text": "95%"
-                }
-              ]
-            },
-            {
-              "lineText": [
-                {
-                  "text": "7+"
-                },
-                {
-                  "text": "205%"
-                },
-                {
-                  "text": "183%"
-                }
-              ]
-            }
-          ],
-          "className": "table"
         }
       ],
-      "lastUpdate": "2022-02-10T22:44:14.058Z"
+      "editor": {
+        "mainEditor": "asdasxzczxc",
+        "secondaryEditor": ""
+      },
+      "lastUpdate": "2022-02-12T22:46:46.054Z"
     }
   },
   "normal": {
