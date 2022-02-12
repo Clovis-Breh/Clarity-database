@@ -19,6 +19,26 @@
         "secondaryEditor": ""
       },
       "lastUpdate": "2022-02-12T22:46:46.054Z"
+    },
+    "3927963103": {
+      "name": "Conduction Tines",
+      "id": 3927963103,
+      "armorName": "Crown of Tempests",
+      "armorId": 3381022969,
+      "description": [
+        {
+          "lineText": [
+            {
+              "text": "asdasxzczxc"
+            }
+          ]
+        }
+      ],
+      "editor": {
+        "mainEditor": "asdasxzczxc",
+        "secondaryEditor": ""
+      },
+      "lastUpdate": "2022-02-12T22:47:50.391Z"
     }
   },
   "normal": {
