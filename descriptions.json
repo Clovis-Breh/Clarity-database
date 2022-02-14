@@ -543,12 +543,13 @@
     "0": {
       "name": "Fading Memory",
       "id": 0,
+      "armorName": "",
       "description": {},
       "editor": {
         "mainEditor": "",
         "secondaryEditor": ""
       },
-      "lastUpdate": "2022-02-13T18:32:14.280Z"
+      "lastUpdate": "2022-02-14T18:55:57.441Z"
     }
   }
 }
