@@ -542,20 +542,8 @@
       "stats": {
         "reload": {
           "active": {
-            "stat": [
-              5,
-              27,
-              32,
-              40,
-              54
-            ],
-            "multiplier": [
-              0.985,
-              0.97,
-              0.955,
-              0.94,
-              0.925
-            ]
+            "stat": "5, 27, 32, 40, 54",
+            "multiplier": "0.985, 0.97, 0.955, 0.94, 0.925"
           }
         }
       },
@@ -591,11 +579,11 @@
                   "className": "bold"
                 },
                 {
-                  "className": "bold"
+                  "formulaText": "Reload Time",
+                  "className": "|b formula bold"
                 },
                 {
-                  "formulaText": "Reload Time",
-                  "className": "formula"
+                  "className": "bold"
                 }
               ]
             },
@@ -615,7 +603,7 @@
                 },
                 {
                   "formula": "reload_0",
-                  "className": "formula"
+                  "className": "| formula"
                 }
               ],
               "className": "background"
@@ -636,7 +624,7 @@
                 },
                 {
                   "formula": "reload_1",
-                  "className": "formula"
+                  "className": "| formula"
                 }
               ]
             },
@@ -656,7 +644,7 @@
                 },
                 {
                   "formula": "reload_2",
-                  "className": "formula"
+                  "className": "| formula"
                 }
               ],
               "className": "background"
@@ -677,7 +665,7 @@
                 },
                 {
                   "formula": "reload_3",
-                  "className": "formula"
+                  "className": "| formula"
                 }
               ]
             },
@@ -697,19 +685,20 @@
                 },
                 {
                   "formula": "reload_4",
-                  "className": "formula"
+                  "className": "| formula"
                 }
               ],
               "className": "background"
             }
           ],
-          "className": "table"
+          "className": "table",
+          "formula": false
         }
       ],
       "editor": {
         "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\r\n\r\n< table >\r\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b <formula Reload Time />\r\n| 1x    | 5         | 5           | 0.985x              | <formula reload_0 /> <background/>\r\n| 2x    | 10        | 27          | 0.970x              | <formula reload_1 />\r\n| 3x    | 15        | 32          | 0.955x              | <formula reload_2 /> <background/>\r\n| 4x    | 20        | 40          | 0.940x              | <formula reload_3 />\r\n| 5x    | 23        | 54          | 0.925x              | <formula reload_4 /> <background/>\r\n<$>"
       },
-      "lastUpdate": 1645195462534
+      "lastUpdate": 1645208077299
     },
     "3161816588": {
       "name": "Slideshot",
