@@ -555,23 +555,26 @@
             {
               "lineText": [
                 {
-                  "className": "bold",
-                  "text": "Stack"
+                  "text": "Stack",
+                  "className": "bold"
                 },
                 {
-                  "className": "bold",
-                  "text": "Stability"
+                  "text": "Stability",
+                  "className": "bold"
                 },
                 {
-                  "className": "bold",
-                  "text": "Reload Stat"
+                  "text": "Reload Stat",
+                  "className": "bold"
                 },
                 {
-                  "className": "bold",
-                  "text": "Duration Multiplier"
+                  "text": "Duration Multiplier",
+                  "className": "bold"
                 },
                 {
                   "formulaText": "Reload Time",
+                  "className": "|b formula bold"
+                },
+                {
                   "className": "bold"
                 }
               ]
@@ -591,8 +594,8 @@
                   "text": "0.985x"
                 },
                 {
-                  "formulaText": "",
-                  "formula": "reload_0"
+                  "formula": "reload_0",
+                  "className": "| formula"
                 }
               ],
               "className": "background"
@@ -612,8 +615,8 @@
                   "text": "0.970x"
                 },
                 {
-                  "formulaText": "",
-                  "formula": "reload_1"
+                  "formula": "reload_1",
+                  "className": "| formula"
                 }
               ]
             },
@@ -632,8 +635,8 @@
                   "text": "0.955x"
                 },
                 {
-                  "formulaText": "",
-                  "formula": "reload_2"
+                  "formula": "reload_2",
+                  "className": "| formula"
                 }
               ],
               "className": "background"
@@ -653,8 +656,8 @@
                   "text": "0.940x"
                 },
                 {
-                  "formulaText": "",
-                  "formula": "reload_3"
+                  "formula": "reload_3",
+                  "className": "| formula"
                 }
               ]
             },
@@ -673,21 +676,21 @@
                   "text": "0.925x"
                 },
                 {
-                  "formulaText": "",
-                  "formula": "reload_4"
+                  "formula": "reload_4",
+                  "className": "| formula"
                 }
               ],
               "className": "background"
             }
           ],
-          "className": "table"
+          "className": "table",
+          "formula": false
         }
       ],
       "editor": {
-        "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\r\n\r\n< table >\r\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b <formula Reload Time />\r\n| 1x    | 5         | 5           | 0.985x              | <formula reload_0 /> <background/>\r\n| 2x    | 10        | 27          | 0.970x              | <formula reload_1 />\r\n| 3x    | 15        | 32          | 0.955x              | <formula reload_2 /> <background/>\r\n| 4x    | 20        | 40          | 0.940x              | <formula reload_3 />\r\n| 5x    | 23        | 54          | 0.925x              | <formula reload_4 /> <background/>\r\n<$>",
-        "secondaryEditor": ""
+        "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\r\n\r\n< table >\r\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b <formula Reload Time />\r\n| 1x    | 5         | 5           | 0.985x              | <formula reload_0 /> <background/>\r\n| 2x    | 10        | 27          | 0.970x              | <formula reload_1 />\r\n| 3x    | 15        | 32          | 0.955x              | <formula reload_2 /> <background/>\r\n| 4x    | 20        | 40          | 0.940x              | <formula reload_3 />\r\n| 5x    | 23        | 54          | 0.925x              | <formula reload_4 /> <background/>\r\n<$>"
       },
-      "lastUpdate": 1645277321229
+      "lastUpdate": 1645281499899
     },
     "3161816588": {
       "name": "Slideshot",
