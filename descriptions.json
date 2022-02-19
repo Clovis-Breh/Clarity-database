@@ -690,7 +690,7 @@
       "editor": {
         "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\r\n\r\n< table >\r\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b <formula Reload Time />\r\n| 1x    | 5         | 5           | 0.985x              | <formula reload_0 /> <background/>\r\n| 2x    | 10        | 27          | 0.970x              | <formula reload_1 />\r\n| 3x    | 15        | 32          | 0.955x              | <formula reload_2 /> <background/>\r\n| 4x    | 20        | 40          | 0.940x              | <formula reload_3 />\r\n| 5x    | 23        | 54          | 0.925x              | <formula reload_4 /> <background/>\r\n<$>"
       },
-      "lastUpdate": 1645281499899
+      "lastUpdate": 1645281517178
     },
     "3161816588": {
       "name": "Slideshot",
