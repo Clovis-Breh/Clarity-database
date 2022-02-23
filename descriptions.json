@@ -108,7 +108,8 @@
   "3673922083": {
     "id": 3673922083,
     "name": "Adagio",
-    "lastUpdate": 1645647494601,
+    "lastUpdate": 1645652068657,
+    "type": "weaponPerk",
     "description": [
       {
         "lineText": [
@@ -241,7 +242,7 @@
         "formula": false
       }
     ],
-    "type": "weaponPerk",
+    "updatedBy": "Icemourne",
     "editor": {
       "mainEditor": "On Weapon Kill:\r\nDamage Increase and Slower Rate of Fire/Charge Time for 5 seconds.\r\n\r\n< table >\r\n|b Weapon Type        |b +Damage|\r\n| Hand Cannon         | 25%     | -15% RoF <background/>\r\n| Auto Rifle          | 25%     | -20% RoF\r\n| Bow                 | 20%     | -20% CR <background/>\r\n| Shotgun             | 20%     | -20% RoF\r\n| Grenade Launcher    | 25%     | -20% RoF <background/>\r\n| Fusion Rifle        | 27%     | -15% CR\r\n| Linear Fusion Rifle | 25%     | -15% CR <background/>\r\n<$>"
     }
