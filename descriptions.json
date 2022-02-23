@@ -1,4 +1,78 @@
 {
+  "454085387": {
+    "id": 454085387,
+    "name": "Blunt Execution Rounds",
+    "lastUpdate": 1645650403807,
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon dealing Melee Damage while an Enemy is within 15 meters:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100 Handling and "
+          },
+          {
+            "text": " 500% ",
+            "className": "pve"
+          },
+          {
+            "text": " [100%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " increased damage for 10 seconds or until firing."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "4 second cooldown. Can be activated while stowed."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Any Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "type": "weaponPerk",
+    "editor": {
+      "mainEditor": "Upon dealing Melee Damage while an Enemy is within 15 meters:\r\n100 Handling and <pve 500% /> <pvp [100%] /> increased damage for 10 seconds or until firing.\r\n4 second cooldown. Can be activated while stowed.\r\n\r\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds.\r\n\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />\r\n"
+    }
+  },
   "2010801679": {
     "id": 2010801679,
     "name": "Ambitious Assassin",
