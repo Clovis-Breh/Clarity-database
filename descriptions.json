@@ -1,4 +1,36 @@
 {
+  "2010801679": {
+    "id": 2010801679,
+    "name": "Ambitious Assassin",
+    "lastUpdate": 1645647615408,
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After Reload within X seconds of Weapon Kills:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Always rounds up."
+          }
+        ]
+      }
+    ],
+    "type": "weaponPerk",
+    "editor": {
+      "mainEditor": "After Reload within X seconds of Weapon Kills:\r\n10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity.\r\nAlways rounds up."
+    }
+  },
   "3673922083": {
     "id": 3673922083,
     "name": "Adagio",
