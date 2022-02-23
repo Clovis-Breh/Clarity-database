@@ -105,6 +105,88 @@
       "mainEditor": "After Reload within X seconds of Weapon Kills:\r\n10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity.\r\nAlways rounds up."
     }
   },
+  "2621346526": {
+    "id": 2621346526,
+    "name": "Ensemble",
+    "lastUpdate": 1645660605438,
+    "stats": {
+      "reload": {
+        "active": {
+          "stat": [
+            40
+          ]
+        }
+      },
+      "handling": {
+        "active": {
+          "stat": [
+            30
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While within 15 meters of 1 or more allies:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "30 Handling and 40 Reload Speed."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lingers for 1.5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "updatedBy": "Icemourne",
+    "editor": {
+      "mainEditor": "While within 15 meters of 1 or more allies:\r\n30 Handling and 40 Reload Speed.\r\n\r\nLingers for 1.5 seconds.\r\n\r\n<formula Reload Time: reload_0 />\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />"
+    }
+  },
   "3673922083": {
     "id": 3673922083,
     "name": "Adagio",
