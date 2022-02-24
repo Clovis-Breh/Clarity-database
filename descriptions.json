@@ -2051,9 +2051,9 @@
   "3268255645": {
     "id": 3268255645,
     "name": "Sect of Force",
-    "itemId": 1654461647,
-    "itemName": "Aeon Safe",
-    "lastUpdate": 1645718694456,
+    "itemId": 2950045886,
+    "itemName": "Aeon Soul",
+    "lastUpdate": 1645718829658,
     "updatedBy": "Icemourne",
     "type": "armorExotic",
     "description": [
@@ -2098,7 +2098,14 @@
       {
         "lineText": [
           {
-            "text": "4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds."
+            "text": "Ally Deaths grant 25% Class Ability Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Gain Full Class Ability Energy on Ally Revival."
           }
         ]
       },
@@ -2108,7 +2115,7 @@
       {
         "lineText": [
           {
-            "text": "Aeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed."
+            "text": "Casting Super fully heals allies within 30 meters."
           }
         ]
       },
@@ -2118,40 +2125,13 @@
       {
         "lineText": [
           {
-            "text": "On Champion Stun, Mini-boss, or Boss Kill:"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Allies within 30 meters gain 50% Grenade and Melee Energy."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Aeon Allies additionally gain 10% Super Energy."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "4 second cooldown between refresh."
+            "text": "Aeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\n4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds.\n\nAeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed.\n\nOn Champion Stun, Mini-boss, or Boss Kill:\nAllies within 30 meters gain 50% Grenade and Melee Energy.\n\nAeon Allies additionally gain 10% Super Energy.\n\n4 second cooldown between refresh."
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAlly Deaths grant 25% Class Ability Energy.\nGain Full Class Ability Energy on Ally Revival.\n\nCasting Super fully heals allies within 30 meters.\n\nAeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds.\n"
     }
   },
   "3275789089": {
