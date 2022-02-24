@@ -4,14 +4,16 @@
         "name": "Chaotic Exchanger",
         "itemId": "1906093346",
         "itemName": "Contraverse Hold",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "While Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting X% [X%] Grenade Ability over 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks.\n"
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107473
     },
     "11612903": {
         "id": "11612903",
         "name": "Adrenaline Junkie",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Weapon or Grenade Kill:\nStacking Damage and Handling Increase for 4.5 seconds.\nBuff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks         |b 1x  |b 2x   |b 3x |b 4x   |b 5x\n|b Damage Increase| 6.6% | 13.2% | 20% | 26.6% | 33% <& bg>\n<$>\n\n\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -35,19 +37,21 @@
                 }
             }
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107473
     },
     "25606670": {
         "id": "25606670",
         "name": "Dual Loader",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Loads 2 Ammo at a time.\nReduces Reload Speed by 45\n\n(Full magazine reload is faster with the perk)\n"
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107473
     },
     "47981717": {
         "id": "47981717",
         "name": "Opening Shot",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "For the first bullet only, and after a 3.1s after not firing:\n20 AA, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone, -10% Accuracy Cone Growth.\n\nShotguns do not receive the Damage Falloff Distance Increase.\n\nIn-Game Range: {rang_0}\n<# highlight>^ Currently Takes the Damage Falloff Distance Increase into account on shotguns, multiplying by 0.95 should get you the more accurate value.<$>\n"
         },
@@ -63,38 +67,42 @@
                 }
             }
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107473
     },
     "117669763": {
         "id": "117669763",
         "name": "The Dance",
         "itemId": "1702288800",
         "itemName": "Radiant Dance Machines",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "While within 15 meters of an enemy: Multi-Dodge Ready appears on the Buff list.\n\nAfter Dodging within 15 meters of an Enemy:\nUnlimited Dodges for 6 seconds.\nCan dodge up to 6 times per activation.\n\nMulti-Dodge Dodges are unaffected by Mods that activate on Class Ability Use, alongside Winter's Shroud.\n\nEffect immediately ends if you are over 15 meters away from an Enemy while Multi-Dodge is active.\n"
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107473
     },
     "124408337": {
         "id": "124408337",
         "name": "Headstone",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Precision Kill:\nSpawns a <# stasis>Stasis <$> Crystal on Enemy Death Location.\nMinors = Medium | Anything Else = Large\n\nHaving 5 crystals active simultaneously incurs in a 5 second cooldown.\n"
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107473
     },
     "185514250": {
         "id": "185514250",
         "name": "Glacial Guard",
         "itemName": "Icefall Mantle",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Replaces Barricade with Glacial Guard\n\nOn Glacial Guard Cast:\nGrants Shielded buff and applies 40 Stacks of Slow to Combatants within 7 meters.\n\nShielded lasts 20 seconds and grants a 100HP Overshield.\nShielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding.\n\nWhile Shielded is active, you cannot regain Class Ability Energy.\nActivating Barricade while Glacial Guard is active will remove the effect.\n"
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107473
     },
     "201365942": {
         "id": "201365942",
         "name": "Archer's Tempo",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Precision Hit:\nDecreases Draw Time by 30% for 3 seconds.\n\nPerfect Draws are not accurate with the Draw Time Stat, you can be up to 40ms too early and still achieve them.\n"
         },
@@ -107,28 +115,31 @@
                 }
             }
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107473
     },
     "205890336": {
         "id": "205890336",
         "name": "Underdog",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Once below 150(?) HP:\nIncreased Reload Speed. Effect increases linearly as health decreases, up to 100 Reload Speed with 0.9x Duration Multiplier.\n"
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107474
     },
     "235075862": {
         "id": "235075862",
         "name": "Peregrine Strike",
         "itemName": "Peregrine Greaves",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Shoulder Charges deal increased damage if used midair.\n\n<& center>Minor\n<& center><# arc>155%<$> | <# solar>190%<$> | <# void>310%<$>\n<& center>Elite\n<& center><# arc>200%<$> | <# solar>?<$> | <# void>?<$>\n<& center>Major\n<& center><# arc>310%<$> | <# solar>?<$> | <# void>?<$>\n<& center>Boss\n<& center><# arc>360%<$> | <# solar>157%<$> | <# void>165%<$>\n"
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107474
     },
     "247725512": {
         "id": "247725512",
         "name": "Rapid Hit",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b Reload Time\n| 1x    | 5         | 5           | 0.985x              | {relo_0}s <& bg>\n| 2x    | 10        | 27          | 0.970x              | {relo_1}s\n| 3x    | 15        | 32          | 0.955x              | {relo_2}s <& bg>\n| 4x    | 20        | 40          | 0.940x              | {relo_3}s\n| 5x    | 23        | 54          | 0.925x              | {relo_4}s <& bg>\n<$>\n\n"
         },
@@ -152,11 +163,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107474
     },
     "280464955": {
         "id": "280464955",
         "name": "Firmly Planted",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While Crouched:\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -176,11 +188,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107474
     },
     "354401740": {
         "id": "354401740",
         "name": "Assassin's Blade",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Sword Kill:\n15% Increased damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)\nIncreases Sword Lunge Distance to X meters.\n\nRemains active for its full duration even if stowed.\n"
         },
@@ -193,29 +206,32 @@
                 }
             }
         },
-        "lastUpdate": 1645661745191
+        "lastUpdate": 1645662107474
     },
     "395373724": {
         "id": "395373724",
         "name": "Scatter Charge",
         "itemId": "300502917",
         "itemName": "Nothing Manacles",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "If on Scatter Grenades:\n\nGain an extra Grenade Charge\n\nScatter Grenades track enemies within 2 meters.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "409831596": {
         "id": "409831596",
         "name": "Proximity Grenades",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "438098033": {
         "id": "438098033",
         "name": "Harmony",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:\n\n20% Damage Increase, and 15 Handling for 7 seconds.\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -235,11 +251,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "454085387": {
         "id": "454085387",
         "name": "Blunt Execution Rounds",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Upon dealing Melee Damage while an Enemy is within 15 meters:\n100 Handling and <# pve> 500%<$><# pvp> [100%]<$> increased damage for 10 seconds or until firing.\n4 second cooldown. Can be activated while stowed.\n\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds.\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -252,11 +269,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "460017080": {
         "id": "460017080",
         "name": "Headseeker",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Precision Hits within 0.3 seconds of hitting a bodyshot deal 8% increased damage.\n"
         },
@@ -269,64 +287,71 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "466087222": {
         "id": "466087222",
         "name": "Smoothbore",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "<# highlight>NEVER USE THIS BARREL! IT ANNIHILATES YOUR PELLET SPREAD AND WITH THAT, YOUR CONSISTENCY<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "469285294": {
         "id": "469285294",
         "name": "Recombination",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Elemental Kills grant stacks of Recombination, increasing the damage of the next shot of the weapon:\n\n< table >\n|b Stacks|b Heritage|b Succession|b Both in PVP\n| 1x     | 8%       | 8%         | 5% <& bg>\n| 2x     | 15%      | 17%        | 10%\n| 3x     | 24%      | 27%        | 15% <& bg>\n| 4x     | 33%      | 38%        | 20%\n| 5x     | 42%      | 46%        | 25% <& bg>\n| 6x     | 50%      | 57%        | 30%\n| 7x     | 59%      | 68%        | 35% <& bg>\n| 8x     | 70%      | 80%        | 40%\n| 9x     | 80%      | 89%        | 45% <& bg>\n| 10x    | 88%      | 100%       | 50%\n<$>\n\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "481860150": {
         "id": "481860150",
         "name": "Wish-Dragon Teeth",
         "itemName": "Young Ahamkara's Spine",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Tripmine Grenades are enhanced and have Fastball intrinsically.\n\nEnhanced Tripmine Grenades\n14% increased damage from explosion.\nX% Bigger Radius, with no Damage Falloff.\nLast 30 seconds (10 -> 30) and have <# pvp>100HP<$> with 50% Damage Resist.\nRemoves self-damage from Tripmine Grenades.\n\nAbility Damage recharges 33% of Grenade Ability.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "481860151": {
         "id": "481860151",
         "name": "Spring-Loaded Mounting",
         "itemName": "Mechaneer's Tricksleeves",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Upon readying a sidearm while at Critical Health:\n<# pve>100%<$><# pvp> [35%]<$> increased damage until no longer critical.\nRefreshes sidearm magazine.\n\n100 Handling and Reload Speed to Sidearms.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "553093017": {
         "id": "553093017",
         "name": "Beyond The Veil",
         "itemName": "Omnioculus",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Grants an extra Smoke Bomb Charge.\n\nCloaking allies grants 50% Melee Energy per ally.\n\n<# pve>50%<$><# pvp> [25%]<$> Damage Resistance on any Invisible effects. Applies to teammates made invisible.\n\nDamage Resistance does not apply in Super.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "569260333": {
         "id": "569260333",
         "name": "Force Multiplier",
         "itemId": "3267996858",
         "itemName": "No Backup Plans",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Shotgun Final Blows restore Melee Ability Energy.\n10% Minors | 25% Anything Else\n\nIf your Defensive Strike Melee Ability is Charged:\n\nShotgun Kills activate Defensive Strike and consume your Melee Energy.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "588594999": {
         "id": "588594999",
         "name": "Moving Target",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing.\n"
         },
@@ -337,47 +362,52 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "591790007": {
         "id": "591790007",
         "name": "Iron Reach",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "593361146": {
         "id": "593361146",
         "name": "Synapse Junctions",
         "itemName": "Raiden Flux",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "While in Arc Staff:\nHits grant Synapse Junctions for 5 seconds. Stacks up to 3.\n\nx1 = 13.5% Increased damage and X% Slower Passive Super Drain\nx2 = 28.8% Increased damage and X% Slower Passive Super Drain\nx3 = 46.2% Increased damage and X% Slower Passive Super Drain\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "593361147": {
         "id": "593361147",
         "name": "Probability Matrix",
         "itemId": "903984858",
         "itemName": "Lucky Raspberry",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Additive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability\n\nArcbolt Grenades chain up to 4 times (from 3)\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "622433369": {
         "id": "622433369",
         "name": "Warlord's End",
         "itemName": "Felwinter's Helm",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and receive 30% increased damage.\nDuration and Range are dependant on Enemy Rank.\n\nEnemy Ranks are Minor/Elite/Major/Boss.\nFinishers add 5 seconds to Duration. Bosses are not finishable. Guardians count as Elites.\n\nWarlord's End.\nRange: 10/15/20/25 meters, centered on enemy.\nDuration: 5/10/15/20 seconds.\nFinisher Duration: 10/15/20 seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "689005463": {
         "id": "689005463",
         "name": "Accelerated Coils",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Decreases charge time by 40, and damage by 2%\n"
         },
@@ -393,20 +423,22 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "692285813": {
         "id": "692285813",
         "name": "Light Shift",
         "itemName": "Mask of Bakris",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "<# stasis> Subclass Only<$>\nReplaces Dodge with Shift.\nShift has a distance of 10 meters, and renders you completely invisible except for a trail for the duration of the shift.\n\nDodging grants Light Shift buff for 10 seconds.\n<# pve>Light Shift grants 10% increased damage to Slowed/Frozen targets, as well as granting 10% increased damage to Arc Weapons.<$>\n\nDodge does not recharge while Light Shift buff is active.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "699525795": {
         "id": "699525795",
         "name": "Eye of the Storm",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While at Low Health:\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n"
         },
@@ -419,11 +451,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "706527188": {
         "id": "706527188",
         "name": "Quickdraw",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Ready:\n100 Ready/Stow Handling for 1 second, or until ADS. (Doesn't affect ADS Speed)\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -436,21 +469,23 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "722862450": {
         "id": "722862450",
         "name": "Dearly Departed",
         "itemId": "2177524718",
         "itemName": "The Stag",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Grants <# pve> 25%<$><# pvp> [15%]<$> Damage Resist to Guardians inside your Rift.\n\nUpon reaching Critical Health:\nDearly Departed grants <# pve> 55% <$><# pvp>[27.5%]<$> Class Ability Energy.\nBuff lasts until no longer Critical.\n\nOn Death:\nSpawns a Healing Rift for 15 seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "806159697": {
         "id": "806159697",
         "name": "Trench Barrel",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After dealing Melee Damage:\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -470,11 +505,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "818211479": {
         "id": "818211479",
         "name": "Shattering Blade",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "If Heavy Attack consumes the last Ammo:\n67% Damage Increase to Grounded Heavy Attack.\n"
         },
@@ -487,63 +523,70 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "824488952": {
         "id": "824488952",
         "name": "Seriously, Watch Out",
         "itemName": "Mk. 44 Stand Asides",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "If Shoulder Charge Melee Ability is Charged:\n\nSlowly grants 75 HP Overshield over 3 seconds after sprinting for 0.5 seconds\nOvershield disappears instantly when not sprinting.\n\nRecharges 50% of Shoulder Charge ability on Shoulder Charge Hit.\n\nIncludes Seismic Strike, Ballistic Slam, Hammer Strike, Shield Bash\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "830282363": {
         "id": "830282363",
         "name": "Phase Magazine",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "897181301": {
         "id": "897181301",
         "name": "Rapid Cooldown",
         "itemName": "Fr0st-EE5",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "If Sprinting:\n100% Increased Grenade and Melee Recharge Speed.\nRegenerates 3.5% Class Ability per Second.\nNo effect while under the effects of another Ability Recharge Buff.\n\nOn Dodge:\n6.25% Faster Sprint for 10 seconds.\nNot refreshable.\n\nAdditive to Focused Breathing's 3% Class Ability per Second\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "902934539": {
         "id": "902934539",
         "name": "Blessing of Order",
         "itemName": "Boots of the Assembler",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Standing in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 meters and apply a buff depending on the type of Rift.\n\nEach time a Noble Seeker applies a buff, the Rift gets extended by 5 seconds.\n\nHealing Rift Noble Seekers heal allies for 75HP and begins Health Regeneration.\nEmpowering Rift Noble Seekers grant a <# pve>35%<$><# pvp> [20%]<$> Damage Increase for 5 seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "908147344": {
         "id": "908147344",
         "name": "Sneak Bow",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "If Crouched:\nPrevents Radar Ping from shooting, [?] Reload Speed (w/ [?] multiplier ), and increases hold time by 25%\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "926349161": {
         "id": "926349161",
         "name": "Fusion Harness",
         "itemName": "Starfire Protocol",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Gain an extra Fusion Grenade Charge.\n\n20% Grenade Energy per Weapon Hit while Empowered (0.5s Cooldown)\n\n100% Class Ability Energy on Grenade Kill\n\nEmpowered is either Well of Radiance, Empowering Rift or Guiding Flame.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "951095735": {
         "id": "951095735",
         "name": "Impulse Amplifier",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "X% Faster Projectile Velocity (Varies between Weapon Type apparently?)\n9 Reload Speed Stat with 0.8x Multiplier.\n\nReload speed is factored into base reload.\n"
         },
@@ -555,27 +598,30 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "957782887": {
         "id": "957782887",
         "name": "Snapshot Sights",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Massive Aiming-Down-Sights Animation Multiplier.\nStacks with ADS Multiplier effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow.\nWill reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "960810156": {
         "id": "960810156",
         "name": "Danger Zone",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\nLingers for 4(?) seconds.\n\nSelf Damage normally deals 25% increased damage.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "972757866": {
         "id": "972757866",
         "name": "Pulse Monitor",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While <38 Shields:\nRefreshes weapon, 45 Handling, 5% Faster Swap Speed.\n(Works even while stowed)\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
         },
@@ -591,11 +637,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1015611457": {
         "id": "1015611457",
         "name": "Kill Clip",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\n33% Increased damage for 5 seconds.\nBuff can't be refreshed. Persists through stow.\n"
         },
@@ -608,29 +655,32 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1047830412": {
         "id": "1047830412",
         "name": "Full Choke",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "When aiming down sights: reduces projectile spread but removes the precision damage multiplier.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1095471953": {
         "id": "1095471953",
         "name": "Embers of Light",
         "itemId": "235591051",
         "itemName": "Promethium Spur",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Daybreak Kills spawn both an Empowering and Healing Rift on Enemy Death Location.\n\nWhile standing in a Rift:\nSolar Weapon Kills grant X% Class Ability Energy.\n\nWhile your Class Ability Energy is Full:\nWeapon Kills consume your Class Ability Energy and spawn a Empowering + Healing Rift at the Target's Location.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1140096971": {
         "id": "1140096971",
         "name": "Seraph Rounds",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Combines the Penetration from Armor-Piercing Rounds, the Ricochet aspect of Ricochet Rounds, and the Flinch Increase from High-Caliber Rounds.\nAlso increases the Damage Falloff by 10%, identical to the old Ricochet Rounds.\n"
         },
@@ -641,57 +691,63 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1142806944": {
         "id": "1142806944",
         "name": "Planetary Torrent",
         "itemName": "Vesper of Radius",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "While surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second.\n\n3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies =\n\n1 second after casting Rift:\nAn Arc Shockwave is cast that deals <# pve> 300 <$><# pvp>[100]<$> damage and heavily knockbacks in a 7.5 meter radius.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1147638875": {
         "id": "1147638875",
         "name": "Cobra Totemic",
         "itemName": "Ophidian Aspect",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "+32 Reload and Handling to all weapons.\n\nIncreased Lunge Distance (5.25 meters -> 7.25 meters)\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1155472384": {
         "id": "1155472384",
         "name": "Biotic Enhancements",
         "itemName": "Synthoceps",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "While Surrounded by 3+ enemies: Activates Biotic Enhancements\n\nBiotic Enhancements increases Melee and Super damage for 8 seconds.\n\n50% Super Damage Increase.\n<# pve>200% Increased Melee Damage.<$>\n<# pvp>100% Increased Melee Damage.<$>\n\nIncreases Melee Lunge Range to 7 meters.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1155472386": {
         "id": "1155472386",
         "name": "Fury Conductors",
         "itemId": "2563444729",
         "itemName": "ACD/0 Feedback Fence",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Melee Hits grant Stacks of Fury Conductors.\nReceiving melee damage unleashes an Arc Explosion with a radius of 5 meters.\nArc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\n\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\n\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not Meleeing.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1155472387": {
         "id": "1155472387",
         "name": "Horns of Doom",
         "itemName": "Doom Fang Pauldron",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Powered Void Melee Kills grant <# pve> 20% <$><# pvp>[10%]<$> Super Energy\n\nSentinel Shield's Shield Throws regenerate 10% Super Energy\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1168162263": {
         "id": "1168162263",
         "name": "Outlaw",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Precision Kill:\n63 Reload Speed with 0.9x Multiplier for 6 seconds.\n\nReload Time: {relo_0}s\n"
         },
@@ -707,11 +763,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1195158366": {
         "id": "1195158366",
         "name": "Encore",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Precision Kill: 10 Range per Stack. Max of 3 Stacks.\n< table >\n|b Stacks|b In-Game Range\n|b 1     | {rang_0}m <& bg>\n|b 2     | {rang_1}m\n|b 3     | {rang_2}m <& bg>\n<$>\n\n\n\nOn Non-Precision Kill: Removes a Stack and grants -X% Accuracy Cone Growth, -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left.\n\nLasts 7 seconds. Refreshed on Kill.\n"
         },
@@ -733,21 +790,23 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1211775759": {
         "id": "1211775759",
         "name": "Ascending Amplitude",
         "itemId": "1996008488",
         "itemName": "Stormdancer's Brace",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Kills during Stormtrance grant Stacks of Ascending Amplitude for 8 seconds.\n\nAscending Amplitude increases Stormtrance Damage by 10% per Stack, up to 100% at 10 Stacks.\n\nRefunds up to 50% of Super Energy based on Enemy Kills.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1264398905": {
         "id": "1264398905",
         "name": "Celerity",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While Last Guardian Standing:\n100 Handling, 100 Reload, 100 Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\nReload Time: {relo_0}s\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n\nPassively grants 18 Handling and 18 Reload Speed\n"
         },
@@ -774,45 +833,50 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1275731761": {
         "id": "1275731761",
         "name": "Cluster Bomb",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Explosion releases 8 Cluster Bombs, which further increase the effective damage radius and the overall damage.\nEach Cluster Bomb deals up to 75 damage\n[10 Light Level, and that is around a single Hand Cannon shot]\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1331592343": {
         "id": "1331592343",
         "name": "Starless Night",
         "itemId": "106575079",
         "itemName": "Helm of Saint-14",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Guarding with Sentinel/Banner Shield blinds enemies within 7 meters for 5 seconds.\n\nAny Ward of Dawn that you create grants Starless Night, which gives a 65HP Overshield to any ally that enters.\n\nOvershield persists for up to 6 seconds.\n\nEnemies that enter your Ward of Dawn are also blinded for 5 seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1354429876": {
         "id": "1354429876",
         "name": "Fourth Time's the Charm",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Scoring 4 Precision Hits within 2.5 seconds generate 2 Ammo to Magazine.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1359896290": {
         "id": "1359896290",
         "name": "Dynamic Sway Reduction",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:\nGreatly increases Accuracy, and adds up to 10 Stability.\n\nAccuracy improvement is greater than initial accuracy, but isn't perfectly accurate while Airborne.\nAccuracy increase is gradual, almost completely negating the effects of bloom.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1427256713": {
         "id": "1427256713",
         "name": "Reservoir Burst",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "If Magazine is Full:\n25% Damage Increase and causes enemies to explode on death.\nPassively grants 30 Magazine Size\n"
         },
@@ -825,11 +889,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1428297954": {
         "id": "1428297954",
         "name": "Perpetual Motion",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While moving:\nGain a Stack after 2 seconds and an additional Stack after 10 seconds.\nLose ALL Stacks after not moving for over half a second. Works while stowed.\n\n< table >\n|b Stacks|b Stability|b Reload   |b Handling\n|b x1    | 5         | 10        | 10\n|        |b In-game: | {relo_0}s | Ready: {hand_r_0}s\n|        |           |           | Stow: {hand_s_0}s\n|b x2    | 10        | 20        | 20\n|        |b In-game: | {relo_1}s | Ready: {hand_r_1}s\n|        |           |           | Stow: {hand_s_1}s\n<$>\n\n"
         },
@@ -859,11 +924,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1431678320": {
         "id": "1431678320",
         "name": "Alloy Magazine",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\nReload Time: {relo_0}s\n"
         },
@@ -876,28 +942,31 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1449897496": {
         "id": "1449897496",
         "name": "Adamantine Brace",
         "itemName": "Oathkeeper",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Bows are able to hold perfect draws indefinitely.\n\nBows reach full draw 30 miliseconds faster\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1523832109": {
         "id": "1523832109",
         "name": "Reconstruction",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After not shooting for 4 seconds:\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity.\n\n(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1528281896": {
         "id": "1528281896",
         "name": "Outlaw",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Precision Kill:\n63 Reload Speed with 0.9x Multiplier for 6 seconds.\n\nReload Time: {relo_0}s\n"
         },
@@ -913,35 +982,39 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1546637391": {
         "id": "1546637391",
         "name": "Vorpal Weapon",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Damage Increase against Bosses, Minibosses, and Vehicles.\n<# pve>Primary: 20% | Special: 15% | Heavy: 10%<$>\n\n<& center><# pvp>Against Supers Only:<$>\n<# pvp>40% or 50%<$> Damage Increase for Primary Weapons\n<# pvp>10% or 20%<$> Damage Increase for Special Weapons\n<# pvp>5% or 10%<$> Damage Increase for Power Weapons\nThe lower Damage Increase is against supers with no extra Damage Resistance.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1556840489": {
         "id": "1556840489",
         "name": "Lead from Gold",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Power Ammo Pickup:\nGrants almost the equivalent of 1 Special Ammo Pickup.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1561002382": {
         "id": "1561002382",
         "name": "High-Caliber Rounds",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Increased Flinch on Enemies.\n<& pve> Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors.\n\n<& pvp>Flinch amount against Guardians varies between Archetypes, from 6% to 11% Increased Flinch received.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1561789734": {
         "id": "1561789734",
         "name": "Firefly",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter Radius. Same size as Dragonfly, but deals 25% increased damage.\n45 Reload Speed for 6 seconds.\n\n<# highlight>Dragonfly Spec does not function.<$>\n\nReload Time: {relo_0}\n"
         },
@@ -954,11 +1027,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1570042021": {
         "id": "1570042021",
         "name": "Heating Up",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\n\n1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction.\n2x = -30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction.\n"
         },
@@ -972,11 +1046,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1600092898": {
         "id": "1600092898",
         "name": "Backup Plan",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "For 4 seconds after readying a Fusion Rifle:\nMultiplies Charge Time by 0.7\n20% Reduced damage\n100 Handling\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -1003,54 +1078,60 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1631667848": {
         "id": "1631667848",
         "name": "Grave Robber",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Melee Kill:\nWeapons get refreshed.\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1645158859": {
         "id": "1645158859",
         "name": "Under Pressure",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "As Magazine goes below 50% until empty:\n25[?]% to 50[?]% increased Accuracy and up to 30[?] Stability.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1667892710": {
         "id": "1667892710",
         "name": "Survival Well",
         "itemId": "1591207519",
         "itemName": "Crest of Alpha Lupi",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies.\nHealing Pulse heals for the highest between 58 HP OR to 130HP over 12 meters.\nRequires Line-of-Sight to allies.\n\nSupers generate 1 extra Orb of Power.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1667892711": {
         "id": "1667892711",
         "name": "Auto-Loading Link",
         "itemName": "Actium War Rig",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Refreshes 10% of equipped Auto Rifle/Machine Gun magazine every 1.5 seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1683379515": {
         "id": "1683379515",
         "name": "Disruption Break",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Elemental/Barrier or Guardian Shield Break:\nWeakens the enemy, granting a 50% Kinetic Damage Increase for 5.5 seconds.\nStacks with other Debuffs, as it is a Weapon Perk.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1685431615": {
         "id": "1685431615",
         "name": "En Garde",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Upon readying a Sword:\n30% Increased damage for 1.5 seconds.\n"
         },
@@ -1063,11 +1144,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1687452232": {
         "id": "1687452232",
         "name": "Liquid Coils",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Increases charge time by 40, and damage by 2%\n"
         },
@@ -1083,37 +1165,41 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1694242448": {
         "id": "1694242448",
         "name": "Illegally Modded Holster",
         "itemName": "Lucky Pants",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Intrinsic Hand Cannon Holster\n100 Handling Ready Speed with 0.X Duration Multiplier and ~-40% Accuracy Cone Size on Ready for X seconds.\n\nUpon readying a Kinetic or Matching Hand Cannon with a Full Magazine:\n<# pve>60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits.<$>\n<# pve>Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit.<$>\n\nAfter the Buff runs out, you swap weapons, or firing after the 5 second period:\nYou cannot gain stacks or reacquire the buff for 10 seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1694242450": {
         "id": "1694242450",
         "name": "Hydraulic Boosters",
         "itemName": "St0mp-EE5",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "<# highlight>Increased Jump Height Increase:<$>\nHigh Jump = 9 meters -> 12 meters (33% higher)\nStrafe Jump = 8 meters -> 9 meters (10% higher)\nTriple Jump = 6 meters -> 7 meters for First Jump (16% higher)\n9 meters -> 11 meters for Second Jump (22% higher)\n\n<# highlight>Jump Distance Increase: (Includes innate 6.25% faster sprint)<$>\nHigh Jump = 28 meters -> 33 meters (18% higher)\nStrafe Jump = 26 meters -> 31 meters (19% higher)\nTriple Jump = 31 meters -> 38 meters. (22% higher)\n\n<# highlight>Increases Sprint Speed by 6.25%<$>\n<# highlight>Increases Slide Distance by 33%<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1716000303": {
         "id": "1716000303",
         "name": "Concussion Grenades",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Grenades fired from this weapon emit a blast that staggers enemies.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1754714824": {
         "id": "1754714824",
         "name": "Kickstart",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "During Slide, after Sprinting for 1.5s.\n20% Increased damage and 100ms Faster Charge Time.\n\nBuff can expire mid-burst if you don't immediately start charging.\n"
         },
@@ -1133,11 +1219,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1771339417": {
         "id": "1771339417",
         "name": "Firing Line",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While within X metres of 2+ Allies:\n20% Increased Precision Damage\n"
         },
@@ -1150,19 +1237,21 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1774574192": {
         "id": "1774574192",
         "name": "Osmosis",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1799762209": {
         "id": "1799762209",
         "name": "Cornered",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While within 15[?] meters of 2 enemies:\nCharge Rate/Draw Time is reduced by 100 miliseconds.\n\nLingers for 1.5 seconds.\n"
         },
@@ -1175,29 +1264,32 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1820235745": {
         "id": "1820235745",
         "name": "Subsistence",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Weapon Kill:\nRefreshes 10-17% of Magazine.\nAmount varies between Weapon Archetypes\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1844314558": {
         "id": "1844314558",
         "name": "Parting Gift",
         "itemId": "1219761634",
         "itemName": "The Bombardiers",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "On Dodge:\nDrops a Parting Gift that explodes and deals 120 damage over 7.5 meters with a 1(?) second fuse.\n\nParting Gift has an additional effect based on Subclass:\nBlind for <# pve>7 <$><# pvp>[3]<$> seconds.\nBurn for <# pve>3<$> seconds, dealing <# pvp>6x5<$>\nSlows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks.\nSuppress for <# pve>9 <$><# pvp>[7]<$> seconds <# pvp>[Does not apply to Guardians in Super]<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1866048759": {
         "id": "1866048759",
         "name": "Hip-Fire Grip",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While hipfiring:\n1.2x Aim Assist and Reticle Stickiness Falloff Distance, 15 Aim Assist, +2.7 degrees precision angle threshold, ~30% Accuracy Cone Size and ~30 Stability.\n(Verify stability)\n"
         },
@@ -1217,11 +1309,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1890422124": {
         "id": "1890422124",
         "name": "Tap the Trigger",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Immediately upon firing:\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\n\n<# highlight> [Controller-Only] Weapon fires the instant trigger pressure is applied.<$>\n"
         },
@@ -1234,63 +1327,70 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1919923227": {
         "id": "1919923227",
         "name": "Overflowing Light",
         "itemName": "Heart of Inmost Light",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Ability use grants Empowered for other abilities for <# pve>11<$><# pvp> [6]<$> seconds, depending on the Ability used.\ne.g.: Barricade -> Empowered Melee and Empowered Grenade.\n\nUsing an Empowered Ability will add a Stack to other abilities, but will consume all the Stacks of the Empowered Ability you just used. (if Stacks are present)\ne.g.: Barricade -> Empowered Grenade -> Barricade (x1) + Melee (x2)\n\nWhile Empowered:\n<# pve>5%<$><# pvp> [2.5%]<$> Melee and Grenade Energy per Second.\n<# pve>4%<$><# pvp> [2%]<$> Barricade Energy per Second.\nEmpowered Melee: 10% | 20% Increased damage.\nEmpowered Grenade: <# pve>20%<$><# pvp> [10%]<$> | <# pve>35%<$><# pvp> [20%]<$> Increased damage.\nEmpowered Barricade: X% | Y% Increased HP.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1939153390": {
         "id": "1939153390",
         "name": "Close Enough",
         "itemId": "121305948",
         "itemName": "Geomag Stabilizers",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Chaos Reach recovers 10% Super Ability Energy on hit. 0.75s Cooldown.\nCan increase Super Duration by up to 100%.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1954620775": {
         "id": "1954620775",
         "name": "Timed Payload",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Splits 55% of Damage into an Explosive Damage portion that deals <# pve> 30% Increased Damage<$> and has no damage falloff. Detonates after 0.6 seconds.\n<# pve>[PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio.<$>\n<# pvp>[PVP] Total damage remains (almost) the same.<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1968497646": {
         "id": "1968497646",
         "name": "Armor-Piercing Rounds",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "5% Increased damage against Combatant Shields\nBullets are able to penetrate up to 1 enemy.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "1971489086": {
         "id": "1971489086",
         "name": "The Fourth Magic",
         "itemName": "Verity's Brow",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes\n\nEach Stack of Death Throes grants 20% faster Grenade Recharge and 20% Increased Grenade Damage.\nMax of 5 Stacks. Lasts 10 seconds.\n\nOn Grenade Ability Usage:\nAllies within 18(?) meters receive Feel The Flame.\nFeel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2030760728": {
         "id": "2030760728",
         "name": "Energy Transfer",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While Blocking:\nGrants Class Ability Energy based on the amount of damage taken.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2039302152": {
         "id": "2039302152",
         "name": "Slideways",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Upon Sliding:\n15% Magazine Refreshed, ~20 Stability and ~25 Handling.\nLasts 3 seconds.\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -1310,82 +1410,91 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2077819806": {
         "id": "2077819806",
         "name": "Eager Edge",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Upon readying a Sword:\n100% Increased Lunge Range for 1 second.\n4 second cooldown.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2117683199": {
         "id": "2117683199",
         "name": "Full Auto Trigger System",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n10% Faster Rate of Fire on Shotguns.\n\nOther weapons do not receive a Rate of Fire Increase.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2119325971": {
         "id": "2119325971",
         "name": "Vanishing Shadow",
         "itemName": "Graviton Forfeit",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Increases the duration of Invisibility effects.\n\nRat King: 6 -> 10 seconds (66% Increase)\n<& bg> Vanish in Smoke: 7 -> 12 seconds (71% Increase)\nVanishing Step: 4.5 -> 7 seconds (44% Increase)\n<& bg>Flawless Execution: 9 -> 15 seconds (66% Increase)\n\nWhile Invisible:\nRegenerates 4% of Melee Ability per second.\nAdditional Enemies within 15 meters will instead increase it to 4.66% | 6.9% | 8.88%\nRecovery Speed set to between T9 and T10\n100 Reload Speed\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2192678014": {
         "id": "2192678014",
         "name": "Roving Assassin",
         "itemId": "1474735276",
         "itemName": "Gwisin Vest",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "During Spectral Blade\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\n\nSuper Energy % gains based on kills\n<# pve> 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 <$>\n<# pvp> 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2204713148": {
         "id": "2204713148",
         "name": "Crystalline Transistor",
         "itemId": "4057299718",
         "itemName": "Chromatic Fire",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "On Kinetic Precision Kill:\nEnemy explodes in an elemental explosion of your currently selected Subclass.\nExplosion Radius and Falloff Distance scale with your Weapon's Range Stat.\n\n<& pvp>PVP Deals ~200 Damage at epicenter.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2213355989": {
         "id": "2213355989",
         "name": "High-Impact Reserves",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "As Magazine goes below 50%, until empty:\n<# pve>[PVE] 12.1% to 25.6% Damage Increase. <$>\n<# pvp>[PVP] 3% to 6% Damage Increase.<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2244851822": {
         "id": "2244851822",
         "name": "Flash Counter",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After Blocking a Melee Attack within 0.5 seconds of starting to Block:\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2355041704": {
         "id": "2355041704",
         "name": "Solar Rampart",
         "itemId": "2384488862",
         "itemName": "Khepri's Horn",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "On Barricade Cast:\nUnleashes a Solar Wave that returns back to the Barricade after 18.5 meters.\n<# pvp>Deals 100 damage.<$>\n\nSolar Kills refresh 25% of Class Ability Energy.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2360754333": {
         "id": "2360754333",
         "name": "Trench Barrel",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After dealing Melee Damage:\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -1405,27 +1514,30 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2387244414": {
         "id": "2387244414",
         "name": "Zen Moment",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Stacking Hits:\nReduces the Maximum Recoil Angle and Weapon Shake.\nRemoves Reticle Bounce on Controller input.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2396489472": {
         "id": "2396489472",
         "name": "Chain Reaction",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Weapon Kills create an Elemental Explosion.\n\nNot affected by Dragonfly Spec.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2450788523": {
         "id": "2450788523",
         "name": "Killing Wind",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Weapon Kill:\n20 Range, 50 Mobility, 40 Handling, 30% reduced ADS Movement Penalty, and a 1.05x Damage Falloff Distance Multiplier\n\nIn-Game Range: {rang_0}m\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\n(Verify handling)\n"
         },
@@ -1448,11 +1560,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2458213969": {
         "id": "2458213969",
         "name": "Multikill Clip",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage, depending on the amount of enemies killed within X seconds of each.\nBuff is overwritten every time you refresh it.\n"
         },
@@ -1467,37 +1580,41 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2500502982": {
         "id": "2500502982",
         "name": "Firewalker",
         "itemId": "1453120846",
         "itemName": "The Path of Burning Steps",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Solar Kills have a chance of granting 1 Stack of Firewalker [1 to 3 Kills, average of 2]\nBeing Frozen grants 1 Stack of Firewalker\nMax of <# pve> 3 <$><# pvp>[4]<$> Stacks.\nFirewalker increases Weapon Damage depending on Stacks and lasts 10 seconds.\n<# pve> 1x = 20% | 2x = 25% | 3x = 35%<$>\n<# pvp> 1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%<$>\n\nSlow Stacks and Duration are halved.\nReceive no damage from Stasis Breakout.\nStasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage.\n\n<# highlight_3> 3X = 20% IS BUGGED<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2551157718": {
         "id": "2551157718",
         "name": "Box Breathing",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <& bg>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <& bg>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <& bg>\n<$>\n\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2590710093": {
         "id": "2590710093",
         "name": "Tireless Blade",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Powered Swords gain 1 Ammo every other kill.\nYour first kill will proc this as well.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2610012052": {
         "id": "2610012052",
         "name": "Golden Tricorn",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Weapon Kill:\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\n\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% and duration to 10 seconds.  Can be refreshed by getting another Matching Ability Kill.\n"
         },
@@ -1511,21 +1628,23 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2618534366": {
         "id": "2618534366",
         "name": "Absorption Cells",
         "itemId": "3301944824",
         "itemName": "Mantle of Battle Harmony",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Weapon Kills with a Matching Subclass Element grant a buff, depending on whether Super is charged or not.\n\nIf Super is not Full:\nEnergy Siphon for 2 seconds. (Essentially a Cooldown)\nEnergy Siphon grants <# pve> 3(?)%<$><# pvp> [+1.45%]<$> Super Energy.\n\nIf Super is Full:\nReceive <# pve> 6s <$><# pvp>[3.5]<$> (<# pve>+4 <$><# pvp>[2]<$> per additional kill) of Absorption Cells, granting 20% increased damage for Weapons Matching your Subclass Element.\nAbsorption Cells maxes out at a <# pve> 10 <$><# pvp>[6]<$> second duration.\n\nAbsorption Cells disappears on Weapon Swap.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2621346526": {
         "id": "2621346526",
         "name": "Ensemble",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While within 15 meters of 1 or more allies:\n30 Handling and 40 Reload Speed.\n\nLingers for 1.5 seconds.\n\nReload Time:  {relo_0}s\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -1545,46 +1664,51 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2663272109": {
         "id": "2663272109",
         "name": "Relentless Tracker",
         "itemName": "Foetracer",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Marks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nIf Enemy is below 30% HP:\nGrants 1% increased damage per percent below 30%\n(Eg: 10% HP left -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2663272111": {
         "id": "2663272111",
         "name": "Upgraded Sensor Pack",
         "itemId": "1321354572",
         "itemName": "Knucklehead Radar",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Radar remains active while Aiming Down Sights.\n\nIf crouched:\nGrants Enhanced Radar.\n(Has 12 sectors instead of 6)\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2679249093": {
         "id": "2679249093",
         "name": "One-Two Punch",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "If All Pellets from a Shotgun Hit:\n200% Increased melee damage for 1.5 seconds.\n350% Increased melee damage against Bosses and Vehicles.\n80% Increased melee damage if combined with Liar's Handshake.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2726471870": {
         "id": "2726471870",
         "name": "Thresh",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\n<# pvp>[PVP] Weapon Kills grant an additional 1% Super Energy.<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2779035018": {
         "id": "2779035018",
         "name": "Feeding Frenzy",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Weapon Kills increase Reload Speed for 3.5 seconds.\nRefreshes on kill. Max of 5 Stacks.\n\n< table >\n|b Stacks|b Reload Speed|b Reload Animation Length|b Reload Time\n| 1x     | 10           | 1x                      | {relo_0}s <& bg>\n| 2x     | 45           | 0.9x                    | {relo_1}s\n| 3x     | 55           | 0.875x                  | {relo_2}s <& bg>\n| 4x     | 70           | 0.85x                   | {relo_3}s\n| 5x     | 100          | 0.8x                    | {relo_4}s <& bg>\n<$>\n\n"
         },
@@ -1608,41 +1732,45 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2799418574": {
         "id": "2799418574",
         "name": "Rites of Ember",
         "itemId": "2316914168",
         "itemName": "Dawn Chorus",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Burns last X seconds longer and grant X% Melee Energy on Solar Burn DoT\nDaybreak applies burning.\n\nSolar Burns add Rites of Ember debuff, which amplify the damage dealt by Daybreak.\nOnly Daybreak projectiles, Igniting Touch, and Phoenix Dive work.\n\n< table >\n|b Stacks|b Top |b Bottom\n| 1-4    | 45%  | 35%\n| 5-6    | 110% | 95%\n| 7+     | 205% | 183%\n<$>\n\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2805134531": {
         "id": "2805134531",
         "name": "Nightmare Fuel",
         "itemId": "1688602431",
         "itemName": "Sealed Ahamkara Grasps",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Melee Hits refresh magazine for your equipped weapon.\n7 second cooldown.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2818140350": {
         "id": "2818140350",
         "name": "Dynamic Duo",
         "itemId": "3084282676",
         "itemName": "Getaway Artist",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Holding [Grenade] summons a Sentient Arc Soul for 20 seconds.\n\nSentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal <# pvp>11 Damage<$>.\n\nIf the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy.\n\nStanding in an Arc Soul Rift refreshes the duration of Sentient Arc Soul.\n\nConverts all the Arc Souls you receive to Sentient Arc Souls.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2846385770": {
         "id": "2846385770",
         "name": "Rangefinder",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "10% Increased Zoom and 30% Increased Aim Assist Falloff Distance while ADS.\n\n5% Faster Projectile Speed when ADS.\n\nZoom acts as a multiplier to hipfire range and maximum falloff distance. Range stat affects accuracy and the minimum drop off distance.\n"
         },
@@ -1653,27 +1781,30 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2848615171": {
         "id": "2848615171",
         "name": "Dragonfly",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Precision Kill:\nTarget explodes, dealing the Weapon's Elemental Damage over a 3 meter radius.\nDamage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\n\n< table >\n|b Weapon Type                      | Damage\n| Linear Fusions                    | 0.5x <& bg>\n| Snipers                           | 0.6x\n| Bows                              | 0.9x <& bg>\n| Hand Cannons                      | 2x\n| Sidearms                          | 2x <& bg>\n| Scout Rifles                      | 2.5x\n| Machine Guns                      | 2.5x <& bg>\n| Auto RIfles                       | 5x\n| Pulse Rifles (Individual bullets) | 6x <& bg>\n<$>\n\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2866798147": {
         "id": "2866798147",
         "name": "No Distractions",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\n\nStacks multiplicatively with Unflinching Armor Mods.\n\nWould be the equivalent of 2 Unflinching Armor Mods if the second Unflinching Mod wasn't bugged.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2869569095": {
         "id": "2869569095",
         "name": "Field Prep",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While Crouched:\n45 Reload Speed with 0.8x Multiplier and 0.8x Ready/Stow Animation Duration Multiplier.\n\n+30 Inventory Size. (Ammo Reserves, they're very weird)\n\nReload Time: {relo_0}s\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -1696,11 +1827,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2946784966": {
         "id": "2946784966",
         "name": "Tunnel Vision",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and Y to Handling (ADS only, [?] Multiplier) for 5 seconds.\n"
         },
@@ -1713,30 +1845,33 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2951499542": {
         "id": "2951499542",
         "name": "Beacons of Empowerment",
         "itemId": "1537074069",
         "itemName": "Phoenix Cradle",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Sun Warrior buff from Sunspots lasts twice as long (5 ->10 seconds)\nSunspots affect the entire team.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "2979726427": {
         "id": "2979726427",
         "name": "Kintsugi",
         "itemName": "Precious Scars",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Reviving or Getting Revived grants Kintsugi\n\nKintsugi\nGrants you and allies within 15 meters a 100HP Overshield for 10 seconds.\nLeaving the 15 meter radius removes Overshield\nIf the wearer loses Overshield, so too does everyone else.\n\nHeals you and allies within 15 meters for 60(?)HP for X seconds after getting a Weapon Kill with a Matching Subclass Element.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3016987351": {
         "id": "3016987351",
         "name": "Counterattack",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Immediately after blocking an attack within 0.5 seconds of starting to Block:\n50% Increased damage for 2 seconds.\n"
         },
@@ -1749,43 +1884,48 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3032599245": {
         "id": "3032599245",
         "name": "Blinding Grenades",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Grenade detonation has a brief blinding effect.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3038247973": {
         "id": "3038247973",
         "name": "Explosive Payload",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Splits 50% of Damage into an Explosive Damage portion that deals <# pve>30% Increased Damage<$> and has no damage falloff.\n<# pve>[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a lot of things :(<$>\n<# pvp>[PVP] Total damage remains (almost) the same. I don't like decimals<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3047969693": {
         "id": "3047969693",
         "name": "Desperado",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After Reloading within 6 seconds of a Precision Kill:\nRate of Fire Increases to 600RPM for 7 seconds.\n<# pve>Reduces damage by 20% against Combatants.<$>\nCan be refreshed.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3096702027": {
         "id": "3096702027",
         "name": "Genesis",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Elemental or Barrier Champion's Shield Break:\nRefreshes magazine.\nEnergy Weapons generate 1 Ammo against Matching Elemental Shields per hit\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n\nGenerates = Generates 1 ammo from nothingness into the magazine after hitting a Barrier or a Matching Elemental shield.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3161816588": {
         "id": "3161816588",
         "name": "Slideshot",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Upon Sliding:\n15% Magazine Refreshed, 20 Range, and 30 Stability. Only buffs first shot.\nLasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide.\n\nIn_Game Range: {rang_0}m\n"
         },
@@ -1805,19 +1945,21 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3194351027": {
         "id": "3194351027",
         "name": "Explosive Light",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6\nWendigo: 70% Increased damage and sets Blast Radius to 55(?).\nRocket Launchers: 25% Increased damage and sets Blast Radius to 100(?).\n\nConsumes 1 Stack per Shot.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3201496230": {
         "id": "3201496230",
         "name": "Redirection",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "<# b> (Check out d2clarity.page.link/combatant for Combatant Classifications)<$>\n\nRedirection grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5. Consumes 1 stack per hit if at or below 5 stacks.\n100% Increased damage to Medium and High Tier Combatants if at or above 6 stacks. Consumes 5 stacks per hit.\n"
         },
@@ -1834,83 +1976,92 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3241194940": {
         "id": "3241194940",
         "name": "Jump Jets",
         "itemId": "3539357318",
         "itemName": "Lion Rampant",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Enables hipfiring while in Lift, and removes Accuracy Penalty from being Airborne.\n\nIncreases Lift Duration to 4 seconds.\n\nLift Duration in seconds:\nHigh Lift: 2.6 -> 4 (54% increase)\nStafe Lift: 2.2 -> 4 (82% increase)\nCatapult Lift: 1 -> 4 (300% increase!)\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3241194942": {
         "id": "3241194942",
         "name": "Linear Actuators",
         "itemName": "Dunemarchers",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "After sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds.\n\nOn Melee Hit:\nLinear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain.\n\n<# pve>300%(?) Melee Damage<$>\n<# pvp>85 Damage. Immune to Dunemarchers for 2 seconds after being hit.<$>\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3268255645": {
         "id": "3268255645",
         "name": "Sect of Force",
         "itemName": "Aeon Safe",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds.\n\nAeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed.\n\nOn Champion Stun, Mini-boss, or Boss Kill:\nAllies within 30 meters gain 50% Grenade and Melee Energy.\n\nAeon Allies additionally gain 10% Super Energy.\n\n4 second cooldown between refresh.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3275789089": {
         "id": "3275789089",
         "name": "Shield Disorient",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Matching Elemental Shield Break:\nExplosion disorients enemies within 7 meters for 5 seconds\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3295796664": {
         "id": "3295796664",
         "name": "Move to Survive",
         "itemId": "3948284065",
         "itemName": "Astrocyte Verse",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "25% increased Blink distance.\nReduces Blink charge cooldown by ~16% on average.\n\nOn Blink:\n100 Ready Speed Handling, Radar remains active.\n\nBlink Cooldowns:\n2.5 seconds (3 seconds base)\nCooldown = 4.5 seconds (5 seconds base)\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3300816228": {
         "id": "3300816228",
         "name": "Auto-Loading Holster",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Refreshes stowed weapon from reserves after 3 seconds.\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3301904089": {
         "id": "3301904089",
         "name": "Spike Grenades",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Increases impact damage by 50%, doesn't apply to explosion damage.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3347978673": {
         "id": "3347978673",
         "name": "Strange Protractor",
         "itemId": "138282166",
         "itemName": "Transversive Steps",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Refreshes held weapon after 1.5 seconds of sprinting.\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\nSneak Speed set to 4m/s. Unaffected by slows of any kind.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3350417888": {
         "id": "3350417888",
         "name": "Sympathetic Arsenal",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Reload within 6 seconds of a Weapon Kill:\nReloads stowed weapons from Reserves.\nPassively grants 18 Reload Speed.\n\nReload Time: {relo_0}s\n"
         },
@@ -1921,43 +2072,48 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3365897133": {
         "id": "3365897133",
         "name": "Explosive Head",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Splits 50% of Damage into an Explosive Damage portion that deals <# pve> 30% Increased Damage<$> and no damage falloff. Detonation timer varies on draw and distance.\n<# pve>15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio.<$>\n<# pvp>Total damage remains (almost) the same. I don't like decimals<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3373736292": {
         "id": "3373736292",
         "name": "Sticky Grenades",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Grenades fired from this weapon attach on impact and detonate when enemies are in proximity.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3400784728": {
         "id": "3400784728",
         "name": "Triple Tap",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Scoring 3 Precision Hits within 2.5 seconds generates 1 Ammo to Magazine.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3418782618": {
         "id": "3418782618",
         "name": "Rewind Rounds",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Upon emptying the Magazine:\nRefreshes Magazine based on the Number of Hits.\n50-60% for Primaries | 30-40% for Special\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3425386926": {
         "id": "3425386926",
         "name": "Rampage",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n"
         },
@@ -1972,11 +2128,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3436462433": {
         "id": "3436462433",
         "name": "Surplus",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Grants Reload Speed, Stability, and Handling depending on the amount of Charged Abilities.\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\n< table >\n|b Abilities|b Stability|b Reload   |b Handling\n|b 1x       | 5         | 5         | 10 <& bg>\n| In-Game   |           | {relo_0}s | Ready: {hand_r_0}s\n| Values:   |           |           | Stow: {hand_s_0}s\n|b 2x       | 15        | 22        | 25 <& bg>\n| In-Game   |           | {relo_1}s | Ready: {hand_r_1}s\n| Values:   |           |           | Stow: {hand_s_1}s\n|b 3x       | 25        | 50        | 50 <& bg>\n| In-Game   |           | {relo_2}s | Ready: {hand_r_2}s\n| Values:   |           |           | Stow: {hand_s_2}s\n<$>\n\n"
         },
@@ -2009,112 +2166,125 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3511092054": {
         "id": "3511092054",
         "name": "Elemental Capacitor",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Grants different Stat Bonuses based on your selected Subclass.\n\n<# solar>: 45 Reload Speed<$>\n<# arc>: 45 Handling<$>\n<# void>: 18 Stability<$>\n<# stasis>: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3523296417": {
         "id": "3523296417",
         "name": "Demolitionist",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Kills with <# primary>Primary Weapons<$> and <# heavy>Power Weapons <$> grant 10% Grenade Ability Energy. <# special>[MOST] Special Weapons <$> grant 20%.\n\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3551326236": {
         "id": "3551326236",
         "name": "Rampage",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n\nHuckleberry specific:\n<# pve>[PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds.<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3592538738": {
         "id": "3592538738",
         "name": "Wellspring",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Weapon Kill:\nGrants 7.5% Ability Energy split equally to all uncharged abilities.\n*BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES*\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3643424744": {
         "id": "3643424744",
         "name": "Overflow",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On <# special>Special <$> or <# heavy>Power <$> Ammo Pickup:\nRefills Magazine to 2x Magazine Capacity\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3650930298": {
         "id": "3650930298",
         "name": "Cold Steel",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Powered Sword Hits apply Slow Stacks.\n\nLight Attacks apply 40 Slow Stacks.\nHeavy Attacks apply 60 Slow Stacks.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3651607301": {
         "id": "3651607301",
         "name": "Sect of Insight",
         "itemId": "3942036043",
         "itemName": "Aeon Swift",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "2 Precision Multikills drop an Orb of Power for allies.\n\nFinishing an Elite spawns a Special Ammo Brick for Allies\nFinishing a Mini-boss spawns a Power Ammo Brick for Allies.\n\nAeon Allies additionally receive a 35% Damage Increase for 20 seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3662465906": {
         "id": "3662465906",
         "name": "Dreaded Visage",
         "itemId": "3883866764",
         "itemName": "Mask of the Quiet One",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Heals up to Max Critical Health on Kill if Critical.\n\nGenerates 5% Barricade, Grenade, and Melee Energy every time you take damage.\nX second cooldown.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3673922083": {
         "id": "3673922083",
         "name": "Adagio",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Weapon Kill:\nDamage Increase and Slower Rate of Fire/Charge Time for 5 seconds.\n\n< table >\n|b Weapon Type        |b +Damage|\n| Hand Cannon         | 25%     | -15% RoF <& bg>\n| Auto Rifle          | 25%     | -20% RoF\n| Bow                 | 20%     | -20% CR <& bg>\n| Shotgun             | 20%     | -20% RoF\n| Grenade Launcher    | 25%     | -20% RoF <& bg>\n| Fusion Rifle        | 27%     | -15% CR\n| Linear Fusion Rifle | 25%     | -15% CR <& bg>\n<$>\n\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3683811620": {
         "id": "3683811620",
         "name": "Sect of Vigor",
         "itemName": "Aeon Soul",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Ally Deaths grant 25% Class Ability Energy.\nGain Full Class Ability Energy on Ally Revival.\n\nCasting Super fully heals allies within 30 meters.\n\nAeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3700496672": {
         "id": "3700496672",
         "name": "Shoot to Loot",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After Shooting an Ammo Pickup:\nPicks up the Ammo and Refreshes all your Weapons.\nTriggers Ammo Pickup effects. 4 second Cooldown.\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3705817207": {
         "id": "3705817207",
         "name": "Duelist's Trance",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Sword Kill:\nIncreased Charge Rate, Endurance, Efficiency, and Defense.\nLasts until stowed.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3708227201": {
         "id": "3708227201",
         "name": "Surrounded",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "If within 8 meters of 3+ Enemies:\n25% to 30% Increased Damage\n\nSurrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds\n"
         },
@@ -2128,11 +2298,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3721627275": {
         "id": "3721627275",
         "name": "Swap Mag",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Upon emptying Magazine:\nAll Weapons are granted 100 Handling for 4(?) seconds. (Identical to Quick Access Sling)\nOnly availabe in Season 3's Trials of the Nine Weapons.\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
         },
@@ -2145,21 +2316,23 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3723531833": {
         "id": "3723531833",
         "name": "Burning Souls",
         "itemId": "3562696927",
         "itemName": "Wormhusk Crown",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "On Dodge:\nHeals 44HP.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3796465595": {
         "id": "3796465595",
         "name": "Impact Casing",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase.\n"
         },
@@ -2172,11 +2345,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3824105627": {
         "id": "3824105627",
         "name": "Firefly",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter Radius. Same size as Dragonfly, but deals 25% increased damage.\n45 Reload Speed for 6 seconds.\n\n<# highlight>Dragonfly Spec does not function.<$>\n\nReload Time: {relo_0}\n"
         },
@@ -2189,38 +2363,42 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3824622015": {
         "id": "3824622015",
         "name": "Grasp of the Devourer",
         "itemId": "2780717641",
         "itemName": "Necrotic Grip",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Melee Hit applies poison.\nPoison deals up to 680% the total damage of Melee Damage. <# pvp>[30 Damage]<$>\nBosses take an additional 80% damage.\n\nInitial Poison tick deals 18% of Melee damage, while the last tick deals 54%.\nEach successive Poison tick deals 9% more damage. Lasts 19 ticks.\n\nPoisoned enemies spread the poison on death on a 3 meter radius.\n\n<# highlight_3>Thorn Kills, as well as enemies poisoned by Thorn spread poison on death.<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3865257976": {
         "id": "3865257976",
         "name": "Dragonfly",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Precision Kill:\nTarget explodes, dealing the Weapon's Elemental Damage over a 3 meter radius.\nDamage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\n\n< table >\n|b Weapon Type                      | Damage\n| Linear Fusions                    | 0.5x <& bg>\n| Snipers                           | 0.6x\n| Bows                              | 0.9x <& bg>\n| Hand Cannons                      | 2x\n| Sidearms                          | 2x <& bg>\n| Scout Rifles                      | 2.5x\n| Machine Guns                      | 2.5x <& bg>\n| Auto RIfles                       | 5x\n| Pulse Rifles (Individual bullets) | 6x <& bg>\n<$>\n\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3907299874": {
         "id": "3907299874",
         "name": "New Tricks",
         "itemName": "Shinobu's Vow",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Grants an extra Skip Grenade Charge.\neven if Reddit says otherwise\n\nSkip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively.\n\nHits with Skip Grenades grant <# pve>X%<$><# pvp> [X/3]<$> Grenade Energy.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3913600130": {
         "id": "3913600130",
         "name": "Whirlwind Blade",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Hit:\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds.\nBlocking removes all Stacks.\n"
         },
@@ -2242,73 +2420,81 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3927722942": {
         "id": "3927722942",
         "name": "Lasting Impression",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage. Effectively 20% increased damage.\n+25 Blast Radius\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3927963100": {
         "id": "3927963100",
         "name": "Cerebral Uplink",
         "itemName": "Eye of Another World",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Highlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\n\nReduces Grenade and Melee Cooldown by 38.50% at Tier 0.\nEvery Ability Tier reduces this bonus by 2.2%, lowering the bonus to 16% at Tier 10.\n\nReduces Class Ability Cooldown by 41% at Tier 0.\nEvery Recovery Tier reduces this bonus by 2.2%, lowering the bonus to 19% at Tier 10.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3927963102": {
         "id": "3927963102",
         "name": "Actual Grandeur",
         "itemName": "Skull of Dire Ahamkara",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Massively Increases Damage Resist during Nova Bomb\n(Over 99.5% on Wind-Up)\n\nNova Bomb returns Super Energy on Kills\n\nX% -> X% -> X% -> X% -> X% -> X%...\n\nCaps at 50% Super Energy.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3927963103": {
         "id": "3927963103",
         "name": "Conduction Tines",
         "itemName": "Crown of Tempests",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Arc Ability Kills grant Conduction Tines for <# pve> 7 <$><# pvp>[4]<$> seconds. Stacks up to 3x.\n\nAt x1 Conduction Tines\n1.5% Grenade and Melee Ability per Second | 0.45% Super Ability per Second\n\nAt x2 Conduction Tines\n4% Grenade and Melee Ability per Second | dunno about super\n\nAt x3 Conduction Tines\n6.3% Grenade and Melee Ability per Second | 1.7% Super Ability per Second | 66% Slower Super Drain\nSuper Drain affects every Roaming Super BUT Chaos Reach.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "3999527219": {
         "id": "3999527219",
         "name": "Remote Detonation",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Fires a slower grenade projectile that bounces and detonates on trigger release.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4024170927": {
         "id": "4024170927",
         "name": "Misdirection",
         "itemName": "Gemini Jester",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "On Dodge:\nApplies Misdirection to enemies within 22 meters.\n\n<# pve> Misdirection disorients minors and elites for 5 seconds.<$>\n<# pvp> Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding.<$>\n\nMisdirection also deals 1 damage.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4048389864": {
         "id": "4048389864",
         "name": "Feast of Light",
         "itemId": "1001356380",
         "itemName": "Star-Eater Scales",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Increased Super Energy from Orbs of Power.\n7.1% -> 10% for Super Orbs\n2.5% -> 4.17% for Masterwork Orbs\n\nWhile Super Energy is full:\nPicking up an Orb of Power grants 1 Overcharge Stack.\n\nEach Overcharge Stacks grants increased Super Damage, up to 70%.\n14% | 27% | 40% | 55% | 62% | 66% | 70%\nCasting Super while Overcharged heals you for X HP\nCasting Super while at 8 Overcharge Stacks grants you a Y HP Overshield for 16 seconds.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4049631843": {
         "id": "4049631843",
         "name": "One for All",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\n35% Damage Increase for 10 seconds.\nBuff can't be refreshed.\n"
         },
@@ -2321,11 +2507,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4071163871": {
         "id": "4071163871",
         "name": "Threat Detector",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Grants the following while within 15 metres of enemies:\n\n< table >\n|b Enemy Count|b Stability|b Reload   |b Handling Animation Duration\n|b 1          | ~15       | 15        | 0.75x <& bg>\n| In-Game     |           | {relo_0}s | Ready: {hand_r_0}s\n| Values:     |           |           | Stow: {hand_s_0}s\n|b 2+         | ~40       | 55        | 0.56x <& bg>\n| In-Game     |           | {relo_1}s | Ready: {hand_r_1}s\n| Values:     |           |           | Stow: {hand_s_1}s\n<$>\n\n"
         },
@@ -2355,11 +2542,12 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4082225868": {
         "id": "4082225868",
         "name": "Swashbuckler",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "On Weapon or Melee Kill:\n\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks|b Damage Increase\n| 1x     | 6.6% <& bg>\n| 2x     | 13.2%\n| 3x     | 20% <& bg>\n| 4x     | 26.4%\n| 5x     | 33% <& bg>\n<$>\n\n"
         },
@@ -2376,21 +2564,23 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4102900702": {
         "id": "4102900702",
         "name": "Touch of Venom",
         "itemId": "2757274117",
         "itemName": "Khepri's Sting",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Powered Melee Hit instantly casts Smoke Bomb.\nSmoke Bombs deal 150% increased damage.\n\nStanding in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4104185692": {
         "id": "4104185692",
         "name": "Frenzy",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "After being in Combat for 12 seconds:\n15% Damage Increase, 50 Handling, and 50 Reload Speed.\nLasts until you're out of combat.\n\nReload Time: {relo_0}s\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n\nIt's technically a \"\"state\"\" so it works when stowes. This applies to all of your weapons with Frenzy.\n\nBeing \"In Combat\" is defined as having either dealt or received damage within 5 seconds.\n"
         },
@@ -2417,57 +2607,54 @@
                 }
             }
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4134353779": {
         "id": "4134353779",
         "name": "Drop Mag",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Increases reload speed but decreases magazing size.\nMagazine size decrease only visible in-game.\n"
         },
-        "lastUpdate": 1645661745192
-    },
-    "4152709778": {
-        "id": "4152709778",
-        "name": "Iron Gaze",
-        "editor": {
-            "mainEditor": "\n"
-        },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4174493725": {
         "id": "4174493725",
         "name": "Insatiable",
         "itemId": "1096253259",
         "itemName": "Apotheosis Veil",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Fully restores Health, Grenade, Melee, and Class Ability Energy on Super Cast.\n\nAllies within 18(?) meters recharge 0.25% of their Class Ability per Second.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4190535237": {
         "id": "4190535237",
         "name": "Ursine Guard",
         "itemName": "Ursa Furiosa",
+        "type": "armorExotic",
         "editor": {
             "mainEditor": "Move forward at 90% your speed while blocking with Sentinel Shield.\n\nConverts incoming damage into Super Energy after Super ends, up to 50%.\n\n<& center><# highlight_2>Overshields prevent damage into Super Energy conversion so don't stand in a Well of Radiance.<$>\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4252909580": {
         "id": "4252909580",
         "name": "Bottomless Grief",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "While Last Guardian Standing:\nWeapon Kills fully refresh Magazine.\nPassively grants +30 Magazine Stat.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     },
     "4267945040": {
         "id": "4267945040",
         "name": "Full Auto Trigger System",
+        "type": "weaponPerk",
         "editor": {
             "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n10% Faster Rate of Fire on Shotguns.\n\nOther weapons do not receive a Rate of Fire Increase.\n"
         },
-        "lastUpdate": 1645661745192
+        "lastUpdate": 1645662107474
     }
 }
