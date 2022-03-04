@@ -962,11 +962,35 @@
   "1275731761": {
     "id": "1275731761",
     "name": "Cluster Bomb",
+    "lastUpdate": 1646403271299,
+    "updatedBy": "KaitlynPrime",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Explosion releases 8 Cluster Bombs, which further increase the effective damage radius and the overall damage."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each Cluster Bomb deals up to 75 damage"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "[10 Light Level, and that is around a single Hand Cannon shot]"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nExplosion releases 8 Cluster Bombs, which further increase the effective damage radius and the overall damage.\nEach Cluster Bomb deals up to 75 damage\n[10 Light Level, and that is around a single Hand Cannon shot]\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Explosion releases 8 Cluster Bombs, which further increase the effective damage radius and the overall damage.\nEach Cluster Bomb deals up to 75 damage\n[10 Light Level, and that is around a single Hand Cannon shot]\n"
+    }
   },
   "1331592343": {
     "id": "1331592343",
