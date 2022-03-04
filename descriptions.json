@@ -1394,11 +1394,35 @@
   "1683379515": {
     "id": "1683379515",
     "name": "Disruption Break",
+    "lastUpdate": 1646403344361,
+    "updatedBy": "KaitlynPrime",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Elemental/Barrier or Guardian Shield Break:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Weakens the enemy, granting a 50% Kinetic Damage Increase for 5.5 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stacks with other Debuffs, as it is a Weapon Perk."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Elemental/Barrier or Guardian Shield Break:\nWeakens the enemy, granting a 50% Kinetic Damage Increase for 5.5 seconds.\nStacks with other Debuffs, as it is a Weapon Perk.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Elemental/Barrier or Guardian Shield Break:\nWeakens the enemy, granting a 50% Kinetic Damage Increase for 5.5 seconds.\nStacks with other Debuffs, as it is a Weapon Perk.\n"
+    }
   },
   "1685431615": {
     "id": "1685431615",
