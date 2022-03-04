@@ -1151,10 +1151,8 @@
   "1600092898": {
     "id": "1600092898",
     "name": "Backup Plan",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nFor 4 seconds after readying a Fusion Rifle:\nMultiplies Charge Time by 0.7\n20% Reduced damage\n100 Handling\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
-    },
+    "lastUpdate": 1646403129349,
+    "updatedBy": "KaitlynPrime",
     "stats": {
       "damage": {
         "active": {
@@ -1178,7 +1176,57 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "For 4 seconds after readying a Fusion Rifle:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Multiplies Charge Time by 0.7"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20% Reduced damage"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100 Handling"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Ready Speed: {hand_r_0}s"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stow Speed: {hand_s_0}s"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "For 4 seconds after readying a Fusion Rifle:\nMultiplies Charge Time by 0.7\n20% Reduced damage\n100 Handling\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
+    }
   },
   "1631667848": {
     "id": "1631667848",
