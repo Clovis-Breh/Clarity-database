@@ -220,10 +220,8 @@
   "354401740": {
     "id": "354401740",
     "name": "Assassin's Blade",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Sword Kill:\n15% Increased damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)\nIncreases Sword Lunge Distance to X meters.\n\nRemains active for its full duration even if stowed.\n"
-    },
+    "lastUpdate": 1646403016364,
+    "updatedBy": "KaitlynPrime",
     "stats": {
       "damage": {
         "active": {
@@ -233,7 +231,43 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Sword Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "15% Increased damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Sword Lunge Distance to X meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Remains active for its full duration even if stowed."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Sword Kill:\n15% Increased damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)\nIncreases Sword Lunge Distance to X meters.\n\nRemains active for its full duration even if stowed.\n"
+    }
   },
   "395373724": {
     "id": "395373724",
