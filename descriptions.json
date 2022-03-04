@@ -1492,11 +1492,31 @@
   "1968497646": {
     "id": "1968497646",
     "name": "Armor-Piercing Rounds",
+    "lastUpdate": 1646402360400,
+    "updatedBy": "KaitlynPrime",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "5% Increased damage against Combatant Shields."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bullets are able to overpenetrate enemies once."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\n5% Increased damage against Combatant Shields\nBullets are able to penetrate up to 1 enemy.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "5% Increased damage against Combatant Shields.\n\nBullets are able to overpenetrate enemies once."
+    }
   },
   "1971489086": {
     "id": "1971489086",
