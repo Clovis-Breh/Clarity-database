@@ -42,11 +42,38 @@
   "25606670": {
     "id": "25606670",
     "name": "Dual Loader",
+    "lastUpdate": 1646403519777,
+    "updatedBy": "KaitlynPrime",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Loads 2 Ammo at a time."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reduces Reload Speed by 32."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "(Full magazine reload is faster with the perk)"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nLoads 2 Ammo at a time.\nReduces Reload Speed by 45\n\n(Full magazine reload is faster with the perk)\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Loads 2 Ammo at a time.\nReduces Reload Speed by 32.\n\n(Full magazine reload is faster with the perk)\n"
+    }
   },
   "47981717": {
     "id": "47981717",
