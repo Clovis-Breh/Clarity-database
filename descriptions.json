@@ -102,10 +102,8 @@
   "201365942": {
     "id": "201365942",
     "name": "Archer's Tempo",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Precision Hit:\nDecreases Draw Time by 30% for 3 seconds.\n\nPerfect Draws are not accurate with the Draw Time Stat, you can be up to 40ms too early and still achieve them.\n"
-    },
+    "lastUpdate": 1646402306559,
+    "updatedBy": "Icemourne",
     "stats": {
       "chargeDrawTime": {
         "active": {
@@ -115,7 +113,74 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Precision Hit:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Decreases Draw Time by 30% for 3 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Perfect Draws are not accurate with the Draw Time Stat, you can be up to 40ms too early and still achieve them."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Precision Hit:\nDecreases Draw Time by 30% for 3 seconds.\n\nPerfect Draws are not accurate with the Draw Time Stat, you can be up to 40ms too early and still achieve them.\n"
+    }
   },
   "205890336": {
     "id": "205890336",
