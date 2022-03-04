@@ -1800,11 +1800,31 @@
   "2396489472": {
     "id": "2396489472",
     "name": "Chain Reaction",
+    "lastUpdate": 1646403251357,
+    "updatedBy": "KaitlynPrime",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Weapon Kills create an Elemental Explosion."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Not affected by Dragonfly Spec."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWeapon Kills create an Elemental Explosion.\n\nNot affected by Dragonfly Spec.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Weapon Kills create an Elemental Explosion.\n\nNot affected by Dragonfly Spec.\n"
+    }
   },
   "2450788523": {
     "id": "2450788523",
