@@ -1042,11 +1042,45 @@
   "1359896290": {
     "id": "1359896290",
     "name": "Dynamic Sway Reduction",
+    "lastUpdate": 1646403530363,
+    "updatedBy": "KaitlynPrime",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Greatly increases Accuracy, and adds up to 10 Stability."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Accuracy improvement is greater than initial accuracy, but isn't perfectly accurate while Airborne."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Accuracy increase is gradual, almost completely negating the effects of bloom."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGradually during Sustained Fire, maxing its effect after 0.6 seconds:\nGreatly increases Accuracy, and adds up to 10 Stability.\n\nAccuracy improvement is greater than initial accuracy, but isn't perfectly accurate while Airborne.\nAccuracy increase is gradual, almost completely negating the effects of bloom.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:\nGreatly increases Accuracy, and adds up to 10 Stability.\n\nAccuracy improvement is greater than initial accuracy, but isn't perfectly accurate while Airborne.\nAccuracy increase is gradual, almost completely negating the effects of bloom.\n"
+    }
   },
   "1427256713": {
     "id": "1427256713",
