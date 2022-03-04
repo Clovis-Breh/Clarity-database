@@ -2596,11 +2596,41 @@
   "3523296417": {
     "id": "3523296417",
     "name": "Demolitionist",
+    "lastUpdate": 1646403324228,
+    "updatedBy": "KaitlynPrime",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Kills with <# primary>Primary Weapons<$> and <# heavy>Power Weapons <$> grant 10% Grenade Ability Energy. <# special>[MOST] Special Weapons <$> grant 20%."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Using your Grenade Ability refreshes Magazine. 3 Second Cooldown."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refresh = Reload, but does not need animation and doesn't proc on-reload perks."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nKills with <# primary>Primary Weapons<$> and <# heavy>Power Weapons <$> grant 10% Grenade Ability Energy. <# special>[MOST] Special Weapons <$> grant 20%.\n\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Kills with <# primary>Primary Weapons<$> and <# heavy>Power Weapons <$> grant 10% Grenade Ability Energy. <# special>[MOST] Special Weapons <$> grant 20%.\n\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
+    }
   },
   "3551326236": {
     "id": "3551326236",
