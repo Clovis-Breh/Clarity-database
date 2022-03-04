@@ -2449,8 +2449,8 @@
   "3047969693": {
     "id": "3047969693",
     "name": "Desperado",
-    "lastUpdate": 1646403336173,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1646404305010,
+    "updatedBy": "Icemourne",
     "type": "weaponPerk",
     "description": [
       {
@@ -2470,7 +2470,8 @@
       {
         "lineText": [
           {
-            "text": "<# pve>Reduces damage by 20% against Combatants.<$>"
+            "text": " Reduces damage by 20% against Combatants. ",
+            "className": "pve"
           }
         ]
       },
@@ -2483,7 +2484,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "After Reloading within 6 seconds of a Precision Kill:\nRate of Fire Increases to 600RPM for 7 seconds.\n<# pve>Reduces damage by 20% against Combatants.<$>\nCan be refreshed.\n"
+      "mainEditor": "After Reloading within 6 seconds of a Precision Kill:\nRate of Fire Increases to 600RPM for 7 seconds.\n<pve Reduces damage by 20% against Combatants. />\nCan be refreshed.\n"
     }
   },
   "3096702027": {
