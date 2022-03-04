@@ -2225,11 +2225,42 @@
   "3047969693": {
     "id": "3047969693",
     "name": "Desperado",
+    "lastUpdate": 1646403336173,
+    "updatedBy": "KaitlynPrime",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After Reloading within 6 seconds of a Precision Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Rate of Fire Increases to 600RPM for 7 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pve>Reduces damage by 20% against Combatants.<$>"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Can be refreshed."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAfter Reloading within 6 seconds of a Precision Kill:\nRate of Fire Increases to 600RPM for 7 seconds.\n<# pve>Reduces damage by 20% against Combatants.<$>\nCan be refreshed.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "After Reloading within 6 seconds of a Precision Kill:\nRate of Fire Increases to 600RPM for 7 seconds.\n<# pve>Reduces damage by 20% against Combatants.<$>\nCan be refreshed.\n"
+    }
   },
   "3096702027": {
     "id": "3096702027",
