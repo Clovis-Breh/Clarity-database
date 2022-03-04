@@ -1138,8 +1138,8 @@
   "1431678320": {
     "id": "1431678320",
     "name": "Alloy Magazine",
-    "lastUpdate": 1646402959030,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1646404034880,
+    "updatedBy": "Icemourne",
     "stats": {
       "reload": {
         "active": {
@@ -1171,13 +1171,15 @@
       {
         "lineText": [
           {
-            "text": "Reload Time: {relo_0}s"
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\nReload Time: {relo_0}s\n"
+      "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\n<formula Reload Time: reload_0 />"
     }
   },
   "1449897496": {
