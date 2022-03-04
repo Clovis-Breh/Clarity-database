@@ -2497,11 +2497,147 @@
   "3673922083": {
     "id": "3673922083",
     "name": "Adagio",
+    "lastUpdate": 1646402876827,
+    "updatedBy": "KaitlynPrime",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increased damage, Slower Rate of Fire/Charge Time, and 10 Range for 7 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Weapon Type",
+                "className": "bold"
+              },
+              {
+                "text": "+Damage",
+                "className": "bold"
+              },
+              {
+                "text": "Rate of Fire/Charge Time",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Hand Cannon"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-15% RoF"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Auto Rifle"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-20% RoF"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Bow"
+              },
+              {
+                "text": "20%"
+              },
+              {
+                "text": "-20% CR"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Shotgun"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-20% RoF"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Grenade Launcher"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-20% RoF"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Fusion Rifle"
+              },
+              {
+                "text": "27%"
+              },
+              {
+                "text": "-15% CR"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Linear Fusion Rifle"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-15% CR"
+              }
+            ]
+          }
+        ],
+        "className": "table",
+        "formula": false
+      },
+      {
+        "className": "spacer"
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Weapon Kill:\nDamage Increase and Slower Rate of Fire/Charge Time for 5 seconds.\n\n< table >\n|b Weapon Type        |b +Damage|\n| Hand Cannon         | 25%     | -15% RoF <& bg>\n| Auto Rifle          | 25%     | -20% RoF\n| Bow                 | 20%     | -20% CR <& bg>\n| Shotgun             | 20%     | -20% RoF\n| Grenade Launcher    | 25%     | -20% RoF <& bg>\n| Fusion Rifle        | 27%     | -15% CR\n| Linear Fusion Rifle | 25%     | -15% CR <& bg>\n<$>\n\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Weapon Kill:\nIncreased damage, Slower Rate of Fire/Charge Time, and 10 Range for 7 seconds.\n\n< table >\n|b Weapon Type        |b +Damage |b Rate of Fire/Charge Time\n| Hand Cannon         | 30%      | -15% RoF\n| Auto Rifle          | 30%      | -20% RoF\n| Bow                 | 20%      | -20% CR\n| Shotgun             | 30%      | -20% RoF\n| Grenade Launcher    | 30%      | -20% RoF\n| Fusion Rifle        | 27%      | -15% CR\n| Linear Fusion Rifle | 30%      | -15% CR\n<$>\n\n"
+    }
   },
   "3683811620": {
     "id": "3683811620",
