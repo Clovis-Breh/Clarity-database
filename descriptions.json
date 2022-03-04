@@ -1006,10 +1006,8 @@
   "1431678320": {
     "id": "1431678320",
     "name": "Alloy Magazine",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\nReload Time: {relo_0}s\n"
-    },
+    "lastUpdate": 1646402959030,
+    "updatedBy": "KaitlynPrime",
     "stats": {
       "reload": {
         "active": {
@@ -1019,7 +1017,36 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon reloading with an empty magazine:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "0.85x Reload Duration Scale"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reload Time: {relo_0}s"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\nReload Time: {relo_0}s\n"
+    }
   },
   "1449897496": {
     "id": "1449897496",
