@@ -5112,10 +5112,8 @@
   "3425386926": {
     "id": "3425386926",
     "name": "Rampage",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n"
-    },
+    "lastUpdate": 1646864750836,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -5127,7 +5125,33 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stacking 10% | 21% | 33.1% Increased damage for 3.5 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff Refreshed on Kill."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n"
+    }
   },
   "3436462433": {
     "id": "3436462433",
