@@ -1078,10 +1078,8 @@
   "1264398905": {
     "id": "1264398905",
     "name": "Celerity",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile Last Guardian Standing:\n100 Handling, 100 Reload, 100 Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\nReload Time: {relo_0}s\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n\nPassively grants 18 Handling and 18 Reload Speed\n"
-    },
+    "lastUpdate": 1646855533977,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
@@ -1105,7 +1103,66 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While Last Guardian Standing:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100 Handling, 100 Reload, 100 Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 18 Handling and 18 Reload Speed"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While Last Guardian Standing:\n100 Handling, 100 Reload, 100 Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nPassively grants 18 Handling and 18 Reload Speed"
+    }
   },
   "1275731761": {
     "id": "1275731761",
