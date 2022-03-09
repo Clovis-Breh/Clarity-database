@@ -3712,6 +3712,35 @@
     },
     "lastUpdate": 1645664040605
   },
+  "2172504645": {
+    "id": 2172504645,
+    "name": "Sleight of Hand",
+    "lastUpdate": 1646865485889,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Weapon and Ability Kills made while this weapon is stowed grants a stack of Sleight of Hand. Effect becomes active upon readying."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each stack of Sleight of Hand grants [?] Handling, Reload Speed, and [?] Stability."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Weapon and Ability Kills made while this weapon is stowed grants a stack of Sleight of Hand. Effect becomes active upon readying.\r\n\r\nEach stack of Sleight of Hand grants [?] Handling, Reload Speed, and [?] Stability."
+    }
+  },
   "2192678014": {
     "id": "2192678014",
     "name": "Roving Assassin",
