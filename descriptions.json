@@ -1116,11 +1116,21 @@
   "830282363": {
     "id": "830282363",
     "name": "Phase Magazine",
+    "lastUpdate": 1646864623234,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nSets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's.\n"
+    }
   },
   "897181301": {
     "id": "897181301",
