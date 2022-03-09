@@ -1426,10 +1426,8 @@
   "1168162263": {
     "id": "1168162263",
     "name": "Outlaw",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Precision Kill:\n63 Reload Speed with 0.9x Multiplier for 6 seconds.\n\nReload Time: {relo_0}s\n"
-    },
+    "lastUpdate": 1646864117385,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
@@ -1442,7 +1440,38 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Precision Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "63 Reload Speed with 0.9x Duration Multiplier for 6 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Precision Kill:\n63 Reload Speed with 0.9x Duration Multiplier for 6 seconds.\n\n<formula Reload Time: reload_0 />"
+    }
   },
   "1195158366": {
     "id": "1195158366",
