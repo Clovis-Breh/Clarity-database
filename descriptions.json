@@ -3486,14 +3486,32 @@
   "3523296417": {
     "id": "3523296417",
     "name": "Demolitionist",
-    "lastUpdate": 1646403324228,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1646856897738,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Kills with <# primary>Primary Weapons<$> and <# heavy>Power Weapons <$> grant 10% Grenade Ability Energy. <# special>[MOST] Special Weapons <$> grant 20%."
+            "text": "Kills with "
+          },
+          {
+            "className": "primary"
+          },
+          {
+            "text": "Primary Weapons and "
+          },
+          {
+            "className": "heavy"
+          },
+          {
+            "text": "Power Weapons grant 10% Grenade Ability Energy. [MOST] "
+          },
+          {
+            "className": "special"
+          },
+          {
+            "text": "Special Weapons grant 20%."
           }
         ]
       },
@@ -3519,7 +3537,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Kills with <# primary>Primary Weapons<$> and <# heavy>Power Weapons <$> grant 10% Grenade Ability Energy. <# special>[MOST] Special Weapons <$> grant 20%.\n\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
+      "mainEditor": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Grenade Ability Energy. [MOST] <special/>Special Weapons grant 20%.\n\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
     }
   },
   "3551326236": {
