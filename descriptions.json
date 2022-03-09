@@ -2724,6 +2724,32 @@
     },
     "lastUpdate": 1645664040605
   },
+  "2978966579": {
+    "id": 2978966579,
+    "name": "Chill Clip",
+    "lastUpdate": 1646855653446,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While above 50% Magazine:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Direct Hits create an explosion which applies 50 Slow to enemies within [?] meters."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While above 50% Magazine:\r\nDirect Hits create an explosion which applies 50 Slow to enemies within [?] meters."
+    }
+  },
   "2979726427": {
     "id": "2979726427",
     "name": "Kintsugi",
