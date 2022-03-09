@@ -603,10 +603,8 @@
   "460017080": {
     "id": "460017080",
     "name": "Headseeker",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nPrecision Hits within 0.3 seconds of hitting a bodyshot deal 8% increased damage.\n"
-    },
+    "lastUpdate": 1646860522664,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -616,7 +614,19 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Precision Hits within 0.3 seconds of hitting a bodyshot deal 8% increased damage."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Precision Hits within 0.3 seconds of hitting a bodyshot deal 8% increased damage."
+    }
   },
   "466087222": {
     "id": "466087222",
