@@ -1494,11 +1494,21 @@
   "1354429876": {
     "id": "1354429876",
     "name": "Fourth Time's the Charm",
+    "lastUpdate": 1646859632167,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Scoring 4 Precision Hits within 2.5 seconds generates 2 Ammo to Magazine."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nScoring 4 Precision Hits within 2.5 seconds generate 2 Ammo to Magazine.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Scoring 4 Precision Hits within 2.5 seconds generates 2 Ammo to Magazine."
+    }
   },
   "1359896290": {
     "id": "1359896290",
