@@ -1815,11 +1815,43 @@
   "1561002382": {
     "id": "1561002382",
     "name": "High-Caliber Rounds",
+    "lastUpdate": 1646860645511,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Increased Flinch on Enemies."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": " Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors. ",
+            "className": "pve"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": " Flinch amount against Guardians varies between Archetypes, from 6% to 11% Increased Flinch received. ",
+            "className": "pvp"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIncreased Flinch on Enemies.\n<& pve> Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors.\n\n<& pvp>Flinch amount against Guardians varies between Archetypes, from 6% to 11% Increased Flinch received.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Increased Flinch on Enemies.\n\n<pve Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors. />\n\n<pvp Flinch amount against Guardians varies between Archetypes, from 6% to 11% Increased Flinch received. />\n"
+    }
   },
   "1561789734": {
     "id": "1561789734",
