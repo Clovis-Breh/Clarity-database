@@ -3369,11 +3369,38 @@
   "3194351027": {
     "id": "3194351027",
     "name": "Explosive Light",
+    "lastUpdate": 1646858482124,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grenade Launchers: 44% Increased damage and sets Blast Radius to 55(?)."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Rocket Launchers: 25% Increased damage and sets Blast Radius to 100(?)."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6\nWendigo: 70% Increased damage and sets Blast Radius to 55(?).\nRocket Launchers: 25% Increased damage and sets Blast Radius to 100(?).\n\nConsumes 1 Stack per Shot.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot.\n\nGrenade Launchers: 44% Increased damage and sets Blast Radius to 55(?).\nRocket Launchers: 25% Increased damage and sets Blast Radius to 100(?)."
+    }
   },
   "3201496230": {
     "id": "3201496230",
