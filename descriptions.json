@@ -3510,11 +3510,64 @@
   "3511092054": {
     "id": "3511092054",
     "name": "Elemental Capacitor",
+    "lastUpdate": 1646858111155,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Grants different Stat Bonuses based on your selected Subclass."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "className": "solar"
+          },
+          {
+            "text": ": 45 Reload Speed"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "className": "arc"
+          },
+          {
+            "text": ": 45 Handling"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "className": "void"
+          },
+          {
+            "text": ": 18 Stability"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "className": "stasis"
+          },
+          {
+            "text": ": 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants different Stat Bonuses based on your selected Subclass.\n\n<# solar>: 45 Reload Speed<$>\n<# arc>: 45 Handling<$>\n<# void>: 18 Stability<$>\n<# stasis>: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty<$>\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Grants different Stat Bonuses based on your selected Subclass.\n\n<solar/>: 45 Reload Speed\n<arc/>: 45 Handling\n<void/>: 18 Stability\n<stasis/>: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\n"
+    }
   },
   "3523296417": {
     "id": "3523296417",
