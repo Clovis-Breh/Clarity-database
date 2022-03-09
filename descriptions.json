@@ -3356,8 +3356,8 @@
   "3650930298": {
     "id": "3650930298",
     "name": "Cold Steel",
-    "lastUpdate": 1646403282759,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1646856489527,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
@@ -3386,7 +3386,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Powered Sword Hits apply Slow Stacks.\n\nLight Attacks apply 40 Slow Stacks.\nHeavy Attacks apply 60 Slow Stacks.\n"
+      "mainEditor": "Powered Sword Hits apply Slow Stacks.\n\nLight Attacks apply 40 Slow Stacks.\nHeavy Attacks apply 60 Slow Stacks."
     }
   },
   "3651607301": {
