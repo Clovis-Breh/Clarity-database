@@ -3521,11 +3521,35 @@
   "1820235745": {
     "id": "1820235745",
     "name": "Subsistence",
+    "lastUpdate": 1646865837678,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes 10-17% of Magazine."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Amount varies between Weapon Archetypes"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Weapon Kill:\nRefreshes 10-17% of Magazine.\nAmount varies between Weapon Archetypes\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Weapon Kill:\nRefreshes 10-17% of Magazine.\nAmount varies between Weapon Archetypes"
+    }
   },
   "1844314558": {
     "id": "1844314558",
