@@ -884,11 +884,22 @@
   "466087222": {
     "id": "466087222",
     "name": "Smoothbore",
+    "lastUpdate": 1646865654090,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": " NEVER USE THIS BARREL! IT ANNIHILATES YOUR PELLET SPREAD AND WITH THAT, YOUR CONSISTENCY ",
+            "className": "highlight_2"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\n<# highlight>NEVER USE THIS BARREL! IT ANNIHILATES YOUR PELLET SPREAD AND WITH THAT, YOUR CONSISTENCY<$>\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "<highlight_2 NEVER USE THIS BARREL! IT ANNIHILATES YOUR PELLET SPREAD AND WITH THAT, YOUR CONSISTENCY />\n"
+    }
   },
   "469285294": {
     "id": "469285294",
