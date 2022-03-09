@@ -3611,10 +3611,8 @@
   "2039302152": {
     "id": "2039302152",
     "name": "Slideways",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon Sliding:\n15% Magazine Refreshed, ~20 Stability and ~25 Handling.\nLasts 3 seconds.\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
-    },
+    "lastUpdate": 1646865619307,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
@@ -3631,7 +3629,54 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon Sliding:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "15% Magazine Refreshed, ~20 Stability and ~25 Handling."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lasts 3 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Upon Sliding:\n15% Magazine Refreshed, ~20 Stability and ~25 Handling.\nLasts 3 seconds.\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
+    }
   },
   "2077819806": {
     "id": "2077819806",
