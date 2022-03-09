@@ -7462,10 +7462,8 @@
   "4071163871": {
     "id": "4071163871",
     "name": "Threat Detector",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants the following while within 15 metres of enemies:\n\n< table >\n|b Enemy Count|b Stability|b Reload   |b Handling Animation Duration\n|b 1          | ~15       | 15        | 0.75x <& bg>\n| In-Game     |           | {relo_0}s | Ready: {hand_r_0}s\n| Values:     |           |           | Stow: {hand_s_0}s\n|b 2+         | ~40       | 55        | 0.56x <& bg>\n| In-Game     |           | {relo_1}s | Ready: {hand_r_1}s\n| Values:     |           |           | Stow: {hand_s_1}s\n<$>\n\n"
-    },
+    "lastUpdate": 1646866474846,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
@@ -7492,7 +7490,143 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Grants the following while within 15 meters of enemies:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Enemy Count",
+                "className": "bold"
+              },
+              {
+                "text": "Stability",
+                "className": "bold"
+              },
+              {
+                "text": "Reload",
+                "className": "bold"
+              },
+              {
+                "text": "Handling Animation Duration",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "1",
+                "className": "bold"
+              },
+              {
+                "text": "~15"
+              },
+              {
+                "text": "15"
+              },
+              {
+                "text": "0.75x"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "In-Game"
+              },
+              {
+                "formula": "reload_0",
+                "className": "| formula"
+              },
+              {
+                "formulaText": "Ready:",
+                "formula": "ready_0",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Values:"
+              },
+              {
+                "formulaText": "Stow:",
+                "formula": "stow_0",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "2+",
+                "className": "bold"
+              },
+              {
+                "text": "~40"
+              },
+              {
+                "text": "55"
+              },
+              {
+                "text": "0.56x"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "In-Game"
+              },
+              {
+                "formula": "reload_1",
+                "className": "| formula"
+              },
+              {
+                "formulaText": "Ready:",
+                "formula": "ready_1",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Values:"
+              },
+              {
+                "formulaText": "Stow:",
+                "formula": "stow_1",
+                "className": "| formula"
+              }
+            ]
+          }
+        ],
+        "className": "table",
+        "formula": false
+      },
+      {
+        "className": "spacer"
+      }
+    ],
+    "editor": {
+      "mainEditor": "Grants the following while within 15 meters of enemies:\n\n< table >\n|b Enemy Count|b Stability|b Reload   |b Handling Animation Duration\n|b 1          | ~15       | 15        | 0.75x <background/>\n| In-Game     |           | <formula reload_0 /> | <formula Ready: ready_0 />\n| Values:     |           |           | <formula Stow: stow_0 />\n|b 2+         | ~40       | 55        | 0.56x <background/>\n| In-Game     |           | <formula reload_1 /> | <formula Ready: ready_1 />\n| Values:     |           |           | <formula Stow: stow_1 />\n<$>\n\n"
+    }
   },
   "4082225868": {
     "id": "4082225868",
