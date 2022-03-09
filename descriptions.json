@@ -4948,10 +4948,8 @@
   "3796465595": {
     "id": "3796465595",
     "name": "Impact Casing",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nBuffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase.\n"
-    },
+    "lastUpdate": 1646861028570,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -4961,7 +4959,19 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base."
+    }
   },
   "3824105627": {
     "id": "3824105627",
