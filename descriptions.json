@@ -2313,10 +2313,8 @@
   "1754714824": {
     "id": "1754714824",
     "name": "Kickstart",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nDuring Slide, after Sprinting for 1.5s.\n20% Increased damage and 100ms Faster Charge Time.\n\nBuff can expire mid-burst if you don't immediately start charging.\n"
-    },
+    "lastUpdate": 1646863363009,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -2331,9 +2329,45 @@
             -100
           ]
         }
+      },
+      "chargeDraw": {
+        "active": {
+          "stat": [
+            -100
+          ]
+        }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "During Slide, after Sprinting for 1.5s."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20% Increased damage and 100ms Faster Charge Time."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff can expire mid-burst if you don't immediately start charging."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "During Slide, after Sprinting for 1.5s.\n20% Increased damage and 100ms Faster Charge Time.\n\nBuff can expire mid-burst if you don't immediately start charging."
+    }
   },
   "1771339417": {
     "id": "1771339417",
