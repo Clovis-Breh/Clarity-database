@@ -2499,11 +2499,38 @@
   "2117683199": {
     "id": "2117683199",
     "name": "Full Auto Trigger System",
+    "lastUpdate": 1646859845772,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Automatically queues up the next shot after firing if you hold the trigger."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "10% Faster Rate of Fire on Shotguns."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Other weapons do not receive a Rate of Fire Increase."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAutomatically queues up the next shot after firing if you hold the trigger.\n10% Faster Rate of Fire on Shotguns.\n\nOther weapons do not receive a Rate of Fire Increase.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n10% Faster Rate of Fire on Shotguns.\n\nOther weapons do not receive a Rate of Fire Increase.\n"
+    }
   },
   "2119325971": {
     "id": "2119325971",
