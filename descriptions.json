@@ -3254,10 +3254,8 @@
   "2869569095": {
     "id": "2869569095",
     "name": "Field Prep",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile Crouched:\n45 Reload Speed with 0.8x Multiplier and 0.8x Ready/Stow Animation Duration Multiplier.\n\n+30 Inventory Size. (Ammo Reserves, they're very weird)\n\nReload Time: {relo_0}s\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
-    },
+    "lastUpdate": 1646859085157,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
@@ -3277,7 +3275,66 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While Crouched:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "45 Reload Speed with 0.8x Multiplier and 0.8x Ready/Stow Animation Duration Multiplier."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "+30 Inventory Size. (Ammo Reserves, they're very weird)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While Crouched:\n45 Reload Speed with 0.8x Multiplier and 0.8x Ready/Stow Animation Duration Multiplier.\n\n+30 Inventory Size. (Ammo Reserves, they're very weird)\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
+    }
   },
   "2946784966": {
     "id": "2946784966",
