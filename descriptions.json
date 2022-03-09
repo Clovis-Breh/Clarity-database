@@ -3876,11 +3876,48 @@
   "2866798147": {
     "id": "2866798147",
     "name": "No Distractions",
+    "lastUpdate": 1646863817313,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After being scoped-in for 1 second without firing:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "35% Flinch Reduction."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stacks multiplicatively with Unflinching Armor Mods."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Would be the equivalent of 2 Unflinching Armor Mods if the second Unflinching Mod wasn't bugged."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAfter being scoped-in for 1 second without firing:\n35% Flinch Reduction.\n\nStacks multiplicatively with Unflinching Armor Mods.\n\nWould be the equivalent of 2 Unflinching Armor Mods if the second Unflinching Mod wasn't bugged.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\n\nStacks multiplicatively with Unflinching Armor Mods.\n\nWould be the equivalent of 2 Unflinching Armor Mods if the second Unflinching Mod wasn't bugged."
+    }
   },
   "2869569095": {
     "id": "2869569095",
