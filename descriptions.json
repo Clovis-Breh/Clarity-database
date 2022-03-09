@@ -206,11 +206,51 @@
   "124408337": {
     "id": "124408337",
     "name": "Headstone",
+    "lastUpdate": 1646860557512,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Precision Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Spawns a "
+          },
+          {
+            "className": "stasis"
+          },
+          {
+            "text": "Stasis Crystal on Enemy Death Location."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Minors = Medium | Anything Else = Large"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Having 5 crystals active simultaneously incurs in a 5 second cooldown."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Precision Kill:\nSpawns a <# stasis>Stasis <$> Crystal on Enemy Death Location.\nMinors = Medium | Anything Else = Large\n\nHaving 5 crystals active simultaneously incurs in a 5 second cooldown.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Precision Kill:\nSpawns a <stasis/>Stasis Crystal on Enemy Death Location.\nMinors = Medium | Anything Else = Large\n\nHaving 5 crystals active simultaneously incurs in a 5 second cooldown."
+    }
   },
   "185514250": {
     "id": "185514250",
