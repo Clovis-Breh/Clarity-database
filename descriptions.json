@@ -798,10 +798,8 @@
   "699525795": {
     "id": "699525795",
     "name": "Eye of the Storm",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile at Low Health:\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n"
-    },
+    "lastUpdate": 1646858603021,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
@@ -811,7 +809,36 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While at Low Health:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While at Low Health:\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n"
+    }
   },
   "706527188": {
     "id": "706527188",
