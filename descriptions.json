@@ -1831,8 +1831,17 @@
   "1968497646": {
     "id": "1968497646",
     "name": "Armor-Piercing Rounds",
-    "lastUpdate": 1646402360400,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1646854982289,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            1.05
+          ]
+        }
+      }
+    },
     "type": "weaponPerk",
     "description": [
       {
