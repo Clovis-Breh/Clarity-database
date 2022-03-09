@@ -2539,11 +2539,28 @@
   "2244851822": {
     "id": "2244851822",
     "name": "Flash Counter",
+    "lastUpdate": 1646859601648,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After Blocking a Melee Attack within 0.5 seconds of starting to Block:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Suppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAfter Blocking a Melee Attack within 0.5 seconds of starting to Block:\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "After Blocking a Melee Attack within 0.5 seconds of starting to Block:\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds."
+    }
   },
   "2284787283": {
     "id": 2284787283,
