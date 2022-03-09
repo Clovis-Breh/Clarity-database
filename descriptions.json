@@ -1816,10 +1816,8 @@
   "1140096971": {
     "id": "1140096971",
     "name": "Seraph Rounds",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nCombines the Penetration from Armor-Piercing Rounds, the Ricochet aspect of Ricochet Rounds, and the Flinch Increase from High-Caliber Rounds.\nAlso increases the Damage Falloff by 10%, identical to the old Ricochet Rounds.\n"
-    },
+    "lastUpdate": 1646865343846,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
         "passive": {
@@ -1829,7 +1827,26 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Combines the Penetration from Armor-Piercing Rounds, the Ricochet aspect of Ricochet Rounds, and the Flinch Increase from High-Caliber Rounds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Also increases the Damage Falloff by 10%, identical to the old Ricochet Rounds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Combines the Penetration from Armor-Piercing Rounds, the Ricochet aspect of Ricochet Rounds, and the Flinch Increase from High-Caliber Rounds.\nAlso increases the Damage Falloff by 10%, identical to the old Ricochet Rounds."
+    }
   },
   "1142806944": {
     "id": "1142806944",
