@@ -1284,10 +1284,8 @@
   "972757866": {
     "id": "972757866",
     "name": "Pulse Monitor",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile <38 Shields:\nRefreshes weapon, 45 Handling, 5% Faster Swap Speed.\n(Works even while stowed)\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
-    },
+    "lastUpdate": 1646864658410,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
@@ -1300,7 +1298,54 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While <38 Shields:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes weapon, 45 Handling, 5% Faster Swap Speed."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "(Works even while stowed)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While <38 Shields:\nRefreshes weapon, 45 Handling, 5% Faster Swap Speed.\n(Works even while stowed)\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
+    }
   },
   "1015611457": {
     "id": "1015611457",
