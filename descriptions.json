@@ -2744,11 +2744,37 @@
   "2213355989": {
     "id": "2213355989",
     "name": "High-Impact Reserves",
+    "lastUpdate": 1646860734976,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "As Magazine goes below 50%, until empty: "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " [PVE]12.1% to 25.6% Increased damage.  ",
+            "className": "pve"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " [PVP]3% to 6% Increased damage. ",
+            "className": "pvp"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAs Magazine goes below 50%, until empty:\n<# pve>[PVE] 12.1% to 25.6% Damage Increase. <$>\n<# pvp>[PVP] 3% to 6% Damage Increase.<$>\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "As Magazine goes below 50%, until empty: \n<pve [PVE]12.1% to 25.6% Increased damage.  />\n<pvp [PVP]3% to 6% Increased damage. />\n"
+    }
   },
   "2244851822": {
     "id": "2244851822",
