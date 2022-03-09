@@ -148,8 +148,8 @@
   "25606670": {
     "id": "25606670",
     "name": "Dual Loader",
-    "lastUpdate": 1646403519777,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1646857894492,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
@@ -165,20 +165,10 @@
             "text": "Reduces Reload Speed by 32."
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "(Full magazine reload is faster with the perk)"
-          }
-        ]
       }
     ],
     "editor": {
-      "mainEditor": "Loads 2 Ammo at a time.\nReduces Reload Speed by 32.\n\n(Full magazine reload is faster with the perk)\n"
+      "mainEditor": "Loads 2 Ammo at a time.\nReduces Reload Speed by 32."
     }
   },
   "47981717": {
