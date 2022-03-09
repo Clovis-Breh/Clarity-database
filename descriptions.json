@@ -1168,10 +1168,8 @@
   "1195158366": {
     "id": "1195158366",
     "name": "Encore",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Precision Kill: 10 Range per Stack. Max of 3 Stacks.\n< table >\n|b Stacks|b In-Game Range\n|b 1     | {rang_0}m <& bg>\n|b 2     | {rang_1}m\n|b 3     | {rang_2}m <& bg>\n<$>\n\n\n\nOn Non-Precision Kill: Removes a Stack and grants -X% Accuracy Cone Growth, -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left.\n\nLasts 7 seconds. Refreshed on Kill.\n"
-    },
+    "lastUpdate": 1646858224576,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
         "active": {
@@ -1190,7 +1188,96 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Precision Kill: 10 Range per Stack. Max of 3 Stacks."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Stacks",
+                "className": "bold"
+              },
+              {
+                "text": "In-Game Range",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "1",
+                "className": "bold"
+              },
+              {
+                "formula": "range_0",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "2",
+                "className": "bold"
+              },
+              {
+                "formula": "range_1",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "3",
+                "className": "bold"
+              },
+              {
+                "formula": "range_2",
+                "className": "| formula"
+              }
+            ]
+          }
+        ],
+        "className": "table",
+        "formula": false
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Non-Precision Kill: Removes a Stack and grants -X% Accuracy Cone Growth, -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lasts 7 seconds. Refreshed on Kill."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Precision Kill: 10 Range per Stack. Max of 3 Stacks.\n\n< table >\n|b Stacks|b In-Game Range\n|b 1     | <formula range_0 />\n|b 2     | <formula range_1 />\n|b 3     | <formula range_2 />\n<$>\n\nOn Non-Precision Kill: Removes a Stack and grants -X% Accuracy Cone Growth, -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left.\n\nLasts 7 seconds. Refreshed on Kill.\n"
+    }
   },
   "1211775759": {
     "id": "1211775759",
