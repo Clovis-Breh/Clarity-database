@@ -5069,11 +5069,40 @@
   "3643424744": {
     "id": "3643424744",
     "name": "Overflow",
+    "lastUpdate": 1646864195741,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On "
+          },
+          {
+            "className": "special"
+          },
+          {
+            "text": "Special | "
+          },
+          {
+            "className": "heavy"
+          },
+          {
+            "text": "Power Ammo Pickup:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Magazine gets refilled to 200% of its regular capacity."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn <# special>Special <$> or <# heavy>Power <$> Ammo Pickup:\nRefills Magazine to 2x Magazine Capacity\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On <special/>Special | <heavy/>Power Ammo Pickup:\nMagazine gets refilled to 200% of its regular capacity."
+    }
   },
   "3650930298": {
     "id": "3650930298",
