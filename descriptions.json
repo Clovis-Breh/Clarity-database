@@ -5422,11 +5422,37 @@
   "3927722942": {
     "id": "3927722942",
     "name": "Lasting Impression",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nRockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage. Effectively 20% increased damage.\n+25 Blast Radius\n"
+    "lastUpdate": 1646863516632,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "passive": {
+          "multiplier": [
+            20
+          ]
+        }
+      }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage. Effectively 20% increased damage."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "+25 Blast Radius"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage. Effectively 20% increased damage.\n+25 Blast Radius"
+    }
   },
   "3927963100": {
     "id": "3927963100",
