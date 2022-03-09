@@ -3161,10 +3161,8 @@
   "2458213969": {
     "id": "2458213969",
     "name": "Multikill Clip",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Reload, within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage, depending on the amount of enemies killed within X seconds of each.\nBuff is overwritten every time you refresh it.\n"
-    },
+    "lastUpdate": 1646863675995,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -3176,7 +3174,33 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Reload, within 3.8 seconds of a Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "17% | 33% | 50% Increased damage, depending on the amount of enemies killed within X seconds of each."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff is overwritten every time you refresh it."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage, depending on the amount of enemies killed within X seconds of each.\nBuff is overwritten every time you refresh it."
+    }
   },
   "2500502982": {
     "id": "2500502982",
