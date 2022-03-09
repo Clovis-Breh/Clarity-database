@@ -5600,11 +5600,35 @@
   "3418782618": {
     "id": "3418782618",
     "name": "Rewind Rounds",
+    "lastUpdate": 1646865327062,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon emptying the Magazine:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes Magazine based on the Number of Hits."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "50-60% for Primaries | 30-40% for Specials"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon emptying the Magazine:\nRefreshes Magazine based on the Number of Hits.\n50-60% for Primaries | 30-40% for Special\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Upon emptying the Magazine:\nRefreshes Magazine based on the Number of Hits.\n50-60% for Primaries | 30-40% for Specials"
+    }
   },
   "3425386926": {
     "id": "3425386926",
