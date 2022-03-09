@@ -4672,11 +4672,36 @@
   "2726471870": {
     "id": "2726471870",
     "name": "Thresh",
+    "lastUpdate": 1646866506678,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Primary/Power Weapon Kills grant an additional 1% Super Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Special Weapon Kills grant an additional 1.5% Super Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " [PVP] Weapon Kills grant an additional 1% Super Energy. ",
+            "className": "pvp"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nPrimary/Power Weapon Kills grant an additional 1% Super Energy.\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\n<# pvp>[PVP] Weapon Kills grant an additional 1% Super Energy.<$>\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\n<pvp [PVP] Weapon Kills grant an additional 1% Super Energy. />\n"
+    }
   },
   "2779035018": {
     "id": "2779035018",
