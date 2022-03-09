@@ -1803,10 +1803,8 @@
   "1685431615": {
     "id": "1685431615",
     "name": "En Garde",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon readying a Sword:\n30% Increased damage for 1.5 seconds.\n"
-    },
+    "lastUpdate": 1646858134844,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -1816,7 +1814,26 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon readying a Sword:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "30% Increased damage for 1.5 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Upon readying a Sword:\n30% Increased damage for 1.5 seconds.\n"
+    }
   },
   "1687452232": {
     "id": "1687452232",
