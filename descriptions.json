@@ -1675,10 +1675,8 @@
   "1561789734": {
     "id": "1561789734",
     "name": "Firefly",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter Radius. Same size as Dragonfly, but deals 25% increased damage.\n45 Reload Speed for 6 seconds.\n\n<# highlight>Dragonfly Spec does not function.<$>\n\nReload Time: {relo_0}\n"
-    },
+    "lastUpdate": 1646859256767,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
@@ -1688,7 +1686,56 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Precision Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Target explodes, dealing Solar Damage in a 3 meter Radius. Same size as Dragonfly, but deals 25% increased damage."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "45 Reload Speed for 6 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": " Dragonfly Spec does not function. ",
+            "className": "highlight_4"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter Radius. Same size as Dragonfly, but deals 25% increased damage.\n45 Reload Speed for 6 seconds.\n\n<highlight_4 Dragonfly Spec does not function. />\n\n<formula Reload Time: reload_0 />"
+    }
   },
   "1570042021": {
     "id": "1570042021",
