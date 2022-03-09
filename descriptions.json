@@ -383,10 +383,8 @@
   "247725512": {
     "id": "247725512",
     "name": "Rapid Hit",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nPrecision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b Reload Time\n| 1x    | 5         | 5           | 0.985x              | {relo_0}s <& bg>\n| 2x    | 10        | 27          | 0.970x              | {relo_1}s\n| 3x    | 15        | 32          | 0.955x              | {relo_2}s <& bg>\n| 4x    | 20        | 40          | 0.940x              | {relo_3}s\n| 5x    | 23        | 54          | 0.925x              | {relo_4}s <& bg>\n<$>\n\n"
-    },
+    "lastUpdate": 1646864913955,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
@@ -407,7 +405,158 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Stack",
+                "className": "bold"
+              },
+              {
+                "text": "Stability",
+                "className": "bold"
+              },
+              {
+                "text": "Reload Stat",
+                "className": "bold"
+              },
+              {
+                "text": "Duration Multiplier",
+                "className": "bold"
+              },
+              {
+                "text": "Reload Time",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "1x"
+              },
+              {
+                "text": "5"
+              },
+              {
+                "text": "5"
+              },
+              {
+                "text": "0.985x"
+              },
+              {
+                "formula": "reload_0",
+                "className": "| formula"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "2x"
+              },
+              {
+                "text": "10"
+              },
+              {
+                "text": "27"
+              },
+              {
+                "text": "0.970x"
+              },
+              {
+                "formula": "reload_1",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "3x"
+              },
+              {
+                "text": "15"
+              },
+              {
+                "text": "32"
+              },
+              {
+                "text": "0.955x"
+              },
+              {
+                "formula": "reload_2",
+                "className": "| formula"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "4x"
+              },
+              {
+                "text": "20"
+              },
+              {
+                "text": "40"
+              },
+              {
+                "text": "0.940x"
+              },
+              {
+                "formula": "reload_3",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "5x"
+              },
+              {
+                "text": "23"
+              },
+              {
+                "text": "54"
+              },
+              {
+                "text": "0.925x"
+              },
+              {
+                "formula": "reload_4",
+                "className": "| formula"
+              }
+            ],
+            "className": "background"
+          }
+        ],
+        "className": "table",
+        "formula": false
+      },
+      {
+        "className": "spacer"
+      }
+    ],
+    "editor": {
+      "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b Reload Time\n| 1x    | 5         | 5           | 0.985x              | <formula reload_0 /><background/>\n| 2x    | 10        | 27          | 0.970x              | <formula reload_1 />\n| 3x    | 15        | 32          | 0.955x              | <formula reload_2 /><background/>\n| 4x    | 20        | 40          | 0.940x              | <formula reload_3 />\n| 5x    | 23        | 54          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\n"
+    }
   },
   "280464955": {
     "id": "280464955",
