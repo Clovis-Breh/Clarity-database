@@ -2869,10 +2869,8 @@
   "2779035018": {
     "id": "2779035018",
     "name": "Feeding Frenzy",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWeapon Kills increase Reload Speed for 3.5 seconds.\nRefreshes on kill. Max of 5 Stacks.\n\n< table >\n|b Stacks|b Reload Speed|b Reload Animation Length|b Reload Time\n| 1x     | 10           | 1x                      | {relo_0}s <& bg>\n| 2x     | 45           | 0.9x                    | {relo_1}s\n| 3x     | 55           | 0.875x                  | {relo_2}s <& bg>\n| 4x     | 70           | 0.85x                   | {relo_3}s\n| 5x     | 100          | 0.8x                    | {relo_4}s <& bg>\n<$>\n\n"
-    },
+    "lastUpdate": 1646858687051,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
@@ -2893,7 +2891,140 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Weapon Kills increase Reload Speed for 3.5 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes on kill. Max of 5 Stacks."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Stacks",
+                "className": "bold"
+              },
+              {
+                "text": "Reload Speed",
+                "className": "bold"
+              },
+              {
+                "text": "Reload Animation Length",
+                "className": "bold"
+              },
+              {
+                "text": "Reload Time",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "1x"
+              },
+              {
+                "text": "10"
+              },
+              {
+                "text": "1x"
+              },
+              {
+                "formula": "reload_0",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "2x"
+              },
+              {
+                "text": "45"
+              },
+              {
+                "text": "0.9x"
+              },
+              {
+                "formula": "reload_1",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "3x"
+              },
+              {
+                "text": "55"
+              },
+              {
+                "text": "0.875x"
+              },
+              {
+                "formula": "reload_2",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "4x"
+              },
+              {
+                "text": "70"
+              },
+              {
+                "text": "0.85x"
+              },
+              {
+                "formula": "reload_3",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "5x"
+              },
+              {
+                "text": "100"
+              },
+              {
+                "text": "0.8x"
+              },
+              {
+                "formula": "reload_4",
+                "className": "| formula"
+              }
+            ]
+          }
+        ],
+        "className": "table",
+        "formula": false
+      }
+    ],
+    "editor": {
+      "mainEditor": "Weapon Kills increase Reload Speed for 3.5 seconds.\nRefreshes on kill. Max of 5 Stacks.\n\n< table >\n|b Stacks|b Reload Speed|b Reload Animation Length|b Reload Time\n| 1x     | 10           | 1x                      | <formula reload_0 />\n| 2x     | 45           | 0.9x                    | <formula reload_1 />\n| 3x     | 55           | 0.875x                  | <formula reload_2 />\n| 4x     | 70           | 0.85x                   | <formula reload_3 />\n| 5x     | 100          | 0.8x                    | <formula reload_4 />\n<$>"
+    }
   },
   "2799418574": {
     "id": "2799418574",
