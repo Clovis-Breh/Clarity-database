@@ -5260,10 +5260,8 @@
   "3161816588": {
     "id": "3161816588",
     "name": "Slideshot",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon Sliding:\n15% Magazine Refreshed, 20 Range, and 30 Stability. Only buffs first shot.\nLasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide.\n\nIn_Game Range: {rang_0}m\n"
-    },
+    "lastUpdate": 1646865591546,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
         "active": {
@@ -5280,7 +5278,45 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon Sliding:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "15% Magazine Refreshed, 20 Range, and 30 Stability. Only buffs first shot."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "In-Game Range:",
+            "formula": "range_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Upon Sliding:\n15% Magazine Refreshed, 20 Range, and 30 Stability. Only buffs first shot.\n Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide.\n\n<formula In-Game Range: range_0 />\n"
+    }
   },
   "3194351027": {
     "id": "3194351027",
