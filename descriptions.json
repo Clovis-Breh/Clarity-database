@@ -3809,11 +3809,35 @@
   "3096702027": {
     "id": "3096702027",
     "name": "Genesis",
+    "lastUpdate": 1646860024483,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Elemental or Barrier Champion's Shield Break:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes magazine."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Energy Weapons generate 1 Ammo against Matching Elemental Shields per hit."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Elemental or Barrier Champion's Shield Break:\nRefreshes magazine.\nEnergy Weapons generate 1 Ammo against Matching Elemental Shields per hit\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n\nGenerates = Generates 1 ammo from nothingness into the magazine after hitting a Barrier or a Matching Elemental shield.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Elemental or Barrier Champion's Shield Break:\nRefreshes magazine.\nEnergy Weapons generate 1 Ammo against Matching Elemental Shields per hit."
+    }
   },
   "3161816588": {
     "id": "3161816588",
