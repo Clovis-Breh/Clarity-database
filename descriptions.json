@@ -1809,10 +1809,8 @@
   "1799762209": {
     "id": "1799762209",
     "name": "Cornered",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile within 15[?] meters of 2 enemies:\nCharge Rate/Draw Time is reduced by 100 miliseconds.\n\nLingers for 1.5 seconds.\n"
-    },
+    "lastUpdate": 1646856600460,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
         "active": {
@@ -1820,9 +1818,42 @@
             -100
           ]
         }
+      },
+      "chargeDraw": {
+        "passive": {
+          "stat": [
+            100
+          ]
+        }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While within 15[?] meters of 2 enemies:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Charge Rate/Draw Time is reduced by 100 miliseconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lingers for 1.5 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While within 15[?] meters of 2 enemies:\nCharge Rate/Draw Time is reduced by 100 miliseconds.\nLingers for 1.5 seconds."
+    }
   },
   "1820235745": {
     "id": "1820235745",
