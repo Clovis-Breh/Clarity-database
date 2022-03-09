@@ -2499,7 +2499,7 @@
   "2117683199": {
     "id": "2117683199",
     "name": "Full Auto Trigger System",
-    "lastUpdate": 1646859845772,
+    "lastUpdate": 1646859878111,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -2529,7 +2529,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n10% Faster Rate of Fire on Shotguns.\n\nOther weapons do not receive a Rate of Fire Increase.\n"
+      "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n10% Faster Rate of Fire on Shotguns.\n\nOther weapons do not receive a Rate of Fire Increase."
     }
   },
   "2119325971": {
