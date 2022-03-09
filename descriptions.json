@@ -2503,11 +2503,38 @@
   "1523832109": {
     "id": "1523832109",
     "name": "Reconstruction",
+    "lastUpdate": 1646864981188,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After not shooting for 4 seconds:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAfter not shooting for 4 seconds:\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity.\n\n(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "After not shooting for 4 seconds:\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity.\n\n(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))\n"
+    }
   },
   "1528281896": {
     "id": "1528281896",
