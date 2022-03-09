@@ -3650,7 +3650,7 @@
   "3365897133": {
     "id": "3365897133",
     "name": "Explosive Head",
-    "lastUpdate": 1646858405168,
+    "lastUpdate": 1646858559301,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -3667,7 +3667,7 @@
       {
         "lineText": [
           {
-            "text": " [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio.",
+            "text": " [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a few of things :(",
             "className": "pve"
           }
         ]
@@ -3682,7 +3682,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio./>\n<pvp [PVP] Total damage remains (almost) the same. />"
+      "mainEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a few of things :(/>\n<pvp [PVP] Total damage remains (almost) the same. />"
     }
   },
   "3373736292": {
