@@ -2886,6 +2886,58 @@
       "mainEditor": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\n\n1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction.\n2x = -30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction.\n"
     }
   },
+  "1583705720": {
+    "id": 1583705720,
+    "name": "Stats for All",
+    "lastUpdate": 1646865764099,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "handling": {
+        "active": {
+          "stat": [
+            30
+          ]
+        }
+      },
+      "reload": {
+        "active": {
+          "stat": [
+            30
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After Damaging 3 Separate Enemies within 3 seconds of each:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "[?] Range, [?] Stability, 30[?] Handling, and 30[?] Reload Speed for 10 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff can't be refreshed."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n[?] Range, [?] Stability, 30[?] Handling, and 30[?] Reload Speed for 10 seconds.\r\n\r\nBuff can't be refreshed."
+    }
+  },
   "1600092898": {
     "id": "1600092898",
     "name": "Backup Plan",
