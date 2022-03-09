@@ -2276,11 +2276,28 @@
   "2030760728": {
     "id": "2030760728",
     "name": "Energy Transfer",
+    "lastUpdate": 1646858234159,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While Blocking:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants Class Ability Energy based on the amount of damage taken."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile Blocking:\nGrants Class Ability Energy based on the amount of damage taken.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "While Blocking:\nGrants Class Ability Energy based on the amount of damage taken.\n"
+    }
   },
   "2039302152": {
     "id": "2039302152",
