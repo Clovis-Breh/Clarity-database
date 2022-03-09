@@ -2178,11 +2178,99 @@
   "2551157718": {
     "id": "2551157718",
     "name": "Box Breathing",
+    "lastUpdate": 1646855462467,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After being scoped-in for 1.5 seconds without firing:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Weapon Frame",
+                "className": "bold"
+              },
+              {
+                "text": "Precision Damage Increase",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Rapid Fire Sniper"
+              },
+              {
+                "text": "31% <& bg>"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Adaptive Sniper"
+              },
+              {
+                "text": "31%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Aggressive Sniper"
+              },
+              {
+                "text": "37% <& bg>"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Linear Fusion"
+              },
+              {
+                "text": "33%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Scout Rifle"
+              },
+              {
+                "text": "66% <& bg>"
+              }
+            ]
+          }
+        ],
+        "className": "table",
+        "formula": false
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAfter being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <& bg>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <& bg>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <& bg>\n<$>\n\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <& bg>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <& bg>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <& bg>\n<$>"
+    }
   },
   "2590710093": {
     "id": "2590710093",
