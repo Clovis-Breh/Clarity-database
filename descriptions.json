@@ -6196,11 +6196,35 @@
   "3700496672": {
     "id": "3700496672",
     "name": "Shoot to Loot",
+    "lastUpdate": 1646865409591,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After Shooting an Ammo Pickup:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Picks up the Ammo and Refreshes all your Weapons."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Triggers Ammo Pickup effects. 4 second Cooldown."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAfter Shooting an Ammo Pickup:\nPicks up the Ammo and Refreshes all your Weapons.\nTriggers Ammo Pickup effects. 4 second Cooldown.\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "After Shooting an Ammo Pickup:\nPicks up the Ammo and Refreshes all your Weapons.\nTriggers Ammo Pickup effects. 4 second Cooldown."
+    }
   },
   "3705817207": {
     "id": "3705817207",
