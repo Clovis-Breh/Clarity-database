@@ -3243,11 +3243,40 @@
   "3038247973": {
     "id": "3038247973",
     "name": "Explosive Payload",
+    "lastUpdate": 1646858541799,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": " [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a lot of things :(",
+            "className": "pve"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " [PVP] Total damage remains (almost) the same. ",
+            "className": "pvp"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nSplits 50% of Damage into an Explosive Damage portion that deals <# pve>30% Increased Damage<$> and has no damage falloff.\n<# pve>[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a lot of things :(<$>\n<# pvp>[PVP] Total damage remains (almost) the same. I don't like decimals<$>\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a lot of things :(/>\n<pvp [PVP] Total damage remains (almost) the same. />"
+    }
   },
   "3047969693": {
     "id": "3047969693",
