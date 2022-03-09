@@ -2206,11 +2206,35 @@
   "2077819806": {
     "id": "2077819806",
     "name": "Eager Edge",
+    "lastUpdate": 1646858059693,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon readying a Sword:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100% Increased Lunge Range for 1 second."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "4 second cooldown."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon readying a Sword:\n100% Increased Lunge Range for 1 second.\n4 second cooldown.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Upon readying a Sword:\n100% Increased Lunge Range for 1 second.\n4 second cooldown.\n"
+    }
   },
   "2117683199": {
     "id": "2117683199",
