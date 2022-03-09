@@ -748,11 +748,9 @@
   "591790007": {
     "id": "591790007",
     "name": "Iron Reach",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\n\n"
-    },
-    "lastUpdate": 1645664040605
+    "lastUpdate": 1646863336269,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk"
   },
   "593361146": {
     "id": "593361146",
