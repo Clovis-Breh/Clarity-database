@@ -6800,10 +6800,8 @@
   "3708227201": {
     "id": "3708227201",
     "name": "Surrounded",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIf within 8 meters of 3+ Enemies:\n25% to 30% Increased Damage\n\nSurrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds\n"
-    },
+    "lastUpdate": 1646866186445,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -6814,7 +6812,36 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While within 8 meters of 3+ Enemies:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "25% to 30% Increased Damage"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Surrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds "
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While within 8 meters of 3+ Enemies:\n25% to 30% Increased Damage\n\nSurrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds "
+    }
   },
   "3721627275": {
     "id": "3721627275",
