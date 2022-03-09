@@ -4304,11 +4304,40 @@
   "4134353779": {
     "id": "4134353779",
     "name": "Drop Mag",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIncreases reload speed but decreases magazing size.\nMagazine size decrease only visible in-game.\n"
+    "lastUpdate": 1646857864526,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "reload": {
+        "passive": {
+          "stat": [
+            0
+          ],
+          "multiplier": [
+            0.9
+          ]
+        }
+      }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Increases reload speed but decreases magazing size."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Magazine size decrease only visible in-game."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Increases reload speed but decreases magazing size.\nMagazine size decrease only visible in-game."
+    }
   },
   "4152709778": {
     "id": "4152709778",
