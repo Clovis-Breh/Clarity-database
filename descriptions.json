@@ -2744,7 +2744,7 @@
   "2213355989": {
     "id": "2213355989",
     "name": "High-Impact Reserves",
-    "lastUpdate": 1646860734976,
+    "lastUpdate": 1646860785301,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -2758,7 +2758,7 @@
       {
         "lineText": [
           {
-            "text": " [PVE]12.1% to 25.6% Increased damage.  ",
+            "text": " [PVE] 12.1% to 25.6% Increased damage.  ",
             "className": "pve"
           }
         ]
@@ -2766,14 +2766,14 @@
       {
         "lineText": [
           {
-            "text": " [PVP]3% to 6% Increased damage. ",
+            "text": " [PVP] 3% to 6% Increased damage. ",
             "className": "pvp"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "As Magazine goes below 50%, until empty: \n<pve [PVE]12.1% to 25.6% Increased damage.  />\n<pvp [PVP]3% to 6% Increased damage. />\n"
+      "mainEditor": "As Magazine goes below 50%, until empty: \n<pve [PVE] 12.1% to 25.6% Increased damage.  />\n<pvp [PVP] 3% to 6% Increased damage. />\n"
     }
   },
   "2244851822": {
