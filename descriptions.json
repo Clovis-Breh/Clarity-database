@@ -2147,8 +2147,8 @@
   "2396489472": {
     "id": "2396489472",
     "name": "Chain Reaction",
-    "lastUpdate": 1646403251357,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1646855582392,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
@@ -2170,7 +2170,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Weapon Kills create an Elemental Explosion.\n\nNot affected by Dragonfly Spec.\n"
+      "mainEditor": "Weapon Kills create an Elemental Explosion.\n\nNot affected by Dragonfly Spec."
     }
   },
   "2450788523": {
