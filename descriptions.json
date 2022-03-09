@@ -1654,11 +1654,38 @@
   "957782887": {
     "id": "957782887",
     "name": "Snapshot Sights",
+    "lastUpdate": 1646865686500,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Massive Aiming-Down-Sights Animation Multiplier. "
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stacks with ADS Multiplier effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Will reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMassive Aiming-Down-Sights Animation Multiplier.\nStacks with ADS Multiplier effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow.\nWill reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Massive Aiming-Down-Sights Animation Multiplier. \n\nStacks with ADS Multiplier effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow.\nWill reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling.\n"
+    }
   },
   "960810156": {
     "id": "960810156",
