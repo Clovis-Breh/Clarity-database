@@ -3482,11 +3482,42 @@
   "2679249093": {
     "id": "2679249093",
     "name": "One-Two Punch",
+    "lastUpdate": 1646863842927,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "If All Pellets from a Shotgun Hit:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "200% Increased melee damage for 1.5 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "350% Increased melee damage against Bosses and Vehicles."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "80% Increased melee damage if combined with Liar's Handshake."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIf All Pellets from a Shotgun Hit:\n200% Increased melee damage for 1.5 seconds.\n350% Increased melee damage against Bosses and Vehicles.\n80% Increased melee damage if combined with Liar's Handshake.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "If All Pellets from a Shotgun Hit:\n200% Increased melee damage for 1.5 seconds.\n350% Increased melee damage against Bosses and Vehicles.\n80% Increased melee damage if combined with Liar's Handshake."
+    }
   },
   "2726471870": {
     "id": "2726471870",
