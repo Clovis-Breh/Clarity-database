@@ -666,6 +666,55 @@
     },
     "lastUpdate": 1645664040605
   },
+  "671806388": {
+    "id": 671806388,
+    "name": "Compulsive Reloader",
+    "lastUpdate": 1646856664918,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "chargeDrawTime": {
+        "active": {
+          "stat": [
+            -100
+          ]
+        }
+      },
+      "chargeDraw": {
+        "passive": {
+          "stat": [
+            -100
+          ]
+        }
+      },
+      "reload": {
+        "active": {
+          "stat": [
+            50
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While above 70% Magazine:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "50 Reload Speed"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While above 70% Magazine:\r\n50 Reload Speed"
+    }
+  },
   "689005463": {
     "id": "689005463",
     "name": "Accelerated Coils",
