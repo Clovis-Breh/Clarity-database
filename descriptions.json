@@ -1809,7 +1809,7 @@
   "1799762209": {
     "id": "1799762209",
     "name": "Cornered",
-    "lastUpdate": 1646856600460,
+    "lastUpdate": 1646856620255,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
@@ -1822,7 +1822,7 @@
       "chargeDraw": {
         "passive": {
           "stat": [
-            100
+            -100
           ]
         }
       }
