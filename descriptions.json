@@ -1102,10 +1102,8 @@
   "951095735": {
     "id": "951095735",
     "name": "Impulse Amplifier",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nX% Faster Projectile Velocity (Varies between Weapon Type apparently?)\n9 Reload Speed Stat with 0.8x Multiplier.\n\nReload speed is factored into base reload.\n"
-    },
+    "lastUpdate": 1646861077673,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "passive": {
@@ -1118,7 +1116,36 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "[?]% Faster Projectile Velocity "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "9 Reload Speed with 0.8x Multiplier."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Projectile Velocity increase depends on the Weapon Archetype."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "[?]% Faster Projectile Velocity \n9 Reload Speed with 0.8x Multiplier.\n\nProjectile Velocity increase depends on the Weapon Archetype."
+    }
   },
   "957782887": {
     "id": "957782887",
