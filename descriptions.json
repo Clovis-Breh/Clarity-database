@@ -1855,11 +1855,28 @@
   "1556840489": {
     "id": "1556840489",
     "name": "Lead from Gold",
+    "lastUpdate": 1646863534154,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Power Ammo Pickup:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " Grants almost the equivalent of 1 Special Ammo Pickup."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Power Ammo Pickup:\nGrants almost the equivalent of 1 Special Ammo Pickup.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Power Ammo Pickup:\n Grants almost the equivalent of 1 Special Ammo Pickup."
+    }
   },
   "1561002382": {
     "id": "1561002382",
