@@ -6076,10 +6076,8 @@
   "3436462433": {
     "id": "3436462433",
     "name": "Surplus",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants Reload Speed, Stability, and Handling depending on the amount of Charged Abilities.\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\n< table >\n|b Abilities|b Stability|b Reload   |b Handling\n|b 1x       | 5         | 5         | 10 <& bg>\n| In-Game   |           | {relo_0}s | Ready: {hand_r_0}s\n| Values:   |           |           | Stow: {hand_s_0}s\n|b 2x       | 15        | 22        | 25 <& bg>\n| In-Game   |           | {relo_1}s | Ready: {hand_r_1}s\n| Values:   |           |           | Stow: {hand_s_1}s\n|b 3x       | 25        | 50        | 50 <& bg>\n| In-Game   |           | {relo_2}s | Ready: {hand_r_2}s\n| Values:   |           |           | Stow: {hand_s_2}s\n<$>\n\n"
-    },
+    "lastUpdate": 1646866138885,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
@@ -6109,7 +6107,199 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Grants Reload Speed, Stability, and Handling depending on the amount of Charged Abilities."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Abilities",
+                "className": "bold"
+              },
+              {
+                "text": "Stability",
+                "className": "bold"
+              },
+              {
+                "text": "Reload",
+                "className": "bold"
+              },
+              {
+                "text": "Handling",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "1x",
+                "className": "bold"
+              },
+              {
+                "text": "5"
+              },
+              {
+                "text": "5"
+              },
+              {
+                "text": "10"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "In-Game"
+              },
+              {
+                "formula": "reload_0",
+                "className": "| formula"
+              },
+              {
+                "formulaText": "Ready:",
+                "formula": "ready_0",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Values:"
+              },
+              {
+                "formulaText": "Stow:",
+                "formula": "stow_1",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "2x",
+                "className": "bold"
+              },
+              {
+                "text": "15"
+              },
+              {
+                "text": "22"
+              },
+              {
+                "text": "25"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "In-Game"
+              },
+              {
+                "formula": "reload_1",
+                "className": "| formula"
+              },
+              {
+                "formulaText": "Ready:",
+                "formula": "ready_1",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Values:"
+              },
+              {
+                "formulaText": "Stow:",
+                "formula": "stow_1",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "3x",
+                "className": "bold"
+              },
+              {
+                "text": "25"
+              },
+              {
+                "text": "50"
+              },
+              {
+                "text": "50"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "In-Game"
+              },
+              {
+                "formula": "reload_2",
+                "className": "| formula"
+              },
+              {
+                "formulaText": "Ready:",
+                "formula": "ready_2",
+                "className": "| formula"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Values:"
+              },
+              {
+                "formulaText": "Stow:",
+                "formula": "stow_2",
+                "className": "| formula"
+              }
+            ]
+          }
+        ],
+        "className": "table",
+        "formula": false
+      },
+      {
+        "className": "spacer"
+      }
+    ],
+    "editor": {
+      "mainEditor": "Grants Reload Speed, Stability, and Handling depending on the amount of Charged Abilities.\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\n< table >\n|b Abilities|b Stability|b Reload   |b Handling\n|b 1x       | 5         | 5         | 10 <background/>\n| In-Game   |           | <formula reload_0 /> | <formula Ready: ready_0 />\n| Values:   |           |           | <formula Stow: stow_1 />\n|b 2x       | 15        | 22        | 25 <background/>\n| In-Game   |           | <formula reload_1 /> | <formula Ready: ready_1 />\n| Values:   |           |           | <formula Stow: stow_1 />\n|b 3x       | 25        | 50        | 50 <background/>\n| In-Game   |           | <formula reload_2 /> | <formula Ready: ready_2 />\n| Values:   |           |           | <formula Stow: stow_2 />\n<$>\n"
+    }
   },
   "3511092054": {
     "id": "3511092054",
