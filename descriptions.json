@@ -986,11 +986,45 @@
   "960810156": {
     "id": "960810156",
     "name": "Danger Zone",
+    "lastUpdate": 1646856786807,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While within 15 meters of 3 enemies:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Sets Blast Radius to 100[?] and reduces Self Damage by 40%."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lingers for 4(?) seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Self Damage normally deals 25% increased damage."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\nLingers for 4(?) seconds.\n\nSelf Damage normally deals 25% increased damage.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\nLingers for 4(?) seconds.\n\nSelf Damage normally deals 25% increased damage."
+    }
   },
   "972757866": {
     "id": "972757866",
