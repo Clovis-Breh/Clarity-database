@@ -1137,6 +1137,58 @@
     },
     "lastUpdate": 1645664040605
   },
+  "509074078": {
+    "id": 509074078,
+    "name": "Steady Hands",
+    "lastUpdate": 1646865810269,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "handling": {
+        "active": {
+          "stat": [
+            30
+          ]
+        }
+      },
+      "reload": {
+        "active": {
+          "stat": [
+            30
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "X Handling for all weapons for 8 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Can be refreshed to up to 6 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Weapon Kill:\r\nX Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds."
+    }
+  },
   "553093017": {
     "id": "553093017",
     "name": "Beyond The Veil",
