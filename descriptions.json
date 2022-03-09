@@ -7425,10 +7425,8 @@
   "4082225868": {
     "id": "4082225868",
     "name": "Swashbuckler",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Weapon or Melee Kill:\n\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks|b Damage Increase\n| 1x     | 6.6% <& bg>\n| 2x     | 13.2%\n| 3x     | 20% <& bg>\n| 4x     | 26.4%\n| 5x     | 33% <& bg>\n<$>\n\n"
-    },
+    "lastUpdate": 1646866289874,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -7442,7 +7440,100 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon or Melee Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Stacks",
+                "className": "bold"
+              },
+              {
+                "text": "Damage Increase",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "1x"
+              },
+              {
+                "text": "6.6%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "2x"
+              },
+              {
+                "text": "13.2%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "3x"
+              },
+              {
+                "text": "20%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "4x"
+              },
+              {
+                "text": "26.4%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "5x"
+              },
+              {
+                "text": "33%"
+              }
+            ],
+            "className": "background"
+          }
+        ],
+        "className": "table",
+        "formula": false
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks|b Damage Increase\n| 1x     | 6.6% <background/>\n| 2x     | 13.2%\n| 3x     | 20% <background/>\n| 4x     | 26.4%\n| 5x     | 33% <background/>\n<$>"
+    }
   },
   "4102900702": {
     "id": "4102900702",
