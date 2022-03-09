@@ -2290,10 +2290,8 @@
   "1687452232": {
     "id": "1687452232",
     "name": "Liquid Coils",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIncreases charge time by 40, and damage by 2%\n"
-    },
+    "lastUpdate": 1646863557092,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "passive": {
@@ -2308,9 +2306,28 @@
             40
           ]
         }
+      },
+      "chargeDraw": {
+        "passive": {
+          "stat": [
+            40
+          ]
+        }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Increases charge time by 40, and damage by 2%"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Increases charge time by 40, and damage by 2%"
+    }
   },
   "1694242448": {
     "id": "1694242448",
