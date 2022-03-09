@@ -4544,6 +4544,34 @@
       "mainEditor": "While within 15 meters of 1 or more allies:\n30 Handling and 40 Reload Speed.\n\nLingers for 1.5 seconds.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
     }
   },
+  "2652708987": {
+    "id": 2652708987,
+    "name": "Successful Warm-Up",
+    "lastUpdate": 1646865965208,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "chargeDraw": {
+        "active": {
+          "multiplier": [
+            -50
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Kills increase Charge Rate/Draw Speed by 50%[?] for [?] seconds. Each kill adds [?] seconds up to [?]"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Kills increase Charge Rate/Draw Speed by 50%[?] for [?] seconds. Each kill adds [?] seconds up to [?]"
+    }
+  },
   "2663272109": {
     "id": "2663272109",
     "name": "Relentless Tracker",
