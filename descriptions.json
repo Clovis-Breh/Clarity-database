@@ -1889,10 +1889,8 @@
   "1570042021": {
     "id": "1570042021",
     "name": "Heating Up",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nKills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\n\n1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction.\n2x = -30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction.\n"
-    },
+    "lastUpdate": 1646860590948,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
         "active": {
@@ -1903,7 +1901,36 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "2x = -30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\n\n1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction.\n2x = -30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction.\n"
+    }
   },
   "1600092898": {
     "id": "1600092898",
