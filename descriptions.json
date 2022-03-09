@@ -893,11 +893,218 @@
   "469285294": {
     "id": "469285294",
     "name": "Recombination",
+    "lastUpdate": 1646864943279,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Elemental Kills grant stacks of Recombination, increasing the damage of the next shot of the weapon:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Stacks",
+                "className": "bold"
+              },
+              {
+                "text": "Heritage",
+                "className": "bold"
+              },
+              {
+                "text": "Succession",
+                "className": "bold"
+              },
+              {
+                "text": "Both in PVP",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "1x"
+              },
+              {
+                "text": "8%"
+              },
+              {
+                "text": "8%"
+              },
+              {
+                "text": "5%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "2x"
+              },
+              {
+                "text": "15%"
+              },
+              {
+                "text": "17%"
+              },
+              {
+                "text": "10%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "3x"
+              },
+              {
+                "text": "24%"
+              },
+              {
+                "text": "27%"
+              },
+              {
+                "text": "15%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "4x"
+              },
+              {
+                "text": "33%"
+              },
+              {
+                "text": "38%"
+              },
+              {
+                "text": "20%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "5x"
+              },
+              {
+                "text": "42%"
+              },
+              {
+                "text": "46%"
+              },
+              {
+                "text": "25%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "6x"
+              },
+              {
+                "text": "50%"
+              },
+              {
+                "text": "57%"
+              },
+              {
+                "text": "30%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "7x"
+              },
+              {
+                "text": "59%"
+              },
+              {
+                "text": "68%"
+              },
+              {
+                "text": "35%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "8x"
+              },
+              {
+                "text": "70%"
+              },
+              {
+                "text": "80%"
+              },
+              {
+                "text": "40%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "9x"
+              },
+              {
+                "text": "80%"
+              },
+              {
+                "text": "89%"
+              },
+              {
+                "text": "45%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "10x"
+              },
+              {
+                "text": "88%"
+              },
+              {
+                "text": "100%"
+              },
+              {
+                "text": "50%"
+              }
+            ]
+          }
+        ],
+        "className": "table",
+        "formula": false
+      },
+      {
+        "className": "spacer"
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nElemental Kills grant stacks of Recombination, increasing the damage of the next shot of the weapon:\n\n< table >\n|b Stacks|b Heritage|b Succession|b Both in PVP\n| 1x     | 8%       | 8%         | 5% <& bg>\n| 2x     | 15%      | 17%        | 10%\n| 3x     | 24%      | 27%        | 15% <& bg>\n| 4x     | 33%      | 38%        | 20%\n| 5x     | 42%      | 46%        | 25% <& bg>\n| 6x     | 50%      | 57%        | 30%\n| 7x     | 59%      | 68%        | 35% <& bg>\n| 8x     | 70%      | 80%        | 40%\n| 9x     | 80%      | 89%        | 45% <& bg>\n| 10x    | 88%      | 100%       | 50%\n<$>\n\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Elemental Kills grant stacks of Recombination, increasing the damage of the next shot of the weapon:\n\n< table >\n|b Stacks|b Heritage|b Succession|b Both in PVP\n| 1x     | 8%       | 8%         | 5% <background/>\n| 2x     | 15%      | 17%        | 10%\n| 3x     | 24%      | 27%        | 15% <background/>\n| 4x     | 33%      | 38%        | 20%\n| 5x     | 42%      | 46%        | 25% <background/>\n| 6x     | 50%      | 57%        | 30%\n| 7x     | 59%      | 68%        | 35% <background/>\n| 8x     | 70%      | 80%        | 40%\n| 9x     | 80%      | 89%        | 45% <background/>\n| 10x    | 88%      | 100%       | 50%\n<$>\n\n"
+    }
   },
   "481860150": {
     "id": "481860150",
