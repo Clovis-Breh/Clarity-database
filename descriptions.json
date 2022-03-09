@@ -1901,11 +1901,28 @@
   "1631667848": {
     "id": "1631667848",
     "name": "Grave Robber",
+    "lastUpdate": 1646860072104,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Melee Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Weapons get refreshed."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Melee Kill:\nWeapons get refreshed.\n\nRefresh = Reload, but does not need animation and doesn't proc on-reload perks.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Melee Kill:\nWeapons get refreshed."
+    }
   },
   "1645158859": {
     "id": "1645158859",
