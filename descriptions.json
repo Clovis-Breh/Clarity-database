@@ -3465,6 +3465,51 @@
       "mainEditor": "While Crouched:\n45 Reload Speed with 0.8x Multiplier and 0.8x Ready/Stow Animation Duration Multiplier.\n\n+30 Inventory Size. (Ammo Reserves, they're very weird)\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
     }
   },
+  "2896038713": {
+    "id": 2896038713,
+    "name": "Focused Fury",
+    "lastUpdate": 1646859718245,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            20
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After scoring 50% of Magazine as Precision Hits:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20% increased damage for 11 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stowing or Reloading resets the precision counter. Can be refreshed."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "After scoring 50% of Magazine as Precision Hits:\r\n20% increased damage for 11 seconds.\r\n\r\nStowing or Reloading resets the precision counter. Can be refreshed."
+    }
+  },
   "2946784966": {
     "id": "2946784966",
     "name": "Tunnel Vision",
