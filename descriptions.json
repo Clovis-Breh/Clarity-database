@@ -2661,6 +2661,48 @@
       "mainEditor": "After Reloading within 6 seconds of a Precision Kill:\nRate of Fire Increases to 600RPM for 7 seconds.\n<pve Reduces damage by 20% against Combatants. />\nCan be refreshed.\n"
     }
   },
+  "3078487919": {
+    "id": 3078487919,
+    "name": "Bait and Switch",
+    "lastUpdate": 1646855231748,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "handling": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      },
+      "damage": {
+        "active": {
+          "multiplier": [
+            20
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After dealing damage with all your other equipped weapons within [?] seconds of each:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20% increased damage for 10 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "After dealing damage with all your other equipped weapons within [?] seconds of each:\r\n20% increased damage for 10 seconds."
+    }
+  },
   "3096702027": {
     "id": "3096702027",
     "name": "Genesis",
