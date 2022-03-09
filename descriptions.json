@@ -3915,8 +3915,8 @@
   "3865257976": {
     "id": "3865257976",
     "name": "Dragonfly",
-    "lastUpdate": 1646403379003,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1646857643630,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
@@ -3944,6 +3944,13 @@
         "className": "spacer"
       },
       {
+        "lineText": [
+          {
+            "text": "Damage Multipliers are in comparison to bodyshot damage."
+          }
+        ]
+      },
+      {
         "table": [
           {
             "lineText": [
@@ -3962,9 +3969,10 @@
                 "text": "Linear Fusions"
               },
               {
-                "text": "0.5x <& bg>"
+                "text": "0.5x"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
@@ -3982,9 +3990,10 @@
                 "text": "Bows"
               },
               {
-                "text": "0.9x <& bg>"
+                "text": "0.9x"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
@@ -4002,9 +4011,10 @@
                 "text": "Sidearms"
               },
               {
-                "text": "2x <& bg>"
+                "text": "2x"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
@@ -4022,14 +4032,15 @@
                 "text": "Machine Guns"
               },
               {
-                "text": "2.5x <& bg>"
+                "text": "2.5x"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
               {
-                "text": "Auto RIfles"
+                "text": "Submachine Guns"
               },
               {
                 "text": "5x"
@@ -4039,23 +4050,31 @@
           {
             "lineText": [
               {
+                "text": "Auto Rifles"
+              },
+              {
+                "text": "5x"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
                 "text": "Pulse Rifles (Individual bullets)"
               },
               {
-                "text": "6x <& bg>"
+                "text": "6x"
               }
             ]
           }
         ],
         "className": "table",
         "formula": false
-      },
-      {
-        "className": "spacer"
       }
     ],
     "editor": {
-      "mainEditor": "On Precision Kill:\nTarget explodes, dealing the Weapon's Elemental Damage over a 3 meter radius.\nDamage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\n\n< table >\n|b Weapon Type                      | Damage\n| Linear Fusions                    | 0.5x <& bg>\n| Snipers                           | 0.6x\n| Bows                              | 0.9x <& bg>\n| Hand Cannons                      | 2x\n| Sidearms                          | 2x <& bg>\n| Scout Rifles                      | 2.5x\n| Machine Guns                      | 2.5x <& bg>\n| Auto RIfles                       | 5x\n| Pulse Rifles (Individual bullets) | 6x <& bg>\n<$>\n\n"
+      "mainEditor": "On Precision Kill:\nTarget explodes, dealing the Weapon's Elemental Damage over a 3 meter radius.\nDamage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\n\nDamage Multipliers are in comparison to bodyshot damage.\n< table >\n|b Weapon Type                      | Damage\n| Linear Fusions                    | 0.5x <background/>\n| Snipers                           | 0.6x\n| Bows                              | 0.9x <background/>\n| Hand Cannons                      | 2x\n| Sidearms                          | 2x <background/>\n| Scout Rifles                      | 2.5x\n| Machine Guns                      | 2.5x <background/>\n| Submachine Guns                   | 5x \n| Auto Rifles                       | 5x <background/>\n| Pulse Rifles (Individual bullets) | 6x \n<$>"
     }
   },
   "3907299874": {
