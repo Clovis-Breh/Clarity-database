@@ -1492,10 +1492,8 @@
   "818211479": {
     "id": "818211479",
     "name": "Shattering Blade",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIf Heavy Attack consumes the last Ammo:\n67% Damage Increase to Grounded Heavy Attack.\n"
-    },
+    "lastUpdate": 1646865359241,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -1505,7 +1503,26 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "If Heavy Attack consumes the last Ammo:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "67% Damage Increase to Grounded Heavy Attack."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "If Heavy Attack consumes the last Ammo:\n67% Damage Increase to Grounded Heavy Attack.\n"
+    }
   },
   "824488952": {
     "id": "824488952",
