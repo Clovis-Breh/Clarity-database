@@ -2088,10 +2088,8 @@
   "1771339417": {
     "id": "1771339417",
     "name": "Firing Line",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile within X metres of 2+ Allies:\n20% Increased Precision Damage\n"
-    },
+    "lastUpdate": 1646859456426,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -2101,7 +2099,26 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While within X meters of 2+ Allies:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20% Increased Precision Damage"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While within X meters of 2+ Allies:\n20% Increased Precision Damage\n"
+    }
   },
   "1774574192": {
     "id": "1774574192",
