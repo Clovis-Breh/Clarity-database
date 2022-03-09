@@ -5915,10 +5915,8 @@
   "3350417888": {
     "id": "3350417888",
     "name": "Sympathetic Arsenal",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Reload within 6 seconds of a Weapon Kill:\nReloads stowed weapons from Reserves.\nPassively grants 18 Reload Speed.\n\nReload Time: {relo_0}s\n"
-    },
+    "lastUpdate": 1646866306212,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "passive": {
@@ -5928,7 +5926,45 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Reload within 6 seconds of a Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reloads stowed weapons from Reserves."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 18 Reload Speed."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Reload within 6 seconds of a Weapon Kill:\nReloads stowed weapons from Reserves.\nPassively grants 18 Reload Speed.\n\n<formula Reload Time: reload_0 />"
+    }
   },
   "3365897133": {
     "id": "3365897133",
