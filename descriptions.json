@@ -3032,10 +3032,8 @@
   "2450788523": {
     "id": "2450788523",
     "name": "Killing Wind",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Weapon Kill:\n20 Range, 50 Mobility, 40 Handling, 30% reduced ADS Movement Penalty, and a 1.05x Damage Falloff Distance Multiplier\n\nIn-Game Range: {rang_0}m\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\n(Verify handling)\n"
-    },
+    "lastUpdate": 1646863455927,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
         "active": {
@@ -3055,7 +3053,66 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " 20 Range, 50 Mobility, 40 Handling, 30% reduced ADS Movement Penalty, and a 1.05x Damage Falloff Distance Multiplier"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "In_Game Range:",
+            "formula": "range_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Weapon Kill:\n 20 Range, 50 Mobility, 40 Handling, 30% reduced ADS Movement Penalty, and a 1.05x Damage Falloff Distance Multiplier\n\n<formula In_Game Range: range_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds."
+    }
   },
   "2458213969": {
     "id": "2458213969",
