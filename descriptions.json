@@ -3884,11 +3884,35 @@
   "4252909580": {
     "id": "4252909580",
     "name": "Bottomless Grief",
+    "lastUpdate": 1646855379032,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While Last Guardian Standing:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Weapon Kills fully refresh Magazine."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Passively grants +30 Magazine Stat."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile Last Guardian Standing:\nWeapon Kills fully refresh Magazine.\nPassively grants +30 Magazine Stat.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "While Last Guardian Standing:\nWeapon Kills fully refresh Magazine.\nPassively grants +30 Magazine Stat."
+    }
   },
   "4267945040": {
     "id": "4267945040",
