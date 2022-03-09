@@ -5313,11 +5313,53 @@
   "3551326236": {
     "id": "3551326236",
     "name": "Rampage",
+    "lastUpdate": 1646864783819,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stacking 10% | 21% | 33.1% Increased damage for 3.5 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff Refreshed on Kill."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Huckleberry specific:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " [PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds. ",
+            "className": "pve"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n\nHuckleberry specific:\n<# pve>[PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds.<$>\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n\nHuckleberry specific:\n<pve [PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds. />\n"
+    }
   },
   "3592538738": {
     "id": "3592538738",
