@@ -4084,10 +4084,8 @@
   "2846385770": {
     "id": "2846385770",
     "name": "Rangefinder",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\n10% Increased Zoom and 30% Increased Aim Assist Falloff Distance while ADS.\n\n5% Faster Projectile Speed when ADS.\n\nZoom acts as a multiplier to hipfire range and maximum falloff distance. Range stat affects accuracy and the minimum drop off distance.\n"
-    },
+    "lastUpdate": 1646864835477,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "zoom": {
         "passive": {
@@ -4097,7 +4095,36 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "10% Increased Zoom and 30% Increased Aim Assist Falloff Distance while ADS."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "5% Faster Projectile Speed when ADS."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Zoom acts as a multiplier to hipfire range and maximum falloff distance."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "10% Increased Zoom and 30% Increased Aim Assist Falloff Distance while ADS.\n5% Faster Projectile Speed when ADS.\n\nZoom acts as a multiplier to hipfire range and maximum falloff distance."
+    }
   },
   "2848615171": {
     "id": "2848615171",
