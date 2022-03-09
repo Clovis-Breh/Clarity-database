@@ -5456,11 +5456,28 @@
   "3275789089": {
     "id": "3275789089",
     "name": "Shield Disorient",
+    "lastUpdate": 1646865383295,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Matching Elemental Shield Break:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " Explosion disorients enemies within 7 meters for 5 seconds"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Matching Elemental Shield Break:\nExplosion disorients enemies within 7 meters for 5 seconds\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Matching Elemental Shield Break:\n Explosion disorients enemies within 7 meters for 5 seconds"
+    }
   },
   "3295796664": {
     "id": "3295796664",
