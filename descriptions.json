@@ -6846,20 +6846,54 @@
   "3721627275": {
     "id": "3721627275",
     "name": "Swap Mag",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon emptying Magazine:\nAll Weapons are granted 100 Handling for 4(?) seconds. (Identical to Quick Access Sling)\nOnly availabe in Season 3's Trials of the Nine Weapons.\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
-    },
+    "lastUpdate": 1646866247581,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
           "stat": [
-            100
+            0
+          ],
+          "multiplier": [
+            0.9
           ]
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "0.9x Ready/Stow Animation Multiplier"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "0.9x Ready/Stow Animation Multiplier\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
+    }
   },
   "3723531833": {
     "id": "3723531833",
