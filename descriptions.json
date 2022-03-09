@@ -453,10 +453,8 @@
   "438098033": {
     "id": "438098033",
     "name": "Harmony",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon readying a weapon within 3 seconds of getting a Kill with a different weapon:\n\n20% Damage Increase, and 15 Handling for 7 seconds.\n\nReady Speed: {hand_r_0}s\nStow Speed: {hand_s_0}s\n"
-    },
+    "lastUpdate": 1646860455794,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -473,7 +471,50 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "20% Damage Increase, and 15 Handling for 7 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:\n\n20% Damage Increase, and 15 Handling for 7 seconds.\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
+    }
   },
   "454085387": {
     "id": "454085387",
