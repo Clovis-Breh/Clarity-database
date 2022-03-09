@@ -174,10 +174,8 @@
   "47981717": {
     "id": "47981717",
     "name": "Opening Shot",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nFor the first bullet only, and after a 3.1s after not firing:\n20 AA, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone, -10% Accuracy Cone Growth.\n\nShotguns do not receive the Damage Falloff Distance Increase.\n\nIn-Game Range: {rang_0}\n<# highlight>^ Currently Takes the Damage Falloff Distance Increase into account on shotguns, multiplying by 0.95 should get you the more accurate value.<$>\n"
-    },
+    "lastUpdate": 1646863965422,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
         "active": {
@@ -188,9 +186,65 @@
             1.05
           ]
         }
+      },
+      "aimAssist": {
+        "active": {
+          "stat": [
+            20
+          ]
+        }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "For the first bullet only, and 3.1s after not firing:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20 Aim Assist, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone Size, -10% Accuracy Cone Growth."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Shotguns do not receive the Damage Falloff Distance Increase."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "In-Game Range:",
+            "formula": "range_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " ^ Currently Takes the Damage Falloff Distance Increase into account on shotguns, multiplying by 0.95 should get you the more accurate value. ",
+            "className": "highlight_2"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "For the first bullet only, and 3.1s after not firing:\n20 Aim Assist, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\n\nShotguns do not receive the Damage Falloff Distance Increase.\n\n<formula In-Game Range: range_0 />\n<highlight_2 ^ Currently Takes the Damage Falloff Distance Increase into account on shotguns, multiplying by 0.95 should get you the more accurate value. />\n"
+    }
   },
   "117669763": {
     "id": "117669763",
