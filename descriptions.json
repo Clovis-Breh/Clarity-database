@@ -235,8 +235,8 @@
   "201365942": {
     "id": "201365942",
     "name": "Archer's Tempo",
-    "lastUpdate": 1646402992139,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1646854890041,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
         "active": {
@@ -268,13 +268,13 @@
       {
         "lineText": [
           {
-            "text": "Perfect Draws are not accurate with the Draw Time Stat, you can be up to 40ms too early and still achieve them."
+            "text": "Needs negative charge time scalar - Required Update"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Precision Hit:\nDecreases Draw Time by 30% for 3 seconds.\n\nPerfect Draws are not accurate with the Draw Time Stat, you can be up to 40ms too early and still achieve them.\n"
+      "mainEditor": "On Precision Hit:\nDecreases Draw Time by 30% for 3 seconds.\n\nNeeds negative charge time scalar - Required Update"
     }
   },
   "205890336": {
