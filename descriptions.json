@@ -6648,7 +6648,7 @@
   "3673922083": {
     "id": "3673922083",
     "name": "Adagio",
-    "lastUpdate": 1646854358080,
+    "lastUpdate": 1647782204711,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -6678,7 +6678,7 @@
                 "className": "bold"
               },
               {
-                "text": "+Damage",
+                "text": "Damage Increase",
                 "className": "bold"
               },
               {
@@ -6696,9 +6696,10 @@
                 "text": "30%"
               },
               {
-                "text": "-15% RoF <& bg>"
+                "text": "-15% RoF"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
@@ -6722,9 +6723,10 @@
                 "text": "20%"
               },
               {
-                "text": "-20% CR <& bg>"
+                "text": "-20% CR"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
@@ -6748,9 +6750,10 @@
                 "text": "30%"
               },
               {
-                "text": "-20% RoF <& bg>"
+                "text": "-20% RoF"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
@@ -6774,20 +6777,18 @@
                 "text": "30%"
               },
               {
-                "text": "-15% CR <& bg>"
+                "text": "-15% CR"
               }
-            ]
+            ],
+            "className": "background"
           }
         ],
         "className": "table",
         "formula": false
-      },
-      {
-        "className": "spacer"
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\nIncreased damage, Slower Rate of Fire/Charge Time, and 10 Range for 7 seconds.\n\n< table >\n|b Weapon Type        |b +Damage |b Rate of Fire/Charge Time\n| Hand Cannon         | 30%      | -15% RoF <& bg>\n| Auto Rifle          | 30%      | -20% RoF\n| Bow                 | 20%      | -20% CR <& bg>\n| Shotgun             | 30%      | -20% RoF\n| Grenade Launcher    | 30%      | -20% RoF <& bg>\n| Fusion Rifle        | 27%      | -15% CR\n| Linear Fusion Rifle | 30%      | -15% CR <& bg>\n<$>\n\n"
+      "mainEditor": "On Weapon Kill:\nIncreased damage, Slower Rate of Fire/Charge Time, and 10 Range for 7 seconds.\n\n< table >\n|b Weapon Type        |b Damage Increase |b Rate of Fire/Charge Time\n| Hand Cannon         | 30%      | -15% RoF <background/>\n| Auto Rifle          | 30%      | -20% RoF\n| Bow                 | 20%      | -20% CR <background/>\n| Shotgun             | 30%      | -20% RoF\n| Grenade Launcher    | 30%      | -20% RoF <background/>\n| Fusion Rifle        | 27%      | -15% CR\n| Linear Fusion Rifle | 30%      | -15% CR <background/>\n<$>"
     }
   },
   "3683811620": {
