@@ -1328,7 +1328,7 @@
   "689005463": {
     "id": "689005463",
     "name": "Accelerated Coils",
-    "lastUpdate": 1646856692701,
+    "lastUpdate": 1647775141383,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -1358,51 +1358,13 @@
       {
         "lineText": [
           {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
             "text": "Decreases charge time by 40, and damage by 2%"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nDecreases charge time by 40, and damage by 2%"
+      "mainEditor": "Decreases charge time by 40, and damage by 2%"
     }
   },
   "692285813": {
