@@ -5847,20 +5847,25 @@
   "3300816228": {
     "id": "3300816228",
     "name": "Auto-Loading Holster",
-    "lastUpdate": 1647782249017,
+    "lastUpdate": 1647782346507,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Refreshes stowed weapon from reserves after 2.5 seconds."
+            "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
+            "text": "Refreshes",
+            "className": "title"
+          },
+          {
+            "text": " stowed weapon from reserves after 2.5 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Refreshes stowed weapon from reserves after 2.5 seconds."
+      "mainEditor": "<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> stowed weapon from reserves after 2.5 seconds."
     }
   },
   "3301904089": {
