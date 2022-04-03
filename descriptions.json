@@ -11031,14 +11031,100 @@
     }
   },
   "3927963102": {
-    "id": "3927963102",
+    "id": 3927963102,
     "name": "Actual Grandeur",
+    "itemId": 1030017949,
     "itemName": "Skull of Dire Ahamkara",
+    "lastUpdate": 1649012222612,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Massively Increases Damage Resist during Nova Bomb"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "(Over 99.5% on Wind-Up)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Nova Bomb returns Super Energy on Kills"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "X% -> X% -> X% -> X% -> X% -> X%..."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Caps at 50% Super Energy."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMassively Increases Damage Resist during Nova Bomb\n(Over 99.5% on Wind-Up)\n\nNova Bomb returns Super Energy on Kills\n\nX% -> X% -> X% -> X% -> X% -> X%...\n\nCaps at 50% Super Energy.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "3927963103": {
     "id": 3927963103,
