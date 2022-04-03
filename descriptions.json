@@ -10790,14 +10790,90 @@
     }
   },
   "3907299874": {
-    "id": "3907299874",
+    "id": 3907299874,
     "name": "New Tricks",
+    "itemId": 1053737370,
     "itemName": "Shinobu's Vow",
+    "lastUpdate": 1649012196293,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants an extra Skip Grenade Charge."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "even if Reddit says otherwise"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Skip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Hits with Skip Grenades grant <# pve>X%<$><# pvp> [X/3]<$> Grenade Energy."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants an extra Skip Grenade Charge.\neven if Reddit says otherwise\n\nSkip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively.\n\nHits with Skip Grenades grant <# pve>X%<$><# pvp> [X/3]<$> Grenade Energy.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "3913600130": {
     "id": "3913600130",
