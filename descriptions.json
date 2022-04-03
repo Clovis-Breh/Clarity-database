@@ -1589,14 +1589,90 @@
     "lastUpdate": 1645664040605
   },
   "902934539": {
-    "id": "902934539",
+    "id": 902934539,
     "name": "Blessing of Order",
+    "itemId": 3045642045,
     "itemName": "Boots of the Assembler",
+    "lastUpdate": 1649009325655,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Standing in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 meters and apply a buff depending on the type of Rift."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each time a Noble Seeker applies a buff, the Rift gets extended by 5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Healing Rift Noble Seekers heal allies for 75HP and begins Health Regeneration."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Empowering Rift Noble Seekers grant a <# pve>35%<$><# pvp> [20%]<$> Damage Increase for 5 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nStanding in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 meters and apply a buff depending on the type of Rift.\n\nEach time a Noble Seeker applies a buff, the Rift gets extended by 5 seconds.\n\nHealing Rift Noble Seekers heal allies for 75HP and begins Health Regeneration.\nEmpowering Rift Noble Seekers grant a <# pve>35%<$><# pvp> [20%]<$> Damage Increase for 5 seconds.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "908147344": {
     "id": "908147344",
