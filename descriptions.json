@@ -5920,11 +5920,107 @@
     "name": "Move to Survive",
     "itemId": "3948284065",
     "itemName": "Astrocyte Verse",
+    "lastUpdate": 1649009298006,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "25% increased Blink distance."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reduces Blink charge cooldown by ~16% on average."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Blink:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100 Ready Speed Handling, Radar remains active."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blink Cooldowns:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "2.5 seconds (3 seconds base)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Cooldown = 4.5 seconds (5 seconds base)"
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\n25% increased Blink distance.\nReduces Blink charge cooldown by ~16% on average.\n\nOn Blink:\n100 Ready Speed Handling, Radar remains active.\n\nBlink Cooldowns:\n2.5 seconds (3 seconds base)\nCooldown = 4.5 seconds (5 seconds base)\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "3300816228": {
     "id": "3300816228",
