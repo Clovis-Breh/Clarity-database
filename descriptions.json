@@ -2057,14 +2057,100 @@
     }
   },
   "824488952": {
-    "id": "824488952",
+    "id": 824488952,
     "name": "Seriously, Watch Out",
+    "itemId": 136355432,
     "itemName": "Mk. 44 Stand Asides",
+    "lastUpdate": 1649011991552,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "If Shoulder Charge Melee Ability is Charged:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Slowly grants 75 HP Overshield over 3 seconds after sprinting for 0.5 seconds"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Overshield disappears instantly when not sprinting."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Recharges 50% of Shoulder Charge ability on Shoulder Charge Hit."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Includes Seismic Strike, Ballistic Slam, Hammer Strike, Shield Bash"
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIf Shoulder Charge Melee Ability is Charged:\n\nSlowly grants 75 HP Overshield over 3 seconds after sprinting for 0.5 seconds\nOvershield disappears instantly when not sprinting.\n\nRecharges 50% of Shoulder Charge ability on Shoulder Charge Hit.\n\nIncludes Seismic Strike, Ballistic Slam, Hammer Strike, Shield Bash\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "830282363": {
     "id": "830282363",
