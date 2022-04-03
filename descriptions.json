@@ -4009,14 +4009,111 @@
     }
   },
   "1694242448": {
-    "id": "1694242448",
+    "id": 1694242448,
     "name": "Illegally Modded Holster",
+    "itemId": 193869522,
     "itemName": "Lucky Pants",
+    "lastUpdate": 1649009872735,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Intrinsic Hand Cannon Holster"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100 Handling Ready Speed with 0.X Duration Multiplier and ~-40% Accuracy Cone Size on Ready for X seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Upon readying a Kinetic or Matching Hand Cannon with a Full Magazine:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pve>60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits.<$>"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pve>Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit.<$>"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "After the Buff runs out, you swap weapons, or firing after the 5 second period:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "You cannot gain stacks or reacquire the buff for 10 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIntrinsic Hand Cannon Holster\n100 Handling Ready Speed with 0.X Duration Multiplier and ~-40% Accuracy Cone Size on Ready for X seconds.\n\nUpon readying a Kinetic or Matching Hand Cannon with a Full Magazine:\n<# pve>60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits.<$>\n<# pve>Eriana's Vow has a reduced effectiveness of 30% Damage Increase per Hit.<$>\n\nAfter the Buff runs out, you swap weapons, or firing after the 5 second period:\nYou cannot gain stacks or reacquire the buff for 10 seconds.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "1694242450": {
     "id": "1694242450",
