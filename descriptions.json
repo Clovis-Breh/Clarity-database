@@ -333,11 +333,103 @@
     "name": "The Dance",
     "itemId": "1702288800",
     "itemName": "Radiant Dance Machines",
+    "lastUpdate": 1649012136597,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While within 15 meters of an enemy: Multi-Dodge Ready appears on the Buff list."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "After Dodging within 15 meters of an Enemy:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Unlimited Dodges for 6 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Can dodge up to 6 times per activation."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Multi-Dodge Dodges are unaffected by Mods that activate on Class Ability Use, alongside Winter's Shroud."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Effect immediately ends if you are over 15 meters away from an Enemy while Multi-Dodge is active."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile within 15 meters of an enemy: Multi-Dodge Ready appears on the Buff list.\n\nAfter Dodging within 15 meters of an Enemy:\nUnlimited Dodges for 6 seconds.\nCan dodge up to 6 times per activation.\n\nMulti-Dodge Dodges are unaffected by Mods that activate on Class Ability Use, alongside Winter's Shroud.\n\nEffect immediately ends if you are over 15 meters away from an Enemy while Multi-Dodge is active.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "124408337": {
     "id": "124408337",
