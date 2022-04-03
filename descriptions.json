@@ -4734,11 +4734,90 @@
     "name": "Roving Assassin",
     "itemId": "1474735276",
     "itemName": "Gwisin Vest",
+    "lastUpdate": 1649009745730,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "During Spectral Blade"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Restores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Super Energy % gains based on kills"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pve> 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 <$>"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pvp> 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7<$>"
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nDuring Spectral Blade\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\n\nSuper Energy % gains based on kills\n<# pve> 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 <$>\n<# pvp> 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7<$>\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "2204713148": {
     "id": "2204713148",
