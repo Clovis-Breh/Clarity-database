@@ -3753,14 +3753,73 @@
     }
   },
   "1449897496": {
-    "id": "1449897496",
+    "id": 1449897496,
     "name": "Adamantine Brace",
+    "itemId": 691578978,
     "itemName": "Oathkeeper",
+    "lastUpdate": 1649012029810,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bows are able to hold perfect draws indefinitely."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bows reach full draw 30 miliseconds faster"
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nBows are able to hold perfect draws indefinitely.\n\nBows reach full draw 30 miliseconds faster\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "1523832109": {
     "id": "1523832109",
