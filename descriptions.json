@@ -9796,11 +9796,76 @@
     "name": "Touch of Venom",
     "itemId": "2757274117",
     "itemName": "Khepri's Sting",
+    "lastUpdate": 1649009837152,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Powered Melee Hit instantly casts Smoke Bomb."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Smoke Bombs deal 150% increased damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nPowered Melee Hit instantly casts Smoke Bomb.\nSmoke Bombs deal 150% increased damage.\n\nStanding in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "4104185692": {
     "id": "4104185692",
