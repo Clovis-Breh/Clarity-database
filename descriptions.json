@@ -5297,11 +5297,83 @@
     "name": "Solar Rampart",
     "itemId": "2384488862",
     "itemName": "Khepri's Horn",
+    "lastUpdate": 1649009833558,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Barricade Cast:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Unleashes a Solar Wave that returns back to the Barricade after 18.5 meters."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pvp>Deals 100 damage.<$>"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Solar Kills refresh 25% of Class Ability Energy."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Barricade Cast:\nUnleashes a Solar Wave that returns back to the Barricade after 18.5 meters.\n<# pvp>Deals 100 damage.<$>\n\nSolar Kills refresh 25% of Class Ability Energy.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "2360754333": {
     "id": "2360754333",
