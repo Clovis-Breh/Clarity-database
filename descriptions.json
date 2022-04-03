@@ -553,14 +553,122 @@
     "lastUpdate": 1645664040605
   },
   "235075862": {
-    "id": "235075862",
+    "id": 235075862,
     "name": "Peregrine Strike",
+    "itemId": 2255796155,
     "itemName": "Peregrine Greaves",
+    "lastUpdate": 1649012106549,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Shoulder Charges deal increased damage if used midair."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "<& center>Minor"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<& center><# arc>155%<$> | <# solar>190%<$> | <# void>310%<$>"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<& center>Elite"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<& center><# arc>200%<$> | <# solar>?<$> | <# void>?<$>"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<& center>Major"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<& center><# arc>310%<$> | <# solar>?<$> | <# void>?<$>"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<& center>Boss"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<& center><# arc>360%<$> | <# solar>157%<$> | <# void>165%<$>"
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nShoulder Charges deal increased damage if used midair.\n\n<& center>Minor\n<& center><# arc>155%<$> | <# solar>190%<$> | <# void>310%<$>\n<& center>Elite\n<& center><# arc>200%<$> | <# solar>?<$> | <# void>?<$>\n<& center>Major\n<& center><# arc>310%<$> | <# solar>?<$> | <# void>?<$>\n<& center>Boss\n<& center><# arc>360%<$> | <# solar>157%<$> | <# void>165%<$>\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "247725512": {
     "id": "247725512",
