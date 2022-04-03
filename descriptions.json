@@ -6302,14 +6302,104 @@
     }
   },
   "1971489086": {
-    "id": "1971489086",
+    "id": 1971489086,
     "name": "The Fourth Magic",
+    "itemId": 2428181146,
     "itemName": "Verity's Brow",
+    "lastUpdate": 1649012380851,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each Stack of Death Throes grants 20% faster Grenade Recharge and 20% Increased Grenade Damage."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Max of 5 Stacks. Lasts 10 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Grenade Ability Usage:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Allies within 18(?) meters receive Feel The Flame."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Feel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWeapons Kills with a Matching Subclass Element grant Stacks of Death Throes\n\nEach Stack of Death Throes grants 20% faster Grenade Recharge and 20% Increased Grenade Damage.\nMax of 5 Stacks. Lasts 10 seconds.\n\nOn Grenade Ability Usage:\nAllies within 18(?) meters receive Feel The Flame.\nFeel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "2010801679": {
     "id": 2010801679,
