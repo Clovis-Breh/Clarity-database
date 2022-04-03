@@ -7635,11 +7635,66 @@
     "name": "Nightmare Fuel",
     "itemId": "1688602431",
     "itemName": "Sealed Ahamkara Grasps",
+    "lastUpdate": 1649012166562,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Melee Hits refresh magazine for your equipped weapon."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "7 second cooldown."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMelee Hits refresh magazine for your equipped weapon.\n7 second cooldown.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "2818140350": {
     "id": "2818140350",
