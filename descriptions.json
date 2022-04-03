@@ -4151,11 +4151,83 @@
     "name": "Crystalline Transistor",
     "itemId": "4057299718",
     "itemName": "Chromatic Fire",
+    "lastUpdate": 1649009333839,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Kinetic Precision Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enemy explodes in an elemental explosion of your currently selected Subclass."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Explosion Radius and Falloff Distance scale with your Weapon's Range Stat."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "<& pvp>PVP Deals ~200 Damage at epicenter."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Kinetic Precision Kill:\nEnemy explodes in an elemental explosion of your currently selected Subclass.\nExplosion Radius and Falloff Distance scale with your Weapon's Range Stat.\n\n<& pvp>PVP Deals ~200 Damage at epicenter.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "2213355989": {
     "id": "2213355989",
