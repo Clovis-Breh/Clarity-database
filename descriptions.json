@@ -9617,11 +9617,110 @@
     "name": "Grasp of the Devourer",
     "itemId": "2780717641",
     "itemName": "Necrotic Grip",
+    "lastUpdate": 1649011996023,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Melee Hit applies poison."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Poison deals up to 680% the total damage of Melee Damage. <# pvp>[30 Damage]<$>"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bosses take an additional 80% damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Initial Poison tick deals 18% of Melee damage, while the last tick deals 54%."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each successive Poison tick deals 9% more damage. Lasts 19 ticks."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Poisoned enemies spread the poison on death on a 3 meter radius."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# highlight_3>Thorn Kills, as well as enemies poisoned by Thorn spread poison on death.<$>"
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMelee Hit applies poison.\nPoison deals up to 680% the total damage of Melee Damage. <# pvp>[30 Damage]<$>\nBosses take an additional 80% damage.\n\nInitial Poison tick deals 18% of Melee damage, while the last tick deals 54%.\nEach successive Poison tick deals 9% more damage. Lasts 19 ticks.\n\nPoisoned enemies spread the poison on death on a 3 meter radius.\n\n<# highlight_3>Thorn Kills, as well as enemies poisoned by Thorn spread poison on death.<$>\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "3865257976": {
     "id": "3865257976",
