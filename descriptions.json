@@ -8656,14 +8656,97 @@
     }
   },
   "4024170927": {
-    "id": "4024170927",
+    "id": 4024170927,
     "name": "Misdirection",
+    "itemId": 1163283805,
     "itemName": "Gemini Jester",
+    "lastUpdate": 1649009694292,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Dodge:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Applies Misdirection to enemies within 22 meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pve> Misdirection disorients minors and elites for 5 seconds.<$>"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pvp> Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding.<$>"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Misdirection also deals 1 damage."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Dodge:\nApplies Misdirection to enemies within 22 meters.\n\n<# pve> Misdirection disorients minors and elites for 5 seconds.<$>\n<# pvp> Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding.<$>\n\nMisdirection also deals 1 damage.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "4048389864": {
     "id": "4048389864",
