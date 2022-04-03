@@ -1513,14 +1513,93 @@
     }
   },
   "553093017": {
-    "id": "553093017",
+    "id": 553093017,
     "name": "Beyond The Veil",
+    "itemId": 1935198785,
     "itemName": "Omnioculus",
+    "lastUpdate": 1649012049769,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants an extra Smoke Bomb Charge."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Cloaking allies grants 50% Melee Energy per ally."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pve>50%<$><# pvp> [25%]<$> Damage Resistance on any Invisible effects. Applies to teammates made invisible."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Damage Resistance does not apply in Super."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants an extra Smoke Bomb Charge.\n\nCloaking allies grants 50% Melee Energy per ally.\n\n<# pve>50%<$><# pvp> [25%]<$> Damage Resistance on any Invisible effects. Applies to teammates made invisible.\n\nDamage Resistance does not apply in Super.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "569260333": {
     "id": "569260333",
