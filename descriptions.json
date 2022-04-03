@@ -4,11 +4,93 @@
     "name": "Chaotic Exchanger",
     "itemId": "1906093346",
     "itemName": "Contraverse Hold",
+    "lastUpdate": 1649009339244,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While Charging a Grenade:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Chaotic Exchanger grants 20% Damage Resist."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grenade Hits grant Chaotic Exchange, granting X% [X%] Grenade Ability over 1.75 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "4 second cooldown."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Charged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting X% [X%] Grenade Ability over 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "11612903": {
     "id": "11612903",
