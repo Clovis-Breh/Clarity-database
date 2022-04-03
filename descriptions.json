@@ -11289,11 +11289,66 @@
     "name": "Burning Souls",
     "itemId": "3562696927",
     "itemName": "Wormhusk Crown",
+    "lastUpdate": 1649012411663,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Dodge:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Heals 44HP."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Dodge:\nHeals 44HP.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "3796465595": {
     "id": "3796465595",
