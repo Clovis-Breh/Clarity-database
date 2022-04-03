@@ -9955,11 +9955,83 @@
     "name": "Strange Protractor",
     "itemId": "138282166",
     "itemName": "Transversive Steps",
+    "lastUpdate": 1649012326008,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes held weapon after 1.5 seconds of sprinting."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Sprint Speed by 6.25%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Slide Distance by 33%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Sneak Speed set to 4m/s. Unaffected by slows of any kind."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nRefreshes held weapon after 1.5 seconds of sprinting.\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\nSneak Speed set to 4m/s. Unaffected by slows of any kind.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "3350417888": {
     "id": "3350417888",
