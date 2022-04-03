@@ -1310,14 +1310,87 @@
     "lastUpdate": 1645664040605
   },
   "481860151": {
-    "id": "481860151",
+    "id": 481860151,
     "name": "Spring-Loaded Mounting",
+    "itemId": 1734144409,
     "itemName": "Mechaneer's Tricksleeves",
+    "lastUpdate": 1649009935648,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Upon readying a sidearm while at Critical Health:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pve>100%<$><# pvp> [35%]<$> increased damage until no longer critical."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes sidearm magazine."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "100 Handling and Reload Speed to Sidearms."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon readying a sidearm while at Critical Health:\n<# pve>100%<$><# pvp> [35%]<$> increased damage until no longer critical.\nRefreshes sidearm magazine.\n\n100 Handling and Reload Speed to Sidearms.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "509074078": {
     "id": 509074078,
