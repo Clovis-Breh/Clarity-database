@@ -7136,11 +7136,128 @@
     "name": "Firewalker",
     "itemId": "1453120846",
     "itemName": "The Path of Burning Steps",
+    "lastUpdate": 1649012317447,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Solar Kills have a chance of granting 1 Stack of Firewalker [1 to 3 Kills, average of 2]"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Being Frozen grants 1 Stack of Firewalker"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Max of <# pve> 3 <$><# pvp>[4]<$> Stacks."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Firewalker increases Weapon Damage depending on Stacks and lasts 10 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pve> 1x = 20% | 2x = 25% | 3x = 35%<$>"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pvp> 1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%<$>"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Slow Stacks and Duration are halved."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Receive no damage from Stasis Breakout."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# highlight_3> 3X = 20% IS BUGGED<$>"
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nSolar Kills have a chance of granting 1 Stack of Firewalker [1 to 3 Kills, average of 2]\nBeing Frozen grants 1 Stack of Firewalker\nMax of <# pve> 3 <$><# pvp>[4]<$> Stacks.\nFirewalker increases Weapon Damage depending on Stacks and lasts 10 seconds.\n<# pve> 1x = 20% | 2x = 25% | 3x = 35%<$>\n<# pvp> 1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%<$>\n\nSlow Stacks and Duration are halved.\nReceive no damage from Stasis Breakout.\nStasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage.\n\n<# highlight_3> 3X = 20% IS BUGGED<$>\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "2551157718": {
     "id": "2551157718",
