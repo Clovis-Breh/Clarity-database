@@ -12823,14 +12823,83 @@
     }
   },
   "4190535237": {
-    "id": "4190535237",
+    "id": 4190535237,
     "name": "Ursine Guard",
+    "itemId": 1848640623,
     "itemName": "Ursa Furiosa",
+    "lastUpdate": 1649012354815,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Move forward at 90% your speed while blocking with Sentinel Shield."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Converts incoming damage into Super Energy after Super ends, up to 50%."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "<& center><# highlight_2>Overshields prevent damage into Super Energy conversion so don't stand in a Well of Radiance.<$>"
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMove forward at 90% your speed while blocking with Sentinel Shield.\n\nConverts incoming damage into Super Energy after Super ends, up to 50%.\n\n<& center><# highlight_2>Overshields prevent damage into Super Energy conversion so don't stand in a Well of Radiance.<$>\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "4252909580": {
     "id": "4252909580",
