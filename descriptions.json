@@ -2797,11 +2797,89 @@
     "name": "Starless Night",
     "itemId": "106575079",
     "itemName": "Helm of Saint-14",
+    "lastUpdate": 1649009792308,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Guarding with Sentinel/Banner Shield blinds enemies within 7 meters for 5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Any Ward of Dawn that you create grants Starless Night, which gives a 65HP Overshield to any ally that enters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Overshield persists for up to 6 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enemies that enter your Ward of Dawn are also blinded for 5 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGuarding with Sentinel/Banner Shield blinds enemies within 7 meters for 5 seconds.\n\nAny Ward of Dawn that you create grants Starless Night, which gives a 65HP Overshield to any ally that enters.\n\nOvershield persists for up to 6 seconds.\n\nEnemies that enter your Ward of Dawn are also blinded for 5 seconds.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "1354429876": {
     "id": "1354429876",
