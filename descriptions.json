@@ -3450,14 +3450,107 @@
     }
   },
   "1155472384": {
-    "id": "1155472384",
+    "id": 1155472384,
     "name": "Biotic Enhancements",
+    "itemId": 241462142,
     "itemName": "Synthoceps",
+    "lastUpdate": 1649012309404,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While Surrounded by 3+ enemies: Activates Biotic Enhancements"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Biotic Enhancements increases Melee and Super damage for 8 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "50% Super Damage Increase."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pve>200% Increased Melee Damage.<$>"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "<# pvp>100% Increased Melee Damage.<$>"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Melee Lunge Range to 7 meters."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile Surrounded by 3+ enemies: Activates Biotic Enhancements\n\nBiotic Enhancements increases Melee and Super damage for 8 seconds.\n\n50% Super Damage Increase.\n<# pve>200% Increased Melee Damage.<$>\n<# pvp>100% Increased Melee Damage.<$>\n\nIncreases Melee Lunge Range to 7 meters.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "1155472386": {
     "id": "1155472386",
