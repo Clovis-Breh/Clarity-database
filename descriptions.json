@@ -7841,14 +7841,121 @@
     "lastUpdate": 1645664040605
   },
   "3927963103": {
-    "id": "3927963103",
+    "id": 3927963103,
     "name": "Conduction Tines",
+    "itemId": 3381022969,
     "itemName": "Crown of Tempests",
+    "lastUpdate": 1649009387574,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Arc Ability Kills grant Conduction Tines for <# pve> 7 <$><# pvp>[4]<$> seconds. Stacks up to 3x."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "At x1 Conduction Tines"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "1.5% Grenade and Melee Ability per Second | 0.45% Super Ability per Second"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "At x2 Conduction Tines"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "4% Grenade and Melee Ability per Second | dunno about super"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "At x3 Conduction Tines"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "6.3% Grenade and Melee Ability per Second | 1.7% Super Ability per Second | 66% Slower Super Drain"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Super Drain affects every Roaming Super BUT Chaos Reach."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nArc Ability Kills grant Conduction Tines for <# pve> 7 <$><# pvp>[4]<$> seconds. Stacks up to 3x.\n\nAt x1 Conduction Tines\n1.5% Grenade and Melee Ability per Second | 0.45% Super Ability per Second\n\nAt x2 Conduction Tines\n4% Grenade and Melee Ability per Second | dunno about super\n\nAt x3 Conduction Tines\n6.3% Grenade and Melee Ability per Second | 1.7% Super Ability per Second | 66% Slower Super Drain\nSuper Drain affects every Roaming Super BUT Chaos Reach.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "3999527219": {
     "id": "3999527219",
