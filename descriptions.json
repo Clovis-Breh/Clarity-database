@@ -8002,14 +8002,104 @@
     }
   },
   "2979726427": {
-    "id": "2979726427",
+    "id": 2979726427,
     "name": "Kintsugi",
+    "itemId": 3974038291,
     "itemName": "Precious Scars",
+    "lastUpdate": 1649012128317,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reviving or Getting Revived grants Kintsugi"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Kintsugi"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants you and allies within 15 meters a 100HP Overshield for 10 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Leaving the 15 meter radius removes Overshield"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "If the wearer loses Overshield, so too does everyone else."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Heals you and allies within 15 meters for 60(?)HP for X seconds after getting a Weapon Kill with a Matching Subclass Element."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nReviving or Getting Revived grants Kintsugi\n\nKintsugi\nGrants you and allies within 15 meters a 100HP Overshield for 10 seconds.\nLeaving the 15 meter radius removes Overshield\nIf the wearer loses Overshield, so too does everyone else.\n\nHeals you and allies within 15 meters for 60(?)HP for X seconds after getting a Weapon Kill with a Matching Subclass Element.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "3016987351": {
     "id": "3016987351",
