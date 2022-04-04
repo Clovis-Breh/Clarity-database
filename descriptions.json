@@ -7572,7 +7572,7 @@
     "name": "Firewalker",
     "itemId": "1453120846",
     "itemName": "The Path of Burning Steps",
-    "lastUpdate": 1649012317447,
+    "lastUpdate": 1649075960979,
     "updatedBy": "Icemourne",
     "type": "armorExotic",
     "description": [
@@ -7631,7 +7631,18 @@
       {
         "lineText": [
           {
-            "text": "Max of <# pve> 3 <$><# pvp>[4]<$> Stacks."
+            "text": "Max of "
+          },
+          {
+            "text": "  3  ",
+            "className": "pve"
+          },
+          {
+            "text": " [4] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Stacks."
           }
         ]
       },
@@ -7645,14 +7656,16 @@
       {
         "lineText": [
           {
-            "text": "<# pve> 1x = 20% | 2x = 25% | 3x = 35%<$>"
+            "text": "  1x = 20% | 2x = 25% | 3x = 35% ",
+            "className": "pve"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "<# pvp> 1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%<$>"
+            "text": "  1x = 20% | 2x = 25% | 3x = 20% | 4x = 35% ",
+            "className": "pvp"
           }
         ]
       },
@@ -7686,13 +7699,14 @@
       {
         "lineText": [
           {
-            "text": "<# highlight_3> 3X = 20% IS BUGGED<$>"
+            "text": " 3X = 20% IS BUGGED ",
+            "className": "highlight_3"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nSolar Kills have a chance of granting 1 Stack of Firewalker [1 to 3 Kills, average of 2]\nBeing Frozen grants 1 Stack of Firewalker\nMax of <# pve> 3 <$><# pvp>[4]<$> Stacks.\nFirewalker increases Weapon Damage depending on Stacks and lasts 10 seconds.\n<# pve> 1x = 20% | 2x = 25% | 3x = 35%<$>\n<# pvp> 1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%<$>\n\nSlow Stacks and Duration are halved.\nReceive no damage from Stasis Breakout.\nStasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage.\n\n<# highlight_3> 3X = 20% IS BUGGED<$>\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nSolar Kills have a chance of granting 1 Stack of Firewalker [1 to 3 Kills, average of 2]\nBeing Frozen grants 1 Stack of Firewalker\nMax of <pve  3  /><pvp [4] /> Stacks.\nFirewalker increases Weapon Damage depending on Stacks and lasts 10 seconds.\n<pve  1x = 20% | 2x = 25% | 3x = 35% />\n<pvp  1x = 20% | 2x = 25% | 3x = 20% | 4x = 35% />\n\nSlow Stacks and Duration are halved.\nReceive no damage from Stasis Breakout.\nStasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage.\n\n<highlight_3 3X = 20% IS BUGGED />"
     }
   },
   "2551157718": {
