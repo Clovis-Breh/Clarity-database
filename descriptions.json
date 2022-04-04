@@ -5710,7 +5710,7 @@
     "name": "Hydraulic Boosters",
     "itemId": 193869520,
     "itemName": "St0mp-EE5",
-    "lastUpdate": 1649012249869,
+    "lastUpdate": 1649075794212,
     "updatedBy": "Icemourne",
     "type": "armorExotic",
     "description": [
@@ -5755,7 +5755,8 @@
       {
         "lineText": [
           {
-            "text": "<# highlight>Increased Jump Height Increase:<$>"
+            "text": " Increased Jump Height Increase: ",
+            "className": "highlight_1"
           }
         ]
       },
@@ -5793,7 +5794,8 @@
       {
         "lineText": [
           {
-            "text": "<# highlight>Jump Distance Increase: (Includes innate 6.25% faster sprint)<$>"
+            "text": " Jump Distance Increase: (Includes innate 6.25% faster sprint) ",
+            "className": "highlight_1"
           }
         ]
       },
@@ -5824,20 +5826,22 @@
       {
         "lineText": [
           {
-            "text": "<# highlight>Increases Sprint Speed by 6.25%<$>"
+            "text": " Increases Sprint Speed by 6.25% ",
+            "className": "highlight_1"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "<# highlight>Increases Slide Distance by 33%<$>"
+            "text": " Increases Slide Distance by 33% ",
+            "className": "highlight_1"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\n<# highlight>Increased Jump Height Increase:<$>\nHigh Jump = 9 meters -> 12 meters (33% higher)\nStrafe Jump = 8 meters -> 9 meters (10% higher)\nTriple Jump = 6 meters -> 7 meters for First Jump (16% higher)\n9 meters -> 11 meters for Second Jump (22% higher)\n\n<# highlight>Jump Distance Increase: (Includes innate 6.25% faster sprint)<$>\nHigh Jump = 28 meters -> 33 meters (18% higher)\nStrafe Jump = 26 meters -> 31 meters (19% higher)\nTriple Jump = 31 meters -> 38 meters. (22% higher)\n\n<# highlight>Increases Sprint Speed by 6.25%<$>\n<# highlight>Increases Slide Distance by 33%<$>\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\n<highlight_1 Increased Jump Height Increase: />\nHigh Jump = 9 meters -> 12 meters (33% higher)\nStrafe Jump = 8 meters -> 9 meters (10% higher)\nTriple Jump = 6 meters -> 7 meters for First Jump (16% higher)\n9 meters -> 11 meters for Second Jump (22% higher)\n\n<highlight_1 Jump Distance Increase: (Includes innate 6.25% faster sprint) />\nHigh Jump = 28 meters -> 33 meters (18% higher)\nStrafe Jump = 26 meters -> 31 meters (19% higher)\nTriple Jump = 31 meters -> 38 meters. (22% higher)\n\n<highlight_1 Increases Sprint Speed by 6.25% />\n<highlight_1 Increases Slide Distance by 33% />"
     }
   },
   "1716000303": {
