@@ -649,7 +649,7 @@
     "name": "Peregrine Strike",
     "itemId": 2255796155,
     "itemName": "Peregrine Greaves",
-    "lastUpdate": 1649012106549,
+    "lastUpdate": 1649075715511,
     "updatedBy": "Icemourne",
     "type": "armorExotic",
     "description": [
@@ -704,62 +704,130 @@
       {
         "lineText": [
           {
-            "text": "<& center>Minor"
+            "text": "Minor"
           }
-        ]
+        ],
+        "className": "center"
       },
       {
         "lineText": [
           {
-            "text": "<& center><# arc>155%<$> | <# solar>190%<$> | <# void>310%<$>"
+            "className": "arc"
+          },
+          {
+            "text": " 155% |"
+          },
+          {
+            "className": "solar"
+          },
+          {
+            "text": "190% | "
+          },
+          {
+            "className": "void"
+          },
+          {
+            "text": "310%"
           }
-        ]
+        ],
+        "className": "center"
       },
       {
         "lineText": [
           {
-            "text": "<& center>Elite"
+            "text": "Elite"
           }
-        ]
+        ],
+        "className": "center"
       },
       {
         "lineText": [
           {
-            "text": "<& center><# arc>200%<$> | <# solar>?<$> | <# void>?<$>"
+            "className": "arc"
+          },
+          {
+            "text": "200% |"
+          },
+          {
+            "className": "solar"
+          },
+          {
+            "text": "? | "
+          },
+          {
+            "className": "void"
+          },
+          {
+            "text": "?"
           }
-        ]
+        ],
+        "className": "center"
       },
       {
         "lineText": [
           {
-            "text": "<& center>Major"
+            "text": "Major"
           }
-        ]
+        ],
+        "className": "center"
       },
       {
         "lineText": [
           {
-            "text": "<& center><# arc>310%<$> | <# solar>?<$> | <# void>?<$>"
+            "className": "arc"
+          },
+          {
+            "text": "310% |"
+          },
+          {
+            "className": "solar"
+          },
+          {
+            "text": "? | "
+          },
+          {
+            "className": "void"
+          },
+          {
+            "text": "?"
           }
-        ]
+        ],
+        "className": "center"
       },
       {
         "lineText": [
           {
-            "text": "<& center>Boss"
+            "text": "Boss"
           }
-        ]
+        ],
+        "className": "center"
       },
       {
         "lineText": [
           {
-            "text": "<& center><# arc>360%<$> | <# solar>157%<$> | <# void>165%<$>"
+            "className": "arc"
+          },
+          {
+            "text": "360% |"
+          },
+          {
+            "className": "solar"
+          },
+          {
+            "text": "157% | "
+          },
+          {
+            "className": "void"
+          },
+          {
+            "text": "165%"
           }
-        ]
+        ],
+        "className": "center"
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nShoulder Charges deal increased damage if used midair.\n\n<& center>Minor\n<& center><# arc>155%<$> | <# solar>190%<$> | <# void>310%<$>\n<& center>Elite\n<& center><# arc>200%<$> | <# solar>?<$> | <# void>?<$>\n<& center>Major\n<& center><# arc>310%<$> | <# solar>?<$> | <# void>?<$>\n<& center>Boss\n<& center><# arc>360%<$> | <# solar>157%<$> | <# void>165%<$>\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nShoulder Charges deal increased damage if used midair.\n\n<center/>Minor\n<center/> <arc/> 155% |<solar/>190% | <void/>310%\n<center/>Elite\n<center/><arc/>200% |<solar/>? | <void/>?\n<center/>Major\n<center/><arc/>310% |<solar/>? | <void/>?\n<center/>Boss\n<center/><arc/>360% |<solar/>157% | <void/>165%"
     }
   },
   "247725512": {
