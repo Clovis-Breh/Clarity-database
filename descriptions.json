@@ -12197,7 +12197,7 @@
     "name": "Conduction Tines",
     "itemId": 3381022969,
     "itemName": "Crown of Tempests",
-    "lastUpdate": 1649009387574,
+    "lastUpdate": 1649075267618,
     "updatedBy": "Icemourne",
     "type": "armorExotic",
     "description": [
@@ -12242,7 +12242,18 @@
       {
         "lineText": [
           {
-            "text": "Arc Ability Kills grant Conduction Tines for <# pve> 7 <$><# pvp>[4]<$> seconds. Stacks up to 3x."
+            "text": "Arc Ability Kills grant Conduction Tines for "
+          },
+          {
+            "text": " 7 ",
+            "className": "pve"
+          },
+          {
+            "text": " [4] ",
+            "className": "pvp"
+          },
+          {
+            "text": " seconds. Stacks up to 3x."
           }
         ]
       },
@@ -12306,7 +12317,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nArc Ability Kills grant Conduction Tines for <# pve> 7 <$><# pvp>[4]<$> seconds. Stacks up to 3x.\n\nAt x1 Conduction Tines\n1.5% Grenade and Melee Ability per Second | 0.45% Super Ability per Second\n\nAt x2 Conduction Tines\n4% Grenade and Melee Ability per Second | dunno about super\n\nAt x3 Conduction Tines\n6.3% Grenade and Melee Ability per Second | 1.7% Super Ability per Second | 66% Slower Super Drain\nSuper Drain affects every Roaming Super BUT Chaos Reach.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nArc Ability Kills grant Conduction Tines for <pve 7 /> <pvp [4] /> seconds. Stacks up to 3x.\n\nAt x1 Conduction Tines\n1.5% Grenade and Melee Ability per Second | 0.45% Super Ability per Second\n\nAt x2 Conduction Tines\n4% Grenade and Melee Ability per Second | dunno about super\n\nAt x3 Conduction Tines\n6.3% Grenade and Melee Ability per Second | 1.7% Super Ability per Second | 66% Slower Super Drain\nSuper Drain affects every Roaming Super BUT Chaos Reach.\n"
     }
   },
   "3999527219": {
