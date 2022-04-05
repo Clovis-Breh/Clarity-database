@@ -10012,14 +10012,14 @@
     "name": "Sect of Force",
     "itemId": 1654461647,
     "itemName": "Aeon Safe",
-    "lastUpdate": 1645718829658,
+    "lastUpdate": 1649165377006,
     "updatedBy": "Icemourne",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "2222222222This description needs updating"
+            "text": "This description needs updating"
           }
         ]
       },
