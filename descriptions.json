@@ -11383,13 +11383,88 @@
   "3683811620": {
     "id": "3683811620",
     "name": "Sect of Vigor",
-    "itemName": "Aeon Soul",
     "itemId": "2950045886",
+    "itemName": "Aeon Soul",
+    "lastUpdate": 1649165380381,
+    "updatedBy": "Icemourne",
     "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "This description needs updating"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check if all data is present some items are missing id's"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Make sure it's up to date and stats are correct"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "And obviously, fix syntax"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "To update simply remove this text and upload"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Ally Deaths grant 25% Class Ability Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Gain Full Class Ability Energy on Ally Revival."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Casting Super fully heals allies within 30 meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Aeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAlly Deaths grant 25% Class Ability Energy.\nGain Full Class Ability Energy on Ally Revival.\n\nCasting Super fully heals allies within 30 meters.\n\nAeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds.\n"
-    },
-    "lastUpdate": 1645664040605
+    }
   },
   "3700496672": {
     "id": "3700496672",
