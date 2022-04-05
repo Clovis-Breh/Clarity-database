@@ -7866,7 +7866,7 @@
     "name": "Absorption Cells",
     "itemId": "3301944824",
     "itemName": "Mantle of Battle Harmony",
-    "lastUpdate": 1649009882634,
+    "lastUpdate": 1649165730127,
     "updatedBy": "Icemourne",
     "type": "armorExotic",
     "description": [
@@ -7935,7 +7935,18 @@
       {
         "lineText": [
           {
-            "text": "Energy Siphon grants <# pve> 3(?)%<$><# pvp> [+1.45%]<$> Super Energy."
+            "text": "Energy Siphon grants "
+          },
+          {
+            "text": " 3(?)% ",
+            "className": "pve"
+          },
+          {
+            "text": " [+1.45%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Super Energy."
           }
         ]
       },
@@ -7952,14 +7963,47 @@
       {
         "lineText": [
           {
-            "text": "Receive <# pve> 6s <$><# pvp>[3.5]<$> (<# pve>+4 <$><# pvp>[2]<$> per additional kill) of Absorption Cells, granting 20% increased damage for Weapons Matching your Subclass Element."
+            "text": "Receive "
+          },
+          {
+            "text": " 6s ",
+            "className": "pve"
+          },
+          {
+            "text": " [3.5] ",
+            "className": "pvp"
+          },
+          {
+            "text": " ("
+          },
+          {
+            "text": " +4 ",
+            "className": "pve"
+          },
+          {
+            "text": " [2] ",
+            "className": "pvp"
+          },
+          {
+            "text": " per additional kill) of Absorption Cells, granting 20% increased damage for Weapons Matching your Subclass Element."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Absorption Cells maxes out at a <# pve> 10 <$><# pvp>[6]<$> second duration."
+            "text": "Absorption Cells maxes out at a "
+          },
+          {
+            "text": " 10 ",
+            "className": "pve"
+          },
+          {
+            "text": " [6] ",
+            "className": "pvp"
+          },
+          {
+            "text": " second duration."
           }
         ]
       },
@@ -7975,7 +8019,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWeapon Kills with a Matching Subclass Element grant a buff, depending on whether Super is charged or not.\n\nIf Super is not Full:\nEnergy Siphon for 2 seconds. (Essentially a Cooldown)\nEnergy Siphon grants <# pve> 3(?)%<$><# pvp> [+1.45%]<$> Super Energy.\n\nIf Super is Full:\nReceive <# pve> 6s <$><# pvp>[3.5]<$> (<# pve>+4 <$><# pvp>[2]<$> per additional kill) of Absorption Cells, granting 20% increased damage for Weapons Matching your Subclass Element.\nAbsorption Cells maxes out at a <# pve> 10 <$><# pvp>[6]<$> second duration.\n\nAbsorption Cells disappears on Weapon Swap.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWeapon Kills with a Matching Subclass Element grant a buff, depending on whether Super is charged or not.\n\nIf Super is not Full:\nEnergy Siphon for 2 seconds. (Essentially a Cooldown)\nEnergy Siphon grants <pve 3(?)% /><pvp [+1.45%] /> Super Energy.\n\nIf Super is Full:\nReceive <pve 6s /><pvp [3.5] /> (<pve +4 /><pvp [2] /> per additional kill) of Absorption Cells, granting 20% increased damage for Weapons Matching your Subclass Element.\nAbsorption Cells maxes out at a <pve 10 /><pvp [6] /> second duration.\n\nAbsorption Cells disappears on Weapon Swap.\n"
     }
   },
   "2621346526": {
