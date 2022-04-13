@@ -2057,8 +2057,8 @@
     "name": "Beyond The Veil",
     "itemId": 1935198785,
     "itemName": "Omnioculus",
-    "lastUpdate": 1649012049769,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649876085328,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -2122,7 +2122,15 @@
       {
         "lineText": [
           {
-            "text": "<# pve>50%<$><# pvp> [25%]<$> Damage Resistance on any Invisible effects. Applies to teammates made invisible."
+            "text": " 50% ",
+            "className": "pve"
+          },
+          {
+            "text": " [25%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Damage Resistance on any Invisible effects. Applies to teammates made invisible."
           }
         ]
       },
@@ -2138,7 +2146,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants an extra Smoke Bomb Charge.\n\nCloaking allies grants 50% Melee Energy per ally.\n\n<# pve>50%<$><# pvp> [25%]<$> Damage Resistance on any Invisible effects. Applies to teammates made invisible.\n\nDamage Resistance does not apply in Super.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants an extra Smoke Bomb Charge.\n\nCloaking allies grants 50% Melee Energy per ally.\n\n<pve 50% /> <pvp [25%] /> Damage Resistance on any Invisible effects. Applies to teammates made invisible.\n\nDamage Resistance does not apply in Super.\n"
     }
   },
   "569260333": {
