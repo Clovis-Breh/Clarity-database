@@ -11645,8 +11645,8 @@
     "name": "Linear Actuators",
     "itemId": 1160559849,
     "itemName": "Dunemarchers",
-    "lastUpdate": 1649009544832,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649876304836,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -11717,14 +11717,16 @@
       {
         "lineText": [
           {
-            "text": "<# pve>300%(?) Melee Damage<$>"
+            "text": " 300%(?) Melee Damage ",
+            "className": "pve"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "<# pvp>85 Damage. Immune to Dunemarchers for 2 seconds after being hit.<$>"
+            "text": " 85 Damage. Immune to Dunemarchers for 2 seconds after being hit. ",
+            "className": "pvp"
           }
         ]
       },
@@ -11747,7 +11749,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAfter sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds.\n\nOn Melee Hit:\nLinear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain.\n\n<# pve>300%(?) Melee Damage<$>\n<# pvp>85 Damage. Immune to Dunemarchers for 2 seconds after being hit.<$>\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAfter sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds.\n\nOn Melee Hit:\nLinear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain.\n\n<pve 300%(?) Melee Damage />\n<pvp 85 Damage. Immune to Dunemarchers for 2 seconds after being hit. />\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\n"
     }
   },
   "3268255645": {
