@@ -4821,6 +4821,34 @@
       "mainEditor": "Explosion releases 8 Cluster Bombs. Each Cluster Bomb deals an additional 3% damage."
     }
   },
+  "1281216113": {
+    "id": 1281216113,
+    "name": "Stunning Recovery",
+    "lastUpdate": 1649873395176,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "reload": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      }
+    },
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
+    }
+  },
   "1331592343": {
     "id": "1331592343",
     "name": "Starless Night",
