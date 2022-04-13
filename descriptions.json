@@ -10713,6 +10713,72 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nReviving or Getting Revived grants Kintsugi\n\nKintsugi\nGrants you and allies within 15 meters a 100HP Overshield for 10 seconds.\nLeaving the 15 meter radius removes Overshield\nIf the wearer loses Overshield, so too does everyone else.\n\nHeals you and allies within 15 meters for 60(?)HP for X seconds after getting a Weapon Kill with a Matching Subclass Element.\n"
     }
   },
+  "2988596335": {
+    "id": 2988596335,
+    "name": "Alacrity",
+    "lastUpdate": 1649872531915,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            0
+          ]
+        }
+      },
+      "reload": {
+        "active": {
+          "stat": [
+            20
+          ]
+        }
+      },
+      "stability": {
+        "active": {
+          "stat": [
+            20
+          ]
+        }
+      },
+      "aimAssist": {
+        "active": {
+          "stat": [
+            10
+          ]
+        }
+      },
+      "range": {
+        "active": {
+          "stat": [
+            10
+          ]
+        }
+      }
+    },
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While Last Guardian Standing or Solo:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
+    }
+  },
   "3016987351": {
     "id": "3016987351",
     "name": "Counterattack",
