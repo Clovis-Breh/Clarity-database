@@ -11360,8 +11360,31 @@
   "3673922083": {
     "id": "3673922083",
     "name": "Adagio",
-    "lastUpdate": 1647782204711,
+    "lastUpdate": 1649862780783,
     "updatedBy": "Fading-Shadow",
+    "stats": {
+      "range": {
+        "active": {
+          "stat": [
+            10
+          ]
+        }
+      },
+      "chargeDraw": {
+        "active": {
+          "multiplier": [
+            0
+          ]
+        }
+      },
+      "damage": {
+        "active": {
+          "multiplier": [
+            30
+          ]
+        }
+      }
+    },
     "type": "weaponPerk",
     "description": [
       {
@@ -11374,7 +11397,7 @@
       {
         "lineText": [
           {
-            "text": "Increased damage, Slower Rate of Fire/Charge Time, and 10 Range for 7 seconds."
+            "text": "30% increased damage, variably slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
           }
         ]
       },
@@ -11382,125 +11405,32 @@
         "className": "spacer"
       },
       {
-        "table": [
+        "lineText": [
           {
-            "lineText": [
-              {
-                "text": "Weapon Type",
-                "className": "bold"
-              },
-              {
-                "text": "Damage Increase",
-                "className": "bold"
-              },
-              {
-                "text": "Rate of Fire/Charge Time",
-                "className": "bold"
-              }
-            ]
-          },
-          {
-            "lineText": [
-              {
-                "text": "Hand Cannon"
-              },
-              {
-                "text": "30%"
-              },
-              {
-                "text": "-15% RoF"
-              }
-            ],
-            "className": "background"
-          },
-          {
-            "lineText": [
-              {
-                "text": "Auto Rifle"
-              },
-              {
-                "text": "30%"
-              },
-              {
-                "text": "-20% RoF"
-              }
-            ]
-          },
-          {
-            "lineText": [
-              {
-                "text": "Bow"
-              },
-              {
-                "text": "20%"
-              },
-              {
-                "text": "-20% CR"
-              }
-            ],
-            "className": "background"
-          },
-          {
-            "lineText": [
-              {
-                "text": "Shotgun"
-              },
-              {
-                "text": "30%"
-              },
-              {
-                "text": "-20% RoF"
-              }
-            ]
-          },
-          {
-            "lineText": [
-              {
-                "text": "Grenade Launcher"
-              },
-              {
-                "text": "30%"
-              },
-              {
-                "text": "-20% RoF"
-              }
-            ],
-            "className": "background"
-          },
-          {
-            "lineText": [
-              {
-                "text": "Fusion Rifle"
-              },
-              {
-                "text": "27%"
-              },
-              {
-                "text": "-15% CR"
-              }
-            ]
-          },
-          {
-            "lineText": [
-              {
-                "text": "Linear Fusion Rifle"
-              },
-              {
-                "text": "30%"
-              },
-              {
-                "text": "-15% CR"
-              }
-            ],
-            "className": "background"
+            "text": "-15% Rate of Fire/Charge Rate: Hand Cannons, Fusion Rifles, Linear Fusion Rifles"
           }
-        ],
-        "className": "table",
-        "formula": false
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "-20% Rate of Fire/Charge Rate: Auto Rifles, Bows, Sidearms, Shotguns, and Grenade Launchers"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by 1 second, to a maximum of 8 seconds.\t\t"
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\nIncreased damage, Slower Rate of Fire/Charge Time, and 10 Range for 7 seconds.\n\n< table >\n|b Weapon Type        |b Damage Increase |b Rate of Fire/Charge Time\n| Hand Cannon         | 30%      | -15% RoF <background/>\n| Auto Rifle          | 30%      | -20% RoF\n| Bow                 | 20%      | -20% CR <background/>\n| Shotgun             | 30%      | -20% RoF\n| Grenade Launcher    | 30%      | -20% RoF <background/>\n| Fusion Rifle        | 27%      | -15% CR\n| Linear Fusion Rifle | 30%      | -15% CR <background/>\n<$>"
+      "mainEditor": "On Weapon Kill:\n30% increased damage, variably slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds.\n\n-15% Rate of Fire/Charge Rate: Hand Cannons, Fusion Rifles, Linear Fusion Rifles\n-20% Rate of Fire/Charge Rate: Auto Rifles, Bows, Sidearms, Shotguns, and Grenade Launchers\n\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 8 seconds.\t\t"
     }
   },
   "3683811620": {
