@@ -4458,8 +4458,8 @@
     "name": "Horns of Doom",
     "itemId": 241462141,
     "itemName": "Doom Fang Pauldron",
-    "lastUpdate": 1649009430446,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649876276797,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -4503,7 +4503,18 @@
       {
         "lineText": [
           {
-            "text": "Powered Void Melee Kills grant <# pve> 20% <$><# pvp>[10%]<$> Super Energy"
+            "text": "Powered Void Melee Kills grant "
+          },
+          {
+            "text": " 20% ",
+            "className": "pve"
+          },
+          {
+            "text": " [10%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Super Energy"
           }
         ]
       },
@@ -4519,7 +4530,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nPowered Void Melee Kills grant <# pve> 20% <$><# pvp>[10%]<$> Super Energy\n\nSentinel Shield's Shield Throws regenerate 10% Super Energy\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nPowered Void Melee Kills grant <pve 20% /> <pvp [10%] /> Super Energy\n\nSentinel Shield's Shield Throws regenerate 10% Super Energy\n"
     }
   },
   "1168162263": {
