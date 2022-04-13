@@ -10009,7 +10009,7 @@
   "3194351027": {
     "id": "3194351027",
     "name": "Explosive Light",
-    "lastUpdate": 1646858482124,
+    "lastUpdate": 1649866319169,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -10036,10 +10036,20 @@
             "text": "Rocket Launchers: 25% Increased damage and sets Blast Radius to 100(?)."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Velocity."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot.\n\nGrenade Launchers: 44% Increased damage and sets Blast Radius to 55(?).\nRocket Launchers: 25% Increased damage and sets Blast Radius to 100(?)."
+      "mainEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot.\n\nGrenade Launchers: 44% Increased damage and sets Blast Radius to 55(?).\nRocket Launchers: 25% Increased damage and sets Blast Radius to 100(?).\n\nEnhanced: Passively grants 4 Velocity."
     }
   },
   "3201496230": {
