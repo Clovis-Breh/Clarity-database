@@ -7801,7 +7801,7 @@
   "2551157718": {
     "id": "2551157718",
     "name": "Box Breathing",
-    "lastUpdate": 1646855462467,
+    "lastUpdate": 1649863705758,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -7889,10 +7889,20 @@
         ],
         "className": "table",
         "formula": false
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds.\""
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <& bg>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <& bg>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <& bg>\n<$>"
+      "mainEditor": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <& bg>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <& bg>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <& bg>\n<$>\n\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds.\""
     }
   },
   "2590710093": {
