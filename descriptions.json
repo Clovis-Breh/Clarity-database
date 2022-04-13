@@ -12237,13 +12237,13 @@
   "3800201097": {
     "id": 3800201097,
     "name": "Immovable Object",
-    "lastUpdate": 1646863304509,
+    "lastUpdate": 1649867666988,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            1.022
+            0
           ]
         }
       }
@@ -12253,13 +12253,30 @@
       {
         "lineText": [
           {
-            "text": "Projectile impacts grant increased weapon energy while you're stationary with your shield raised."
+            "text": "While blocking and stationary:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "[?]% Additional Weapon Energy on Hit."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Increases Energy Bonus on Hit to [?]."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Projectile impacts grant increased weapon energy while you're stationary with your shield raised."
+      "mainEditor": "While blocking and stationary:\r\n[?]% Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit to [?]."
     }
   },
   "3824105627": {
