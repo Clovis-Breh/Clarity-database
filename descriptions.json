@@ -11137,7 +11137,7 @@
   "3201496230": {
     "id": "3201496230",
     "name": "Redirection",
-    "lastUpdate": 1646865205227,
+    "lastUpdate": 1649872219650,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -11157,7 +11157,7 @@
       {
         "lineText": [
           {
-            "text": "Redirection grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5. Consumes 1 stack per hit if at or below 5 stacks."
+            "text": "Grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5. Consumes 1 stack per hit if at or below 5 stacks."
           }
         ]
       },
@@ -11188,7 +11188,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Redirection grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5. Consumes 1 stack per hit if at or below 5 stacks.\n100% Increased damage to Medium and High Tier Combatants if at or above 6 stacks. Consumes 5 stacks per hit.\n\nCheck out <link https://d2clarity.page.link/combatant this sheet/> for Combatant Classifications!"
+      "mainEditor": "Grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5. Consumes 1 stack per hit if at or below 5 stacks.\n100% Increased damage to Medium and High Tier Combatants if at or above 6 stacks. Consumes 5 stacks per hit.\n\nCheck out <link https://d2clarity.page.link/combatant this sheet/> for Combatant Classifications!"
     }
   },
   "3241194940": {
