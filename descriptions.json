@@ -1885,8 +1885,8 @@
     "name": "Spring-Loaded Mounting",
     "itemId": 1734144409,
     "itemName": "Mechaneer's Tricksleeves",
-    "lastUpdate": 1649009935648,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649876046332,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -1937,7 +1937,15 @@
       {
         "lineText": [
           {
-            "text": "<# pve>100%<$><# pvp> [35%]<$> increased damage until no longer critical."
+            "text": " 100% ",
+            "className": "pve"
+          },
+          {
+            "text": " [35%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " increased damage until no longer critical."
           }
         ]
       },
@@ -1960,7 +1968,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon readying a sidearm while at Critical Health:\n<# pve>100%<$><# pvp> [35%]<$> increased damage until no longer critical.\nRefreshes sidearm magazine.\n\n100 Handling and Reload Speed to Sidearms.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nUpon readying a sidearm while at Critical Health:\n<pve 100% /> <pvp [35%] /> increased damage until no longer critical.\nRefreshes sidearm magazine.\n\n100 Handling and Reload Speed to Sidearms.\n"
     }
   },
   "509074078": {
