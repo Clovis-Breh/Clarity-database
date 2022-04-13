@@ -3507,6 +3507,85 @@
       "mainEditor": "When aiming down sights: reduces projectile spread but removes the precision damage multiplier."
     }
   },
+  "1048183818": {
+    "id": 1048183818,
+    "name": "Adaptive Munitions",
+    "lastUpdate": 1649853654273,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Hits deal increasingly higher damage against Combatant Shields, up to 500% increased damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": " 33.3% per hit: ",
+            "className": "bold"
+          },
+          {
+            "text": " Auto Rifles and Pulse Rifles"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " 166.6% per hit: ",
+            "className": "bold"
+          },
+          {
+            "text": " Bows, Hand Cannons, and Scout Rifles"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " 150% per hit: ",
+            "className": "bold"
+          },
+          {
+            "text": " Linear Fusion Rifles [Maxes at 450%]"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff is removed upon hitting a matching or unshielded enemy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\n\r\n<bold 33.3% per hit: /> Auto Rifles and Pulse Rifles\r\n<bold 166.6% per hit: /> Bows, Hand Cannons, and Scout Rifles\r\n<bold 150% per hit: /> Linear Fusion Rifles [Maxes at 450%]\r\nBuff is removed upon hitting a matching or unshielded enemy.\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%"
+    }
+  },
   "1095471953": {
     "id": "1095471953",
     "name": "Embers of Light",
