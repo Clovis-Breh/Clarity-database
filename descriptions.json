@@ -2383,7 +2383,7 @@
   "671806388": {
     "id": 671806388,
     "name": "Compulsive Reloader",
-    "lastUpdate": 1646856664918,
+    "lastUpdate": 1649864718562,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
@@ -2396,7 +2396,7 @@
       "chargeDraw": {
         "passive": {
           "stat": [
-            -100
+            0
           ]
         }
       },
@@ -2423,10 +2423,20 @@
             "text": "50 Reload Speed"
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Reload increased to [?]"
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "While above 70% Magazine:\r\n50 Reload Speed"
+      "mainEditor": "While above 70% Magazine:\r\n50 Reload Speed\r\n\r\nEnhanced: Reload increased to [?]"
     }
   },
   "689005463": {
