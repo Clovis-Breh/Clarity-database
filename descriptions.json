@@ -14015,7 +14015,7 @@
   "4082225868": {
     "id": "4082225868",
     "name": "Swashbuckler",
-    "lastUpdate": 1646866289874,
+    "lastUpdate": 1649870580405,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -14119,10 +14119,20 @@
         ],
         "className": "table",
         "formula": false
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by 2 seconds, to a maximum of 6.5 seconds."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks|b Damage Increase\n| 1x     | 6.6% <background/>\n| 2x     | 13.2%\n| 3x     | 20% <background/>\n| 4x     | 26.4%\n| 5x     | 33% <background/>\n<$>"
+      "mainEditor": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks|b Damage Increase\n| 1x     | 6.6% <background/>\n| 2x     | 13.2%\n| 3x     | 20% <background/>\n| 4x     | 26.4%\n| 5x     | 33% <background/>\n<$>\n\nEnhanced: Buff Duration is increased by 2 seconds, to a maximum of 6.5 seconds."
     }
   },
   "4102900702": {
