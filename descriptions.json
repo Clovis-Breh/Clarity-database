@@ -4079,8 +4079,8 @@
     "name": "Planetary Torrent",
     "itemId": 1725917554,
     "itemName": "Vesper of Radius",
-    "lastUpdate": 1649012407051,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649875633669,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -4151,13 +4151,24 @@
       {
         "lineText": [
           {
-            "text": "An Arc Shockwave is cast that deals <# pve> 300 <$><# pvp>[100]<$> damage and heavily knockbacks in a 7.5 meter radius."
+            "text": "An Arc Shockwave is cast that deals "
+          },
+          {
+            "text": " 300 ",
+            "className": "pve"
+          },
+          {
+            "text": " [100] ",
+            "className": "pvp"
+          },
+          {
+            "text": " damage and heavily knockbacks in a 7.5 meter radius."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second.\n\n3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies =\n\n1 second after casting Rift:\nAn Arc Shockwave is cast that deals <# pve> 300 <$><# pvp>[100]<$> damage and heavily knockbacks in a 7.5 meter radius.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second.\n\n3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies =\n\n1 second after casting Rift:\nAn Arc Shockwave is cast that deals <pve 300 /> <pvp [100] /> damage and heavily knockbacks in a 7.5 meter radius.\n"
     }
   },
   "1147638875": {
