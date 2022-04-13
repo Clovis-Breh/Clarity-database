@@ -9075,7 +9075,7 @@
   "2726471870": {
     "id": "2726471870",
     "name": "Thresh",
-    "lastUpdate": 1646866506678,
+    "lastUpdate": 1649870841870,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -9100,10 +9100,20 @@
             "className": "pvp"
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Bonus Super Gains on Kill increased to [?%]."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\n<pvp [PVP] Weapon Kills grant an additional 1% Super Energy. />\n"
+      "mainEditor": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\n<pvp [PVP] Weapon Kills grant an additional 1% Super Energy. />\n\nEnhanced: Bonus Super Gains on Kill increased to [?%]."
     }
   },
   "2779035018": {
