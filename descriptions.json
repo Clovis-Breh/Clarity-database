@@ -13794,6 +13794,69 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nArc Ability Kills grant Conduction Tines for <pve 7 /> <pvp [4] /> seconds. Stacks up to 3x.\n\nAt x1 Conduction Tines\n1.5% Grenade and Melee Ability per Second | 0.45% Super Ability per Second\n\nAt x2 Conduction Tines\n4% Grenade and Melee Ability per Second | dunno about super\n\nAt x3 Conduction Tines\n6.3% Grenade and Melee Ability per Second | 1.7% Super Ability per Second | 66% Slower Super Drain\nSuper Drain affects every Roaming Super BUT Chaos Reach.\n"
     }
   },
+  "3977735242": {
+    "id": 3977735242,
+    "name": "Tracking Module",
+    "lastUpdate": 1649871163693,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            0
+          ]
+        }
+      },
+      "handling": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While aiming-down-sights at an Enemy:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Rockets track enemies "
+          },
+          {
+            "text": " [with diminshed effectiveness] ",
+            "className": "pvp"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Tracking persists for 1 second after not aiming at the enemy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Blast Radius."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies <pvp [with diminshed effectiveness] />\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 4 Blast Radius."
+    }
+  },
   "3999527219": {
     "id": "3999527219",
     "name": "Remote Detonation",
