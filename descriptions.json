@@ -5607,20 +5607,23 @@
   "1583705720": {
     "id": 1583705720,
     "name": "Stats for All",
-    "lastUpdate": 1646865764099,
+    "lastUpdate": 1649870098389,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
           "stat": [
-            30
+            35
+          ],
+          "multiplier": [
+            0.95
           ]
         }
       },
       "reload": {
         "active": {
           "stat": [
-            30
+            35
           ]
         }
       }
@@ -5637,7 +5640,22 @@
       {
         "lineText": [
           {
-            "text": "[?] Range, [?] Stability, 30[?] Handling, and 30[?] Reload Speed for 10 seconds."
+            "text": "[?] Range, [?] Stability, 35 Handling, and 35 Reload Speed (w/0.95x "
+          },
+          {
+            "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
+            "text": "RDS",
+            "className": "title"
+          },
+          {
+            "text": ") for 10 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff can't be refreshed."
           }
         ]
       },
@@ -5647,13 +5665,13 @@
       {
         "lineText": [
           {
-            "text": "Buff can't be refreshed."
+            "text": "Enhanced: Buff Duration is increased by 1 second, to a maximum of 11 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n[?] Range, [?] Stability, 30[?] Handling, and 30[?] Reload Speed for 10 seconds.\r\n\r\nBuff can't be refreshed."
+      "mainEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n[?] Range, [?] Stability, 35 Handling, and 35 Reload Speed (w/0.95x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] />) for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 11 seconds."
     }
   },
   "1600092898": {
