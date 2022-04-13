@@ -11289,7 +11289,7 @@
   "3350417888": {
     "id": "3350417888",
     "name": "Sympathetic Arsenal",
-    "lastUpdate": 1646866306212,
+    "lastUpdate": 1649870686493,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -11312,9 +11312,17 @@
       {
         "lineText": [
           {
-            "text": "Reloads stowed weapons from Reserves."
+            "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
+            "text": "Refreshes",
+            "className": "title"
+          },
+          {
+            "text": " stowed weapons."
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -11334,10 +11342,20 @@
             "className": "formula"
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Reload Timer increased by [?] seconds, up to a maximum of [?] seconds."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Reload within 6 seconds of a Weapon Kill:\nReloads stowed weapons from Reserves.\nPassively grants 18 Reload Speed.\n\n<formula Reload Time: reload_0 />"
+      "mainEditor": "On Reload within 6 seconds of a Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> stowed weapons.\n\nPassively grants 18 Reload Speed.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Reload Timer increased by [?] seconds, up to a maximum of [?] seconds."
     }
   },
   "3365897133": {
