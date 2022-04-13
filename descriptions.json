@@ -12104,7 +12104,7 @@
   "3824105627": {
     "id": "3824105627",
     "name": "Firefly",
-    "lastUpdate": 1646859326170,
+    "lastUpdate": 1649866520860,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -12127,7 +12127,7 @@
       {
         "lineText": [
           {
-            "text": "Target explodes, dealing Solar Damage in a 3 meter Radius. Same size as Dragonfly, but deals 25% increased damage."
+            "text": "Target explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage."
           }
         ]
       },
@@ -12160,10 +12160,20 @@
             "className": "formula"
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: [?] Reload Speed for 6 seconds."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter Radius. Same size as Dragonfly, but deals 25% increased damage.\n45 Reload Speed for 6 seconds.\n\n<highlight_4 Dragonfly Spec does not function. />\n\n<formula Reload Time: reload_0 />"
+      "mainEditor": "On Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\n45 Reload Speed for 6 seconds.\n\n<highlight_4 Dragonfly Spec does not function. />\n\n<formula Reload Time: reload_0 />\n\nEnhanced: [?] Reload Speed for 6 seconds."
     }
   },
   "3824622015": {
