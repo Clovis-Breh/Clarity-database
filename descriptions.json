@@ -7501,7 +7501,7 @@
   "2396489472": {
     "id": "2396489472",
     "name": "Chain Reaction",
-    "lastUpdate": 1646855582392,
+    "lastUpdate": 1649863792275,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -7513,18 +7513,25 @@
         ]
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
             "text": "Not affected by Dragonfly Spec."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Improves Ammo Reserves."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "Weapon Kills create an Elemental Explosion.\n\nNot affected by Dragonfly Spec."
+      "mainEditor": "Weapon Kills create an Elemental Explosion.\nNot affected by Dragonfly Spec.\n\nEnhanced: Improves Ammo Reserves."
     }
   },
   "2450788523": {
