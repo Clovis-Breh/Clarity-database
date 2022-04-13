@@ -8394,11 +8394,45 @@
   "2387244414": {
     "id": "2387244414",
     "name": "Zen Moment",
+    "lastUpdate": 1649871988266,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Stacking Hits:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " Reduces the Maximum Recoil Angle and Weapon Shake. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Removes Reticle Bounce on Controller input."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Stability."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Stacking Hits:\nReduces the Maximum Recoil Angle and Weapon Shake.\nRemoves Reticle Bounce on Controller input.\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Stacking Hits:\n Reduces the Maximum Recoil Angle and Weapon Shake. \nRemoves Reticle Bounce on Controller input.\n\nEnhanced: Passively grants 4 Stability."
+    }
   },
   "2396489472": {
     "id": "2396489472",
