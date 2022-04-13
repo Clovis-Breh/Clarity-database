@@ -6292,13 +6292,13 @@
   "1749209109": {
     "id": 1749209109,
     "name": "Relentless Strikes",
-    "lastUpdate": 1646865281122,
+    "lastUpdate": 1649869747110,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            25
+            0
           ]
         }
       }
@@ -6308,13 +6308,13 @@
       {
         "lineText": [
           {
-            "text": "Powered Swords gain 1 Ammo after 3 Hits within 2(?) seconds of each."
+            "text": "Powered Swords gain 1 Ammo after 3 Hits within 2[?] seconds of each."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Powered Swords gain 1 Ammo after 3 Hits within 2(?) seconds of each."
+      "mainEditor": "Powered Swords gain 1 Ammo after 3 Hits within 2[?] seconds of each."
     }
   },
   "1754714824": {
