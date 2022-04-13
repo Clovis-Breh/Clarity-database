@@ -2961,6 +2961,41 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants <# pve> 25%<$><# pvp> [15%]<$> Damage Resist to Guardians inside your Rift.\n\nUpon reaching Critical Health:\nDearly Departed grants <# pve> 55% <$><# pvp>[27.5%]<$> Class Ability Energy.\nBuff lasts until no longer Critical.\n\nOn Death:\nSpawns a Healing Rift for 15 seconds.\n"
     }
   },
+  "744217850": {
+    "id": 744217850,
+    "name": "Vanguard's Vindication",
+    "lastUpdate": 1649873527361,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "reload": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      },
+      "handling": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      }
+    },
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Regain 7 Health on Kills"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Regain 7 Health on Kills"
+    }
+  },
   "806159697": {
     "id": "806159697",
     "name": "Trench Barrel",
