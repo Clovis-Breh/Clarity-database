@@ -4868,22 +4868,22 @@
   "1428297954": {
     "id": "1428297954",
     "name": "Perpetual Motion",
-    "lastUpdate": 1646864581464,
+    "lastUpdate": 1649869216451,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
           "stat": [
-            10,
-            20
+            5,
+            15
           ]
         }
       },
       "handling": {
         "active": {
           "stat": [
-            10,
-            20
+            5,
+            15
           ]
         }
       },
@@ -4891,7 +4891,7 @@
         "active": {
           "stat": [
             5,
-            10
+            15
           ]
         }
       }
@@ -4915,7 +4915,7 @@
       {
         "lineText": [
           {
-            "text": "Lose ALL Stacks after not moving for over half a second. Works while stowed."
+            "text": "Not moving for 0.5 seconds results in losing all stacks. Works while stowed."
           }
         ]
       },
@@ -4954,15 +4954,18 @@
                 "text": "5"
               },
               {
-                "text": "10"
+                "text": "5"
               },
               {
-                "text": "10"
+                "text": "5"
               }
             ]
           },
           {
             "lineText": [
+              {
+                "text": " "
+              },
               {
                 "text": "In-game:",
                 "className": "bold"
@@ -4972,16 +4975,34 @@
                 "className": "| formula"
               },
               {
+                "text": " "
+              },
+              {
                 "formula": "ready_0",
                 "className": "| formula"
+              },
+              {
+                "text": " "
               }
             ]
           },
           {
             "lineText": [
               {
+                "text": " "
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": " "
+              },
+              {
                 "formula": "stow_0",
                 "className": "| formula"
+              },
+              {
+                "text": " "
               }
             ]
           },
@@ -4992,18 +5013,21 @@
                 "className": "bold"
               },
               {
-                "text": "10"
+                "text": "15"
               },
               {
-                "text": "20"
+                "text": "15"
               },
               {
-                "text": "20"
+                "text": "15"
               }
             ]
           },
           {
             "lineText": [
+              {
+                "text": " "
+              },
               {
                 "text": "In-game:",
                 "className": "bold"
@@ -5013,26 +5037,54 @@
                 "className": "| formula"
               },
               {
+                "text": " "
+              },
+              {
                 "formula": "ready_1",
                 "className": "| formula"
+              },
+              {
+                "text": " "
               }
             ]
           },
           {
             "lineText": [
               {
+                "text": " "
+              },
+              {
+                "text": " "
+              },
+              {
+                "text": " "
+              },
+              {
                 "formula": "stow_1",
                 "className": "| formula"
+              },
+              {
+                "text": " "
               }
             ]
           }
         ],
         "className": "table",
         "formula": false
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Stacks remain for up to 1 second if not moving."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "While moving:\nGain a Stack after 2 seconds and an additional Stack after 10 seconds.\nLose ALL Stacks after not moving for over half a second. Works while stowed.\n\n< table >\n|b Stacks|b Stability|b Reload   |b Handling\n|b x1    | 5         | 10        | 10\n|        |b In-game: | <formula reload_0 /> | <formula ready_0 />\n|        |           |           | <formula stow_0 />\n|b x2    | 10        | 20        | 20\n|        |b In-game: | <formula reload_1 /> | <formula ready_1 />\n|        |           |           | <formula stow_1 />\n<$>"
+      "mainEditor": "While moving:\nGain a Stack after 2 seconds and an additional Stack after 10 seconds.\nNot moving for 0.5 seconds results in losing all stacks. Works while stowed.\n\n< table >\n|b Stacks|b Stability|b Reload   |b Handling\n|b x1    | 5         | 5        | 5\n|        |b In-game: | <formula reload_0 /> | <formula ready_0 />\n|        |           |           | <formula stow_0 />\n|b x2    | 15        | 15        | 15\n|        |b In-game: | <formula reload_1 /> | <formula ready_1 />\n|        |           |           | <formula stow_1 />\n<$>\n\nEnhanced: Stacks remain for up to 1 second if not moving."
     }
   },
   "1431678320": {
