@@ -6866,7 +6866,7 @@
   "2030760728": {
     "id": "2030760728",
     "name": "Energy Transfer",
-    "lastUpdate": 1646858234159,
+    "lastUpdate": 1649866247818,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -6883,10 +6883,20 @@
             "text": "Grants Class Ability Energy based on the amount of damage taken."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Increased Class Ability Energy Gain."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "While Blocking:\nGrants Class Ability Energy based on the amount of damage taken.\n"
+      "mainEditor": "While Blocking:\nGrants Class Ability Energy based on the amount of damage taken.\n\nEnhanced: Increased Class Ability Energy Gain."
     }
   },
   "2039302152": {
