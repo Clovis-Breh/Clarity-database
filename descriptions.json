@@ -1041,7 +1041,7 @@
   "280464955": {
     "id": "280464955",
     "name": "Firmly Planted",
-    "lastUpdate": 1646859496244,
+    "lastUpdate": 1649866657364,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -1071,7 +1071,18 @@
       {
         "lineText": [
           {
-            "text": "30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
+            "text": " 30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": " Effects are halved on Fusion Rifles. ",
+            "className": "bold"
           }
         ]
       },
@@ -1095,10 +1106,20 @@
             "className": "formula"
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: [?] Handling, [?] Stability, -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, -[?]% Recoil Yaw (Horizontal Recoil)"
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "While Crouched:\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
+      "mainEditor": "While Crouched:\n 30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\n\n<bold Effects are halved on Fusion Rifles. />\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: [?] Handling, [?] Stability, -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, -[?]% Recoil Yaw (Horizontal Recoil)"
     }
   },
   "354401740": {
