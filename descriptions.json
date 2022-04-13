@@ -9638,7 +9638,7 @@
   "3016987351": {
     "id": "3016987351",
     "name": "Counterattack",
-    "lastUpdate": 1646856734933,
+    "lastUpdate": 1649865310678,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -9664,10 +9664,20 @@
             "text": "50% Increased damage for 2 seconds."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by [?] seconds, to a maximum of [2+?] seconds."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "Immediately after blocking an attack within 0.5 seconds of starting to Block:\n50% Increased damage for 2 seconds."
+      "mainEditor": "Immediately after blocking an attack within 0.5 seconds of starting to Block:\n50% Increased damage for 2 seconds.\n\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [2+?] seconds."
     }
   },
   "3032599245": {
