@@ -2007,6 +2007,25 @@
       "mainEditor": "On Weapon Kill:\r\nX Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased by [?] and [?] seconds, to a maximum of [?] and [?] seconds respectively."
     }
   },
+  "515704826": {
+    "id": 515704826,
+    "name": "Invader Tracker",
+    "lastUpdate": 1649872750693,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Damaging the Invader with this weapon marks them for allies."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Damaging the Invader with this weapon marks them for allies."
+    }
+  },
   "553093017": {
     "id": 553093017,
     "name": "Beyond The Veil",
