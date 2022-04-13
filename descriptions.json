@@ -7276,8 +7276,8 @@
     "name": "Overflowing Light",
     "itemId": 1341951177,
     "itemName": "Heart of Inmost Light",
-    "lastUpdate": 1649009785825,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649876414114,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -7362,14 +7362,30 @@
       {
         "lineText": [
           {
-            "text": "<# pve>5%<$><# pvp> [2.5%]<$> Melee and Grenade Energy per Second."
+            "text": " 5% ",
+            "className": "pve"
+          },
+          {
+            "text": " [2.5%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Melee and Grenade Energy per Second."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "<# pve>4%<$><# pvp> [2%]<$> Barricade Energy per Second."
+            "text": " 4% ",
+            "className": "pve"
+          },
+          {
+            "text": " [2%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Barricade Energy per Second."
           }
         ]
       },
@@ -7383,7 +7399,29 @@
       {
         "lineText": [
           {
-            "text": "Empowered Grenade: <# pve>20%<$><# pvp> [10%]<$> | <# pve>35%<$><# pvp> [20%]<$> Increased damage."
+            "text": "Empowered Grenade: "
+          },
+          {
+            "text": " 20% ",
+            "className": "pve"
+          },
+          {
+            "text": " [10%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " | "
+          },
+          {
+            "text": " 35% ",
+            "className": "pve"
+          },
+          {
+            "text": " [20%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Increased damage."
           }
         ]
       },
@@ -7396,7 +7434,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAbility use grants Empowered for other abilities for <# pve>11<$><# pvp> [6]<$> seconds, depending on the Ability used.\ne.g.: Barricade -> Empowered Melee and Empowered Grenade.\n\nUsing an Empowered Ability will add a Stack to other abilities, but will consume all the Stacks of the Empowered Ability you just used. (if Stacks are present)\ne.g.: Barricade -> Empowered Grenade -> Barricade (x1) + Melee (x2)\n\nWhile Empowered:\n<# pve>5%<$><# pvp> [2.5%]<$> Melee and Grenade Energy per Second.\n<# pve>4%<$><# pvp> [2%]<$> Barricade Energy per Second.\nEmpowered Melee: 10% | 20% Increased damage.\nEmpowered Grenade: <# pve>20%<$><# pvp> [10%]<$> | <# pve>35%<$><# pvp> [20%]<$> Increased damage.\nEmpowered Barricade: X% | Y% Increased HP.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAbility use grants Empowered for other abilities for <# pve>11<$><# pvp> [6]<$> seconds, depending on the Ability used.\ne.g.: Barricade -> Empowered Melee and Empowered Grenade.\n\nUsing an Empowered Ability will add a Stack to other abilities, but will consume all the Stacks of the Empowered Ability you just used. (if Stacks are present)\ne.g.: Barricade -> Empowered Grenade -> Barricade (x1) + Melee (x2)\n\nWhile Empowered:\n<pve 5% /> <pvp [2.5%] /> Melee and Grenade Energy per Second.\n<pve 4% /> <pvp [2%] /> Barricade Energy per Second.\nEmpowered Melee: 10% | 20% Increased damage.\nEmpowered Grenade: <pve 20% /><pvp [10%] /> | <pve 35% /><pvp [20%] /> Increased damage.\nEmpowered Barricade: X% | Y% Increased HP.\n"
     }
   },
   "1939153390": {
