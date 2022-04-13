@@ -6114,7 +6114,7 @@
   "1771339417": {
     "id": "1771339417",
     "name": "Firing Line",
-    "lastUpdate": 1646859456426,
+    "lastUpdate": 1649866547125,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -6140,10 +6140,20 @@
             "text": "20% Increased Precision Damage"
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Range."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "While within X meters of 2+ Allies:\n20% Increased Precision Damage\n"
+      "mainEditor": "While within X meters of 2+ Allies:\n20% Increased Precision Damage\n\nEnhanced: Passively grants 4 Range."
     }
   },
   "1774574192": {
