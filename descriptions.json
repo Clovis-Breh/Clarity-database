@@ -7919,6 +7919,45 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Kinetic Precision Kill:\nEnemy explodes in an elemental explosion of your currently selected Subclass.\nExplosion Radius and Falloff Distance scale with your Weapon's Range Stat.\n\n<pvp PVP Deals ~200 Damage at epicenter. /> \n"
     }
   },
+  "2209918983": {
+    "id": 2209918983,
+    "name": "Turnabout",
+    "lastUpdate": 1649871346161,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "[?]HP Overshield for 10 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Increases the Overshield duration to 11.4 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n\r\n[?]HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds."
+    }
+  },
   "2213355989": {
     "id": "2213355989",
     "name": "High-Impact Reserves",
