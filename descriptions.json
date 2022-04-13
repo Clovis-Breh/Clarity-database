@@ -8747,7 +8747,7 @@
   "2679249093": {
     "id": "2679249093",
     "name": "One-Two Punch",
-    "lastUpdate": 1646863842927,
+    "lastUpdate": 1649868866290,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -8761,7 +8761,7 @@
       {
         "lineText": [
           {
-            "text": "200% Increased melee damage for 1.5 seconds."
+            "text": "200% Increased melee damage for 1.22 seconds."
           }
         ]
       },
@@ -8778,10 +8778,20 @@
             "text": "80% Increased melee damage if combined with Liar's Handshake."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Pellet Proc Requirement reduced from 12 to 10."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "If All Pellets from a Shotgun Hit:\n200% Increased melee damage for 1.5 seconds.\n350% Increased melee damage against Bosses and Vehicles.\n80% Increased melee damage if combined with Liar's Handshake."
+      "mainEditor": "If All Pellets from a Shotgun Hit:\n200% Increased melee damage for 1.22 seconds.\n350% Increased melee damage against Bosses and Vehicles.\n80% Increased melee damage if combined with Liar's Handshake.\n\nEnhanced: Pellet Proc Requirement reduced from 12 to 10."
     }
   },
   "2726471870": {
