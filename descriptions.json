@@ -873,7 +873,7 @@
   "247725512": {
     "id": "247725512",
     "name": "Rapid Hit",
-    "lastUpdate": 1646864913955,
+    "lastUpdate": 1649869698129,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -939,7 +939,7 @@
                 "text": "1x"
               },
               {
-                "text": "5"
+                "text": "2"
               },
               {
                 "text": "5"
@@ -950,6 +950,9 @@
               {
                 "formula": "reload_0",
                 "className": "| formula"
+              },
+              {
+                "text": " "
               }
             ],
             "className": "background"
@@ -960,7 +963,7 @@
                 "text": "2x"
               },
               {
-                "text": "10"
+                "text": "12"
               },
               {
                 "text": "27"
@@ -971,6 +974,9 @@
               {
                 "formula": "reload_1",
                 "className": "| formula"
+              },
+              {
+                "text": " "
               }
             ]
           },
@@ -980,7 +986,7 @@
                 "text": "3x"
               },
               {
-                "text": "15"
+                "text": "14"
               },
               {
                 "text": "32"
@@ -991,6 +997,9 @@
               {
                 "formula": "reload_2",
                 "className": "| formula"
+              },
+              {
+                "text": " "
               }
             ],
             "className": "background"
@@ -1001,7 +1010,7 @@
                 "text": "4x"
               },
               {
-                "text": "20"
+                "text": "18"
               },
               {
                 "text": "40"
@@ -1012,6 +1021,9 @@
               {
                 "formula": "reload_3",
                 "className": "| formula"
+              },
+              {
+                "text": " "
               }
             ]
           },
@@ -1032,6 +1044,9 @@
               {
                 "formula": "reload_4",
                 "className": "| formula"
+              },
+              {
+                "text": " "
               }
             ],
             "className": "background"
@@ -1042,10 +1057,17 @@
       },
       {
         "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Stronger Effect."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b Reload Time\n| 1x    | 5         | 5           | 0.985x              | <formula reload_0 /><background/>\n| 2x    | 10        | 27          | 0.970x              | <formula reload_1 />\n| 3x    | 15        | 32          | 0.955x              | <formula reload_2 /><background/>\n| 4x    | 20        | 40          | 0.940x              | <formula reload_3 />\n| 5x    | 23        | 54          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\n"
+      "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b Reload Time\n| 1x    | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n| 2x    | 12        | 27          | 0.970x              | <formula reload_1 />\n| 3x    | 14        | 32          | 0.955x              | <formula reload_2 /><background/>\n| 4x    | 18        | 40          | 0.940x              | <formula reload_3 />\n| 5x    | 23        | 54          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect."
     }
   },
   "280464955": {
