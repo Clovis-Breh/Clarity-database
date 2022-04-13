@@ -6156,7 +6156,7 @@
   "1754714824": {
     "id": "1754714824",
     "name": "Kickstart",
-    "lastUpdate": 1646863363009,
+    "lastUpdate": 1649868109013,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -6193,7 +6193,7 @@
       {
         "lineText": [
           {
-            "text": "20% Increased damage and 100ms Faster Charge Time."
+            "text": "20% Increased damage and 100ms increased Charge Rate for [?] seconds. "
           }
         ]
       },
@@ -6203,13 +6203,13 @@
       {
         "lineText": [
           {
-            "text": "Buff can expire mid-burst if you don't immediately start charging."
+            "text": "Enhanced: Buff Duration is increased by [?] seconds, to a maximum of [?+?] seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "During Slide, after Sprinting for 1.5s.\n20% Increased damage and 100ms Faster Charge Time.\n\nBuff can expire mid-burst if you don't immediately start charging."
+      "mainEditor": "During Slide, after Sprinting for 1.5s.\n20% Increased damage and 100ms increased Charge Rate for [?] seconds. \n\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [?+?] seconds."
     }
   },
   "1771339417": {
