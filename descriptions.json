@@ -454,7 +454,7 @@
   "124408337": {
     "id": "124408337",
     "name": "Headstone",
-    "lastUpdate": 1646860557512,
+    "lastUpdate": 1649867352732,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -494,10 +494,20 @@
             "text": "Having 5 crystals active simultaneously incurs in a 5 second cooldown."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Stability"
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Precision Kill:\nSpawns a <stasis/>Stasis Crystal on Enemy Death Location.\nMinors = Medium | Anything Else = Large\n\nHaving 5 crystals active simultaneously incurs in a 5 second cooldown."
+      "mainEditor": "On Precision Kill:\nSpawns a <stasis/>Stasis Crystal on Enemy Death Location.\nMinors = Medium | Anything Else = Large\n\nHaving 5 crystals active simultaneously incurs in a 5 second cooldown.\n\nEnhanced: Passively grants 4 Stability"
     }
   },
   "185514250": {
