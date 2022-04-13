@@ -11688,7 +11688,7 @@
   "3643424744": {
     "id": "3643424744",
     "name": "Overflow",
-    "lastUpdate": 1646864195741,
+    "lastUpdate": 1649869065777,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -11701,7 +11701,7 @@
             "className": "special"
           },
           {
-            "text": "Special | "
+            "text": "Special or "
           },
           {
             "className": "heavy"
@@ -11717,10 +11717,20 @@
             "text": "Magazine gets refilled to 200% of its regular capacity."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Magazine refill gets increased to 205-222% of its regular capacity."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On <special/>Special | <heavy/>Power Ammo Pickup:\nMagazine gets refilled to 200% of its regular capacity."
+      "mainEditor": "On <special/>Special or <heavy/>Power Ammo Pickup:\nMagazine gets refilled to 200% of its regular capacity.\n\nEnhanced: Magazine refill gets increased to 205-222% of its regular capacity."
     }
   },
   "3650930298": {
