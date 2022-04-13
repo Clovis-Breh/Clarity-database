@@ -7896,8 +7896,8 @@
     "name": "Vanishing Shadow",
     "itemId": 2773056939,
     "itemName": "Graviton Forfeit",
-    "lastUpdate": 1649009740839,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649875919071,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -7958,7 +7958,7 @@
       {
         "lineText": [
           {
-            "text": "<& bg> Vanish in Smoke: 7 -> 12 seconds (71% Increase)"
+            "text": "Trapper's Ambush: 7 -> 9 seconds (29% increase)"
           }
         ]
       },
@@ -7966,13 +7966,6 @@
         "lineText": [
           {
             "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase)"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "<& bg>Flawless Execution: 9 -> 15 seconds (66% Increase)"
           }
         ]
       },
@@ -8016,7 +8009,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIncreases the duration of Invisibility effects.\n\nRat King: 6 -> 10 seconds (66% Increase)\n<& bg> Vanish in Smoke: 7 -> 12 seconds (71% Increase)\nVanishing Step: 4.5 -> 7 seconds (44% Increase)\n<& bg>Flawless Execution: 9 -> 15 seconds (66% Increase)\n\nWhile Invisible:\nRegenerates 4% of Melee Ability per second.\nAdditional Enemies within 15 meters will instead increase it to 4.66% | 6.9% | 8.88%\nRecovery Speed set to between T9 and T10\n100 Reload Speed\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIncreases the duration of Invisibility effects.\n\nRat King: 6 -> 10 seconds (66% Increase)\nTrapper's Ambush: 7 -> 9 seconds (29% increase)\nVanishing Step: 4.5 -> 7 seconds (44% Increase)\n\nWhile Invisible:\nRegenerates 4% of Melee Ability per second.\nAdditional Enemies within 15 meters will instead increase it to 4.66% | 6.9% | 8.88%\nRecovery Speed set to between T9 and T10\n100 Reload Speed\n"
     }
   },
   "2172504645": {
