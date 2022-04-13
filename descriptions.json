@@ -4489,7 +4489,7 @@
   "1275731761": {
     "id": "1275731761",
     "name": "Cluster Bomb",
-    "lastUpdate": 1646856476057,
+    "lastUpdate": 1649864675978,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -4501,25 +4501,15 @@
         ]
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
-            "text": "Each Cluster Bomb deals up to 75 damage"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "[10 Light Level, and that is around a single Hand Cannon shot]"
+            "text": "Each Cluster Bomb deals roughly 3% to the total rocket damage."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Explosion releases 8 Cluster Bombs, which further increase the effective damage radius and the overall damage.\n\nEach Cluster Bomb deals up to 75 damage\n[10 Light Level, and that is around a single Hand Cannon shot]"
+      "mainEditor": "Explosion releases 8 Cluster Bombs, which further increase the effective damage radius and the overall damage.\nEach Cluster Bomb deals roughly 3% to the total rocket damage."
     }
   },
   "1331592343": {
