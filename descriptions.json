@@ -14497,6 +14497,34 @@
       "mainEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies <pvp [with diminshed effectiveness] />\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 4 Blast Radius."
     }
   },
+  "3989629871": {
+    "id": 3989629871,
+    "name": "Skulking Wolf",
+    "lastUpdate": 1649873312164,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "reload": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      }
+    },
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar."
+    }
+  },
   "3999527219": {
     "id": "3999527219",
     "name": "Remote Detonation",
