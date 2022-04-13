@@ -13893,7 +13893,7 @@
     "name": "Grasp of the Devourer",
     "itemId": "2780717641",
     "itemName": "Necrotic Grip",
-    "lastUpdate": 1649875492108,
+    "lastUpdate": 1649876684506,
     "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
@@ -13993,13 +13993,14 @@
       {
         "lineText": [
           {
-            "text": "<# highlight_3>Thorn Kills, as well as enemies poisoned by Thorn spread poison on death.<$>"
+            "text": " Thorn Kills, as well as enemies poisoned by Thorn spread poison on death. ",
+            "className": "highlight_3"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMelee Hit applies poison.\nPoison deals up to 680% the total damage of Melee Damage. <pvp [30 Damage] />\nBosses take an additional 80% damage.\n\nInitial Poison tick deals 18% of Melee damage, while the last tick deals 54%.\nEach successive Poison tick deals 9% more damage. Lasts 19 ticks.\n\nPoisoned enemies spread the poison on death on a 3 meter radius.\n\n<# highlight_3>Thorn Kills, as well as enemies poisoned by Thorn spread poison on death.<$>\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMelee Hit applies poison.\nPoison deals up to 680% the total damage of Melee Damage. <pvp [30 Damage] />\nBosses take an additional 80% damage.\n\nInitial Poison tick deals 18% of Melee damage, while the last tick deals 54%.\nEach successive Poison tick deals 9% more damage. Lasts 19 ticks.\n\nPoisoned enemies spread the poison on death on a 3 meter radius.\n\n<highlight_3 Thorn Kills, as well as enemies poisoned by Thorn spread poison on death. />\n"
     }
   },
   "3865257976": {
