@@ -5478,6 +5478,35 @@
       "mainEditor": "On Precision Kill:\n63 Reload Speed with 0.9x Duration Multiplier for 6 seconds.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Duration increased to [?] seconds."
     }
   },
+  "1536798515": {
+    "id": 1536798515,
+    "name": "Land Tank",
+    "lastUpdate": 1649872837424,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Kills grant 10 Resilience and 5% Damage Resist against Combatants."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "5 second duration. Stacks up to 3 times."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Kills grant 10 Resilience and 5% Damage Resist against Combatants.\r\n\r\n5 second duration. Stacks up to 3 times."
+    }
+  },
   "1546637391": {
     "id": "1546637391",
     "name": "Vorpal Weapon",
