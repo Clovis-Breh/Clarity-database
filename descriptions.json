@@ -15117,6 +15117,46 @@
       "mainEditor": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks|b Damage Increase\n| 1x     | 6.6% <background/>\n| 2x     | 13.2%\n| 3x     | 20% <background/>\n| 4x     | 26.4%\n| 5x     | 33% <background/>\n<$>\n\nEnhanced: Buff Duration is increased by 2 seconds, to a maximum of 6.5 seconds."
     }
   },
+  "4091460919": {
+    "id": 4091460919,
+    "name": "One Quiet Moment",
+    "lastUpdate": 1649872958264,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "reload": {
+        "active": {
+          "stat": [
+            40
+          ]
+        }
+      }
+    },
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "40 Reload while Out-of-Combat"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "40 Reload while Out-of-Combat\r\n\r\n<formula Reload Time: reload_0 />"
+    }
+  },
   "4102900702": {
     "id": "4102900702",
     "name": "Touch of Venom",
