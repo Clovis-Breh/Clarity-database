@@ -4,8 +4,8 @@
     "name": "Chaotic Exchanger",
     "itemId": "1906093346",
     "itemName": "Contraverse Hold",
-    "lastUpdate": 1649009339244,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649875340194,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -66,7 +66,18 @@
       {
         "lineText": [
           {
-            "text": "Grenade Hits grant Chaotic Exchange, granting X% [X%] Grenade Ability over 1.75 seconds."
+            "text": "Grenade Hits grant Chaotic Exchange, granting "
+          },
+          {
+            "text": " 30% ",
+            "className": "pve"
+          },
+          {
+            "text": " [X%]",
+            "className": "pvp"
+          },
+          {
+            "text": " Grenade Ability over 1.75 seconds."
           }
         ]
       },
@@ -89,7 +100,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting X% [X%] Grenade Ability over 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting <pve 30% /> <pvp [X%]/> Grenade Ability over 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks.\n"
     }
   },
   "11612903": {
