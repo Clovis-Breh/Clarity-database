@@ -10121,8 +10121,8 @@
     "name": "Dynamic Duo",
     "itemId": "3084282676",
     "itemName": "Getaway Artist",
-    "lastUpdate": 1649009706846,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649875428152,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -10176,7 +10176,14 @@
       {
         "lineText": [
           {
-            "text": "Sentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal <# pvp>11 Damage<$>."
+            "text": "Sentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal "
+          },
+          {
+            "text": " 11 Damage ",
+            "className": "pvp"
+          },
+          {
+            "text": "."
           }
         ]
       },
@@ -10212,7 +10219,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nHolding [Grenade] summons a Sentient Arc Soul for 20 seconds.\n\nSentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal <# pvp>11 Damage<$>.\n\nIf the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy.\n\nStanding in an Arc Soul Rift refreshes the duration of Sentient Arc Soul.\n\nConverts all the Arc Souls you receive to Sentient Arc Souls.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nHolding [Grenade] summons a Sentient Arc Soul for 20 seconds.\n\nSentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal <pvp 11 Damage />.\n\nIf the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy.\n\nStanding in an Arc Soul Rift refreshes the duration of Sentient Arc Soul.\n\nConverts all the Arc Souls you receive to Sentient Arc Souls.\n"
     }
   },
   "2839173408": {
