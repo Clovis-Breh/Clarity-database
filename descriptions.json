@@ -13627,8 +13627,8 @@
     "name": "Burning Souls",
     "itemId": "3562696927",
     "itemName": "Wormhusk Crown",
-    "lastUpdate": 1649012411663,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649876217897,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -13679,13 +13679,13 @@
       {
         "lineText": [
           {
-            "text": "Heals 44HP."
+            "text": "Heals 67HP."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Dodge:\nHeals 44HP.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Dodge:\nHeals 67HP.\n"
     }
   },
   "3796465595": {
