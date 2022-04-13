@@ -4390,7 +4390,7 @@
   "1264398905": {
     "id": "1264398905",
     "name": "Celerity",
-    "lastUpdate": 1646855533977,
+    "lastUpdate": 1649863764182,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -4427,7 +4427,7 @@
       {
         "lineText": [
           {
-            "text": "100 Handling, 100 Reload, 100 Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS."
+            "text": "100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS."
           }
         ]
       },
@@ -4473,7 +4473,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "While Last Guardian Standing:\n100 Handling, 100 Reload, 100 Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nPassively grants 18 Handling and 18 Reload Speed"
+      "mainEditor": "While Last Guardian Standing:\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nPassively grants 18 Handling and 18 Reload Speed"
     }
   },
   "1275731761": {
