@@ -12565,11 +12565,46 @@
   "3592538738": {
     "id": "3592538738",
     "name": "Wellspring",
+    "lastUpdate": 1649871925574,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 8% Ability Energy split equally amongst all uncharged abilities."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES ",
+            "className": "highlight_3"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Weapon Kill:\nGrants 7.5% Ability Energy split equally to all uncharged abilities.\n*BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES*\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n<highlight_3 BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities."
+    }
   },
   "3643424744": {
     "id": "3643424744",
