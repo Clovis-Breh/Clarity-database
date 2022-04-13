@@ -14598,6 +14598,41 @@
       "mainEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies <pvp [with diminshed effectiveness] />\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 4 Blast Radius."
     }
   },
+  "3988215619": {
+    "id": 3988215619,
+    "name": "Veist Stinger",
+    "lastUpdate": 1649873549780,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "reload": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      },
+      "handling": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      }
+    },
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Hits have a [?]% chance to refresh [?]% of your magazine."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Hits have a [?]% chance to refresh [?]% of your magazine."
+    }
+  },
   "3989629871": {
     "id": 3989629871,
     "name": "Skulking Wolf",
