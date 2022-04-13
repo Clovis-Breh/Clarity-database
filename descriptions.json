@@ -4509,27 +4509,20 @@
   "1275731761": {
     "id": "1275731761",
     "name": "Cluster Bomb",
-    "lastUpdate": 1649864675978,
+    "lastUpdate": 1649865872020,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Explosion releases 8 Cluster Bombs, which further increase the effective damage radius and the overall damage."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Each Cluster Bomb deals roughly 3% to the total rocket damage."
+            "text": "Explosion releases 8 Cluster Bombs. Each Cluster Bomb deals an additional 3% damage."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Explosion releases 8 Cluster Bombs, which further increase the effective damage radius and the overall damage.\nEach Cluster Bomb deals roughly 3% to the total rocket damage."
+      "mainEditor": "Explosion releases 8 Cluster Bombs. Each Cluster Bomb deals an additional 3% damage."
     }
   },
   "1331592343": {
