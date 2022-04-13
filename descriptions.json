@@ -12248,7 +12248,7 @@
   "3700496672": {
     "id": "3700496672",
     "name": "Shoot to Loot",
-    "lastUpdate": 1646865409591,
+    "lastUpdate": 1649869871003,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12272,10 +12272,20 @@
             "text": "Triggers Ammo Pickup effects. 4 second Cooldown."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Range."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "After Shooting an Ammo Pickup:\nPicks up the Ammo and Refreshes all your Weapons.\nTriggers Ammo Pickup effects. 4 second Cooldown."
+      "mainEditor": "After Shooting an Ammo Pickup:\nPicks up the Ammo and Refreshes all your Weapons.\nTriggers Ammo Pickup effects. 4 second Cooldown.\n\nEnhanced: Passively grants 4 Range."
     }
   },
   "3705817207": {
