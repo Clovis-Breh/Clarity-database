@@ -9541,7 +9541,7 @@
   "2866798147": {
     "id": "2866798147",
     "name": "No Distractions",
-    "lastUpdate": 1646863817313,
+    "lastUpdate": 1649868481119,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -9560,12 +9560,9 @@
         ]
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
-            "text": "Stacks multiplicatively with Unflinching Armor Mods."
+            "text": "Timer starts as soon as the ADS input is pressed."
           }
         ]
       },
@@ -9575,13 +9572,13 @@
       {
         "lineText": [
           {
-            "text": "Would be the equivalent of 2 Unflinching Armor Mods if the second Unflinching Mod wasn't bugged."
+            "text": "Enhanced: Aiming-Down-Sights timer is reduced to [?] seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\n\nStacks multiplicatively with Unflinching Armor Mods.\n\nWould be the equivalent of 2 Unflinching Armor Mods if the second Unflinching Mod wasn't bugged."
+      "mainEditor": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\nTimer starts as soon as the ADS input is pressed.\n\nEnhanced: Aiming-Down-Sights timer is reduced to [?] seconds."
     }
   },
   "2869569095": {
