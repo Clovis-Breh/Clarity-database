@@ -3570,7 +3570,7 @@
   "1015611457": {
     "id": "1015611457",
     "name": "Kill Clip",
-    "lastUpdate": 1646863396847,
+    "lastUpdate": 1649868131822,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -3603,10 +3603,20 @@
             "text": "Buff can't be refreshed. Persists through stow."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5.5 seconds."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\n33% Increased damage for 5 seconds.\nBuff can't be refreshed. Persists through stow."
+      "mainEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\n33% Increased damage for 5 seconds.\nBuff can't be refreshed. Persists through stow.\n\nEnhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5.5 seconds."
     }
   },
   "1047830412": {
