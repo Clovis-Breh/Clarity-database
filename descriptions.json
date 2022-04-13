@@ -14289,20 +14289,20 @@
   "3999527219": {
     "id": "3999527219",
     "name": "Remote Detonation",
-    "lastUpdate": 1646865218621,
+    "lastUpdate": 1649872245766,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Fires a slower grenade projectile that bounces and detonates on trigger release."
+            "text": "Fires a grenade projectile that bounces and detonates on trigger release."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Fires a slower grenade projectile that bounces and detonates on trigger release.\n"
+      "mainEditor": "Fires a grenade projectile that bounces and detonates on trigger release.\n"
     }
   },
   "4024170927": {
