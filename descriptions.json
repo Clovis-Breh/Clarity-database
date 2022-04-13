@@ -14610,6 +14610,34 @@
       "mainEditor": "Fires a grenade projectile that bounces and detonates on trigger release.\n"
     }
   },
+  "4008116374": {
+    "id": 4008116374,
+    "name": "Suros Synergy",
+    "lastUpdate": 1649873427303,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "reload": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      }
+    },
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds."
+    }
+  },
   "4024170927": {
     "id": 4024170927,
     "name": "Misdirection",
