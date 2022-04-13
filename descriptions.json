@@ -7050,11 +7050,47 @@
   "1954620775": {
     "id": "1954620775",
     "name": "Timed Payload",
+    "lastUpdate": 1649870993267,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Splits 55% of Damage into an Explosive Damage portion that deals "
+          },
+          {
+            "text": " 30% Increased Damage ",
+            "className": "pve"
+          },
+          {
+            "text": " and has no damage falloff. Detonates after 0.6 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": " [PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio.",
+            "className": "pve"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " [PVP] Total damage remains (almost) the same.",
+            "className": "pvp"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nSplits 55% of Damage into an Explosive Damage portion that deals <# pve> 30% Increased Damage<$> and has no damage falloff. Detonates after 0.6 seconds.\n<# pve>[PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio.<$>\n<# pvp>[PVP] Total damage remains (almost) the same.<$>\n"
-    },
-    "lastUpdate": 1645664040605
+      "mainEditor": "Splits 55% of Damage into an Explosive Damage portion that deals <pve 30% Increased Damage /> and has no damage falloff. Detonates after 0.6 seconds.\n\n<pve [PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio./>\n<pvp [PVP] Total damage remains (almost) the same./>"
+    }
   },
   "1968497646": {
     "id": "1968497646",
