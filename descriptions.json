@@ -1435,7 +1435,7 @@
   "460017080": {
     "id": "460017080",
     "name": "Headseeker",
-    "lastUpdate": 1646860522664,
+    "lastUpdate": 1649867318152,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -1454,10 +1454,20 @@
             "text": "Precision Hits within 0.3 seconds of hitting a bodyshot deal 8% increased damage."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Stability."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "Precision Hits within 0.3 seconds of hitting a bodyshot deal 8% increased damage."
+      "mainEditor": "Precision Hits within 0.3 seconds of hitting a bodyshot deal 8% increased damage.\r\n\r\nEnhanced: Passively grants 4 Stability."
     }
   },
   "466087222": {
