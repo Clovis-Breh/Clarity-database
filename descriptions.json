@@ -13786,10 +13786,8 @@
   "3913600130": {
     "id": "3913600130",
     "name": "Whirlwind Blade",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Hit:\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds.\nBlocking removes all Stacks.\n"
-    },
+    "lastUpdate": 1649871970673,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
@@ -13808,7 +13806,33 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Hit:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blocking removes all Stacks."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Hit:\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. \nBlocking removes all Stacks."
+    }
   },
   "3927722942": {
     "id": "3927722942",
