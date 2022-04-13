@@ -8108,6 +8108,54 @@
       "mainEditor": "As Magazine goes below 50%, until empty: \n<pve [PVE] 12.1% to 25.6% Increased damage.  />\n<pvp [PVP] 3% to 6% Increased damage. />\n\nEnhanced: Activates at the 75% Magazine Threshold."
     }
   },
+  "2224838837": {
+    "id": 2224838837,
+    "name": "Unstoppable Force",
+    "lastUpdate": 1649871783422,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            30
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon blocking damage with your Glaive Shield:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "30% increased projectile damage for 4 seconds or until you stop blocking. Hits refresh duration."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by 1 second, to a maximum of 5 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\n30% increased projectile damage for 4 seconds or until you stop blocking. Hits refresh duration.\r\n\r\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 5 seconds."
+    }
+  },
   "2244851822": {
     "id": "2244851822",
     "name": "Flash Counter",
