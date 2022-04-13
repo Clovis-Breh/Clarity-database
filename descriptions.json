@@ -10134,6 +10134,35 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nHolding [Grenade] summons a Sentient Arc Soul for 20 seconds.\n\nSentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal <# pvp>11 Damage<$>.\n\nIf the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy.\n\nStanding in an Arc Soul Rift refreshes the duration of Sentient Arc Soul.\n\nConverts all the Arc Souls you receive to Sentient Arc Souls.\n"
     }
   },
+  "2839173408": {
+    "id": 2839173408,
+    "name": "Omolon Fluid Dynamics",
+    "lastUpdate": 1649872878929,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "The top half of the magazine has increased reload speed and stability."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Up to 20 Stability and 30 Reload, the bonus decreases as the magazine gets lower."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "The top half of the magazine has increased reload speed and stability.\r\n\r\nUp to 20 Stability and 30 Reload, the bonus decreases as the magazine gets lower."
+    }
+  },
   "2846385770": {
     "id": "2846385770",
     "name": "Rangefinder",
