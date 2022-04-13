@@ -5503,7 +5503,7 @@
   "1631667848": {
     "id": "1631667848",
     "name": "Grave Robber",
-    "lastUpdate": 1646860420329,
+    "lastUpdate": 1649867170567,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -5520,10 +5520,20 @@
             "text": "Weapons get refreshed."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Reload Speed."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Melee Kill:\nWeapons get refreshed."
+      "mainEditor": "On Melee Kill:\nWeapons get refreshed.\n\nEnhanced: Passively grants 4 Reload Speed."
     }
   },
   "1645158859": {
