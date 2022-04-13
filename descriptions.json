@@ -10891,13 +10891,13 @@
   "3337692349": {
     "id": 3337692349,
     "name": "Mulligan",
-    "lastUpdate": 1649868425934,
+    "lastUpdate": 1649868430760,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "aimAssist": {
         "passive": {
           "stat": [
-            10
+            0
           ]
         }
       }
