@@ -10794,6 +10794,69 @@
       "mainEditor": "On Elemental or Barrier Champion's Shield Break:\nRefreshes magazine.\n\nEnergy Weapons generate 1 Ammo against Matching Elemental Shields per hit.\n\nEnhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
     }
   },
+  "3108830275": {
+    "id": 3108830275,
+    "name": "Unrelenting",
+    "lastUpdate": 1649871446993,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Rank-And-File give ONE point."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Guardians give TWO points."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Elites/Minibosses/Bosses give THREE points."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Weapon Kills must be within 8(?) seconds of each."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Handling."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points.\r\n\r\nRank-And-File give ONE point.\r\nGuardians give TWO points.\r\nElites/Minibosses/Bosses give THREE points.\r\n\r\nWeapon Kills must be within 8(?) seconds of each.\r\n\r\nEnhanced: Passively grants 4 Handling."
+    }
+  },
   "3161816588": {
     "id": "3161816588",
     "name": "Slideshot",
