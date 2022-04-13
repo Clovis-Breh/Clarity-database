@@ -11987,6 +11987,45 @@
       "mainEditor": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Grenade Ability Energy. [MOST] <special/>Special Weapons grant 20%.\n\nUsing your Grenade Ability <title refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> Magazine. 3 Second Cooldown.\n\nEnhanced: Kills with Primary Weapons and Power Weapons grant 11% Grenade Ability Energy. [Most] Special Weapons grant 22%"
     }
   },
+  "3526486541": {
+    "id": 3526486541,
+    "name": "Tilting at Windmills",
+    "lastUpdate": 1649870886738,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon blocking damage with your Glaive Shield:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Mobility[?] by [?] for [?] seconds, or until you stop blocking."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by [?] seconds, to a maximum of [?] seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\nIncreases Mobility[?] by [?] for [?] seconds, or until you stop blocking.\r\n\r\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [?] seconds."
+    }
+  },
   "3551326236": {
     "id": "3551326236",
     "name": "Rampage",
