@@ -6465,7 +6465,7 @@
   "1866048759": {
     "id": "1866048759",
     "name": "Hip-Fire Grip",
-    "lastUpdate": 1646860998379,
+    "lastUpdate": 1649867609332,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
@@ -6488,14 +6488,14 @@
       {
         "lineText": [
           {
-            "text": "While hipfiring:"
+            "text": "If hipfiring:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "1.2x: Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance"
+            "text": "1.2x Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance"
           }
         ]
       },
@@ -6515,13 +6515,23 @@
       {
         "lineText": [
           {
-            "text": "Damage Falloff Start and End Distance does not apply to Shotguns, Sniper Rifles, and Fusion Rifles."
+            "text": "Damage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Stronger Effect."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "While hipfiring:\n1.2x: Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance\n\n15 Aim Assist, +2.7 degrees precision angle threshold, ~-30% Accuracy Cone Size and ~30 Stability.\n\nDamage Falloff Start and End Distance does not apply to Shotguns, Sniper Rifles, and Fusion Rifles."
+      "mainEditor": "If hipfiring:\n1.2x Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance\n\n15 Aim Assist, +2.7 degrees precision angle threshold, ~-30% Accuracy Cone Size and ~30 Stability.\n\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\n\nEnhanced: Stronger Effect."
     }
   },
   "1890422124": {
