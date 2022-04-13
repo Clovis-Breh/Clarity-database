@@ -14809,8 +14809,8 @@
     "name": "Misdirection",
     "itemId": 1163283805,
     "itemName": "Gemini Jester",
-    "lastUpdate": 1649009694292,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649875826325,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -14871,14 +14871,16 @@
       {
         "lineText": [
           {
-            "text": "<# pve> Misdirection disorients minors and elites for 5 seconds.<$>"
+            "text": " Misdirection disorients minors and elites for 5 seconds. ",
+            "className": "pve"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "<# pvp> Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding.<$>"
+            "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding. ",
+            "className": "pvp"
           }
         ]
       },
@@ -14894,7 +14896,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Dodge:\nApplies Misdirection to enemies within 22 meters.\n\n<# pve> Misdirection disorients minors and elites for 5 seconds.<$>\n<# pvp> Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding.<$>\n\nMisdirection also deals 1 damage.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Dodge:\nApplies Misdirection to enemies within 22 meters.\n\n<pve Misdirection disorients minors and elites for 5 seconds. />\n<pvp Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding. />\n\nMisdirection also deals 1 damage.\n"
     }
   },
   "4048389864": {
