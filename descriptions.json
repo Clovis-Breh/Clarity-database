@@ -14182,7 +14182,7 @@
     "name": "New Tricks",
     "itemId": 1053737370,
     "itemName": "Shinobu's Vow",
-    "lastUpdate": 1649876130956,
+    "lastUpdate": 1649876645028,
     "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
@@ -14271,7 +14271,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants an extra Skip Grenade Charge.\neven if Reddit says otherwise\n\nSkip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively.\n\nHits with Skip Grenades grant <pve X% /><pvp [X/3] /> Grenade Energy.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants an extra Skip Grenade Charge.\neven if Reddit says otherwise\n\nSkip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively.\n\nHits with Skip Grenades grant <pve X% /> <pvp [X/3] /> Grenade Energy.\n"
     }
   },
   "3913600130": {
