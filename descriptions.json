@@ -5921,6 +5921,74 @@
       "mainEditor": "For 4 seconds after readying a Fusion Rifle:\nMultiplies Charge Time by 0.7\n20% Reduced damage\n100 Handling\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
     }
   },
+  "1607056502": {
+    "id": 1607056502,
+    "name": "Hakke Breach Armaments",
+    "lastUpdate": 1649872639920,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            0
+          ]
+        }
+      },
+      "reload": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      },
+      "stability": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      },
+      "aimAssist": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      },
+      "range": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      }
+    },
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "15% Increased Damage against "
+          },
+          {
+            "linkUrl": "https://d2clarity.page.link/combatant",
+            "linkText": "Vehicles",
+            "className": "link"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "30% Increased Damage against Turrets, Barricades, and Stasis Crystals."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "15% Increased Damage against <link https://d2clarity.page.link/combatant Vehicles/>\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals."
+    }
+  },
   "1631667848": {
     "id": "1631667848",
     "name": "Grave Robber",
