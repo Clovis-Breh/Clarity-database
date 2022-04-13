@@ -1931,20 +1931,20 @@
   "509074078": {
     "id": 509074078,
     "name": "Steady Hands",
-    "lastUpdate": 1646865810269,
+    "lastUpdate": 1649870127235,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
           "stat": [
-            30
+            0
           ]
         }
       },
       "reload": {
         "active": {
           "stat": [
-            30
+            0
           ]
         }
       }
@@ -1974,10 +1974,20 @@
             "text": "Can be refreshed to up to 6 seconds."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by [?] and [?] seconds, to a maximum of [?] and [?] seconds respectively."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\r\nX Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds."
+      "mainEditor": "On Weapon Kill:\r\nX Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased by [?] and [?] seconds, to a maximum of [?] and [?] seconds respectively."
     }
   },
   "553093017": {
