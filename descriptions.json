@@ -15824,8 +15824,8 @@
     "name": "Ursine Guard",
     "itemId": 1848640623,
     "itemName": "Ursa Furiosa",
-    "lastUpdate": 1649012354815,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649876800496,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -15889,13 +15889,15 @@
       {
         "lineText": [
           {
-            "text": "<& center><# highlight_2>Overshields prevent damage into Super Energy conversion so don't stand in a Well of Radiance.<$>"
+            "text": " Overshields prevent damage into Super Energy conversion so don't stand in a Well of Radiance. ",
+            "className": "highlight_2"
           }
-        ]
+        ],
+        "className": "center center"
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMove forward at 90% your speed while blocking with Sentinel Shield.\n\nConverts incoming damage into Super Energy after Super ends, up to 50%.\n\n<& center><# highlight_2>Overshields prevent damage into Super Energy conversion so don't stand in a Well of Radiance.<$>\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMove forward at 90% your speed while blocking with Sentinel Shield.\n\nConverts incoming damage into Super Energy after Super ends, up to 50%.\n\n<center/><highlight_2 Overshields prevent damage into Super Energy conversion so don't stand in a Well of Radiance. /><center/>\n"
     }
   },
   "4252909580": {
