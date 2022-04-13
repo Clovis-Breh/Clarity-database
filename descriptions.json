@@ -2594,7 +2594,7 @@
   "699525795": {
     "id": "699525795",
     "name": "Eye of the Storm",
-    "lastUpdate": 1646858603021,
+    "lastUpdate": 1649866354945,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -2630,10 +2630,20 @@
             "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Stability."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "While at Low Health:\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n"
+      "mainEditor": "While at Low Health:\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\nEnhanced: Passively grants 4 Stability."
     }
   },
   "706527188": {
