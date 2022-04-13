@@ -1435,13 +1435,13 @@
   "460017080": {
     "id": "460017080",
     "name": "Headseeker",
-    "lastUpdate": 1649867318152,
+    "lastUpdate": 1649867326020,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            1.08
+            8
           ]
         }
       }
