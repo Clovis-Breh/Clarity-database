@@ -7915,7 +7915,7 @@
   "2458213969": {
     "id": "2458213969",
     "name": "Multikill Clip",
-    "lastUpdate": 1646863675995,
+    "lastUpdate": 1649868391557,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -7940,7 +7940,7 @@
       {
         "lineText": [
           {
-            "text": "17% | 33% | 50% Increased damage, depending on the amount of enemies killed within X seconds of each."
+            "text": "17% | 33% | 50% Increased damage for 5 seconds, depending on the amount of enemies killed within X seconds of each."
           }
         ]
       },
@@ -7950,10 +7950,20 @@
             "text": "Buff is overwritten every time you refresh it."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5.5 seconds."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage, depending on the amount of enemies killed within X seconds of each.\nBuff is overwritten every time you refresh it."
+      "mainEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage for 5 seconds, depending on the amount of enemies killed within X seconds of each.\nBuff is overwritten every time you refresh it.\n\nEnhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5.5 seconds."
     }
   },
   "2500502982": {
