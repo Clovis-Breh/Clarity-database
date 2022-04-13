@@ -8056,8 +8056,8 @@
     "name": "Roving Assassin",
     "itemId": "1474735276",
     "itemName": "Gwisin Vest",
-    "lastUpdate": 1649009745730,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649875940027,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -8125,20 +8125,22 @@
       {
         "lineText": [
           {
-            "text": "<# pve> 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 <$>"
+            "text": " 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 ",
+            "className": "pve"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "<# pvp> 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7<$>"
+            "text": " 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7 ",
+            "className": "pvp"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nDuring Spectral Blade\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\n\nSuper Energy % gains based on kills\n<# pve> 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 <$>\n<# pvp> 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7<$>\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nDuring Spectral Blade\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\n\nSuper Energy % gains based on kills\n<pve 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 />\n<pvp 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7 />\n"
     }
   },
   "2204713148": {
