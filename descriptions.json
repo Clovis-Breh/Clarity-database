@@ -6563,7 +6563,7 @@
   "1820235745": {
     "id": "1820235745",
     "name": "Subsistence",
-    "lastUpdate": 1646865837678,
+    "lastUpdate": 1649870157958,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -6587,10 +6587,20 @@
             "text": "Amount varies between Weapon Archetypes"
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Magazine Refresh increased to 25%"
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\nRefreshes 10-17% of Magazine.\nAmount varies between Weapon Archetypes"
+      "mainEditor": "On Weapon Kill:\nRefreshes 10-17% of Magazine.\nAmount varies between Weapon Archetypes\n\nEnhanced: Magazine Refresh increased to 25%"
     }
   },
   "1844314558": {
