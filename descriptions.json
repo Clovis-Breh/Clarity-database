@@ -11311,7 +11311,7 @@
   "3425386926": {
     "id": "3425386926",
     "name": "Rampage",
-    "lastUpdate": 1646864750836,
+    "lastUpdate": 1649869492415,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -11336,20 +11336,40 @@
       {
         "lineText": [
           {
-            "text": "Stacking 10% | 21% | 33.1% Increased damage for 3.5 seconds."
+            "text": "Stacking 10% | 21% | 33.1% increased damage for 3.5 seconds."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Buff Refreshed on Kill."
+            "text": "Buff Refreshed on Kill. "
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 4 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Rampage Spec adds an additional 1 second to both regular and enhanced."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n"
+      "mainEditor": "On Weapon Kill:\nStacking 10% | 21% | 33.1% increased damage for 3.5 seconds.\nBuff Refreshed on Kill. \n\nEnhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 4 seconds.\n\nRampage Spec adds an additional 1 second to both regular and enhanced."
     }
   },
   "3436462433": {
