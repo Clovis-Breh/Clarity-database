@@ -12091,6 +12091,44 @@
       "mainEditor": "On Reload within 6 seconds of a Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> stowed weapons.\n\nPassively grants 18 Reload Speed.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Reload Timer increased by [?] seconds, up to a maximum of [?] seconds."
     }
   },
+  "3363267119": {
+    "id": 3363267119,
+    "name": "Souldrinker",
+    "lastUpdate": 1649873345775,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "reload": {
+        "active": {
+          "stat": [
+            0
+          ]
+        }
+      }
+    },
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Regenerates Health on reload based on the amount of hits before reload."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "% Magazine Based"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\n% Magazine Based"
+    }
+  },
   "3365897133": {
     "id": "3365897133",
     "name": "Explosive Head",
