@@ -5229,7 +5229,7 @@
   "1556840489": {
     "id": "1556840489",
     "name": "Lead from Gold",
-    "lastUpdate": 1646863534154,
+    "lastUpdate": 1649868339104,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -5246,10 +5246,20 @@
             "text": " Grants almost the equivalent of 1 Special Ammo Pickup."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": " Enhanced: Increases the amount of Special Ammo received."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Power Ammo Pickup:\n Grants almost the equivalent of 1 Special Ammo Pickup."
+      "mainEditor": "On Power Ammo Pickup:\n Grants almost the equivalent of 1 Special Ammo Pickup.\n\n Enhanced: Increases the amount of Special Ammo received."
     }
   },
   "1561002382": {
