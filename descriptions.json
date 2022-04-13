@@ -3304,14 +3304,14 @@
   "908147344": {
     "id": "908147344",
     "name": "Sneak Bow",
-    "lastUpdate": 1646865717156,
+    "lastUpdate": 1649869974971,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "If Crouched:"
+            "text": "While Crouched:"
           }
         ]
       },
@@ -3324,7 +3324,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "If Crouched:\nPrevents Radar Ping from shooting, [?] Reload Speed (w/ [?] multiplier), and increases hold time by 25%\n"
+      "mainEditor": "While Crouched:\nPrevents Radar Ping from shooting, [?] Reload Speed (w/ [?] multiplier), and increases hold time by 25%"
     }
   },
   "926349161": {
