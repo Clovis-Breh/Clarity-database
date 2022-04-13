@@ -9376,7 +9376,7 @@
   "2869569095": {
     "id": "2869569095",
     "name": "Field Prep",
-    "lastUpdate": 1646859175481,
+    "lastUpdate": 1649866421285,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -9452,10 +9452,20 @@
             "className": "formula"
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: [?] Reload Speed with [?] Multiplier and [?] Ready/Stow Animation Duration Multiplier. Greatly increased Ammo Reserves."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "While Crouched:\n45 Reload Speed with 0.8x Multiplier and 0.8x Ready/Stow Animation Duration Multiplier.\n\n+30 Inventory Size. (Ammo Reserves, they're very weird)\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
+      "mainEditor": "While Crouched:\n45 Reload Speed with 0.8x Multiplier and 0.8x Ready/Stow Animation Duration Multiplier.\n\n+30 Inventory Size. (Ammo Reserves, they're very weird)\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: [?] Reload Speed with [?] Multiplier and [?] Ready/Stow Animation Duration Multiplier. Greatly increased Ammo Reserves."
     }
   },
   "2888557110": {
