@@ -5351,12 +5351,15 @@
   "1570042021": {
     "id": "1570042021",
     "name": "Heating Up",
-    "lastUpdate": 1649867371508,
+    "lastUpdate": 1649867387224,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
         "active": {
           "multiplier": [
+            0
+          ],
+          "stat": [
             15,
             30
           ]
