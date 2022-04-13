@@ -10216,10 +10216,8 @@
   "2946784966": {
     "id": "2946784966",
     "name": "Tunnel Vision",
-    "type": "weaponPerk",
-    "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAfter Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and Y to Handling (ADS only, [?] Multiplier) for 5 seconds.\n"
-    },
+    "lastUpdate": 1649871242516,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "aimAssist": {
         "active": {
@@ -10229,7 +10227,36 @@
         }
       }
     },
-    "lastUpdate": 1645664040605
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After Reloading within 6 seconds of a Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20 Aim Assist, -20% Accuracy Cone Size, and Y to Handling (ADS only, [?] Multiplier) for 5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by [?] seconds, to a maximum of [5+?] seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "After Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and Y to Handling (ADS only, [?] Multiplier) for 5 seconds.\n\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [5+?] seconds."
+    }
   },
   "2951499542": {
     "id": "2951499542",
