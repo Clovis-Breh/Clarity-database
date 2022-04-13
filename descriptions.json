@@ -9454,8 +9454,8 @@
     "name": "Relentless Tracker",
     "itemId": 896224899,
     "itemName": "Foetracer",
-    "lastUpdate": 1649009627624,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1649875802800,
+    "updatedBy": "KaitlynPrime",
     "type": "armorExotic",
     "description": [
       {
@@ -9516,7 +9516,14 @@
       {
         "lineText": [
           {
-            "text": "If Enemy is below 30% HP:"
+            "text": "If Enemy is below "
+          },
+          {
+            "text": " 30% HP ",
+            "className": "pvp"
+          },
+          {
+            "text": ":"
           }
         ]
       },
@@ -9530,7 +9537,14 @@
       {
         "lineText": [
           {
-            "text": "(Eg: 10% HP left -> 20% Damage Increase)"
+            "text": "(Eg: "
+          },
+          {
+            "text": " 10% HP left ",
+            "className": "pvp"
+          },
+          {
+            "text": " -> 20% Damage Increase)"
           }
         ]
       },
@@ -9546,7 +9560,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMarks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nIf Enemy is below 30% HP:\nGrants 1% increased damage per percent below 30%\n(Eg: 10% HP left -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons.\n"
+      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMarks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nIf Enemy is below <pvp 30% HP />:\nGrants 1% increased damage per percent below 30%\n(Eg: <pvp 10% HP left /> -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons.\n"
     }
   },
   "2663272111": {
