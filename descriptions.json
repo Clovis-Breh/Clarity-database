@@ -1533,21 +1533,28 @@
   "466087222": {
     "id": "466087222",
     "name": "Smoothbore",
-    "lastUpdate": 1646865654090,
+    "lastUpdate": 1649935629149,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": " NEVER USE THIS BARREL! IT ANNIHILATES YOUR PELLET SPREAD AND WITH THAT, YOUR CONSISTENCY ",
+            "text": " NEVER USE THIS BARREL!",
             "className": "highlight_2"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases pellet spread which will hurt you more than the range increase will help."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "<highlight_2 NEVER USE THIS BARREL! IT ANNIHILATES YOUR PELLET SPREAD AND WITH THAT, YOUR CONSISTENCY />\n"
+      "mainEditor": "<highlight_2 NEVER USE THIS BARREL!/>\nIncreases pellet spread which will hurt you more than the range increase will help.\n"
     }
   },
   "469285294": {
