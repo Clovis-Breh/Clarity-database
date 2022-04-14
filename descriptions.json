@@ -15708,7 +15708,7 @@
   "4134353779": {
     "id": "4134353779",
     "name": "Drop Mag",
-    "lastUpdate": 1649934684679,
+    "lastUpdate": 1649934869712,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -15727,20 +15727,37 @@
       {
         "lineText": [
           {
-            "text": "Increases reload speed but decreases magazing size."
+            "text": "27 Reload Stat with a 0.9x "
+          },
+          {
+            "title": "Reload Duration Scalar - multiplies Reload Animation Length by the number",
+            "text": "RDS",
+            "className": "title"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Magazine size decrease only visible in-game."
+            "text": "Decreases magazing size. (Only visible in-game.)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Increases reload speed but decreases magazing size.\nMagazine size decrease only visible in-game."
+      "mainEditor": "27 Reload Stat with a 0.9x <title RDS [Reload Duration Scalar - multiplies Reload Animation Length by the number] />\nDecreases magazing size. (Only visible in-game.)\n\n<formula Reload Time: reload_0 />"
     }
   },
   "4152709778": {
