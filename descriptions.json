@@ -12091,7 +12091,7 @@
   "3300816228": {
     "id": "3300816228",
     "name": "Auto-Loading Holster",
-    "lastUpdate": 1649864162437,
+    "lastUpdate": 1649942609659,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12118,6 +12118,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> stowed weapon from reserves after 2.5 seconds.\r\n\r\nEnhanced: Activation timer is reduced to 2.3 seconds."
     }
