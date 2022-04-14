@@ -15708,13 +15708,13 @@
   "4134353779": {
     "id": "4134353779",
     "name": "Drop Mag",
-    "lastUpdate": 1646857864526,
+    "lastUpdate": 1649934684679,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "passive": {
           "stat": [
-            0
+            27
           ],
           "multiplier": [
             0.9
