@@ -5399,7 +5399,7 @@
   "1431678320": {
     "id": "1431678320",
     "name": "Alloy Magazine",
-    "lastUpdate": 1649934539657,
+    "lastUpdate": 1649942597203,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -5439,6 +5439,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\n<formula Reload Time: reload_0 />"
     }
