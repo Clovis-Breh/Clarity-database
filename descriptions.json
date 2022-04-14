@@ -635,7 +635,7 @@
   "201365942": {
     "id": "201365942",
     "name": "Archer's Tempo",
-    "lastUpdate": 1649864094571,
+    "lastUpdate": 1649942601726,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
@@ -683,6 +683,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Precision Hit:\nDecreases Draw Time by 30% for 3 seconds.\n\nEnhanced: Timer increased to 4 seconds."
     }
