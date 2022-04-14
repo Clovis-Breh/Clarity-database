@@ -9051,7 +9051,7 @@
   "2551157718": {
     "id": "2551157718",
     "name": "Box Breathing",
-    "lastUpdate": 1649863705758,
+    "lastUpdate": 1649935763449,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -9092,9 +9092,10 @@
                 "text": "Rapid Fire Sniper"
               },
               {
-                "text": "31% <& bg>"
+                "text": "31%"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
@@ -9112,9 +9113,10 @@
                 "text": "Aggressive Sniper"
               },
               {
-                "text": "37% <& bg>"
+                "text": "37%"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
@@ -9132,9 +9134,10 @@
                 "text": "Scout Rifle"
               },
               {
-                "text": "66% <& bg>"
+                "text": "66%"
               }
-            ]
+            ],
+            "className": "background"
           }
         ],
         "className": "table",
@@ -9146,13 +9149,13 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds.\""
+            "text": "Enhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <& bg>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <& bg>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <& bg>\n<$>\n\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds.\""
+      "mainEditor": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <background/>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <background/>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <background/>\n<$>\n\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
     }
   },
   "2590710093": {
