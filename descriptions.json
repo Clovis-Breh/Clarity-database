@@ -4925,6 +4925,52 @@
       "mainEditor": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:\nGreatly increases Accuracy, and adds up to 10 Stability.\n\nAccuracy improvement is greater than initial accuracy, but isn't perfectly accurate while Airborne.\nAccuracy increase is gradual, almost completely negating the effects of bloom.\n"
     }
   },
+  "1420473289": {
+    "id": 1420473289,
+    "name": "Blood Magic",
+    "itemId": 3070555693,
+    "itemName": "Sanguine Alchemy",
+    "lastUpdate": 1650214728093,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Weapon Kills while inside an Empowering or Healing Rift grant Blood Magic"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blood Magic halts the duration of the Rift."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blood Magic Duration:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "5 seconds of per Kill. Caps at 15 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Weapon Kills while inside an Empowering or Healing Rift grant Blood Magic\r\nBlood Magic halts the duration of the Rift.\r\n\r\nBlood Magic Duration:\r\n5 seconds of per Kill. Caps at 15 seconds."
+    },
+    "inLiveDatabase": true
+  },
   "1427256713": {
     "id": "1427256713",
     "name": "Reservoir Burst",
