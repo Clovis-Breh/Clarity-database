@@ -5126,7 +5126,7 @@
   "1427256713": {
     "id": "1427256713",
     "name": "Reservoir Burst",
-    "lastUpdate": 1649869837949,
+    "lastUpdate": 1650200546740,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -5174,6 +5174,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "If Magazine is Full:\n25% Increased damage and causes enemies to explode on death.\n\nPassively grants 30 Magazine Size\n\nEnhanced: Passively grants 4 Stability."
     }
