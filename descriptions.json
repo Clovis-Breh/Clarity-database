@@ -10965,7 +10965,7 @@
   "2978966579": {
     "id": 2978966579,
     "name": "Chill Clip",
-    "lastUpdate": 1649864232275,
+    "lastUpdate": 1650200266971,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -10994,6 +10994,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "While above 50% Magazine:\r\nDirect Hits create an explosion which applies 50 Slow to enemies within [?] meters.\r\n\r\nEnhanced: Passively grants 4 Stability."
     }
