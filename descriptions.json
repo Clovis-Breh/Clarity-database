@@ -11460,7 +11460,7 @@
   "3108830275": {
     "id": 3108830275,
     "name": "Unrelenting",
-    "lastUpdate": 1650200610125,
+    "lastUpdate": 1650235186748,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -11501,7 +11501,22 @@
       {
         "lineText": [
           {
-            "text": "Weapon Kills must be within 8(?) seconds of each."
+            "text": "For Combatant Classifications, check out "
+          },
+          {
+            "linkUrl": "https://d2clarity.page.link/combatant",
+            "linkText": "this link",
+            "className": "link"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Weapon Kills must be within [???] seconds of each."
           }
         ]
       },
@@ -11516,10 +11531,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points.\r\n\r\nRank-And-File give ONE point.\r\nGuardians give TWO points.\r\nElites/Minibosses/Bosses give THREE points.\r\n\r\nWeapon Kills must be within 8(?) seconds of each.\r\n\r\nEnhanced: Passively grants 4 Handling."
-    }
+      "mainEditor": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points.\r\n\r\nRank-And-File give ONE point.\r\nGuardians give TWO points.\r\nElites/Minibosses/Bosses give THREE points.\r\n\r\nFor Combatant Classifications, check out <link https://d2clarity.page.link/combatant this link/>\r\n\r\nWeapon Kills must be within [???] seconds of each.\r\n\r\nEnhanced: Passively grants 4 Handling."
+    },
+    "inLiveDatabase": true
   },
   "3161816588": {
     "id": "3161816588",
