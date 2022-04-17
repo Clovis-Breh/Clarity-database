@@ -963,7 +963,7 @@
       {
         "lineText": [
           {
-            "text": "Generate a 180° frontal shield that reflects damage and projectiles."
+            "text": "Generate a 180Â° frontal shield that reflects damage and projectiles."
           }
         ]
       },
@@ -979,7 +979,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%"
+      "mainEditor": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180Â° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%"
     },
     "inLiveDatabase": true
   },
@@ -3318,6 +3318,38 @@
     "editor": {
       "mainEditor": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's.\n"
     }
+  },
+  "883550427": {
+    "id": 883550427,
+    "name": "And Another Thing",
+    "itemId": 3874247549,
+    "itemName": "Armamentarium",
+    "lastUpdate": 1650211162136,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Grants an extra Grenade Charge. "
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Does not Stack with Top Tree Striker"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Grants an extra Grenade Charge. \r\n\r\nDoes not Stack with Top Tree Striker"
+    },
+    "inLiveDatabase": true
   },
   "897181301": {
     "id": 897181301,
