@@ -3368,6 +3368,48 @@
       "mainEditor": "While Crouched:\nPrevents Radar Ping from shooting, [?] Reload Speed (w/ [?] multiplier), and increases hold time by 25%"
     }
   },
+  "921817150": {
+    "id": 921817150,
+    "name": "Fervid Coldsnap",
+    "itemId": 3259193988,
+    "itemName": "Osmiomancy Gloves",
+    "lastUpdate": 1650214624664,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Grants an extra Coldsnap Grenade Charge."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Coldsnap Grenades have better tracking and grant [?]% Grenade Ability upon both hit and freezing an enemy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Coldsnap Seekers travel 35% further."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Grants an extra Coldsnap Grenade Charge.\r\n\r\nColdsnap Grenades have better tracking and grant [?]% Grenade Ability upon both hit and freezing an enemy.\r\n\r\nColdsnap Seekers travel 35% further."
+    },
+    "inLiveDatabase": true
+  },
   "926349161": {
     "id": 926349161,
     "name": "Fusion Harness",
