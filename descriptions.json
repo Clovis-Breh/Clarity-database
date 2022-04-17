@@ -2612,6 +2612,55 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAdditive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability\n\nArcbolt Grenades chain up to 4 times (from 3)\n"
     }
   },
+  "595829387": {
+    "id": 595829387,
+    "name": "Cross Counter",
+    "itemId": 4165919945,
+    "itemName": "Liar's Handshake",
+    "lastUpdate": 1650209930362,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Arcstrider Subclass Only"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Receiving or Dealing Melee Damage grants Cross Counter for 3 seconds or until Melee Hit."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Cross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "One-Two Punch's bonus is reduced to 80% if Cross Counter is active."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Arcstrider Subclass Only\r\nReceiving or Dealing Melee Damage grants Cross Counter for 3 seconds or until Melee Hit.\r\n\r\nCross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit.\r\n\r\nOne-Two Punch's bonus is reduced to 80% if Cross Counter is active."
+    },
+    "inLiveDatabase": true
+  },
   "622433369": {
     "id": 622433369,
     "name": "Warlord's End",
