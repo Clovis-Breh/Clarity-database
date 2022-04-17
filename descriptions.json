@@ -12152,7 +12152,7 @@
   "3301904089": {
     "id": "3301904089",
     "name": "Spike Grenades",
-    "lastUpdate": 1649935633733,
+    "lastUpdate": 1650200566206,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12171,6 +12171,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Increases impact damage by 50%, doesn't apply to explosion damage.\n(Higher Blast Radius will lower total damage)"
     }
