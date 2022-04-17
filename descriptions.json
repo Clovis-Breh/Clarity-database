@@ -6997,48 +6997,10 @@
     "name": "Parting Gift",
     "itemId": "1219761634",
     "itemName": "The Bombardiers",
-    "lastUpdate": 1649012313275,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650209349534,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -7066,14 +7028,29 @@
       {
         "lineText": [
           {
-            "text": "Blind for <# pve>7 <$><# pvp>[3]<$> seconds."
+            "text": "Blind for "
+          },
+          {
+            "text": " 7 ",
+            "className": "pve"
+          },
+          {
+            "text": "[3]",
+            "className": "pvp"
+          },
+          {
+            "text": " seconds."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Burn for <# pve>3<$> seconds, dealing <# pvp>6x5<$>"
+            "text": "Burn for 3 seconds, "
+          },
+          {
+            "text": " dealing 6x5 ",
+            "className": "pvp"
           }
         ]
       },
@@ -7087,14 +7064,41 @@
       {
         "lineText": [
           {
-            "text": "Suppress for <# pve>9 <$><# pvp>[7]<$> seconds <# pvp>[Does not apply to Guardians in Super]<$>"
+            "text": "Suppress for "
+          },
+          {
+            "text": " 9 ",
+            "className": "pve"
+          },
+          {
+            "text": " [7] ",
+            "className": "pvp"
+          },
+          {
+            "text": " seconds "
+          },
+          {
+            "text": " [Does not apply to Guardians in Super] ",
+            "className": "highlight_3"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": " Suppression does not consistenly activate effects that proc on suppressing.",
+            "className": "highlight_4"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nOn Dodge:\nDrops a Parting Gift that explodes and deals 120 damage over 7.5 meters with a 1(?) second fuse.\n\nParting Gift has an additional effect based on Subclass:\nBlind for <# pve>7 <$><# pvp>[3]<$> seconds.\nBurn for <# pve>3<$> seconds, dealing <# pvp>6x5<$>\nSlows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks.\nSuppress for <# pve>9 <$><# pvp>[7]<$> seconds <# pvp>[Does not apply to Guardians in Super]<$>\n"
-    }
+      "mainEditor": "On Dodge:\nDrops a Parting Gift that explodes and deals 120 damage over 7.5 meters with a 1(?) second fuse.\n\nParting Gift has an additional effect based on Subclass:\nBlind for <pve 7 /><pvp[3]/> seconds.\nBurn for 3 seconds, <pvp dealing 6x5 />\nSlows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks.\nSuppress for <pve 9 /> <pvp [7] /> seconds <highlight_3 [Does not apply to Guardians in Super] />\n\n<highlight_4 Suppression does not consistenly activate effects that proc on suppressing./>"
+    },
+    "inLiveDatabase": true
   },
   "1866048759": {
     "id": "1866048759",
