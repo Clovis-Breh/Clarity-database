@@ -10158,52 +10158,22 @@
     "name": "Nightmare Fuel",
     "itemId": "1688602431",
     "itemName": "Sealed Ahamkara Grasps",
-    "lastUpdate": 1649012166562,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650210650782,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
+            "text": "Melee Hits "
+          },
           {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
+            "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
+            "text": "refresh",
+            "className": "title"
+          },
           {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Melee Hits refresh magazine for your equipped weapon."
+            "text": " magazine for your equipped weapon."
           }
         ]
       },
@@ -10216,8 +10186,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMelee Hits refresh magazine for your equipped weapon.\n7 second cooldown.\n"
-    }
+      "mainEditor": "Melee Hits <title refresh [Reload, but does not need animation and doesn't proc on-reload perks.] /> magazine for your equipped weapon.\n7 second cooldown.\n"
+    },
+    "inLiveDatabase": true
   },
   "2818140350": {
     "id": "2818140350",
