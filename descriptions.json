@@ -3655,7 +3655,7 @@
   "957782887": {
     "id": "957782887",
     "name": "Snapshot Sights",
-    "lastUpdate": 1649869988858,
+    "lastUpdate": 1650200562938,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -3694,6 +3694,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Massive Aiming-Down-Sights Animation Multiplier. \n\nStacks with ADS Multiplier effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow.\nWill reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling.\n\nEnhanced: Passively grants 4 Stability."
     }
