@@ -4553,48 +4553,10 @@
     "name": "Ascending Amplitude",
     "itemId": "1996008488",
     "itemName": "Stormdancer's Brace",
-    "lastUpdate": 1649012286515,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650214868225,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -4624,8 +4586,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nKills during Stormtrance grant Stacks of Ascending Amplitude for 8 seconds.\n\nAscending Amplitude increases Stormtrance Damage by 10% per Stack, up to 100% at 10 Stacks.\n\nRefunds up to 50% of Super Energy based on Enemy Kills.\n"
-    }
+      "mainEditor": "Kills during Stormtrance grant Stacks of Ascending Amplitude for 8 seconds.\n\nAscending Amplitude increases Stormtrance Damage by 10% per Stack, up to 100% at 10 Stacks.\n\nRefunds up to 50% of Super Energy based on Enemy Kills.\n"
+    },
+    "inLiveDatabase": true
   },
   "1264398905": {
     "id": "1264398905",
