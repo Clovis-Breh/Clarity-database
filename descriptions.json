@@ -1307,6 +1307,59 @@
       "mainEditor": "On Sword Kill:\n15% Increased damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)\nIncreases Sword Lunge Distance to X meters.\n\nRemains active for its full duration even if stowed."
     }
   },
+  "384759954": {
+    "id": 384759954,
+    "name": "Bring the Heat",
+    "itemId": 1734844650,
+    "itemName": "Ashen Wake",
+    "lastUpdate": 1650211212288,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Fusion Grenades have Fastball intrinsically and detonate on impact."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Kills with Fusion Grenades grant Grenade Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "25% for Minors"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "50% for Majors"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100% for Guardians & Bosses"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Fusion Grenades have Fastball intrinsically and detonate on impact.\r\n\r\nKills with Fusion Grenades grant Grenade Energy.\r\n25% for Minors\r\n50% for Majors\r\n100% for Guardians & Bosses"
+    },
+    "inLiveDatabase": true
+  },
   "395373724": {
     "id": "395373724",
     "name": "Scatter Charge",
