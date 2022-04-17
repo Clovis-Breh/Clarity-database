@@ -11316,7 +11316,7 @@
   "3078487919": {
     "id": 3078487919,
     "name": "Bait and Switch",
-    "lastUpdate": 1649863947509,
+    "lastUpdate": 1650200161973,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -11361,6 +11361,7 @@
         ]
       }
     ],
+    "inLiveDatabase": false,
     "editor": {
       "mainEditor": "After dealing damage with all your other equipped weapons within [?] seconds of each:\r\n20% increased damage for 10 seconds.\r\n\r\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [10+?] seconds. (probably 12 seconds)"
     }
