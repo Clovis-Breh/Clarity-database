@@ -899,7 +899,7 @@
   "247725512": {
     "id": "247725512",
     "name": "Rapid Hit",
-    "lastUpdate": 1650200536020,
+    "lastUpdate": 1650234454211,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -986,7 +986,7 @@
                 "text": "2x"
               },
               {
-                "text": "12"
+                "text": "11"
               },
               {
                 "text": "27"
@@ -1006,7 +1006,7 @@
                 "text": "3x"
               },
               {
-                "text": "14"
+                "text": "13"
               },
               {
                 "text": "32"
@@ -1027,7 +1027,7 @@
                 "text": "4x"
               },
               {
-                "text": "18"
+                "text": "17"
               },
               {
                 "text": "40"
@@ -1047,7 +1047,7 @@
                 "text": "5x"
               },
               {
-                "text": "23"
+                "text": "22"
               },
               {
                 "text": "54"
@@ -1077,10 +1077,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b Reload Time\n| 1x    | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n| 2x    | 12        | 27          | 0.970x              | <formula reload_1 />\n| 3x    | 14        | 32          | 0.955x              | <formula reload_2 /><background/>\n| 4x    | 18        | 40          | 0.940x              | <formula reload_3 />\n| 5x    | 23        | 54          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect."
-    }
+      "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b Reload Time\n| 1x    | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n| 2x    | 11        | 27          | 0.970x              | <formula reload_1 />\n| 3x    | 13        | 32          | 0.955x              | <formula reload_2 /><background/>\n| 4x    | 17        | 40          | 0.940x              | <formula reload_3 />\n| 5x    | 22        | 54          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect."
+    },
+    "inLiveDatabase": true
   },
   "280464955": {
     "id": "280464955",
