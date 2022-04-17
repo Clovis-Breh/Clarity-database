@@ -1887,48 +1887,10 @@
     "name": "Wish-Dragon Teeth",
     "itemId": 475652357,
     "itemName": "Young Ahamkara's Spine",
-    "lastUpdate": 1649875063197,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1650213482508,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -1993,8 +1955,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nTripmine Grenades are enhanced and have Fastball intrinsically.\n\nEnhanced Tripmine Grenades\n14% increased damage from explosion.\nX% Bigger Radius, with no Damage Falloff.\nLast 30 seconds (10 -> 30) and have <pvp 100HP /> with 50% Damage Resist.\nRemoves self-damage from Tripmine Grenades.\n\nAbility Damage recharges 33% of Grenade Ability.\n"
-    }
+      "mainEditor": "Tripmine Grenades are enhanced and have Fastball intrinsically.\n\nEnhanced Tripmine Grenades\n14% increased damage from explosion.\nX% Bigger Radius, with no Damage Falloff.\nLast 30 seconds (10 -> 30) and have <pvp 100HP /> with 50% Damage Resist.\nRemoves self-damage from Tripmine Grenades.\n\nAbility Damage recharges 33% of Grenade Ability."
+    },
+    "inLiveDatabase": true
   },
   "481860151": {
     "id": 481860151,
