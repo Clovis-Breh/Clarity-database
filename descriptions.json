@@ -3975,48 +3975,10 @@
     "name": "Planetary Torrent",
     "itemId": 1725917554,
     "itemName": "Vesper of Radius",
-    "lastUpdate": 1649875633669,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1650215170041,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -4064,8 +4026,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second.\n\n3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies =\n\n1 second after casting Rift:\nAn Arc Shockwave is cast that deals <pve 300 /> <pvp [100] /> damage and heavily knockbacks in a 7.5 meter radius.\n"
-    }
+      "mainEditor": "While surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second.\n\n3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies =\n\n1 second after casting Rift:\nAn Arc Shockwave is cast that deals <pve 300 /> <pvp [100] /> damage and heavily knockbacks in a 7.5 meter radius.\n"
+    },
+    "inLiveDatabase": true
   },
   "1147638875": {
     "id": 1147638875,
