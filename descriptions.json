@@ -1323,7 +1323,7 @@
   "409831596": {
     "id": "409831596",
     "name": "Proximity Grenades",
-    "lastUpdate": 1649935438473,
+    "lastUpdate": 1650200505832,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -1335,6 +1335,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius.\n"
     }
