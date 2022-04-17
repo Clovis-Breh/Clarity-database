@@ -7265,7 +7265,7 @@
   "1890422124": {
     "id": "1890422124",
     "name": "Tap the Trigger",
-    "lastUpdate": 1649870795588,
+    "lastUpdate": 1650200584985,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
@@ -7332,6 +7332,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Immediately upon firing:\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\n\n<highlight_3 [Fusion Rifles Only] /> 10 Stability, -12.5% Max Recoil Kick, and -2.5% Accuracy Cone Size for 0.6 seconds.\n\n<highlight_1 [Controller-Only] /> Weapon fires the instant trigger pressure is applied.\n\nEnhanced: Buff Effect increased to [?] Stability, -[?]% Max Recoil Kick, -[?]% Accuracy Cone Size for [?] seconds."
     }
