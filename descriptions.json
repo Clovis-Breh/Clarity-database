@@ -11792,48 +11792,10 @@
     "name": "Jump Jets",
     "itemId": "3539357318",
     "itemName": "Lion Rampant",
-    "lastUpdate": 1649009846750,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650212209442,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -11884,8 +11846,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nEnables hipfiring while in Lift, and removes Accuracy Penalty from being Airborne.\n\nIncreases Lift Duration to 4 seconds.\n\nLift Duration in seconds:\nHigh Lift: 2.6 -> 4 (54% increase)\nStafe Lift: 2.2 -> 4 (82% increase)\nCatapult Lift: 1 -> 4 (300% increase!)\n"
-    }
+      "mainEditor": "Enables hipfiring while in Lift, and removes Accuracy Penalty from being Airborne.\n\nIncreases Lift Duration to 4 seconds.\n\nLift Duration in seconds:\nHigh Lift: 2.6 -> 4 (54% increase)\nStafe Lift: 2.2 -> 4 (82% increase)\nCatapult Lift: 1 -> 4 (300% increase!)\n"
+    },
+    "inLiveDatabase": true
   },
   "3241194942": {
     "id": 3241194942,
