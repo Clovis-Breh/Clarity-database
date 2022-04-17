@@ -11007,52 +11007,14 @@
     "name": "Beacons of Empowerment",
     "itemId": "1537074069",
     "itemName": "Phoenix Cradle",
-    "lastUpdate": 1649012110857,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650212722877,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Sun Warrior buff from Sunspots lasts twice as long (5 ->10 seconds)"
+            "text": "Sun Warrior buff from Sunspots lasts twice as long (5 -> 10 seconds)"
           }
         ]
       },
@@ -11065,8 +11027,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nSun Warrior buff from Sunspots lasts twice as long (5 ->10 seconds)\nSunspots affect the entire team.\n"
-    }
+      "mainEditor": "Sun Warrior buff from Sunspots lasts twice as long (5 -> 10 seconds)\nSunspots affect the entire team.\n"
+    },
+    "inLiveDatabase": true
   },
   "2978966579": {
     "id": 2978966579,
