@@ -9612,7 +9612,7 @@
   "2652708987": {
     "id": 2652708987,
     "name": "Successful Warm-Up",
-    "lastUpdate": 1650200574617,
+    "lastUpdate": 1650234722554,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDraw": {
@@ -9628,7 +9628,7 @@
       {
         "lineText": [
           {
-            "text": "Kills increase Charge Rate/Draw Speed by 37.5% for [?] seconds. Each kill adds [?] seconds up to [?] seconds."
+            "text": "Kills increase Charge Rate/Draw Speed by 37.5% for 6 seconds. Each kill while the perk is active adds an additional 4 seconds up to 20 seconds."
           }
         ]
       },
@@ -9638,15 +9638,15 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Kills add an additional [? + 1] seconds."
+            "text": "Enhanced: Kills increase Charge Rate/Draw Speed for 6 seconds. Each kill while the perk is active adds an additional 5 seconds."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "Kills increase Charge Rate/Draw Speed by 37.5% for [?] seconds. Each kill adds [?] seconds up to [?] seconds.\r\n\r\nEnhanced: Kills add an additional [? + 1] seconds."
-    }
+      "mainEditor": "Kills increase Charge Rate/Draw Speed by 37.5% for 6 seconds. Each kill while the perk is active adds an additional 4 seconds up to 20 seconds.\r\n\r\nEnhanced: Kills increase Charge Rate/Draw Speed for 6 seconds. Each kill while the perk is active adds an additional 5 seconds."
+    },
+    "inLiveDatabase": true
   },
   "2663272109": {
     "id": 2663272109,
