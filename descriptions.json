@@ -4604,17 +4604,10 @@
     "name": "Cauterizing Flame",
     "itemId": 3316517958,
     "itemName": "Loreley Splendor Helm",
-    "lastUpdate": 1650212279171,
+    "lastUpdate": 1650212285539,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "While Sun Warrior is active:"
-          }
-        ]
-      },
       {
         "lineText": [
           {
@@ -4651,7 +4644,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "While Sun Warrior is active:\r\nSunspots heal 10HP/s.\r\n\r\nUpon reaching Critical Health if your Class Ability is charged:\r\nSpawns a Sunspot under you.\r\n\r\nCasting your Class Ability spawns a Sunspot."
+      "mainEditor": "Sunspots heal 10HP/s.\r\n\r\nUpon reaching Critical Health if your Class Ability is charged:\r\nSpawns a Sunspot under you.\r\n\r\nCasting your Class Ability spawns a Sunspot."
     },
     "inLiveDatabase": true
   },
