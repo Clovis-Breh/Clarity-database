@@ -7813,7 +7813,7 @@
   "2030760728": {
     "id": "2030760728",
     "name": "Energy Transfer",
-    "lastUpdate": 1649866247818,
+    "lastUpdate": 1650200362894,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -7842,6 +7842,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "While Blocking:\nGrants Class Ability Energy based on the amount of damage taken.\n\nEnhanced: Increased Class Ability Energy Gain."
     }
