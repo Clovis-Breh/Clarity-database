@@ -13630,7 +13630,7 @@
   "3705817207": {
     "id": "3705817207",
     "name": "Duelist's Trance",
-    "lastUpdate": 1646858015202,
+    "lastUpdate": 1650200350659,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -13656,6 +13656,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Sword Kill:\nIncreased Charge Rate, Endurance, Efficiency, and Defense.\nLasts until stowed."
     }
