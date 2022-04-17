@@ -10647,7 +10647,7 @@
   "2866798147": {
     "id": "2866798147",
     "name": "No Distractions",
-    "lastUpdate": 1649868481119,
+    "lastUpdate": 1650200489762,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -10683,6 +10683,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\nTimer starts as soon as the ADS input is pressed.\n\nEnhanced: Aiming-Down-Sights timer is reduced to [?] seconds."
     }
