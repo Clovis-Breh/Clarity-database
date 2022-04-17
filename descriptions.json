@@ -9453,7 +9453,7 @@
   "2621346526": {
     "id": "2621346526",
     "name": "Ensemble",
-    "lastUpdate": 1649866266630,
+    "lastUpdate": 1650200366025,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -9538,6 +9538,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "While within 15 meters of 1 or more allies:\n30 Handling and 40 Reload Speed.\n\nLingers for 1.5 seconds.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Stronger Effect. [?] Handling and [?] Reload Speed."
     }
