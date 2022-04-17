@@ -7959,7 +7959,7 @@
   "2077819806": {
     "id": "2077819806",
     "name": "Eager Edge",
-    "lastUpdate": 1649934950596,
+    "lastUpdate": 1650200354815,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -7985,6 +7985,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Upon readying a Sword:\n100% Increased Lunge Range for 1 second. (Enough to execute 2 light attacks.)\n4 second cooldown.\n"
     }
