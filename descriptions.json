@@ -11449,7 +11449,7 @@
   "3108830275": {
     "id": 3108830275,
     "name": "Unrelenting",
-    "lastUpdate": 1649871446993,
+    "lastUpdate": 1650200610125,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -11505,6 +11505,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points.\r\n\r\nRank-And-File give ONE point.\r\nGuardians give TWO points.\r\nElites/Minibosses/Bosses give THREE points.\r\n\r\nWeapon Kills must be within 8(?) seconds of each.\r\n\r\nEnhanced: Passively grants 4 Handling."
     }
