@@ -13031,6 +13031,28 @@
       "mainEditor": "On Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n\nHuckleberry specific:\n<pve [PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds. />\n"
     }
   },
+  "3556949035": {
+    "id": 3556949035,
+    "name": "Time-Slip",
+    "lastUpdate": 1650206285711,
+    "updatedBy": "Icemourne",
+    "itemId": 1594120904,
+    "itemName": "No Time to Explain",
+    "type": "weaponPerkExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "info on right is correct"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "info on right is correct"
+    },
+    "inLiveDatabase": false
+  },
   "3592538738": {
     "id": "3592538738",
     "name": "Wellspring",
