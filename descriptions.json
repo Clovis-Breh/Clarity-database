@@ -5426,6 +5426,45 @@
     },
     "inLiveDatabase": true
   },
+  "1449897497": {
+    "id": 1449897497,
+    "name": "Sharp Edges",
+    "itemId": 691578979,
+    "itemName": "Shards of Galanor",
+    "lastUpdate": 1650210690545,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Blade Barrage Hits and Kills refund Super Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Caps at 50% Super Energy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refund Amount depends on Kills and Hits, as well as Enemy Rank."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Blade Barrage Hits and Kills refund Super Energy.\r\nCaps at 50% Super Energy.\r\n\r\nRefund Amount depends on Kills and Hits, as well as Enemy Rank."
+    },
+    "inLiveDatabase": true
+  },
   "1457189155": {
     "id": 1457189155,
     "name": "Depths of Duskfield",
