@@ -8524,7 +8524,7 @@
   "2284787283": {
     "id": 2284787283,
     "name": "Clown Cartridge",
-    "lastUpdate": 1649864330614,
+    "lastUpdate": 1650200270027,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -8560,6 +8560,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Reload:\r\nRandomly increases Magazine Capacity between 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Higher magazine increases are more likely."
     }
