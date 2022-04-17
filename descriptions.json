@@ -8147,7 +8147,7 @@
   "2172504645": {
     "id": 2172504645,
     "name": "Sleight of Hand",
-    "lastUpdate": 1649869885679,
+    "lastUpdate": 1650200556054,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -8179,6 +8179,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Weapon and Ability Kills made while this weapon is stowed grants a stack of Sleight of Hand. Effect becomes active upon readying.\r\n\r\nEach stack of Sleight of Hand grants [?] Handling, Reload Speed, and [?] Stability.\r\n\r\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [?] seconds."
     }
