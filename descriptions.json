@@ -9093,7 +9093,7 @@
   "2551157718": {
     "id": "2551157718",
     "name": "Box Breathing",
-    "lastUpdate": 1649935763449,
+    "lastUpdate": 1650200167201,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -9196,6 +9196,7 @@
         ]
       }
     ],
+    "inLiveDatabase": false,
     "editor": {
       "mainEditor": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <background/>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <background/>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <background/>\n<$>\n\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
     }
