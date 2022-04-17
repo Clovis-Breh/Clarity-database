@@ -6949,7 +6949,7 @@
   "1799762209": {
     "id": "1799762209",
     "name": "Cornered",
-    "lastUpdate": 1650200292967,
+    "lastUpdate": 1650200319022,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
@@ -6979,7 +6979,7 @@
       {
         "lineText": [
           {
-            "text": "Charge Rate/Draw Time is reduced by 100 miliseconds."
+            "text": "Charge/Draw Time is reduced by 100 miliseconds."
           }
         ]
       },
@@ -7003,7 +7003,7 @@
     ],
     "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "While within 15[?] meters of 2 enemies:\nCharge Rate/Draw Time is reduced by 100 miliseconds.\nLingers for 1.5 seconds.\n\nEnhanced: Passively grants 4 Stability."
+      "mainEditor": "While within 15[?] meters of 2 enemies:\nCharge/Draw Time is reduced by 100 miliseconds.\nLingers for 1.5 seconds.\n\nEnhanced: Passively grants 4 Stability."
     }
   },
   "1820235745": {
