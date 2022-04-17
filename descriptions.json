@@ -13084,7 +13084,7 @@
   "3551326236": {
     "id": "3551326236",
     "name": "Rampage",
-    "lastUpdate": 1646864783819,
+    "lastUpdate": 1650200511410,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -13128,6 +13128,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n\nHuckleberry specific:\n<pve [PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds. />\n"
     }
