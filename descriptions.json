@@ -5043,7 +5043,7 @@
   "1428297954": {
     "id": "1428297954",
     "name": "Perpetual Motion",
-    "lastUpdate": 1650233812277,
+    "lastUpdate": 1650233904375,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -5134,7 +5134,8 @@
               {
                 "text": "5"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
@@ -5188,7 +5189,8 @@
               {
                 "text": "15"
               }
-            ]
+            ],
+            "className": "background"
           },
           {
             "lineText": [
@@ -5243,7 +5245,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "While moving:\nGain a Stack after 2 seconds and an additional Stack after 10 seconds.\nNot moving for 0.5 seconds results in losing all stacks. Works while stowed.\n\n< table >\n|b Stacks|b Stability|b Reload Speed |b Handling\n|b x1    | 5         | 5        | 5\n| In-game:        || <formula reload_0 /> | <formula Ready: ready_0 />\n| values           |           || <formula Stow: stow_0 />\n|b x2    | 15        | 15        | 15\n| In-game:|         | <formula reload_1 /> | <formula Ready: ready_1 />\n|values |           |           | <formula Stow: stow_1 />\n<$>\n\nEnhanced: Stacks remain for up to 1 second if not moving."
+      "mainEditor": "While moving:\nGain a Stack after 2 seconds and an additional Stack after 10 seconds.\nNot moving for 0.5 seconds results in losing all stacks. Works while stowed.\n\n< table >\n|b Stacks|b Stability|b Reload Speed |b Handling\n|b x1    | 5         | 5        | 5 <background/>\n| In-game:        || <formula reload_0 /> | <formula Ready: ready_0 />\n| values           |           || <formula Stow: stow_0 />\n|b x2    | 15        | 15        | 15 <background/>\n| In-game:|         | <formula reload_1 /> | <formula Ready: ready_1 />\n|values |           |           | <formula Stow: stow_1 />\n<$>\n\nEnhanced: Stacks remain for up to 1 second if not moving."
     },
     "inLiveDatabase": true
   },
