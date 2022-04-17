@@ -8310,6 +8310,62 @@
     },
     "inLiveDatabase": true
   },
+  "2204713149": {
+    "id": 2204713149,
+    "name": "Battle-Hearth",
+    "itemId": 4057299719,
+    "itemName": "Phoenix Protocol",
+    "lastUpdate": 1650214679829,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Kills while inside a Well of Radiance return Super Energy, up to 50%."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "10% Super Energy per Kill."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each Kill grants 1.5% less from the previous. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Minimum of 4% Super Energy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "10% -> 8.5% -> 6% -> 4.5% -> 4% -> 4%..."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Kills while inside a Well of Radiance return Super Energy, up to 50%.\r\n\r\n10% Super Energy per Kill.\r\nEach Kill grants 1.5% less from the previous. \r\nMinimum of 4% Super Energy.\r\n\r\n10% -> 8.5% -> 6% -> 4.5% -> 4% -> 4%..."
+    },
+    "inLiveDatabase": true
+  },
   "2209918983": {
     "id": 2209918983,
     "name": "Turnabout",
