@@ -13716,7 +13716,7 @@
   "3721627275": {
     "id": "3721627275",
     "name": "Swap Mag",
-    "lastUpdate": 1646866247581,
+    "lastUpdate": 1650200579704,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -13761,6 +13761,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "0.9x Ready/Stow Animation Multiplier\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
     }
