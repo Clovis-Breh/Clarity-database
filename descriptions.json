@@ -8495,7 +8495,7 @@
   "2244851822": {
     "id": "2244851822",
     "name": "Flash Counter",
-    "lastUpdate": 1649866686502,
+    "lastUpdate": 1650200393562,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -8524,6 +8524,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "After Blocking a Melee Attack within 0.5 seconds of starting to Block:\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\n\nEnhanced: Increased Ammo Reserves."
     }
