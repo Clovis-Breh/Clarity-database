@@ -9147,6 +9147,55 @@
       "mainEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage for 5 seconds, depending on the amount of enemies killed within X seconds of each.\nBuff is overwritten every time you refresh it.\n\nEnhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5.5 seconds."
     }
   },
+  "2471523345": {
+    "id": 2471523345,
+    "name": "Glacial Fortification",
+    "itemId": 1322544481,
+    "itemName": "Hoarfrost-Z",
+    "lastUpdate": 1650212070723,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While on Stasis Subclass:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Barricade is replaced by a Stasis Wall."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "The Stasis Wall is 7 crystals wide, and the middle crystal is a small crystal."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants Rally Barricade benefits. Functions even if no crystals remain."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While on Stasis Subclass:\r\nBarricade is replaced by a Stasis Wall.\r\n\r\nThe Stasis Wall is 7 crystals wide, and the middle crystal is a small crystal.\r\n\r\nGrants Rally Barricade benefits. Functions even if no crystals remain."
+    },
+    "inLiveDatabase": true
+  },
   "2500502982": {
     "id": "2500502982",
     "name": "Firewalker",
