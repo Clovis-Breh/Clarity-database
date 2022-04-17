@@ -9876,7 +9876,7 @@
   "2779035018": {
     "id": "2779035018",
     "name": "Feeding Frenzy",
-    "lastUpdate": 1649866385635,
+    "lastUpdate": 1650200375917,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -9952,10 +9952,7 @@
               },
               {
                 "formula": "reload_0",
-                "className": "| formula"
-              },
-              {
-                "text": " "
+                "className": "formula"
               }
             ]
           },
@@ -9972,10 +9969,7 @@
               },
               {
                 "formula": "reload_1",
-                "className": "| formula"
-              },
-              {
-                "text": " "
+                "className": "formula"
               }
             ]
           },
@@ -9992,10 +9986,7 @@
               },
               {
                 "formula": "reload_2",
-                "className": "| formula"
-              },
-              {
-                "text": " "
+                "className": "formula"
               }
             ]
           },
@@ -10012,10 +10003,7 @@
               },
               {
                 "formula": "reload_3",
-                "className": "| formula"
-              },
-              {
-                "text": " "
+                "className": "formula"
               }
             ]
           },
@@ -10032,10 +10020,7 @@
               },
               {
                 "formula": "reload_4",
-                "className": "| formula"
-              },
-              {
-                "text": " "
+                "className": "formula"
               }
             ]
           }
@@ -10054,6 +10039,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Weapon Kills increase Reload Speed for 3.5 seconds.\nRefreshes on kill. Max of 5 Stacks.\n\n< table >\n|b Stacks|b Reload Speed|b Reload Animation Length|b Reload Time\n| 1x     | 10           | 1x                      | <formula reload_0 />\n| 2x     | 45           | 0.9x                    | <formula reload_1 />\n| 3x     | 55           | 0.875x                  | <formula reload_2 />\n| 4x     | 70           | 0.85x                   | <formula reload_3 />\n| 5x     | 100          | 0.8x                    | <formula reload_4 />\n<$>\n\nEnhanced: Stronger Effect."
     }
