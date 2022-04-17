@@ -13361,6 +13361,31 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nHeals up to Max Critical Health on Kill if Critical.\n\nGenerates 5% Barricade, Grenade, and Melee Energy every time you take damage.\nX second cooldown.\n"
     }
   },
+  "3662465907": {
+    "id": 3662465907,
+    "name": "Transfusion Matrix",
+    "itemId": 3216110440,
+    "itemName": "An Insurmountable Skullfort",
+    "lastUpdate": 1650203222081,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "className": "arc"
+          },
+          {
+            "text": "Arc Melee Kills fully recharge Melee Ability and begin Health Regeneration"
+          }
+        ]
+      }
+    ],
+    "inLiveDatabase": false,
+    "editor": {
+      "mainEditor": "<arc/>Arc Melee Kills fully recharge Melee Ability and begin Health Regeneration\r\n"
+    }
+  },
   "3673922083": {
     "id": "3673922083",
     "name": "Adagio",
