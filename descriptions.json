@@ -11845,48 +11845,10 @@
     "name": "Sect of Force",
     "itemId": 1654461647,
     "itemName": "Aeon Safe",
-    "lastUpdate": 1649875251360,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1650203483239,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -11929,8 +11891,9 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAlly Deaths grant 25% Class Ability Energy.\nGain Full Class Ability Energy on Ally Revival.\n\nCasting Super fully heals allies within 30 meters.\n\nAeon Allies receive a <pve 110HP Overshield /> for 20 seconds that recharges after 3 seconds.\n"
+      "mainEditor": "Ally Deaths grant 25% Class Ability Energy.\nGain Full Class Ability Energy on Ally Revival.\n\nCasting Super fully heals allies within 30 meters.\n\nAeon Allies receive a <pve 110HP Overshield /> for 20 seconds that recharges after 3 seconds.\n"
     }
   },
   "3275789089": {
