@@ -4612,7 +4612,7 @@
   "1195158366": {
     "id": "1195158366",
     "name": "Encore",
-    "lastUpdate": 1649866218531,
+    "lastUpdate": 1650200360371,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -4666,10 +4666,7 @@
               },
               {
                 "formula": "range_0",
-                "className": "| formula"
-              },
-              {
-                "text": " "
+                "className": "formula"
               }
             ]
           },
@@ -4681,10 +4678,7 @@
               },
               {
                 "formula": "range_1",
-                "className": "| formula"
-              },
-              {
-                "text": " "
+                "className": "formula"
               }
             ]
           },
@@ -4696,10 +4690,7 @@
               },
               {
                 "formula": "range_2",
-                "className": "| formula"
-              },
-              {
-                "text": " "
+                "className": "formula"
               }
             ]
           }
@@ -4738,6 +4729,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Precision Kill: 10 Range per Stack. Max of 3 Stacks.\n\n< table >\n|b Stacks|b In-Game Range\n|b 1     | <formula range_0 />\n|b 2     | <formula range_1 />\n|b 3     | <formula range_2 />\n<$>\n\nOn Non-Precision Kill: Removes a Stack and grants -X% Accuracy Cone Growth, -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left.\n\nLasts 7 seconds. Refreshed on Kill.\n\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [7+?] seconds."
     }
