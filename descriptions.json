@@ -10874,7 +10874,7 @@
   "2946784966": {
     "id": "2946784966",
     "name": "Tunnel Vision",
-    "lastUpdate": 1649871242516,
+    "lastUpdate": 1650200603604,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "aimAssist": {
@@ -10912,6 +10912,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "After Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and Y to Handling (ADS only, [?] Multiplier) for 5 seconds.\n\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [5+?] seconds."
     }
