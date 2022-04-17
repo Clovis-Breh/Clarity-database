@@ -15871,9 +15871,10 @@
   "4152709778": {
     "id": "4152709778",
     "name": "Iron Gaze",
-    "lastUpdate": 1646863329312,
+    "lastUpdate": 1650200471865,
     "updatedBy": "Fading-Shadow",
-    "type": "weaponPerk"
+    "type": "weaponPerk",
+    "inLiveDatabase": true
   },
   "4174493725": {
     "id": "4174493725",
