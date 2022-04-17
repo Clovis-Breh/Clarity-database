@@ -3395,6 +3395,80 @@
     },
     "inLiveDatabase": true
   },
+  "926349160": {
+    "id": 926349160,
+    "name": "Tome of Dawn",
+    "itemId": 370930766,
+    "itemName": "Wings of Sacred Dawn",
+    "lastUpdate": 1650215351219,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "If on Solar Subclass:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Aiming Down Sights while Airborne grants Tome of Dawn."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Tomes of Dawn: "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Holds you in place midair"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reduces Accuracy Penalty while Airborne by X%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reduces Flinch received (Equivalent to Unflinching)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 15% Damage Resistance. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lasts for 2.8 seconds. Hits refresh Y seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "If on Solar Subclass:\r\nAiming Down Sights while Airborne grants Tome of Dawn.\r\n\r\nTomes of Dawn: \r\nHolds you in place midair\r\nReduces Accuracy Penalty while Airborne by X%\r\nReduces Flinch received (Equivalent to Unflinching)\r\nGrants 15% Damage Resistance. \r\nLasts for 2.8 seconds. Hits refresh Y seconds."
+    },
+    "inLiveDatabase": true
+  },
   "926349161": {
     "id": 926349161,
     "name": "Fusion Harness",
