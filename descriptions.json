@@ -11597,7 +11597,7 @@
   "3201496230": {
     "id": "3201496230",
     "name": "Redirection",
-    "lastUpdate": 1649935506778,
+    "lastUpdate": 1650200541390,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -11660,6 +11660,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5.\n\nConsumes 1 stack per hit if at or below 5 stacks.\n\n100% Increased damage to Medium and High Tier Combatants if at or above 6 stacks. Consumes 5 stacks per hit.\n\nCheck out <link https://d2clarity.page.link/combatant this sheet/> for Combatant Classifications!"
     }
