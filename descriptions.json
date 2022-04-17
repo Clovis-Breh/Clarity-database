@@ -8262,6 +8262,28 @@
     },
     "inLiveDatabase": true
   },
+  "2192678015": {
+    "id": 2192678015,
+    "name": "Double Dodge",
+    "itemId": 1474735277,
+    "itemName": "The Sixth Coyote",
+    "lastUpdate": 1650210831679,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Adds an extra Dodge Charge."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Adds an extra Dodge Charge."
+    },
+    "inLiveDatabase": true
+  },
   "2204713148": {
     "id": "2204713148",
     "name": "Crystalline Transistor",
