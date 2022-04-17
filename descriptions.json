@@ -5782,7 +5782,7 @@
   "1561002382": {
     "id": "1561002382",
     "name": "High-Caliber Rounds",
-    "lastUpdate": 1646860683762,
+    "lastUpdate": 1650200463672,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -5816,6 +5816,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Increased Flinch on Enemies.\n\n<pve Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors. />\n\n<pvp Flinch amount against Guardians varies between Archetypes, from 6% to 11% Increased Flinch received. />\n"
     }
