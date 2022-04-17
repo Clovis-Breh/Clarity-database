@@ -13659,7 +13659,7 @@
   "3708227201": {
     "id": "3708227201",
     "name": "Surrounded",
-    "lastUpdate": 1649870534724,
+    "lastUpdate": 1650200577995,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -13708,6 +13708,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "While within 8 meters of 3+ Enemies:\n25% to 30% Increased Damage\n\nSurrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds \n\nEnhanced: Surrounded's damage buff is increased by a multiplicative 5%."
     }
