@@ -6571,6 +6571,66 @@
     },
     "inLiveDatabase": true
   },
+  "1694242449": {
+    "id": 1694242449,
+    "name": "Uncanny Arrows",
+    "itemId": 193869523,
+    "itemName": "Orpheus Rig",
+    "lastUpdate": 1650210419212,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Deadfall returns Ability Energy per Enemy Tethered. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "X% Super Energy. Max of 50% Super Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "10% Grenade"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "10% Melee"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "10% Class Ability Energy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Moebius Quiver can fire an additional volley per Super Activation."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Deadfall returns Ability Energy per Enemy Tethered. \r\nX% Super Energy. Max of 50% Super Energy.\r\n10% Grenade\r\n10% Melee\r\n10% Class Ability Energy.\r\n\r\nMoebius Quiver can fire an additional volley per Super Activation."
+    },
+    "inLiveDatabase": true
+  },
   "1694242450": {
     "id": 1694242450,
     "name": "Hydraulic Boosters",
