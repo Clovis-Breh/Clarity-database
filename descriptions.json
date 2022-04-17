@@ -14099,7 +14099,7 @@
   "3865257976": {
     "id": "3865257976",
     "name": "Dragonfly",
-    "lastUpdate": 1649866090953,
+    "lastUpdate": 1650200343896,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -14267,6 +14267,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Precision Kill:\nTarget explodes, dealing the Weapon's Elemental Damage over a 3 meter radius.\nDamage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\n\nDamage Multipliers are in comparison to bodyshot damage.\n< table >\n|b Weapon Type                      | Damage\n| Linear Fusions                    | 0.5x <background/>\n| Snipers                           | 0.6x\n| Bows                              | 0.9x <background/>\n| Hand Cannons                      | 2x\n| Sidearms                          | 2x <background/>\n| Scout Rifles                      | 2.5x\n| Machine Guns                      | 2.5x <background/>\n| Submachine Guns                   | 5x \n| Auto Rifles                       | 5x <background/>\n| Pulse Rifles (Individual bullets) | 6x \n<$>\n\nEnhanced: Passively grants 4 Reload Speed."
     }
