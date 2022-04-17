@@ -11240,7 +11240,7 @@
   "3038247973": {
     "id": "3038247973",
     "name": "Explosive Payload",
-    "lastUpdate": 1646858541799,
+    "lastUpdate": 1650200372135,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -11271,6 +11271,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a lot of things :(/>\n<pvp [PVP] Total damage remains (almost) the same. />"
     }
