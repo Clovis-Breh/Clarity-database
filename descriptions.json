@@ -6178,7 +6178,7 @@
   "1631667848": {
     "id": "1631667848",
     "name": "Grave Robber",
-    "lastUpdate": 1649935284869,
+    "lastUpdate": 1650200457034,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -6215,6 +6215,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Melee Kill:\nWeapons get <title refreshed [Reload, but does not need animation and doesn't proc on-reload perks.] />.\n\nEnhanced: Passively grants 4 Reload Speed."
     }
