@@ -7216,6 +7216,63 @@
       "mainEditor": "On Weapon Kill:\nRefreshes 10-17% of Magazine.\nAmount varies between Weapon Archetypes\n\nEnhanced: Magazine Refresh increased to 25%"
     }
   },
+  "1828251441": {
+    "id": 1828251441,
+    "name": "Assault Barricade",
+    "itemId": 1190497097,
+    "itemName": "Citan's Ramparts",
+    "lastUpdate": 1650211333860,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Alters Towering Barricade"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Assault Barricade has reduced health and duration, but enables you and your allies to shoot through it."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Barricade Stats"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " 600HP -> 350HP ",
+            "className": "pvp"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20 seconds -> 10 seconds "
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Alters Towering Barricade\r\n\r\nAssault Barricade has reduced health and duration, but enables you and your allies to shoot through it.\r\n\r\nBarricade Stats\r\n<pvp 600HP -> 350HP />\r\n20 seconds -> 10 seconds "
+    },
+    "inLiveDatabase": true
+  },
   "1844314558": {
     "id": "1844314558",
     "name": "Parting Gift",
