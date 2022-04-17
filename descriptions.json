@@ -3585,7 +3585,7 @@
   "951095735": {
     "id": "951095735",
     "name": "Impulse Amplifier",
-    "lastUpdate": 1649868075576,
+    "lastUpdate": 1650234353774,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -3604,7 +3604,7 @@
       {
         "lineText": [
           {
-            "text": "[?]% Faster Projectile Velocity "
+            "text": "35% Faster Projectile Velocity "
           }
         ]
       },
@@ -3621,24 +3621,15 @@
       {
         "lineText": [
           {
-            "text": "Projectile Velocity increase depends on the Weapon Archetype."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
             "text": "Enhanced: Increases Reload Speed to [?] with [?] Multiplier."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "[?]% Faster Projectile Velocity \n9 Reload Speed with 0.8x Multiplier.\n\nProjectile Velocity increase depends on the Weapon Archetype.\n\nEnhanced: Increases Reload Speed to [?] with [?] Multiplier."
-    }
+      "mainEditor": "35% Faster Projectile Velocity \n9 Reload Speed with 0.8x Multiplier.\n\nEnhanced: Increases Reload Speed to [?] with [?] Multiplier."
+    },
+    "inLiveDatabase": true
   },
   "957782887": {
     "id": "957782887",
