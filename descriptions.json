@@ -6021,7 +6021,7 @@
   "1600092898": {
     "id": "1600092898",
     "name": "Backup Plan",
-    "lastUpdate": 1646855131741,
+    "lastUpdate": 1650200154908,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -6098,6 +6098,7 @@
         ]
       }
     ],
+    "inLiveDatabase": false,
     "editor": {
       "mainEditor": "For 4 seconds after readying a Fusion Rifle:\nMultiplies Charge Time by 0.7\n20% Reduced damage\n100 Handling\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
     }
