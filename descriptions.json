@@ -9843,6 +9843,55 @@
       "mainEditor": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\n<pvp [PVP] Weapon Kills grant an additional 1% Super Energy. />\n\nEnhanced: Bonus Super Gains on Kill increased to [?%]."
     }
   },
+  "2731901710": {
+    "id": 2731901710,
+    "name": "Vampire's Caress",
+    "itemId": 3844826440,
+    "itemName": "Karnstein Armlets",
+    "lastUpdate": 1650214207170,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Melee Kill:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Heal for XHP and constantly regenerate XHP/s."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lasts for 8.5 seconds. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Can be Refreshed."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Melee Kill:\r\n\r\nHeal for XHP and constantly regenerate XHP/s.\r\n\r\nLasts for 8.5 seconds. \r\nCan be Refreshed."
+    },
+    "inLiveDatabase": true
+  },
   "2779035018": {
     "id": "2779035018",
     "name": "Feeding Frenzy",
