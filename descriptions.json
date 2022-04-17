@@ -11869,48 +11869,10 @@
     "name": "Linear Actuators",
     "itemId": 1160559849,
     "itemName": "Dunemarchers",
-    "lastUpdate": 1649876304836,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1650211506390,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -11973,8 +11935,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAfter sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds.\n\nOn Melee Hit:\nLinear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain.\n\n<pve 300%(?) Melee Damage />\n<pvp 85 Damage. Immune to Dunemarchers for 2 seconds after being hit. />\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\n"
-    }
+      "mainEditor": "After sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds.\n\nOn Melee Hit:\nLinear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain.\n\n<pve 300%(?) Melee Damage />\n<pvp 85 Damage. Immune to Dunemarchers for 2 seconds after being hit. />\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\n"
+    },
+    "inLiveDatabase": true
   },
   "3268255645": {
     "id": 3268255645,
