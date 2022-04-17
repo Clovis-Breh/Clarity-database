@@ -6489,7 +6489,7 @@
   "1687452232": {
     "id": "1687452232",
     "name": "Liquid Coils",
-    "lastUpdate": 1649935411759,
+    "lastUpdate": 1650200483649,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -6524,6 +6524,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Increases charge time by 40, and damage by 2%"
     }
