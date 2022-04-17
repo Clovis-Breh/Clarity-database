@@ -15945,6 +15945,52 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMove forward at 90% your speed while blocking with Sentinel Shield.\n\nConverts incoming damage into Super Energy after Super ends, up to 50%.\n\n<center/><highlight_2 Overshields prevent damage into Super Energy conversion so don't stand in a Well of Radiance. /><center/>\n"
     }
   },
+  "4251375227": {
+    "id": 4251375227,
+    "name": "Mobius Conduit",
+    "itemId": 2268523867,
+    "itemName": "Raiju's Harness",
+    "lastUpdate": 1650210475599,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While in Arc Staff:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blocking with Whirlwind Guard doesn't consume extra Super Energy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Can deactivate Arc Staff at any time to preserve a portion of unspent Super Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Instantaneous Deactivation refunds 62.5% Super Energy."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While in Arc Staff:\r\nBlocking with Whirlwind Guard doesn't consume extra Super Energy.\r\n\r\nCan deactivate Arc Staff at any time to preserve a portion of unspent Super Energy.\r\nInstantaneous Deactivation refunds 62.5% Super Energy."
+    },
+    "inLiveDatabase": true
+  },
   "4252909580": {
     "id": "4252909580",
     "name": "Bottomless Grief",
