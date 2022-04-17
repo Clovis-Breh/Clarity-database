@@ -15802,7 +15802,7 @@
   "4134353779": {
     "id": "4134353779",
     "name": "Drop Mag",
-    "lastUpdate": 1649934869712,
+    "lastUpdate": 1650200346014,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -15850,6 +15850,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "27 Reload Stat with a 0.9x <title RDS [Reload Duration Scalar - multiplies Reload Animation Length by the number] />\nDecreases magazing size. (Only visible in-game.)\n\n<formula Reload Time: reload_0 />"
     }
