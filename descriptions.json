@@ -8373,7 +8373,7 @@
   "2209918983": {
     "id": 2209918983,
     "name": "Turnabout",
-    "lastUpdate": 1649871346161,
+    "lastUpdate": 1650200605326,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -8405,6 +8405,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n\r\n[?]HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds."
     }
