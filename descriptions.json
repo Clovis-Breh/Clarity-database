@@ -6936,7 +6936,7 @@
   "1774574192": {
     "id": "1774574192",
     "name": "Osmosis",
-    "lastUpdate": 1649868891830,
+    "lastUpdate": 1650200495359,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -6958,6 +6958,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 4 Handling."
     }
