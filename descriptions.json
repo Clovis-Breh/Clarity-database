@@ -8749,7 +8749,7 @@
   "2387244414": {
     "id": "2387244414",
     "name": "Zen Moment",
-    "lastUpdate": 1649872143297,
+    "lastUpdate": 1650200625829,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -8785,6 +8785,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Stacking Hits:\n Reduces the Maximum Recoil Angle and Weapon Shake. \nRemoves Reticle Bounce on Controller input.\n\nEnhanced: Passively grants 4 Stability."
     }
