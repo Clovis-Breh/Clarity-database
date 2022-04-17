@@ -12885,6 +12885,83 @@
       "mainEditor": "Grants Reload Speed, Stability, and Handling depending on the amount of Charged Abilities.\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\n< table >\n|b Abilities|b Stability|b Reload   |b Handling\n|b 1x       | 5         | 5         | 10 <background/>\n| In-Game   |           | <formula reload_0 /> | <formula Ready: ready_0 />\n| Values:   |           |           | <formula Stow: stow_1 />\n|b 2x       | 15        | 22        | 25 <background/>\n| In-Game   |           | <formula reload_1 /> | <formula Ready: ready_1 />\n| Values:   |           |           | <formula Stow: stow_1 />\n|b 3x       | 25        | 50        | 50 <background/>\n| In-Game   |           | <formula reload_2 /> | <formula Ready: ready_2 />\n| Values:   |           |           | <formula Stow: stow_2 />\n<$>\n\nEnhanced: Stronger Effect"
     }
   },
+  "3449001998": {
+    "id": 3449001998,
+    "name": "Spheromatik Trigger",
+    "itemId": 2326396534,
+    "itemName": "Severance Enclosure",
+    "lastUpdate": 1650212831595,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Powered Melee and Finisher Kills unleash an explosion, centered on the enemy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Explosion Damage and Radius depends on Enemy Rank."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Explosion Damage:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100% = Powered Melee on Minor"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "144% = Finisher on Minor"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "197% = Powered Melee on Major"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "268% = Finisher on Major"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "4 second cooldown per Explosion."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Powered Melee and Finisher Kills unleash an explosion, centered on the enemy.\r\nExplosion Damage and Radius depends on Enemy Rank.\r\n\r\nExplosion Damage:\r\n100% = Powered Melee on Minor\r\n144% = Finisher on Minor\r\n197% = Powered Melee on Major\r\n268% = Finisher on Major\r\n\r\n4 second cooldown per Explosion."
+    },
+    "inLiveDatabase": true
+  },
   "3511092054": {
     "id": "3511092054",
     "name": "Elemental Capacitor",
