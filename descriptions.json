@@ -2367,6 +2367,92 @@
     "type": "weaponPerk",
     "inLiveDatabase": true
   },
+  "593361144": {
+    "id": 593361144,
+    "name": "Wraithmetal Mail",
+    "itemId": 2766109874,
+    "itemName": "The Dragon's Shadow",
+    "lastUpdate": 1650209764906,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "handling": {
+        "active": {
+          "stat": [
+            100
+          ],
+          "multiplier": [
+            0.95
+          ]
+        }
+      },
+      "reload": {
+        "active": {
+          "stat": [
+            100
+          ]
+        }
+      }
+    },
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Dodge:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants Wraithmetal Mail for 9 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Wraithmetal Mail"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reloads all weapons"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 100 Handling (w/ 0.95x Multiplier), 100 Reload, and 50 Mobility."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " Increases Sprint Speed by 6.25%."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Slide Distance by 33%."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "On Dodge:\r\nGrants Wraithmetal Mail for 9 seconds.\r\n\r\nWraithmetal Mail\r\nReloads all weapons\r\nGrants 100 Handling (w/ 0.95x Multiplier), 100 Reload, and 50 Mobility.\r\n Increases Sprint Speed by 6.25%.\r\nIncreases Slide Distance by 33%."
+    },
+    "inLiveDatabase": true
+  },
   "593361146": {
     "id": 593361146,
     "name": "Synapse Junctions",
