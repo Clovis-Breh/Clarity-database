@@ -5040,42 +5040,14 @@
     "name": "Starless Night",
     "itemId": "106575079",
     "itemName": "Helm of Saint-14",
-    "lastUpdate": 1649009792308,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650212029700,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
+            "text": "Guarding with Banner Shield blinds enemies within 7 metres for 5 seconds."
           }
         ]
       },
@@ -5085,27 +5057,7 @@
       {
         "lineText": [
           {
-            "text": "Guarding with Sentinel/Banner Shield blinds enemies within 7 meters for 5 seconds."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Any Ward of Dawn that you create grants Starless Night, which gives a 65HP Overshield to any ally that enters."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Overshield persists for up to 6 seconds."
+            "text": "Any Ward of Dawn that you create grants Starless Night, which gives a 65HP Void Overshield to any ally that enters."
           }
         ]
       },
@@ -5121,8 +5073,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGuarding with Sentinel/Banner Shield blinds enemies within 7 meters for 5 seconds.\n\nAny Ward of Dawn that you create grants Starless Night, which gives a 65HP Overshield to any ally that enters.\n\nOvershield persists for up to 6 seconds.\n\nEnemies that enter your Ward of Dawn are also blinded for 5 seconds.\n"
-    }
+      "mainEditor": "Guarding with Banner Shield blinds enemies within 7 metres for 5 seconds.\n\nAny Ward of Dawn that you create grants Starless Night, which gives a 65HP Void Overshield to any ally that enters.\n\nEnemies that enter your Ward of Dawn are also blinded for 5 seconds."
+    },
+    "inLiveDatabase": true
   },
   "1354429876": {
     "id": "1354429876",
