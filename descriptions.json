@@ -12469,7 +12469,7 @@
   "3373736292": {
     "id": "3373736292",
     "name": "Sticky Grenades",
-    "lastUpdate": 1649935639103,
+    "lastUpdate": 1650200571209,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12481,6 +12481,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Grenades fired from this weapon attach on impact and detonate when enemies are in proximity.\n"
     }
