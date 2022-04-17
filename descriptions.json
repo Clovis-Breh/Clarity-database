@@ -6219,7 +6219,7 @@
   "1645158859": {
     "id": "1645158859",
     "name": "Under Pressure",
-    "lastUpdate": 1649871296236,
+    "lastUpdate": 1650200606911,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -6248,6 +6248,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "As Magazine goes below 50% until empty:\nUp to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability.\n\nEnhanced: Buff Effect is increased up to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability."
     }
