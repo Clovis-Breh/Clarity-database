@@ -2400,48 +2400,10 @@
     "name": "Synapse Junctions",
     "itemId": 2766109872,
     "itemName": "Raiden Flux",
-    "lastUpdate": 1649012162070,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650210434437,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -2482,8 +2444,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile in Arc Staff:\nHits grant Synapse Junctions for 5 seconds. Stacks up to 3.\n\nx1 = 13.5% Increased damage and X% Slower Passive Super Drain\nx2 = 28.8% Increased damage and X% Slower Passive Super Drain\nx3 = 46.2% Increased damage and X% Slower Passive Super Drain\n"
-    }
+      "mainEditor": "While in Arc Staff:\nHits grant Synapse Junctions for 5 seconds. Stacks up to 3.\n\nx1 = 13.5% Increased damage and X% Slower Passive Super Drain\nx2 = 28.8% Increased damage and X% Slower Passive Super Drain\nx3 = 46.2% Increased damage and X% Slower Passive Super Drain\n"
+    },
+    "inLiveDatabase": true
   },
   "593361147": {
     "id": "593361147",
