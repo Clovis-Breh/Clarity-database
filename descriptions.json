@@ -6825,7 +6825,7 @@
   "1754714824": {
     "id": "1754714824",
     "name": "Kickstart",
-    "lastUpdate": 1649868109013,
+    "lastUpdate": 1650200475219,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -6877,6 +6877,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "During Slide, after Sprinting for 1.5s.\n20% Increased damage and 100ms increased Charge Rate for [?] seconds. \n\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [?+?] seconds."
     }
