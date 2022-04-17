@@ -2203,52 +2203,14 @@
     "name": "Force Multiplier",
     "itemId": "3267996858",
     "itemName": "No Backup Plans",
-    "lastUpdate": 1649011999270,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650212541016,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Shotgun Final Blows restore Melee Ability Energy."
+            "text": "Shotgun Kills restore Melee Ability Energy."
           }
         ]
       },
@@ -2265,24 +2227,22 @@
       {
         "lineText": [
           {
-            "text": "If your Defensive Strike Melee Ability is Charged:"
+            "text": "If your Void Melee Ability is Charged:"
           }
         ]
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
-            "text": "Shotgun Kills activate Defensive Strike and consume your Melee Energy."
+            "text": "Shotgun Kills activate Void Overshield and consume your Melee Energy."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nShotgun Final Blows restore Melee Ability Energy.\n10% Minors | 25% Anything Else\n\nIf your Defensive Strike Melee Ability is Charged:\n\nShotgun Kills activate Defensive Strike and consume your Melee Energy.\n"
-    }
+      "mainEditor": "Shotgun Kills restore Melee Ability Energy.\n10% Minors | 25% Anything Else\n\nIf your Void Melee Ability is Charged:\nShotgun Kills activate Void Overshield and consume your Melee Energy."
+    },
+    "inLiveDatabase": true
   },
   "588594999": {
     "id": "588594999",
