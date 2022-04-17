@@ -252,7 +252,7 @@
   "25606670": {
     "id": "25606670",
     "name": "Dual Loader",
-    "lastUpdate": 1649866119685,
+    "lastUpdate": 1650200348487,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -281,6 +281,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Loads 2 Ammo at a time.\nReduces Reload Speed by 32.\n\nEnhanced: Loads 3 Ammo instead of 2. Reload Penalty is unchanged."
     }
