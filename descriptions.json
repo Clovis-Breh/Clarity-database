@@ -7572,7 +7572,7 @@
   "1954620775": {
     "id": "1954620775",
     "name": "Timed Payload",
-    "lastUpdate": 1649870993267,
+    "lastUpdate": 1650200593024,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -7610,6 +7610,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Splits 55% of Damage into an Explosive Damage portion that deals <pve 30% Increased Damage /> and has no damage falloff. Detonates after 0.6 seconds.\n\n<pve [PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio./>\n<pvp [PVP] Total damage remains (almost) the same./>"
     }
