@@ -5817,7 +5817,7 @@
   "1561789734": {
     "id": "1561789734",
     "name": "Firefly",
-    "lastUpdate": 1649935707703,
+    "lastUpdate": 1650200384828,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -5885,6 +5885,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\n45 Reload Speed for 6 seconds.\n\n<highlight_4 Not affected by Dragonfly Spec. />\n\n<formula Reload Time: reload_0 />\n\nEnhanced: [?] Reload Speed for 6 seconds."
     }
