@@ -3118,7 +3118,7 @@
   "818211479": {
     "id": "818211479",
     "name": "Shattering Blade",
-    "lastUpdate": 1649869854502,
+    "lastUpdate": 1650200551350,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -3146,6 +3146,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "If Heavy Attack consumes the last Ammo:\n67% Increased damage to Grounded Heavy Attack."
     }
