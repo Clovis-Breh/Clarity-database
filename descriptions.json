@@ -13397,6 +13397,45 @@
     },
     "inLiveDatabase": true
   },
+  "3666112472": {
+    "id": 3666112472,
+    "name": "Scissor Fingers",
+    "itemId": 978537162,
+    "itemName": "Ophidia Spathe",
+    "lastUpdate": 1650210294788,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Grants an additional Melee Charge to Solar Subclasses."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Melee Charges are recharged simultaneously."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "(Eg: Both are recharged on Gambler's Dodge)"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Grants an additional Melee Charge to Solar Subclasses.\r\nMelee Charges are recharged simultaneously.\r\n\r\n(Eg: Both are recharged on Gambler's Dodge)"
+    },
+    "inLiveDatabase": true
+  },
   "3673922083": {
     "id": "3673922083",
     "name": "Adagio",
