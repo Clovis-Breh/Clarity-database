@@ -13495,7 +13495,7 @@
   "3673922083": {
     "id": "3673922083",
     "name": "Adagio",
-    "lastUpdate": 1649942378561,
+    "lastUpdate": 1650234074945,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -13542,14 +13542,21 @@
       {
         "lineText": [
           {
-            "text": "-15% Rate of Fire/Charge Rate: Hand Cannons, Fusion Rifles, Linear Fusion Rifles"
+            "text": "-15% Rate of Fire/Charge Rate:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "-20% Rate of Fire/Charge Rate: Auto Rifles, Bows, Sidearms, Shotguns, and Grenade Launchers"
+            "text": "Hand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Also Krait AR for some reason..."
           }
         ]
       },
@@ -13559,15 +13566,32 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased by 1 second, to a maximum of 8 seconds.\t\t"
+            "text": "-20% Rate of Fire/Charge Rate:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by 1 second, to a maximum of 8 seconds."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "On Weapon Kill:\n30% increased damage, variably slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds.\n\n-15% Rate of Fire/Charge Rate: Hand Cannons, Fusion Rifles, Linear Fusion Rifles\n-20% Rate of Fire/Charge Rate: Auto Rifles, Bows, Sidearms, Shotguns, and Grenade Launchers\n\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 8 seconds.\t\t"
-    }
+      "mainEditor": "On Weapon Kill:\n30% increased damage, variably slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds.\n\n-15% Rate of Fire/Charge Rate:\nHand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles.\nAlso Krait AR for some reason...\n\n-20% Rate of Fire/Charge Rate:\nAuto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns\n\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 8 seconds."
+    },
+    "inLiveDatabase": true
   },
   "3683811620": {
     "id": "3683811620",
