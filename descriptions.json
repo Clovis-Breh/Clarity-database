@@ -1305,7 +1305,7 @@
     "name": "Scatter Charge",
     "itemId": "300502917",
     "itemName": "Nothing Manacles",
-    "lastUpdate": 1650214425432,
+    "lastUpdate": 1650214513197,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -1329,13 +1329,21 @@
       {
         "lineText": [
           {
-            "text": "Scatter Grenades innately receive Chaos Accelerant's Tracking Bonus"
+            "text": "Scatter Grenades innately receive "
+          },
+          {
+            "title": "Void Aspect that allows you to Overcharge your Grenade",
+            "text": "Chaos Accelerant's",
+            "className": "title"
+          },
+          {
+            "text": " Tracking Bonus"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "If on Scatter Grenades:\n\nGain an extra Grenade Charge\nScatter Grenades innately receive Chaos Accelerant's Tracking Bonus"
+      "mainEditor": "If on Scatter Grenades:\n\nGain an extra Grenade Charge\nScatter Grenades innately receive <title Chaos Accelerant's [Void Aspect that allows you to Overcharge your Grenade] /> Tracking Bonus"
     },
     "inLiveDatabase": true
   },
