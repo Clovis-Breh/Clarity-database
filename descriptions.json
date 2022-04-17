@@ -5087,7 +5087,7 @@
   "1359896290": {
     "id": "1359896290",
     "name": "Dynamic Sway Reduction",
-    "lastUpdate": 1646858039312,
+    "lastUpdate": 1650200352774,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -5123,6 +5123,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:\nGreatly increases Accuracy, and adds up to 10 Stability.\n\nAccuracy improvement is greater than initial accuracy, but isn't perfectly accurate while Airborne.\nAccuracy increase is gradual, almost completely negating the effects of bloom.\n"
     }
