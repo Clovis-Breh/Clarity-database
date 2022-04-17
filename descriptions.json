@@ -7577,48 +7577,10 @@
     "name": "Close Enough",
     "itemId": "121305948",
     "itemName": "Geomag Stabilizers",
-    "lastUpdate": 1649009701294,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650214083242,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -7635,8 +7597,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nChaos Reach recovers 10% Super Ability Energy on hit. 0.75s Cooldown.\nCan increase Super Duration by up to 100%.\n"
-    }
+      "mainEditor": "Chaos Reach recovers 10% Super Ability Energy on hit. 0.75s Cooldown.\nCan increase Super Duration by up to 100%.\n"
+    },
+    "inLiveDatabase": true
   },
   "1954620775": {
     "id": "1954620775",
