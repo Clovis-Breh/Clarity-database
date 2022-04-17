@@ -12512,7 +12512,7 @@
   "3418782618": {
     "id": "3418782618",
     "name": "Rewind Rounds",
-    "lastUpdate": 1646865327062,
+    "lastUpdate": 1650200548295,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12538,6 +12538,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Upon emptying the Magazine:\nRefreshes Magazine based on the Number of Hits.\n50-60% for Primaries | 30-40% for Specials"
     }
