@@ -4911,7 +4911,7 @@
   "1275731761": {
     "id": "1275731761",
     "name": "Cluster Bomb",
-    "lastUpdate": 1649865872020,
+    "lastUpdate": 1650200273609,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -4923,6 +4923,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Explosion releases 8 Cluster Bombs. Each Cluster Bomb deals an additional 3% damage."
     }
