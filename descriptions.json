@@ -4,48 +4,10 @@
     "name": "Chaotic Exchanger",
     "itemId": "1906093346",
     "itemName": "Contraverse Hold",
-    "lastUpdate": 1649875340195,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1650213961596,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -94,14 +56,15 @@
       {
         "lineText": [
           {
-            "text": "Charged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks."
+            "text": "Charged Vortex Grenade can proc it twice if enemies get hit by the initial explosion and the last few ticks."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nWhile Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting <pve 30% /> <pvp [X%]/> Grenade Ability over 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks.\n"
-    }
+      "mainEditor": "While Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting <pve 30% /> <pvp [X%]/> Grenade Ability over 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc it twice if enemies get hit by the initial explosion and the last few ticks."
+    },
+    "inLiveDatabase": true
   },
   "11612903": {
     "id": "11612903",
