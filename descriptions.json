@@ -4844,6 +4844,52 @@
     },
     "inLiveDatabase": true
   },
+  "1341199512": {
+    "id": 1341199512,
+    "name": "Devouring Rift",
+    "itemId": 511888814,
+    "itemName": "Secant Filaments",
+    "lastUpdate": 1650214818638,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "If on Void Subclass:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Empowering Rift grants Devour."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Empowering Rift grants Overload Shot, allowing all weapons to disrupt on hit. (Weapons with Breaker Properties will not benefit from this.)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Does not work with Well of Radiance."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "If on Void Subclass:\r\nEmpowering Rift grants Devour.\r\n\r\nEmpowering Rift grants Overload Shot, allowing all weapons to disrupt on hit. (Weapons with Breaker Properties will not benefit from this.)\r\nDoes not work with Well of Radiance."
+    },
+    "inLiveDatabase": true
+  },
   "1354429876": {
     "id": "1354429876",
     "name": "Fourth Time's the Charm",
