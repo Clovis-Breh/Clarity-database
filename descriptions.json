@@ -15077,48 +15077,10 @@
     "name": "Feast of Light",
     "itemId": "1001356380",
     "itemName": "Star-Eater Scales",
-    "lastUpdate": 1649876718008,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1650210910342,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -15136,7 +15098,7 @@
       {
         "lineText": [
           {
-            "text": "2.5% -> 4.17% for Masterwork Orbs"
+            "text": "2.5% -> 4.17% for Small Orbs"
           }
         ]
       },
@@ -15153,7 +15115,7 @@
       {
         "lineText": [
           {
-            "text": "Picking up an Orb of Power grants 1 Overcharge Stack."
+            "text": "Picking up an Orb of Power grants 1 Overcharge Stack. "
           }
         ]
       },
@@ -15177,21 +15139,22 @@
       {
         "lineText": [
           {
-            "text": "Casting Super while Overcharged heals you for X HP"
+            "text": "Casting Super while Overcharged heals you for XHP"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Casting Super while at 8 Overcharge Stacks grants you a Y HP Overshield for 16 seconds."
+            "text": "Casting Super while at 8 Overcharge Stacks grants you a YHP Overshield for 16 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIncreased Super Energy from Orbs of Power.\n7.1% -> 10% for Super Orbs\n2.5% -> 4.17% for Masterwork Orbs\n\nWhile Super Energy is full:\nPicking up an Orb of Power grants 1 Overcharge Stack.\n\nEach Overcharge Stacks grants increased Super Damage, up to 70%.\n14% | 27% | 40% | 55% | 62% | 66% | 70%\nCasting Super while Overcharged heals you for X HP\nCasting Super while at 8 Overcharge Stacks grants you a Y HP Overshield for 16 seconds.\n"
-    }
+      "mainEditor": "Increased Super Energy from Orbs of Power.\n7.1% -> 10% for Super Orbs\n2.5% -> 4.17% for Small Orbs\n\nWhile Super Energy is full:\nPicking up an Orb of Power grants 1 Overcharge Stack. \n\nEach Overcharge Stacks grants increased Super Damage, up to 70%.\n14% | 27% | 40% | 55% | 62% | 66% | 70%\nCasting Super while Overcharged heals you for XHP\nCasting Super while at 8 Overcharge Stacks grants you a YHP Overshield for 16 seconds.\n"
+    },
+    "inLiveDatabase": true
   },
   "4049631843": {
     "id": "4049631843",
