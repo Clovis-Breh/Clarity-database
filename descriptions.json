@@ -9574,48 +9574,10 @@
     "name": "Relentless Tracker",
     "itemId": 896224899,
     "itemName": "Foetracer",
-    "lastUpdate": 1649875802800,
-    "updatedBy": "KaitlynPrime",
+    "lastUpdate": 1650209449891,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -9680,8 +9642,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMarks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nIf Enemy is below <pvp 30% HP />:\nGrants 1% increased damage per percent below 30%\n(Eg: <pvp 10% HP left /> -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons.\n"
-    }
+      "mainEditor": "Marks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nIf Enemy is below <pvp 30% HP />:\nGrants 1% increased damage per percent below 30%\n(Eg: <pvp 10% HP left /> -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons."
+    },
+    "inLiveDatabase": true
   },
   "2663272110": {
     "id": 2663272110,
