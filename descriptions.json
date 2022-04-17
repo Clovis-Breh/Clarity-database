@@ -14380,48 +14380,10 @@
     "name": "Cerebral Uplink",
     "itemId": 3381022970,
     "itemName": "Eye of Another World",
-    "lastUpdate": 1649009569154,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650214050068,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -14442,7 +14404,7 @@
       {
         "lineText": [
           {
-            "text": "Every Ability Tier reduces this bonus by 2.2%, lowering the bonus to 16% at Tier 10."
+            "text": " Every Ability Tier reduces this bonus by 2.2%, lowering the bonus to 16% at Tier 10."
           }
         ]
       },
@@ -14459,14 +14421,15 @@
       {
         "lineText": [
           {
-            "text": "Every Recovery Tier reduces this bonus by 2.2%, lowering the bonus to 19% at Tier 10."
+            "text": " Every Recovery Tier reduces this bonus by 2.2%, lowering the bonus to 19% at Tier 10."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nHighlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\n\nReduces Grenade and Melee Cooldown by 38.50% at Tier 0.\nEvery Ability Tier reduces this bonus by 2.2%, lowering the bonus to 16% at Tier 10.\n\nReduces Class Ability Cooldown by 41% at Tier 0.\nEvery Recovery Tier reduces this bonus by 2.2%, lowering the bonus to 19% at Tier 10.\n"
-    }
+      "mainEditor": "Highlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\n\nReduces Grenade and Melee Cooldown by 38.50% at Tier 0.\n Every Ability Tier reduces this bonus by 2.2%, lowering the bonus to 16% at Tier 10.\n\nReduces Class Ability Cooldown by 41% at Tier 0.\n Every Recovery Tier reduces this bonus by 2.2%, lowering the bonus to 19% at Tier 10."
+    },
+    "inLiveDatabase": true
   },
   "3927963102": {
     "id": 3927963102,
