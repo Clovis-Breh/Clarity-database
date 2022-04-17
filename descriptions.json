@@ -3874,22 +3874,32 @@
   "1047830412": {
     "id": "1047830412",
     "name": "Full Choke",
-    "lastUpdate": 1650200449576,
+    "lastUpdate": 1650234316700,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "When aiming down sights: reduces projectile spread but removes the precision damage multiplier."
+            "text": "Minimally decreases pellet spread"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reduces Precision Damage Multiplier by [?]%"
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "When aiming down sights: reduces projectile spread but removes the precision damage multiplier."
-    }
+      "mainEditor": "Minimally decreases pellet spread\r\n\r\nReduces Precision Damage Multiplier by [?]%"
+    },
+    "inLiveDatabase": true
   },
   "1048183818": {
     "id": 1048183818,
