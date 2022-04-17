@@ -3276,52 +3276,14 @@
     "name": "Rapid Cooldown",
     "itemId": 609852545,
     "itemName": "Fr0st-EE5",
-    "lastUpdate": 1649009662779,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650209499163,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "If Sprinting:"
+            "text": "If Sprinting: "
           }
         ]
       },
@@ -3342,7 +3304,8 @@
       {
         "lineText": [
           {
-            "text": "No effect while under the effects of another Ability Recharge Buff."
+            "text": " Doesn't grant any regeneration while under the effects of another Ability Recharge Buff. ",
+            "className": "pvp"
           }
         ]
       },
@@ -3359,7 +3322,7 @@
       {
         "lineText": [
           {
-            "text": "6.25% Faster Sprint for 10 seconds."
+            "text": "6.25% Faster Sprint for 10 seconds. "
           }
         ]
       },
@@ -3382,8 +3345,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIf Sprinting:\n100% Increased Grenade and Melee Recharge Speed.\nRegenerates 3.5% Class Ability per Second.\nNo effect while under the effects of another Ability Recharge Buff.\n\nOn Dodge:\n6.25% Faster Sprint for 10 seconds.\nNot refreshable.\n\nAdditive to Focused Breathing's 3% Class Ability per Second\n"
-    }
+      "mainEditor": "If Sprinting: \n100% Increased Grenade and Melee Recharge Speed.\nRegenerates 3.5% Class Ability per Second.\n<pvp Doesn't grant any regeneration while under the effects of another Ability Recharge Buff. />\n\nOn Dodge:\n6.25% Faster Sprint for 10 seconds. \nNot refreshable.\n\nAdditive to Focused Breathing's 3% Class Ability per Second"
+    },
+    "inLiveDatabase": true
   },
   "902934539": {
     "id": 902934539,
