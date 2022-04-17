@@ -1305,48 +1305,10 @@
     "name": "Scatter Charge",
     "itemId": "300502917",
     "itemName": "Nothing Manacles",
-    "lastUpdate": 1649012002730,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650214425432,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -1365,19 +1327,17 @@
         ]
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
-            "text": "Scatter Grenades track enemies within 2 meters."
+            "text": "Scatter Grenades innately receive Chaos Accelerant's Tracking Bonus"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nIf on Scatter Grenades:\n\nGain an extra Grenade Charge\n\nScatter Grenades track enemies within 2 meters.\n"
-    }
+      "mainEditor": "If on Scatter Grenades:\n\nGain an extra Grenade Charge\nScatter Grenades innately receive Chaos Accelerant's Tracking Bonus"
+    },
+    "inLiveDatabase": true
   },
   "409831596": {
     "id": "409831596",
