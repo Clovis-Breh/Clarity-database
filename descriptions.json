@@ -467,7 +467,7 @@
   "124408337": {
     "id": "124408337",
     "name": "Headstone",
-    "lastUpdate": 1649867352732,
+    "lastUpdate": 1650200461221,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -519,6 +519,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Precision Kill:\nSpawns a <stasis/>Stasis Crystal on Enemy Death Location.\nMinors = Medium | Anything Else = Large\n\nHaving 5 crystals active simultaneously incurs in a 5 second cooldown.\n\nEnhanced: Passively grants 4 Stability"
     }
