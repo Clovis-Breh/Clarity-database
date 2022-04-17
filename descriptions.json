@@ -694,7 +694,7 @@
   "205890336": {
     "id": "205890336",
     "name": "Underdog",
-    "lastUpdate": 1649871369464,
+    "lastUpdate": 1650200608533,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -713,6 +713,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Once below 113 HP:\nIncreased Reload Speed. Effect increases linearly as health decreases, up to 100 Reload Speed with 0.9x Duration Multiplier."
     }
