@@ -2772,7 +2772,7 @@
   "699525795": {
     "id": "699525795",
     "name": "Eye of the Storm",
-    "lastUpdate": 1649866354945,
+    "lastUpdate": 1650200373894,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -2820,6 +2820,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "While at Low Health:\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\nEnhanced: Passively grants 4 Stability."
     }
