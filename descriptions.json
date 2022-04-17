@@ -9683,6 +9683,55 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMarks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nIf Enemy is below <pvp 30% HP />:\nGrants 1% increased damage per percent below 30%\n(Eg: <pvp 10% HP left /> -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons.\n"
     }
   },
+  "2663272110": {
+    "id": 2663272110,
+    "name": "Hawkeye Hack",
+    "itemId": 1321354573,
+    "itemName": "Celestial Nighthawk",
+    "lastUpdate": 1650209395226,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Only one shot per Golden Gun activation."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 500% more damage to Golden Gun."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "(37% more compared to Line 'Em Up x3)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Returns 33% of Super Energy on Kill."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Only one shot per Golden Gun activation.\r\n\r\nGrants 500% more damage to Golden Gun.\r\n(37% more compared to Line 'Em Up x3)\r\n\r\nReturns 33% of Super Energy on Kill."
+    },
+    "inLiveDatabase": true
+  },
   "2663272111": {
     "id": "2663272111",
     "name": "Upgraded Sensor Pack",
