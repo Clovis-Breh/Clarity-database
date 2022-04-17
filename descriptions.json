@@ -8390,7 +8390,7 @@
     "name": "Crystalline Transistor",
     "itemId": "4057299718",
     "itemName": "Chromatic Fire",
-    "lastUpdate": 1650213810591,
+    "lastUpdate": 1650213824096,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -8421,14 +8421,14 @@
       {
         "lineText": [
           {
-            "text": " PVP Deals ~200 Damage at epicenter. ",
+            "text": " Deals ~200 Damage at epicenter. ",
             "className": "pvp"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Kinetic Damage Precision Kill:\nEnemy explodes in an elemental explosion of your currently selected Subclass.\nExplosion Radius and Falloff Distance scale with your Weapon's Range Stat.\n\n<pvp PVP Deals ~200 Damage at epicenter. /> \n"
+      "mainEditor": "On Kinetic Damage Precision Kill:\nEnemy explodes in an elemental explosion of your currently selected Subclass.\nExplosion Radius and Falloff Distance scale with your Weapon's Range Stat.\n\n<pvp Deals ~200 Damage at epicenter. /> \n"
     },
     "inLiveDatabase": true
   },
