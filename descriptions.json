@@ -2548,48 +2548,10 @@
     "name": "Probability Matrix",
     "itemId": "903984858",
     "itemName": "Lucky Raspberry",
-    "lastUpdate": 1649009878328,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650210085419,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -2609,8 +2571,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nAdditive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability\n\nArcbolt Grenades chain up to 4 times (from 3)\n"
-    }
+      "mainEditor": "Additive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability\n\nArcbolt Grenades chain up to 4 times (from 3)\n"
+    },
+    "inLiveDatabase": true
   },
   "595829387": {
     "id": 595829387,
