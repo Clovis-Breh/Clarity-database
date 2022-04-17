@@ -15998,7 +15998,7 @@
   "4252909580": {
     "id": "4252909580",
     "name": "Bottomless Grief",
-    "lastUpdate": 1646855379032,
+    "lastUpdate": 1650200238774,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -16024,6 +16024,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "While Last Guardian Standing:\nWeapon Kills fully refresh Magazine.\nPassively grants +30 Magazine Stat."
     }
