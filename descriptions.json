@@ -6779,7 +6779,7 @@
   "1749209109": {
     "id": 1749209109,
     "name": "Relentless Strikes",
-    "lastUpdate": 1649869747110,
+    "lastUpdate": 1650200543167,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -6800,6 +6800,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Powered Swords gain 1 Ammo after 3 Hits within 2[?] seconds of each."
     }
