@@ -11494,7 +11494,7 @@
   "3161816588": {
     "id": "3161816588",
     "name": "Slideshot",
-    "lastUpdate": 1646865591546,
+    "lastUpdate": 1650200557660,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -11548,6 +11548,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Upon Sliding:\n15% Magazine Refreshed, 20 Range, and 30 Stability. Only buffs first shot.\n Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide.\n\n<formula In-Game Range: range_0 />\n"
     }
