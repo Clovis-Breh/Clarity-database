@@ -5639,7 +5639,7 @@
   "1546637391": {
     "id": "1546637391",
     "name": "Vorpal Weapon",
-    "lastUpdate": 1649871736670,
+    "lastUpdate": 1650200621795,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -5729,6 +5729,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Damage Increase against Bosses, Minibosses, and Vehicles.\n<pve Primary: 20% | Special: 15% | Heavy: 10% />\n\n<pvp Against Guardian Supers Only: />\n<primary/>Primary Weapons: <pvp 40% to 50% />\n<special/>Special Weapons: <pvp 10% to 20% />\n<heavy/>Power Weapons: <pvp 5% to 10% />\nThe lower Damage Increase is against supers with no extra Damage Resistance.\n\nEnhanced: Passively grants 4 Reload Speed."
     }
