@@ -10413,7 +10413,7 @@
   "2846385770": {
     "id": "2846385770",
     "name": "Rangefinder",
-    "lastUpdate": 1649869623547,
+    "lastUpdate": 1650200534082,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "zoom": {
@@ -10456,6 +10456,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "<title 10% Increased Zoom [Zoom acts as a multiplier to hipfire range and maximum falloff distance while ADS] /> and 30% Increased Aim Assist Falloff Distance while ADS.\n5% Faster Projectile Speed when ADS.\n\nEnhanced: Passively grants 4 Handling"
     }
