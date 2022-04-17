@@ -1530,7 +1530,7 @@
   "466087222": {
     "id": "466087222",
     "name": "Smoothbore",
-    "lastUpdate": 1649935629149,
+    "lastUpdate": 1650200561207,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -1550,6 +1550,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "<highlight_2 NEVER USE THIS BARREL!/>\nIncreases pellet spread which will hurt you more than the range increase will help.\n"
     }
