@@ -14787,7 +14787,7 @@
   "3977735242": {
     "id": 3977735242,
     "name": "Tracking Module",
-    "lastUpdate": 1649871163693,
+    "lastUpdate": 1650200596487,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -14843,6 +14843,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies <pvp [with diminshed effectiveness] />\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 4 Blast Radius."
     }
