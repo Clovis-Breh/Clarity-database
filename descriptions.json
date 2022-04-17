@@ -13873,7 +13873,7 @@
   "3800201097": {
     "id": 3800201097,
     "name": "Immovable Object",
-    "lastUpdate": 1649867666988,
+    "lastUpdate": 1650200467629,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -13911,6 +13911,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "While blocking and stationary:\r\n[?]% Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit to [?]."
     }
