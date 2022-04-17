@@ -6874,7 +6874,7 @@
   "1771339417": {
     "id": "1771339417",
     "name": "Firing Line",
-    "lastUpdate": 1649866547125,
+    "lastUpdate": 1650200389611,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -6912,6 +6912,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "While within X meters of 2+ Allies:\n20% Increased Precision Damage\n\nEnhanced: Passively grants 4 Range."
     }
