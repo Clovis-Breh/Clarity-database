@@ -9561,7 +9561,7 @@
   "2652708987": {
     "id": 2652708987,
     "name": "Successful Warm-Up",
-    "lastUpdate": 1649870456062,
+    "lastUpdate": 1650200574617,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDraw": {
@@ -9592,6 +9592,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Kills increase Charge Rate/Draw Speed by 37.5% for [?] seconds. Each kill adds [?] seconds up to [?] seconds.\r\n\r\nEnhanced: Kills add an additional [? + 1] seconds."
     }
