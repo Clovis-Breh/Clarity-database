@@ -10169,14 +10169,14 @@
     "name": "Dynamic Duo",
     "itemId": "3084282676",
     "itemName": "Getaway Artist",
-    "lastUpdate": 1650214100614,
+    "lastUpdate": 1650214154336,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Holding [Grenade] summons a Sentient Arc Soul for 20 seconds."
+            "text": "Charging and Consuming a Grenade summons a Sentient Arc Soul for 20 seconds."
           }
         ]
       },
@@ -10213,23 +10213,13 @@
       {
         "lineText": [
           {
-            "text": "Standing in an Arc Soul Rift refreshes the duration of Sentient Arc Soul."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Converts all the Arc Souls you receive to Sentient Arc Souls."
+            "text": "Standing in an Arc Soul Rift refreshes the duration of Sentient Arc Soul. Converts all the Arc Souls you receive to Sentient Arc Souls."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Holding [Grenade] summons a Sentient Arc Soul for 20 seconds.\n\nSentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal <pvp 11 Damage />.\n\nIf the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy.\n\nStanding in an Arc Soul Rift refreshes the duration of Sentient Arc Soul.\n\nConverts all the Arc Souls you receive to Sentient Arc Souls.\n"
+      "mainEditor": "Charging and Consuming a Grenade summons a Sentient Arc Soul for 20 seconds.\n\nSentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal <pvp 11 Damage />.\n\nIf the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy.\n\nStanding in an Arc Soul Rift refreshes the duration of Sentient Arc Soul. Converts all the Arc Souls you receive to Sentient Arc Souls."
     },
     "inLiveDatabase": true
   },
