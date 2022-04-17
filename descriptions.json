@@ -12900,7 +12900,7 @@
   "3511092054": {
     "id": "3511092054",
     "name": "Elemental Capacitor",
-    "lastUpdate": 1649866158177,
+    "lastUpdate": 1650200356537,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12965,6 +12965,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Grants different Stat Bonuses based on your selected Subclass.\n\n<solar/>: 45 Reload Speed\n<arc/>: 45 Handling\n<void/>: 18 Stability\n<stasis/>: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\n\nEnhanced: Adds an additional 4 to the Stat Bonus currently in effect. Unknown for Stasis."
     }
