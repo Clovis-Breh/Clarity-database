@@ -9817,6 +9817,52 @@
       "mainEditor": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\n<pvp [PVP] Weapon Kills grant an additional 1% Super Energy. />\n\nEnhanced: Bonus Super Gains on Kill increased to [?%]."
     }
   },
+  "2731901709": {
+    "id": 2731901709,
+    "name": "Warlord's Sigil",
+    "itemId": 3844826443,
+    "itemName": "Winter's Guile",
+    "lastUpdate": 1650215375255,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Grants Warlord's Sigil on Melee Kill"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Warlord's Sigil lasts 5 seconds and grants Bonus Melee Damage"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bonus Melee Damage:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "130% | 260% | 390% | 520% | 650%"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Grants Warlord's Sigil on Melee Kill\r\nWarlord's Sigil lasts 5 seconds and grants Bonus Melee Damage\r\n\r\nBonus Melee Damage:\r\n130% | 260% | 390% | 520% | 650%"
+    },
+    "inLiveDatabase": true
+  },
   "2731901710": {
     "id": 2731901710,
     "name": "Vampire's Caress",
