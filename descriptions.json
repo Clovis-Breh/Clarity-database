@@ -5503,7 +5503,7 @@
   "1523832109": {
     "id": "1523832109",
     "name": "Reconstruction",
-    "lastUpdate": 1646864981188,
+    "lastUpdate": 1650200539694,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -5532,6 +5532,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "After not shooting for 4 seconds:\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity.\n\n(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))\n"
     }
