@@ -1557,7 +1557,7 @@
   "469285294": {
     "id": "469285294",
     "name": "Recombination",
-    "lastUpdate": 1646864943279,
+    "lastUpdate": 1650200538160,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -1766,6 +1766,7 @@
         "className": "spacer"
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Elemental Kills grant stacks of Recombination, increasing the damage of the next shot of the weapon:\n\n< table >\n|b Stacks|b Heritage|b Succession|b Both in PVP\n| 1x     | 8%       | 8%         | 5% <background/>\n| 2x     | 15%      | 17%        | 10%\n| 3x     | 24%      | 27%        | 15% <background/>\n| 4x     | 33%      | 38%        | 20%\n| 5x     | 42%      | 46%        | 25% <background/>\n| 6x     | 50%      | 57%        | 30%\n| 7x     | 59%      | 68%        | 35% <background/>\n| 8x     | 70%      | 80%        | 40%\n| 9x     | 80%      | 89%        | 45% <background/>\n| 10x    | 88%      | 100%       | 50%\n<$>\n\n"
     }
