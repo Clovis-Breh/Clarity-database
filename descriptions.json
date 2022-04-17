@@ -9226,7 +9226,7 @@
   "2590710093": {
     "id": "2590710093",
     "name": "Tireless Blade",
-    "lastUpdate": 1649871012976,
+    "lastUpdate": 1650200594789,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -9245,6 +9245,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Powered Swords gain 1 Ammo every other kill.\nYour first kill will proc this as well."
     }
