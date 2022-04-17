@@ -4322,7 +4322,7 @@
     "name": "Biotic Enhancements",
     "itemId": 241462142,
     "itemName": "Synthoceps",
-    "lastUpdate": 1650212910331,
+    "lastUpdate": 1650212936650,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -4356,14 +4356,16 @@
       {
         "lineText": [
           {
-            "text": "<# pve>200% Increased Melee Damage.<$>"
+            "text": " 200% Increased Melee Damage. ",
+            "className": "pve"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "<# pvp>100% Increased Melee Damage.<$>"
+            "text": " 100% Increased Melee Damage. ",
+            "className": "pvp"
           }
         ]
       },
@@ -4379,7 +4381,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "While Surrounded by 3+ enemies: Activates Biotic Enhancements\n\nBiotic Enhancements increases Melee and Super damage for 8 seconds.\n\n50% Super Damage Increase.\n<# pve>200% Increased Melee Damage.<$>\n<# pvp>100% Increased Melee Damage.<$>\n\nIncreases Melee Lunge Range to 7 meters.\n"
+      "mainEditor": "While Surrounded by 3+ enemies: Activates Biotic Enhancements\n\nBiotic Enhancements increases Melee and Super damage for 8 seconds.\n\n50% Super Damage Increase.\n<pve 200% Increased Melee Damage. />\n<pvp 100% Increased Melee Damage. />\n\nIncreases Melee Lunge Range to 7 meters.\n"
     },
     "inLiveDatabase": true
   },
