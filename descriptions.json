@@ -6407,6 +6407,78 @@
       "mainEditor": "As Magazine goes below 50% until empty:\nUp to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability.\n\nEnhanced: Buff Effect is increased up to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability."
     }
   },
+  "1667892708": {
+    "id": 1667892708,
+    "name": "Sunfire Furnace",
+    "itemId": 1192890598,
+    "itemName": "Hallowfire Heart",
+    "lastUpdate": 1650211724611,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "If on "
+          },
+          {
+            "className": "solar"
+          },
+          {
+            "text": "Solar Subclass:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Faster Ability Recharge"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "0.9% Melee & Grenade Ability Recharge per Second"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "If "
+          },
+          {
+            "className": "solar"
+          },
+          {
+            "text": "Solar Super is Charged:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Significatively faster Ability Recharge"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "4.25% Melee & Grenade Ability Recharge per Second"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "If on <solar/>Solar Subclass:\r\nFaster Ability Recharge\r\n0.9% Melee & Grenade Ability Recharge per Second\r\n\r\nIf <solar/>Solar Super is Charged:\r\nSignificatively faster Ability Recharge\r\n4.25% Melee & Grenade Ability Recharge per Second"
+    },
+    "inLiveDatabase": true
+  },
   "1667892710": {
     "id": "1667892710",
     "name": "Survival Well",
