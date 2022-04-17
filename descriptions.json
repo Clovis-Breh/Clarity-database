@@ -16034,6 +16034,52 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nMove forward at 90% your speed while blocking with Sentinel Shield.\n\nConverts incoming damage into Super Energy after Super ends, up to 50%.\n\n<center/><highlight_2 Overshields prevent damage into Super Energy conversion so don't stand in a Well of Radiance. /><center/>\n"
     }
   },
+  "4235122381": {
+    "id": 4235122381,
+    "name": "Glorious Charge",
+    "itemId": 2321120637,
+    "itemName": "Cuirass of the Falling Star",
+    "lastUpdate": 1650211443023,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Thundercrash has a 100% Damage Increase."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Thundercrash Deactivation:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Gain a 100HP Overshield for 7 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Overshield Duration scales with Thundercrash distance, up to a max of 20 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Thundercrash has a 100% Damage Increase.\r\n\r\nOn Thundercrash Deactivation:\r\nGain a 100HP Overshield for 7 seconds.\r\nOvershield Duration scales with Thundercrash distance, up to a max of 20 seconds."
+    },
+    "inLiveDatabase": true
+  },
   "4251375227": {
     "id": 4251375227,
     "name": "Mobius Conduit",
