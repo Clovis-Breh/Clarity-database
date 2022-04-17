@@ -5426,6 +5426,73 @@
     },
     "inLiveDatabase": true
   },
+  "1457189155": {
+    "id": 1457189155,
+    "name": "Depths of Duskfield",
+    "itemId": 2169905051,
+    "itemName": "Renewal Grasps",
+    "lastUpdate": 1650210606249,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Duskfield Grenades have [?]% increased radius."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While inside a Duskfield Grenade's Slowing Field:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enemies deal 50% reduced damage, and allies receive "
+          },
+          {
+            "text": " [?] ",
+            "className": "pve"
+          },
+          {
+            "text": " [15%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " reduced damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "When combined with Touch of Winter:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Crystal increases from Medium to Large, and radius is increased additively."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Duskfield Grenades have [?]% increased radius.\r\n\r\nWhile inside a Duskfield Grenade's Slowing Field:\r\nEnemies deal 50% reduced damage, and allies receive <pve [?] /> <pvp [15%] /> reduced damage.\r\n\r\nWhen combined with Touch of Winter:\r\nCrystal increases from Medium to Large, and radius is increased additively."
+    },
+    "inLiveDatabase": true
+  },
   "1523832109": {
     "id": "1523832109",
     "name": "Reconstruction",
