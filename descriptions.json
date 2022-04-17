@@ -5899,7 +5899,7 @@
   "1570042021": {
     "id": "1570042021",
     "name": "Heating Up",
-    "lastUpdate": 1649867387224,
+    "lastUpdate": 1650200462406,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
@@ -5951,6 +5951,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\n\n1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction.\n2x = -30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction.\n\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [5.5+?] seconds."
     }
