@@ -15825,52 +15825,21 @@
     "name": "Insatiable",
     "itemId": "1096253259",
     "itemName": "Apotheosis Veil",
-    "lastUpdate": 1649009293484,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650213736266,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "This description needs updating"
+            "text": "On Super Ability Activation:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Fully restores Health, Grenade, Melee, and Class Ability Energy on Super Cast."
+            "text": "Fully restores Health, Grenade, Melee, and Class Ability Energy."
           }
         ]
       },
@@ -15886,8 +15855,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nFully restores Health, Grenade, Melee, and Class Ability Energy on Super Cast.\n\nAllies within 18(?) meters recharge 0.25% of their Class Ability per Second.\n"
-    }
+      "mainEditor": "On Super Ability Activation:\nFully restores Health, Grenade, Melee, and Class Ability Energy.\n\nAllies within 18(?) meters recharge 0.25% of their Class Ability per Second."
+    },
+    "inLiveDatabase": true
   },
   "4190535237": {
     "id": 4190535237,
