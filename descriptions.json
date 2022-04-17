@@ -8826,7 +8826,7 @@
   "2450788523": {
     "id": "2450788523",
     "name": "Killing Wind",
-    "lastUpdate": 1649935968029,
+    "lastUpdate": 1650200478820,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -8914,6 +8914,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Weapon Kill:\n20 Range, 50 Mobility, 40 Handling, and a 1.05x Damage Falloff Distance Multiplier\n\n<formula In-Game Range: range_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\n\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [8+?] seconds"
     }
