@@ -5913,10 +5913,17 @@
   "1583705720": {
     "id": 1583705720,
     "name": "Stats for All",
-    "lastUpdate": 1650200567948,
+    "lastUpdate": 1650234657793,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
+        "active": {
+          "stat": [
+            35
+          ]
+        }
+      },
+      "reload": {
         "active": {
           "stat": [
             35
@@ -5926,10 +5933,20 @@
           ]
         }
       },
-      "reload": {
+      "range": {
         "active": {
           "stat": [
-            35
+            10
+          ],
+          "multiplier": [
+            1.05
+          ]
+        }
+      },
+      "stability": {
+        "active": {
+          "stat": [
+            10
           ]
         }
       }
@@ -5946,7 +5963,7 @@
       {
         "lineText": [
           {
-            "text": "[?] Range, [?] Stability, 35 Handling, and 35 Reload Speed (w/0.95x "
+            "text": "10 Range (w/1.05x Falloff Multiplier), 10 Stability, 35 Handling, and 35 Reload Speed (w/0.95x "
           },
           {
             "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
@@ -5971,15 +5988,54 @@
       {
         "lineText": [
           {
+            "formulaText": "In-Game Range:",
+            "formula": "range_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
             "text": "Enhanced: Buff Duration is increased by 1 second, to a maximum of 11 seconds."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n[?] Range, [?] Stability, 35 Handling, and 35 Reload Speed (w/0.95x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] />) for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 11 seconds."
-    }
+      "mainEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n10 Range (w/1.05x Falloff Multiplier), 10 Stability, 35 Handling, and 35 Reload Speed (w/0.95x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] />) for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\n<formula In-Game Range: range_0 />\r\n<formula Reload Time: reload_0 />\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />\r\n\r\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 11 seconds."
+    },
+    "inLiveDatabase": true
   },
   "1600092898": {
     "id": "1600092898",
