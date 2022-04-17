@@ -8460,7 +8460,7 @@
   "2224838837": {
     "id": 2224838837,
     "name": "Unstoppable Force",
-    "lastUpdate": 1649871783422,
+    "lastUpdate": 1650200620337,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -8501,6 +8501,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\n30% increased projectile damage for 4 seconds or until you stop blocking. Hits refresh duration.\r\n\r\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 5 seconds."
     }
