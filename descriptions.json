@@ -11871,6 +11871,82 @@
     },
     "inLiveDatabase": true
   },
+  "3241194941": {
+    "id": 3241194941,
+    "name": "Mecha Holster",
+    "itemId": 3539357319,
+    "itemName": "Peacekeepers",
+    "lastUpdate": 1650212646205,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "handling": {
+        "active": {
+          "stat": [
+            100
+          ]
+        }
+      }
+    },
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "When an SMG is readied:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "50 Mobility"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Sprint Speed by 6.25%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Slide Distance by 33%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Decreases SMG ADS penalty from 25% to 9%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100 Handling(?)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reloads stowed SMGs in 1.3s"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "When an SMG is readied:\r\n50 Mobility\r\nIncreases Sprint Speed by 6.25%\r\nIncreases Slide Distance by 33%\r\nDecreases SMG ADS penalty from 25% to 9%\r\n100 Handling(?)\r\n\r\nReloads stowed SMGs in 1.3s"
+    },
+    "inLiveDatabase": true
+  },
   "3241194942": {
     "id": 3241194942,
     "name": "Linear Actuators",
