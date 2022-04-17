@@ -5565,7 +5565,7 @@
   "1528281896": {
     "id": "1528281896",
     "name": "Outlaw",
-    "lastUpdate": 1649868923232,
+    "lastUpdate": 1650200498530,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -5618,6 +5618,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Precision Kill:\n63 Reload Speed with 0.9x Duration Multiplier for 6 seconds.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Duration increased to [?] seconds."
     }
