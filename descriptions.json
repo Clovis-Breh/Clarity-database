@@ -13429,48 +13429,10 @@
     "name": "Dreaded Visage",
     "itemId": "3883866764",
     "itemName": "Mask of the Quiet One",
-    "lastUpdate": 1649009906819,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650212324369,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -13497,8 +13459,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nHeals up to Max Critical Health on Kill if Critical.\n\nGenerates 5% Barricade, Grenade, and Melee Energy every time you take damage.\nX second cooldown.\n"
-    }
+      "mainEditor": "Heals up to Max Critical Health on Kill if Critical.\n\nGenerates 5% Barricade, Grenade, and Melee Energy every time you take damage.\nX second cooldown.\n"
+    },
+    "inLiveDatabase": true
   },
   "3662465907": {
     "id": 3662465907,
