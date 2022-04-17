@@ -904,6 +904,83 @@
       "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nShoulder Charges deal increased damage if used midair.\n\n<center/>Minor\n<center/> <arc/> 155% |<solar/>190% | <void/>310%\n<center/>Elite\n<center/><arc/>200% |<solar/>? | <void/>?\n<center/>Major\n<center/><arc/>310% |<solar/>? | <void/>?\n<center/>Boss\n<center/><arc/>360% |<solar/>157% | <void/>165%"
     }
   },
+  "236605015": {
+    "id": 236605015,
+    "name": "Vanishing Execution",
+    "itemId": 2203146422,
+    "itemName": "Assassin's Cowl",
+    "lastUpdate": 1650209642410,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Heals for X on Powered Melee Kill. (Stronger on Finishers)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Invisibility Duration:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Minor = 6 seconds (10)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Elite = 9 seconds (13)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Miniboss = 12.5 seconds (13)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Boss = 13 seconds (13)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bosses are not finishable."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)\r\nHeals for X on Powered Melee Kill. (Stronger on Finishers)\r\n\r\nInvisibility Duration:\r\nMinor = 6 seconds (10)\r\nElite = 9 seconds (13)\r\nMiniboss = 12.5 seconds (13)\r\nBoss = 13 seconds (13)\r\n\r\nBosses are not finishable."
+    },
+    "inLiveDatabase": true
+  },
   "247725512": {
     "id": "247725512",
     "name": "Rapid Hit",
