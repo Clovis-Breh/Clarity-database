@@ -3894,7 +3894,7 @@
   "1048183818": {
     "id": 1048183818,
     "name": "Adaptive Munitions",
-    "lastUpdate": 1649942591548,
+    "lastUpdate": 1650234147563,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -3914,6 +3914,17 @@
       },
       {
         "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": " 29% per Hit: ",
+            "className": "bold"
+          },
+          {
+            "text": " Fusion Rifles."
+          }
+        ]
       },
       {
         "lineText": [
@@ -3966,10 +3977,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\n\r\n<bold 33.3% per hit: /> Auto Rifles and Pulse Rifles\r\n<bold 166.6% per hit: /> Bows, Hand Cannons, and Scout Rifles\r\n<bold 150% per hit: /> Linear Fusion Rifles [Maxes at 450%]\r\nBuff is removed upon hitting a matching or unshielded enemy.\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%"
-    }
+      "mainEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\n\r\n<bold 29% per Hit: /> Fusion Rifles.\r\n<bold 33.3% per hit: /> Auto Rifles and Pulse Rifles\r\n<bold 166.6% per hit: /> Bows, Hand Cannons, and Scout Rifles\r\n<bold 150% per hit: /> Linear Fusion Rifles [Maxes at 450%]\r\nBuff is removed upon hitting a matching or unshielded enemy.\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%"
+    },
+    "inLiveDatabase": true
   },
   "1095471953": {
     "id": "1095471953",
