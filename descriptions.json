@@ -12498,7 +12498,7 @@
   "3400784728": {
     "id": "3400784728",
     "name": "Triple Tap",
-    "lastUpdate": 1649871214226,
+    "lastUpdate": 1650200602133,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12527,6 +12527,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Scoring 3 Precision Hits generates 1 Ammo to Magazine.\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\n\nEnhanced: Timer between Precision Hits increased by [?] seconds, up to a maximum of [?] seconds."
     }
