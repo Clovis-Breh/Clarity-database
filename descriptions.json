@@ -13207,52 +13207,14 @@
     }
   },
   "3651607301": {
-    "id": "3651607301",
+    "id": 3651607301,
     "name": "Sect of Insight",
-    "itemId": "3942036043",
-    "itemName": "Aeon Swift",
-    "lastUpdate": 1649165385580,
-    "updatedBy": "Icemourne",
+    "itemId": 1654461647,
+    "itemName": "Aeon Safe",
+    "lastUpdate": 1650207751056,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -13289,8 +13251,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\n2 Precision Multikills drop an Orb of Power for allies.\n\nFinishing an Elite spawns a Special Ammo Brick for Allies\nFinishing a Mini-boss spawns a Power Ammo Brick for Allies.\n\nAeon Allies additionally receive a 35% Damage Increase for 20 seconds.\n"
-    }
+      "mainEditor": "2 Precision Multikills drop an Orb of Power for allies.\n\nFinishing an Elite spawns a Special Ammo Brick for Allies\nFinishing a Mini-boss spawns a Power Ammo Brick for Allies.\n\nAeon Allies additionally receive a 35% Damage Increase for 20 seconds."
+    },
+    "inLiveDatabase": true
   },
   "3662465906": {
     "id": "3662465906",
