@@ -2852,52 +2852,25 @@
     "name": "Dearly Departed",
     "itemId": "2177524718",
     "itemName": "The Stag",
-    "lastUpdate": 1649012321742,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650215075773,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
+            "text": "Grants "
+          },
           {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
+            "text": " 25%",
+            "className": "pve"
+          },
           {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
+            "text": " [15%]",
+            "className": "pvp"
+          },
           {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Grants <# pve> 25%<$><# pvp> [15%]<$> Damage Resist to Guardians inside your Rift."
+            "text": " Damage Resist to Guardians inside your Rift."
           }
         ]
       },
@@ -2914,7 +2887,18 @@
       {
         "lineText": [
           {
-            "text": "Dearly Departed grants <# pve> 55% <$><# pvp>[27.5%]<$> Class Ability Energy."
+            "text": "Dearly Departed grants "
+          },
+          {
+            "text": " 55% ",
+            "className": "pve"
+          },
+          {
+            "text": " [27.5%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Class Ability Energy."
           }
         ]
       },
@@ -2944,8 +2928,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nGrants <# pve> 25%<$><# pvp> [15%]<$> Damage Resist to Guardians inside your Rift.\n\nUpon reaching Critical Health:\nDearly Departed grants <# pve> 55% <$><# pvp>[27.5%]<$> Class Ability Energy.\nBuff lasts until no longer Critical.\n\nOn Death:\nSpawns a Healing Rift for 15 seconds.\n"
-    }
+      "mainEditor": "Grants <pve 25%/><pvp [15%]/> Damage Resist to Guardians inside your Rift.\n\nUpon reaching Critical Health:\nDearly Departed grants <pve 55% /><pvp [27.5%] /> Class Ability Energy.\nBuff lasts until no longer Critical.\n\nOn Death:\nSpawns a Healing Rift for 15 seconds.\n"
+    },
+    "inLiveDatabase": true
   },
   "744217850": {
     "id": 744217850,
