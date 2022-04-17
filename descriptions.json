@@ -13135,7 +13135,7 @@
   "3592538738": {
     "id": "3592538738",
     "name": "Wellspring",
-    "lastUpdate": 1649871953798,
+    "lastUpdate": 1650200623116,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -13172,6 +13172,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n<highlight_3 BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities."
     }
