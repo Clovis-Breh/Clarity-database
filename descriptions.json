@@ -899,7 +899,7 @@
   "247725512": {
     "id": "247725512",
     "name": "Rapid Hit",
-    "lastUpdate": 1650234454211,
+    "lastUpdate": 1650234482106,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -917,6 +917,17 @@
             0.955,
             0.94,
             0.925
+          ]
+        }
+      },
+      "stability": {
+        "active": {
+          "stat": [
+            2,
+            11,
+            13,
+            17,
+            22
           ]
         }
       }
