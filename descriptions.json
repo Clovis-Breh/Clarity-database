@@ -2851,6 +2851,48 @@
       "mainEditor": "While at Low Health:\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\nEnhanced: Passively grants 4 Stability."
     }
   },
+  "699693452": {
+    "id": 699693452,
+    "name": "Vengeance",
+    "itemId": 2578771006,
+    "itemName": "One-Eyed Mask",
+    "lastUpdate": 1650212592006,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Taking damage highlights the enemy that caused it for 8 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Killing the targeted enemy grants Vengeance for 6 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Vengeance grants a 95 HP Overshield."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Taking damage highlights the enemy that caused it for 8 seconds.\r\n\r\nKilling the targeted enemy grants Vengeance for 6 seconds.\r\n\r\nVengeance grants a 95 HP Overshield."
+    },
+    "inLiveDatabase": true
+  },
   "706527188": {
     "id": "706527188",
     "name": "Quickdraw",
