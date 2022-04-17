@@ -289,7 +289,7 @@
   "47981717": {
     "id": "47981717",
     "name": "Opening Shot",
-    "lastUpdate": 1649936006063,
+    "lastUpdate": 1650200493857,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -357,6 +357,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "For the first bullet only, and 3.1s after not firing:\n20 Aim Assist, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\n\nShotguns do not receive the Damage Falloff Distance Increase.\n\n<formula In-Game Range: range_0 />\n<highlight_2 ^ Currently Takes the Damage Falloff Distance Increase into account on Shotguns, multiplying by 0.95 should get you the more accurate value. />\n"
     }
