@@ -6315,48 +6315,10 @@
     "name": "Auto-Loading Link",
     "itemId": 1591207518,
     "itemName": "Actium War Rig",
-    "lastUpdate": 1649009264589,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650202936380,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -6365,8 +6327,9 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "This description needs updating\r\nCheck if all data is present some items are missing id's\r\nMake sure it's up to date and stats are correct\r\nAnd obviously, fix syntax\r\nTo update simply remove this text and upload\r\n\r\nRefreshes 10% of equipped Auto Rifle/Machine Gun magazine every 1.5 seconds."
+      "mainEditor": "Refreshes 10% of equipped Auto Rifle/Machine Gun magazine every 1.5 seconds."
     }
   },
   "1683379515": {
