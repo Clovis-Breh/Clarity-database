@@ -8403,7 +8403,7 @@
   "2213355989": {
     "id": "2213355989",
     "name": "High-Impact Reserves",
-    "lastUpdate": 1649867464666,
+    "lastUpdate": 1650234360387,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -8443,7 +8443,8 @@
     ],
     "editor": {
       "mainEditor": "As Magazine goes below 50%, until empty: \n<pve [PVE] 12.1% to 25.6% Increased damage.  />\n<pvp [PVP] 3% to 6% Increased damage. />\n\nEnhanced: Activates at the 75% Magazine Threshold."
-    }
+    },
+    "inLiveDatabase": true
   },
   "2224838837": {
     "id": 2224838837,
