@@ -493,52 +493,14 @@
     "name": "Glacial Guard",
     "itemId": 1467044898,
     "itemName": "Icefall Mantle",
-    "lastUpdate": 1649009827884,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650212156616,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Replaces Barricade with Glacial Guard"
+            "text": "Replaces Barricade with Glacial Guard."
           }
         ]
       },
@@ -555,7 +517,7 @@
       {
         "lineText": [
           {
-            "text": "Grants Shielded buff and applies 40 Stacks of Slow to Combatants within 7 meters."
+            "text": "Grants Shielded buff and applies 40 Slow Stacks to Combatants within 7 meters."
           }
         ]
       },
@@ -565,7 +527,11 @@
       {
         "lineText": [
           {
-            "text": "Shielded lasts 20 seconds and grants a 100HP Overshield."
+            "text": "Shielded lasts 20 seconds and grants a 100HP Overshield "
+          },
+          {
+            "text": " with 62.5% Damage Resist.",
+            "className": "pve"
           }
         ]
       },
@@ -595,8 +561,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nReplaces Barricade with Glacial Guard\n\nOn Glacial Guard Cast:\nGrants Shielded buff and applies 40 Stacks of Slow to Combatants within 7 meters.\n\nShielded lasts 20 seconds and grants a 100HP Overshield.\nShielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding.\n\nWhile Shielded is active, you cannot regain Class Ability Energy.\nActivating Barricade while Glacial Guard is active will remove the effect.\n"
-    }
+      "mainEditor": "Replaces Barricade with Glacial Guard.\n\nOn Glacial Guard Cast:\nGrants Shielded buff and applies 40 Slow Stacks to Combatants within 7 meters.\n\nShielded lasts 20 seconds and grants a 100HP Overshield <pve with 62.5% Damage Resist./>\nShielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding.\n\nWhile Shielded is active, you cannot regain Class Ability Energy.\nActivating Barricade while Glacial Guard is active will remove the effect."
+    },
+    "inLiveDatabase": true
   },
   "201365942": {
     "id": "201365942",
