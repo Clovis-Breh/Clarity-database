@@ -6447,7 +6447,7 @@
   "1685431615": {
     "id": "1685431615",
     "name": "En Garde",
-    "lastUpdate": 1646858134844,
+    "lastUpdate": 1650200358330,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -6475,6 +6475,7 @@
         ]
       }
     ],
+    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Upon readying a Sword:\n30% Increased damage for 1.5 seconds.\n"
     }
