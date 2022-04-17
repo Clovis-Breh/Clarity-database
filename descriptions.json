@@ -3935,48 +3935,10 @@
     "name": "Embers of Light",
     "itemId": "235591051",
     "itemName": "Promethium Spur",
-    "lastUpdate": 1649012132671,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650214693647,
+    "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
-      {
-        "lineText": [
-          {
-            "text": "This description needs updating"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Check if all data is present some items are missing id's"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
       {
         "lineText": [
           {
@@ -4020,8 +3982,9 @@
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\nDaybreak Kills spawn both an Empowering and Healing Rift on Enemy Death Location.\n\nWhile standing in a Rift:\nSolar Weapon Kills grant X% Class Ability Energy.\n\nWhile your Class Ability Energy is Full:\nWeapon Kills consume your Class Ability Energy and spawn a Empowering + Healing Rift at the Target's Location.\n"
-    }
+      "mainEditor": "Daybreak Kills spawn both an Empowering and Healing Rift on Enemy Death Location.\n\nWhile standing in a Rift:\nSolar Weapon Kills grant X% Class Ability Energy.\n\nWhile your Class Ability Energy is Full:\nWeapon Kills consume your Class Ability Energy and spawn a Empowering + Healing Rift at the Target's Location.\n"
+    },
+    "inLiveDatabase": true
   },
   "1140096971": {
     "id": "1140096971",
