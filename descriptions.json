@@ -10112,7 +10112,7 @@
   "2779035018": {
     "id": "2779035018",
     "name": "Feeding Frenzy",
-    "lastUpdate": 1650200375917,
+    "lastUpdate": 1650288955501,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -10162,11 +10162,11 @@
                 "className": "bold"
               },
               {
-                "text": "Reload Speed",
+                "text": "Reload Stat",
                 "className": "bold"
               },
               {
-                "text": "Reload Animation Length",
+                "text": "Reload Animation Duration Scalar",
                 "className": "bold"
               },
               {
@@ -10275,10 +10275,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "Weapon Kills increase Reload Speed for 3.5 seconds.\nRefreshes on kill. Max of 5 Stacks.\n\n< table >\n|b Stacks|b Reload Speed|b Reload Animation Length|b Reload Time\n| 1x     | 10           | 1x                      | <formula reload_0 />\n| 2x     | 45           | 0.9x                    | <formula reload_1 />\n| 3x     | 55           | 0.875x                  | <formula reload_2 />\n| 4x     | 70           | 0.85x                   | <formula reload_3 />\n| 5x     | 100          | 0.8x                    | <formula reload_4 />\n<$>\n\nEnhanced: Stronger Effect."
-    }
+      "mainEditor": "Weapon Kills increase Reload Speed for 3.5 seconds.\nRefreshes on kill. Max of 5 Stacks.\n\n< table >\n|b Stacks|b Reload Stat|b Reload Animation Duration Scalar|b Reload Time\n| 1x     | 10           | 1x                      | <formula reload_0 />\n| 2x     | 45           | 0.9x                    | <formula reload_1 />\n| 3x     | 55           | 0.875x                  | <formula reload_2 />\n| 4x     | 70           | 0.85x                   | <formula reload_3 />\n| 5x     | 100          | 0.8x                    | <formula reload_4 />\n<$>\n\nEnhanced: Stronger Effect."
+    },
+    "inLiveDatabase": true
   },
   "2799418574": {
     "id": "2799418574",
