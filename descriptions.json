@@ -15896,14 +15896,14 @@
     "name": "Glorious Charge",
     "itemId": 2321120637,
     "itemName": "Cuirass of the Falling Star",
-    "lastUpdate": 1650211443023,
+    "lastUpdate": 1650291373487,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Thundercrash has a 100% Damage Increase."
+            "text": "Thundercrash deals 100% more damage."
           }
         ]
       },
@@ -15933,7 +15933,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Thundercrash has a 100% Damage Increase.\r\n\r\nOn Thundercrash Deactivation:\r\nGain a 100HP Overshield for 7 seconds.\r\nOvershield Duration scales with Thundercrash distance, up to a max of 20 seconds."
+      "mainEditor": "Thundercrash deals 100% more damage.\r\n\r\nOn Thundercrash Deactivation:\r\nGain a 100HP Overshield for 7 seconds.\r\nOvershield Duration scales with Thundercrash distance, up to a max of 20 seconds."
     },
     "inLiveDatabase": true
   },
