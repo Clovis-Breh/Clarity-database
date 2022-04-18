@@ -13183,12 +13183,15 @@
   "3551326236": {
     "id": "3551326236",
     "name": "Rampage",
-    "lastUpdate": 1650297160872,
+    "lastUpdate": 1650297567672,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
+            1.1,
+            1.21,
+            1.331,
             1.2,
             1.41,
             1.66
