@@ -252,7 +252,7 @@
   "47981717": {
     "id": "47981717",
     "name": "Opening Shot",
-    "lastUpdate": 1650289122950,
+    "lastUpdate": 1650289198318,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -262,8 +262,8 @@
             20
           ],
           "multiplier": [
-            1,
-            1.05
+            1.05,
+            1
           ]
         }
       },
@@ -306,7 +306,7 @@
         "lineText": [
           {
             "formulaText": "In-Game Range:",
-            "formula": "range_1",
+            "formula": "range_0",
             "className": "formula"
           }
         ]
@@ -326,14 +326,14 @@
         "lineText": [
           {
             "formulaText": "Shotgun-specific Range:",
-            "formula": "range_0",
+            "formula": "range_1",
             "className": "formula"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "For the <title first bullet only [Even the case of burst weapons. Only the first bullet of the burst is affected.] />, and 3.1s after not firing:\n20 Aim Assist, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\n\n<formula In-Game Range: range_1 />\n\n<highlight_3 Shotguns do not receive the Damage Falloff Distance Increase. />\n<formula Shotgun-specific Range: range_0 />\n"
+      "mainEditor": "For the <title first bullet only [Even the case of burst weapons. Only the first bullet of the burst is affected.] />, and 3.1s after not firing:\n20 Aim Assist, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\n\n<formula In-Game Range: range_0 />\n\n<highlight_3 Shotguns do not receive the Damage Falloff Distance Increase. />\n<formula Shotgun-specific Range: range_1 />\n"
     },
     "inLiveDatabase": true
   },
