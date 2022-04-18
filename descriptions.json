@@ -252,16 +252,18 @@
   "47981717": {
     "id": "47981717",
     "name": "Opening Shot",
-    "lastUpdate": 1650200493857,
+    "lastUpdate": 1650288232333,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
         "active": {
           "stat": [
+            20,
             20
           ],
           "multiplier": [
-            1.05
+            1.05,
+            1
           ]
         }
       },
@@ -278,7 +280,15 @@
       {
         "lineText": [
           {
-            "text": "For the first bullet only, and 3.1s after not firing:"
+            "text": "For the "
+          },
+          {
+            "title": "Even the case of burst weapons. Only the first bullet of the burst is affected.",
+            "text": "first bullet only",
+            "className": "title"
+          },
+          {
+            "text": ", and 3.1s after not firing:"
           }
         ]
       },
@@ -295,7 +305,9 @@
       {
         "lineText": [
           {
-            "text": "Shotguns do not receive the Damage Falloff Distance Increase."
+            "formulaText": "In-Game Range:",
+            "formula": "range_0",
+            "className": "formula"
           }
         ]
       },
@@ -305,25 +317,25 @@
       {
         "lineText": [
           {
-            "formulaText": "In-Game Range:",
-            "formula": "range_0",
-            "className": "formula"
+            "text": " Shotguns do not receive the Damage Falloff Distance Increase. ",
+            "className": "highlight_3"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": " ^ Currently Takes the Damage Falloff Distance Increase into account on Shotguns, multiplying by 0.95 should get you the more accurate value. ",
-            "className": "highlight_2"
+            "formulaText": "Shotgun-specific Range:",
+            "formula": "range_1",
+            "className": "formula"
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "For the first bullet only, and 3.1s after not firing:\n20 Aim Assist, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\n\nShotguns do not receive the Damage Falloff Distance Increase.\n\n<formula In-Game Range: range_0 />\n<highlight_2 ^ Currently Takes the Damage Falloff Distance Increase into account on Shotguns, multiplying by 0.95 should get you the more accurate value. />\n"
-    }
+      "mainEditor": "For the <title first bullet only [Even the case of burst weapons. Only the first bullet of the burst is affected.] />, and 3.1s after not firing:\n20 Aim Assist, 20 Range, 5% Damage Falloff Distance Increase, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\n\n<formula In-Game Range: range_0 />\n\n<highlight_3 Shotguns do not receive the Damage Falloff Distance Increase. />\n<formula Shotgun-specific Range: range_1 />\n"
+    },
+    "inLiveDatabase": true
   },
   "117669763": {
     "id": "117669763",
