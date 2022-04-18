@@ -943,7 +943,7 @@
   "247725512": {
     "id": "247725512",
     "name": "Rapid Hit",
-    "lastUpdate": 1650234492111,
+    "lastUpdate": 1650299497599,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -993,31 +993,30 @@
           {
             "lineText": [
               {
-                "text": "Stack",
-                "className": "bold"
+                "text": "Stack"
               },
               {
-                "text": "Stability",
-                "className": "bold"
+                "text": "Stability"
               },
               {
-                "text": "Reload Stat",
-                "className": "bold"
+                "text": "Reload Stat"
               },
               {
-                "text": "Duration Multiplier",
-                "className": "bold"
+                "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
+                "text": "RDS",
+                "className": "title"
               },
               {
-                "text": "Reload Time",
-                "className": "bold"
+                "text": "Reload Time"
               }
-            ]
+            ],
+            "className": "bold"
           },
           {
             "lineText": [
               {
-                "text": "1x"
+                "text": "1x",
+                "className": "bold"
               },
               {
                 "text": "2"
@@ -1038,7 +1037,8 @@
           {
             "lineText": [
               {
-                "text": "2x"
+                "text": "2x",
+                "className": "bold"
               },
               {
                 "text": "11"
@@ -1058,7 +1058,8 @@
           {
             "lineText": [
               {
-                "text": "3x"
+                "text": "3x",
+                "className": "bold"
               },
               {
                 "text": "13"
@@ -1079,7 +1080,8 @@
           {
             "lineText": [
               {
-                "text": "4x"
+                "text": "4x",
+                "className": "bold"
               },
               {
                 "text": "17"
@@ -1099,7 +1101,8 @@
           {
             "lineText": [
               {
-                "text": "5x"
+                "text": "5x",
+                "className": "bold"
               },
               {
                 "text": "22"
@@ -1133,7 +1136,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|b Stack|b Stability|b Reload Stat|b Duration Multiplier|b Reload Time\n| 1x    | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n| 2x    | 11        | 27          | 0.970x              | <formula reload_1 />\n| 3x    | 13        | 32          | 0.955x              | <formula reload_2 /><background/>\n| 4x    | 17        | 40          | 0.940x              | <formula reload_3 />\n| 5x    | 22        | 54          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect."
+      "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n| Stack| Stability| Reload Stat| <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] />| Reload Time <bold/>\n|b 1x    | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n|b 2x    | 11        | 27          | 0.970x              | <formula reload_1 />\n|b 3x    | 13        | 32          | 0.955x              | <formula reload_2 /><background/>\n|b 4x    | 17        | 40          | 0.940x              | <formula reload_3 />\n|b 5x    | 22        | 54          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect."
     },
     "inLiveDatabase": true
   },
