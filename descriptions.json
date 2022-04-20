@@ -3542,7 +3542,7 @@
   "830282363": {
     "id": "830282363",
     "name": "Phase Magazine",
-    "lastUpdate": 1650200504186,
+    "lastUpdate": 1650458559540,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -3554,10 +3554,20 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's.\n"
-    }
+      "mainEditor": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's.\n",
+      "secondaryEditor": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's."
+    },
+    "inLiveDatabase": true
   },
   "883550427": {
     "id": 883550427,
