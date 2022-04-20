@@ -12140,7 +12140,7 @@
   "3096702027": {
     "id": "3096702027",
     "name": "Genesis",
-    "lastUpdate": 1650456289567,
+    "lastUpdate": 1650456360306,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12154,7 +12154,48 @@
       {
         "lineText": [
           {
-            "text": "Refreshes magazine."
+            "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
+            "text": "Refreshes",
+            "className": "title"
+          },
+          {
+            "text": " magazine."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Energy Weapons are refunded 1 Ammo upon hitting Matching Elemental Shields."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Elemental or Barrier Champion Shield Break:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes magazine. (Refresh: Reload, but does not need animation and doesn't proc on-reload perks.)"
           }
         ]
       },
@@ -12180,7 +12221,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Elemental or Barrier Champion Shield Break:\nRefreshes magazine.\n\nEnergy Weapons are refunded 1 Ammo upon hitting Matching Elemental Shields.\n\nEnhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
+      "mainEditor": "On Elemental or Barrier Champion Shield Break:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> magazine.\n\nEnergy Weapons are refunded 1 Ammo upon hitting Matching Elemental Shields.\n\nEnhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely.",
+      "secondaryEditor": "On Elemental or Barrier Champion Shield Break:\r\nRefreshes magazine. (Refresh: Reload, but does not need animation and doesn't proc on-reload perks.)\r\n\r\nEnergy Weapons are refunded 1 Ammo upon hitting Matching Elemental Shields.\r\n\r\nEnhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
     },
     "inLiveDatabase": true
   },
