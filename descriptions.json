@@ -16976,7 +16976,7 @@
   "4267945040": {
     "id": "4267945040",
     "name": "Full Auto Trigger System",
-    "lastUpdate": 1650200408359,
+    "lastUpdate": 1650456067274,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -16988,26 +16988,19 @@
         ]
       },
       {
-        "lineText": [
-          {
-            "text": "10% Faster Rate of Fire on Shotguns."
-          }
-        ]
-      },
-      {
         "className": "spacer"
       },
       {
         "lineText": [
           {
-            "text": "Other weapons do not receive a Rate of Fire Increase."
+            "text": "10% Faster Rate of Fire on Shotguns exclusively."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n10% Faster Rate of Fire on Shotguns.\n\nOther weapons do not receive a Rate of Fire Increase."
-    }
+      "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n\n10% Faster Rate of Fire on Shotguns exclusively."
+    },
+    "inLiveDatabase": true
   }
 }
