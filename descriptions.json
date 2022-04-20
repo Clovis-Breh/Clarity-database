@@ -2421,7 +2421,7 @@
   "588594999": {
     "id": "588594999",
     "name": "Moving Target",
-    "lastUpdate": 1650200485149,
+    "lastUpdate": 1650458043128,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "aimAssist": {
@@ -2447,15 +2447,15 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Aim Assist bonus increased to [?]"
+            "text": "Enhanced: Aim Assist bonus is increased.."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing.\r\n\r\nEnhanced: Aim Assist bonus increased to [?]"
-    }
+      "mainEditor": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing.\r\n\r\nEnhanced: Aim Assist bonus is increased.."
+    },
+    "inLiveDatabase": true
   },
   "591790007": {
     "id": "591790007",
