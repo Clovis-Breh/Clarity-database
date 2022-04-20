@@ -13477,7 +13477,7 @@
   "3523296417": {
     "id": "3523296417",
     "name": "Demolitionist",
-    "lastUpdate": 1650200332978,
+    "lastUpdate": 1650454442910,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -13530,15 +13530,45 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Kills with Primary Weapons and Power Weapons grant 11% Grenade Ability Energy. [Most] Special Weapons grant 22%"
+            "text": "Enhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. [MOST] Special Weapons grant 20%."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Using your Grenade Ability refreshes Magazine. 3 Second Cooldown."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Grenade Ability Energy. [MOST] <special/>Special Weapons grant 20%.\n\nUsing your Grenade Ability <title refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> Magazine. 3 Second Cooldown.\n\nEnhanced: Kills with Primary Weapons and Power Weapons grant 11% Grenade Ability Energy. [Most] Special Weapons grant 22%"
-    }
+      "mainEditor": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Grenade Ability Energy. [MOST] <special/>Special Weapons grant 20%.\n\nUsing your Grenade Ability <title refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> Magazine. 3 Second Cooldown.\n\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively.",
+      "secondaryEditor": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. [MOST] Special Weapons grant 20%.\r\n\r\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\r\n\r\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
+    },
+    "inLiveDatabase": true
   },
   "3526486541": {
     "id": 3526486541,
