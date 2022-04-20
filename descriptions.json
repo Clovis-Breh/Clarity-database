@@ -2654,7 +2654,7 @@
   "515704826": {
     "id": 515704826,
     "name": "Invader Tracker",
-    "lastUpdate": 1649872750693,
+    "lastUpdate": 1650462960238,
     "updatedBy": "Fading-Shadow",
     "type": "weaponOriginTrait",
     "description": [
@@ -2666,9 +2666,20 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Damaging the Invader with this weapon marks them for allies."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Damaging the Invader with this weapon marks them for allies."
-    }
+      "mainEditor": "Damaging the Invader with this weapon marks them for allies.",
+      "secondaryEditor": "Damaging the Invader with this weapon marks them for allies."
+    },
+    "inLiveDatabase": true
   },
   "553093017": {
     "id": 553093017,
