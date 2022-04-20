@@ -8073,7 +8073,7 @@
   "1716000303": {
     "id": "1716000303",
     "name": "Concussion Grenades",
-    "lastUpdate": 1650200288987,
+    "lastUpdate": 1650459106488,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -8085,10 +8085,20 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grenades fired from this weapon emit a blast that staggers enemies."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grenades fired from this weapon emit a blast that staggers enemies."
-    }
+      "mainEditor": "Grenades fired from this weapon emit a blast that staggers enemies.",
+      "secondaryEditor": "Grenades fired from this weapon emit a blast that staggers enemies."
+    },
+    "inLiveDatabase": true
   },
   "1731450287": {
     "id": 1731450287,
