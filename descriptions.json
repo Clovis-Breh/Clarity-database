@@ -15728,7 +15728,7 @@
   "3650930298": {
     "id": "3650930298",
     "name": "Cold Steel",
-    "lastUpdate": 1650200276791,
+    "lastUpdate": 1650459143294,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -15757,10 +15757,37 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Powered Sword Hits apply Slow Stacks."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Light Attacks apply 40 Slow Stacks."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Heavy Attacks apply 60 Slow Stacks."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Powered Sword Hits apply Slow Stacks.\n\nLight Attacks apply 40 Slow Stacks.\nHeavy Attacks apply 60 Slow Stacks."
-    }
+      "mainEditor": "Powered Sword Hits apply Slow Stacks.\n\nLight Attacks apply 40 Slow Stacks.\nHeavy Attacks apply 60 Slow Stacks.",
+      "secondaryEditor": "Powered Sword Hits apply Slow Stacks.\r\n\r\nLight Attacks apply 40 Slow Stacks.\r\nHeavy Attacks apply 60 Slow Stacks."
+    },
+    "inLiveDatabase": true
   },
   "3651607301": {
     "id": 3651607301,
