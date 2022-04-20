@@ -1592,7 +1592,7 @@
   "409831596": {
     "id": "409831596",
     "name": "Proximity Grenades",
-    "lastUpdate": 1650200505832,
+    "lastUpdate": 1650458568785,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -1604,10 +1604,20 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius.\n"
-    }
+      "mainEditor": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius.\n",
+      "secondaryEditor": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius."
+    },
+    "inLiveDatabase": true
   },
   "438098033": {
     "id": "438098033",
