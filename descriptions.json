@@ -18930,7 +18930,7 @@
   "4071163871": {
     "id": "4071163871",
     "name": "Threat Detector",
-    "lastUpdate": 1650200587204,
+    "lastUpdate": 1650461362219,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -19117,10 +19117,54 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While within 15 metres of an enemy:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "~15 Stability, 15 Reload, and 0.75x Handling Animation Duration Multiplier."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While within 15 metres of 2+ enemies:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "~40 Stability, 55 Reload, and 0.56x Handling Animation Duration Multiplier."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Effect is increased."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grants the following while within 15 meters of enemies:\n\n< table >\n|b Enemy Count|b Stability|b Reload   |b Handling Animation Duration\n|b 1          | ~15       | 15        | 0.75x <background/>\n| In-Game     |           | <formula reload_0 /> | <formula Ready: ready_0 />\n| Values:     |           |           | <formula Stow: stow_0 />\n|b 2+         | ~40       | 55        | 0.56x <background/>\n| In-Game     |           | <formula reload_1 /> | <formula Ready: ready_1 />\n| Values:     |           |           | <formula Stow: stow_1 />\n<$>\n\nEnhanced: Buff Effect is increased."
-    }
+      "mainEditor": "Grants the following while within 15 meters of enemies:\n\n< table >\n|b Enemy Count|b Stability|b Reload   |b Handling Animation Duration\n|b 1          | ~15       | 15        | 0.75x <background/>\n| In-Game     |           | <formula reload_0 /> | <formula Ready: ready_0 />\n| Values:     |           |           | <formula Stow: stow_0 />\n|b 2+         | ~40       | 55        | 0.56x <background/>\n| In-Game     |           | <formula reload_1 /> | <formula Ready: ready_1 />\n| Values:     |           |           | <formula Stow: stow_1 />\n<$>\n\nEnhanced: Buff Effect is increased.",
+      "secondaryEditor": "While within 15 metres of an enemy:\r\n~15 Stability, 15 Reload, and 0.75x Handling Animation Duration Multiplier.\r\n\r\nWhile within 15 metres of 2+ enemies:\r\n~40 Stability, 55 Reload, and 0.56x Handling Animation Duration Multiplier.\r\n\r\nEnhanced: Buff Effect is increased."
+    },
+    "inLiveDatabase": true
   },
   "4082225868": {
     "id": "4082225868",
