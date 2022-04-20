@@ -13315,7 +13315,7 @@
   "3032599245": {
     "id": "3032599245",
     "name": "Blinding Grenades",
-    "lastUpdate": 1650200234623,
+    "lastUpdate": 1650459196423,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -13327,10 +13327,20 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grenade detonation has a brief blinding effect."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grenade detonation has a brief blinding effect."
-    }
+      "mainEditor": "Grenade detonation has a brief blinding effect.",
+      "secondaryEditor": "Grenade detonation has a brief blinding effect."
+    },
+    "inLiveDatabase": true
   },
   "3038247973": {
     "id": "3038247973",
