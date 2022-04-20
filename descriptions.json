@@ -5399,7 +5399,7 @@
   "1431678320": {
     "id": "1431678320",
     "name": "Alloy Magazine",
-    "lastUpdate": 1649942597203,
+    "lastUpdate": 1650452190136,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -5439,10 +5439,27 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Upon reloading with an empty magazine:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "15% Faster Reload Animation"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\n<formula Reload Time: reload_0 />"
-    }
+      "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\n<formula Reload Time: reload_0 />",
+      "secondaryEditor": "Upon reloading with an empty magazine:\r\n15% Faster Reload Animation"
+    },
+    "inLiveDatabase": true
   },
   "1449897496": {
     "id": 1449897496,
