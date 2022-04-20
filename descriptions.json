@@ -14227,7 +14227,7 @@
   "3161816588": {
     "id": "3161816588",
     "name": "Slideshot",
-    "lastUpdate": 1650460054240,
+    "lastUpdate": 1650460099100,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -14260,7 +14260,7 @@
             "text": "15% Magazine Refreshed, 20 Range, and 30 Stability. "
           },
           {
-            "title": "Even on burst weapons.",
+            "title": "Even in the case of burst weapons. Only the first bullet of the burst is affected.",
             "text": "Only buffs first shot",
             "className": "title"
           },
@@ -14313,7 +14313,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Upon Sliding:\n15% Magazine Refreshed, 20 Range, and 30 Stability. <title Only buffs first shot [Even on burst weapons.] />.\nLasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide.\n\n<formula In-Game Range: range_0 />\n",
+      "mainEditor": "Upon Sliding:\n15% Magazine Refreshed, 20 Range, and 30 Stability. <title Only buffs first shot [Even in the case of burst weapons. Only the first bullet of the burst is affected.] />.\nLasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide.\n\n<formula In-Game Range: range_0 />\n",
       "secondaryEditor": "Upon Sliding:\r\n15% Magazine Refreshed, 20 Range, and 30 Stability. Only buffs first shot.\r\nLasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
     },
     "inLiveDatabase": true
