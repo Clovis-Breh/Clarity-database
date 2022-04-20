@@ -744,7 +744,7 @@
   "201365942": {
     "id": "201365942",
     "name": "Archer's Tempo",
-    "lastUpdate": 1650459220591,
+    "lastUpdate": 1650459223563,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
@@ -756,9 +756,6 @@
       },
       "chargeDraw": {
         "active": {
-          "stat": [
-            0
-          ],
           "multiplier": [
             0.7
           ]
