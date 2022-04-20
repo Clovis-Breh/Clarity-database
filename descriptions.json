@@ -11587,7 +11587,7 @@
   "2866798147": {
     "id": "2866798147",
     "name": "No Distractions",
-    "lastUpdate": 1650200489762,
+    "lastUpdate": 1650458127401,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -11618,15 +11618,15 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Aiming-Down-Sights timer is reduced to [?] seconds."
+            "text": "Enhanced: Aiming-Down-Sights timer is reduced."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\nTimer starts as soon as the ADS input is pressed.\n\nEnhanced: Aiming-Down-Sights timer is reduced to [?] seconds."
-    }
+      "mainEditor": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\nTimer starts as soon as the ADS input is pressed.\n\nEnhanced: Aiming-Down-Sights timer is reduced."
+    },
+    "inLiveDatabase": true
   },
   "2869569095": {
     "id": "2869569095",
