@@ -2792,8 +2792,8 @@
   "689005463": {
     "id": "689005463",
     "name": "Accelerated Coils",
-    "lastUpdate": 1649950715080,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1650453940797,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "passive": {
@@ -2827,10 +2827,20 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Decreases charge time by 40, and damage by 2%"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Decreases charge time by 40, and damage by 2%"
-    }
+      "mainEditor": "Decreases charge time by 40, and damage by 2%",
+      "secondaryEditor": "Decreases charge time by 40, and damage by 2%"
+    },
+    "inLiveDatabase": true
   },
   "692285813": {
     "id": 692285813,
