@@ -13448,7 +13448,7 @@
   "3194351027": {
     "id": "3194351027",
     "name": "Explosive Light",
-    "lastUpdate": 1650455238186,
+    "lastUpdate": 1650458946912,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -13490,8 +13490,48 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grenade Launchers: 44% Increased damage and sets Blast Radius to 55(?)."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Rocket Launchers: 25% Increased damage and sets Blast Radius to 100(?)."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Velocity."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot.\n\nGrenade Launchers: 44% Increased damage and sets Blast Radius to 55(?).\n\nRocket Launchers: 25% Increased damage and sets Blast Radius to 100(?).\n\nEnhanced: Passively grants 4 Velocity."
+      "mainEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot.\n\nGrenade Launchers: 44% Increased damage and sets Blast Radius to 55(?).\n\nRocket Launchers: 25% Increased damage and sets Blast Radius to 100(?).\n\nEnhanced: Passively grants 4 Velocity.",
+      "secondaryEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot.\r\n\r\nGrenade Launchers: 44% Increased damage and sets Blast Radius to 55(?).\r\n\r\nRocket Launchers: 25% Increased damage and sets Blast Radius to 100(?).\r\n\r\nEnhanced: Passively grants 4 Velocity."
     },
     "inLiveDatabase": true
   },
