@@ -13160,7 +13160,7 @@
   "3337692349": {
     "id": 3337692349,
     "name": "Mulligan",
-    "lastUpdate": 1650458067757,
+    "lastUpdate": 1650458084411,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -13184,13 +13184,13 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Chance to generate ammo increased to [?] (Possibly 25%)"
+            "text": "Enhanced: Chance to generate ammo increased (Possibly to 25%)"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Miss:\r\n20% Chance to refund 1 Ammo to the Magazine.\r\n\r\nEnhanced: Chance to generate ammo increased to [?] (Possibly 25%)"
+      "mainEditor": "On Miss:\r\n20% Chance to refund 1 Ammo to the Magazine.\r\n\r\nEnhanced: Chance to generate ammo increased (Possibly to 25%)"
     },
     "inLiveDatabase": true
   },
