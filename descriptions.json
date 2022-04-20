@@ -9519,7 +9519,7 @@
   "2551157718": {
     "id": "2551157718",
     "name": "Box Breathing",
-    "lastUpdate": 1650200252716,
+    "lastUpdate": 1650453065719,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -9533,7 +9533,15 @@
       {
         "lineText": [
           {
-            "text": "[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot."
+            "text": "[?] Range, [?]% Accuracy Cone Size/"
+          },
+          {
+            "title": "How Fast Your Accuracy Cone Expands. The lower the better.",
+            "text": "Growth",
+            "className": "title"
+          },
+          {
+            "text": ", and increased Precision Damage for one shot."
           }
         ]
       },
@@ -9622,10 +9630,37 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "After being scoped-in for 1.5 seconds without firing:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increased Range, improved Accuracy Cone Size/Growth, and variably increased Precision Damage for one shot."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/Growth, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <background/>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <background/>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <background/>\n<$>\n\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
-    }
+      "mainEditor": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/<title Growth [How Fast Your Accuracy Cone Expands. The lower the better.] />, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <background/>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <background/>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <background/>\n<$>\n\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds.",
+      "secondaryEditor": "After being scoped-in for 1.5 seconds without firing:\r\nIncreased Range, improved Accuracy Cone Size/Growth, and variably increased Precision Damage for one shot.\r\n\r\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
+    },
+    "inLiveDatabase": true
   },
   "2590710093": {
     "id": "2590710093",
