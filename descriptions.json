@@ -9955,7 +9955,7 @@
   "2621346526": {
     "id": "2621346526",
     "name": "Ensemble",
-    "lastUpdate": 1650200366025,
+    "lastUpdate": 1650455091814,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -10035,15 +10035,52 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Stronger Effect. [?] Handling and [?] Reload Speed."
+            "text": "Enhanced: Stronger Effect."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While within 15 meters of 1 or more allies:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "30 Handling and 40 Reload Speed."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lingers for 1.5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Stronger Effect."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While within 15 meters of 1 or more allies:\n30 Handling and 40 Reload Speed.\n\nLingers for 1.5 seconds.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Stronger Effect. [?] Handling and [?] Reload Speed."
-    }
+      "mainEditor": "While within 15 meters of 1 or more allies:\n30 Handling and 40 Reload Speed.\n\nLingers for 1.5 seconds.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Stronger Effect.",
+      "secondaryEditor": "While within 15 meters of 1 or more allies:\r\n30 Handling and 40 Reload Speed.\r\n\r\nLingers for 1.5 seconds.\r\n\r\nEnhanced: Stronger Effect."
+    },
+    "inLiveDatabase": true
   },
   "2637025676": {
     "id": 2637025676,
