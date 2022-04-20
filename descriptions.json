@@ -11827,7 +11827,7 @@
   "2866798147": {
     "id": "2866798147",
     "name": "No Distractions",
-    "lastUpdate": 1650458127401,
+    "lastUpdate": 1650458640104,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -11863,8 +11863,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "After being scoped-in for 1 second without firing:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "35% Flinch Reduction."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Timer starts as soon as the ADS input is pressed."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Aiming-Down-Sights timer is reduced."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\nTimer starts as soon as the ADS input is pressed.\n\nEnhanced: Aiming-Down-Sights timer is reduced."
+      "mainEditor": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\nTimer starts as soon as the ADS input is pressed.\n\nEnhanced: Aiming-Down-Sights timer is reduced.",
+      "secondaryEditor": "After being scoped-in for 1 second without firing:\r\n35% Flinch Reduction.\r\nTimer starts as soon as the ADS input is pressed.\r\n\r\nEnhanced: Aiming-Down-Sights timer is reduced."
     },
     "inLiveDatabase": true
   },
