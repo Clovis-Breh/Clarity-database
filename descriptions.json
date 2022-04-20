@@ -17416,7 +17416,7 @@
   "3708227201": {
     "id": "3708227201",
     "name": "Surrounded",
-    "lastUpdate": 1650200577995,
+    "lastUpdate": 1650461391088,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -17465,10 +17465,47 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While within 8 meters of 3+ Enemies:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "25% to 30% Increased Damage"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Surrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds "
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Surrounded's damage buff is increased by a multiplicative 5%."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While within 8 meters of 3+ Enemies:\n25% to 30% Increased Damage\n\nSurrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds \n\nEnhanced: Surrounded's damage buff is increased by a multiplicative 5%."
-    }
+      "mainEditor": "While within 8 meters of 3+ Enemies:\n25% to 30% Increased Damage\n\nSurrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds \n\nEnhanced: Surrounded's damage buff is increased by a multiplicative 5%.",
+      "secondaryEditor": "While within 8 meters of 3+ Enemies:\r\n25% to 30% Increased Damage\r\n\r\nSurrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds \r\n\r\nEnhanced: Surrounded's damage buff is increased by a multiplicative 5%."
+    },
+    "inLiveDatabase": true
   },
   "3721627275": {
     "id": "3721627275",
