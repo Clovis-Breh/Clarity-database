@@ -9903,14 +9903,14 @@
   "2610012052": {
     "id": "2610012052",
     "name": "Golden Tricorn",
-    "lastUpdate": 1650200455415,
+    "lastUpdate": 1650457142822,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            15,
-            50
+            1.15,
+            1.5
           ]
         }
       }
@@ -9947,15 +9947,15 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased by [?] and [?] seconds, to a maximum of [?] and [?] seconds respectively."
+            "text": "Enhanced: Buff Duration is increased."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "On Weapon Kill:\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\n\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds. Can be refreshed by getting another Matching Ability Kill.\n\nEnhanced: Buff Duration is increased by [?] and [?] seconds, to a maximum of [?] and [?] seconds respectively."
-    }
+      "mainEditor": "On Weapon Kill:\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\n\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds. Can be refreshed by getting another Matching Ability Kill.\n\nEnhanced: Buff Duration is increased."
+    },
+    "inLiveDatabase": true
   },
   "2618534366": {
     "id": "2618534366",
