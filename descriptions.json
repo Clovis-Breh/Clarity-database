@@ -1301,13 +1301,13 @@
   "354401740": {
     "id": "354401740",
     "name": "Assassin's Blade",
-    "lastUpdate": 1650454132665,
+    "lastUpdate": 1650454136486,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            15
+            1.15
           ]
         }
       }
