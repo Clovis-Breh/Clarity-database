@@ -19058,7 +19058,7 @@
   "4082225868": {
     "id": "4082225868",
     "name": "Swashbuckler",
-    "lastUpdate": 1650452003388,
+    "lastUpdate": 1650460968451,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -19156,13 +19156,50 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased by 2 seconds, to a maximum of 6.5 seconds."
+            "text": "Enhanced: Buff Duration is increased to 6.5 seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon or Melee Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage for 4.5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased to 6.5 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks         |b 1x  |b 2x   |b 3x |b 4x   |b 5x\n|b Damage Increase| 6.6% | 13.2% | 20% | 26.6% | 33% <background/>\n<$>\n\nEnhanced: Buff Duration is increased by 2 seconds, to a maximum of 6.5 seconds."
+      "mainEditor": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks         |b 1x  |b 2x   |b 3x |b 4x   |b 5x\n|b Damage Increase| 6.6% | 13.2% | 20% | 26.6% | 33% <background/>\n<$>\n\nEnhanced: Buff Duration is increased to 6.5 seconds.",
+      "secondaryEditor": "On Weapon or Melee Kill:\r\n6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage for 4.5 seconds.\r\n\r\nBuff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\r\n\r\nEnhanced: Buff Duration is increased to 6.5 seconds."
     },
     "inLiveDatabase": true
   },
