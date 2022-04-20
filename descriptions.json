@@ -15592,7 +15592,7 @@
   "3796465595": {
     "id": "3796465595",
     "name": "Impact Casing",
-    "lastUpdate": 1650200469099,
+    "lastUpdate": 1650458721105,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -15613,10 +15613,20 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base."
-    }
+      "mainEditor": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base.",
+      "secondaryEditor": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base."
+    },
+    "inLiveDatabase": true
   },
   "3800201097": {
     "id": 3800201097,
