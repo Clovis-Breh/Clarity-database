@@ -1615,13 +1615,21 @@
   "454085387": {
     "id": "454085387",
     "name": "Blunt Execution Rounds",
-    "lastUpdate": 1650200245266,
+    "lastUpdate": 1650452804280,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
           "stat": [
             100
+          ]
+        }
+      },
+      "damage": {
+        "active": {
+          "multiplier": [
+            5,
+            2
           ]
         }
       }
@@ -1631,7 +1639,7 @@
       {
         "lineText": [
           {
-            "text": "Upon dealing Melee Damage while an Enemy within 15 meters:"
+            "text": "Upon dealing Melee Damage while an Enemy is within 15 meters:"
           }
         ]
       },
@@ -1692,10 +1700,55 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Upon dealing Melee Damage while an Enemy is within 15 meters:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100 Handling and "
+          },
+          {
+            "text": " 500%",
+            "className": "pve"
+          },
+          {
+            "text": " [100%]",
+            "className": "pvp"
+          },
+          {
+            "text": " increased damage for the entire burst for 10 seconds or until firing."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "4 second cooldown. Can be activated while stowed."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Any Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Upon dealing Melee Damage while an Enemy within 15 meters:\n100 Handling and <pve 500%/><pvp [100%]/> increased damage for the entire burst for 10 seconds or until firing.\n4 second cooldown. Can be activated while stowed.\n\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds.\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />"
-    }
+      "mainEditor": "Upon dealing Melee Damage while an Enemy is within 15 meters:\n100 Handling and <pve 500%/><pvp [100%]/> increased damage for the entire burst for 10 seconds or until firing.\n4 second cooldown. Can be activated while stowed.\n\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds.\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />",
+      "secondaryEditor": "Upon dealing Melee Damage while an Enemy is within 15 meters:\r\n100 Handling and <pve 500%/><pvp [100%]/> increased damage for the entire burst for 10 seconds or until firing.\r\n4 second cooldown. Can be activated while stowed.\r\n\r\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds."
+    },
+    "inLiveDatabase": true
   },
   "460017080": {
     "id": "460017080",
