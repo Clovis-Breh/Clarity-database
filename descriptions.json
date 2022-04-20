@@ -5625,7 +5625,7 @@
   "1354429876": {
     "id": "1354429876",
     "name": "Fourth Time's the Charm",
-    "lastUpdate": 1650455925167,
+    "lastUpdate": 1650458848633,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -5654,8 +5654,35 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Scoring 4 Precision Hits generates 2 Ammo to Magazine."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Precision Hit counter is reset if no precision hits are scored within 2 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Timer between Precision Hits is increased."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Scoring 4 Precision Hits generates 2 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased."
+      "mainEditor": "Scoring 4 Precision Hits generates 2 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased.",
+      "secondaryEditor": "Scoring 4 Precision Hits generates 2 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased."
     },
     "inLiveDatabase": true
   },
