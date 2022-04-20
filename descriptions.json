@@ -18621,7 +18621,7 @@
   "3913600130": {
     "id": "3913600130",
     "name": "Whirlwind Blade",
-    "lastUpdate": 1650200624469,
+    "lastUpdate": 1650462210573,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -18665,10 +18665,34 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Hit:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blocking removes all Stacks."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Hit:\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. \nBlocking removes all Stacks."
-    }
+      "mainEditor": "On Hit:\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. \nBlocking removes all Stacks.",
+      "secondaryEditor": "On Hit:\r\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. \r\nBlocking removes all Stacks."
+    },
+    "inLiveDatabase": true
   },
   "3927722942": {
     "id": "3927722942",
