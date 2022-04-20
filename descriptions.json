@@ -11613,7 +11613,7 @@
   "3078487919": {
     "id": 3078487919,
     "name": "Bait and Switch",
-    "lastUpdate": 1650390778475,
+    "lastUpdate": 1650452675049,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -11636,7 +11636,33 @@
       {
         "lineText": [
           {
-            "text": "After dealing damage with all your other equipped weapons within [?] seconds of each:"
+            "text": "After dealing damage with all your weapons within [?] seconds of each:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "35% increased damage for 10 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased by [?] seconds, to a maximum of [10+?] seconds. (probably 12 seconds)"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "After dealing damage with all your weapons within [?] seconds of each:"
           }
         ]
       },
@@ -11659,7 +11685,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "After dealing damage with all your other equipped weapons within [?] seconds of each:\r\n35% increased damage for 10 seconds.\r\n\r\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [10+?] seconds. (probably 12 seconds)"
+      "mainEditor": "After dealing damage with all your weapons within [?] seconds of each:\r\n35% increased damage for 10 seconds.\r\n\r\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [10+?] seconds. (probably 12 seconds)",
+      "secondaryEditor": "After dealing damage with all your weapons within [?] seconds of each:\r\n35% increased damage for 10 seconds.\r\n\r\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [10+?] seconds. (probably 12 seconds)"
     },
     "inLiveDatabase": true
   },
