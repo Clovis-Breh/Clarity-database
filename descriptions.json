@@ -11536,13 +11536,13 @@
   "3016987351": {
     "id": "3016987351",
     "name": "Counterattack",
-    "lastUpdate": 1650454265728,
+    "lastUpdate": 1650454268378,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            50
+            1.5
           ]
         }
       }
