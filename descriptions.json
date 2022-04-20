@@ -4410,14 +4410,25 @@
   "972757866": {
     "id": "972757866",
     "name": "Pulse Monitor",
-    "lastUpdate": 1650459356222,
+    "lastUpdate": 1650459383221,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
           "stat": [
             45
-          ],
+          ]
+        }
+      },
+      "stow": {
+        "active": {
+          "multiplier": [
+            0.95
+          ]
+        }
+      },
+      "draw": {
+        "active": {
           "multiplier": [
             0.95
           ]
