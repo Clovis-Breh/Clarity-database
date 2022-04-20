@@ -4039,7 +4039,7 @@
     "name": "Rapid Cooldown",
     "itemId": 609852545,
     "itemName": "Fr0st-EE5",
-    "lastUpdate": 1650484337648,
+    "lastUpdate": 1650485002678,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -4061,7 +4061,7 @@
       {
         "lineText": [
           {
-            "text": " 100% Additional Base Grenade/Melee Regeneration Rate. ",
+            "text": " 100% Additional Base (T3) Grenade/Melee Regeneration Rate. ",
             "className": "pvp"
           }
         ]
@@ -4080,7 +4080,7 @@
             "className": "pvp"
           },
           {
-            "text": " of your Base Class Ability Regeneration Rate."
+            "text": " of your Base (T3) Class Ability Regeneration Rate."
           }
         ]
       },
@@ -4110,7 +4110,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "While Sprinting: \n<pve 2x Grenade/Melee Regeneration Speed />\n<pvp 100% Additional Base Grenade/Melee Regeneration Rate. />\nGain an additional <pve 100% /><pvp [200%] /> of your Base Class Ability Regeneration Rate.\n\nOn Dodge:\n6.25% Faster Sprint for 10 seconds. \nNot refreshable."
+      "mainEditor": "While Sprinting: \n<pve 2x Grenade/Melee Regeneration Speed />\n<pvp 100% Additional Base (T3) Grenade/Melee Regeneration Rate. />\nGain an additional <pve 100% /><pvp [200%] /> of your Base (T3) Class Ability Regeneration Rate.\n\nOn Dodge:\n6.25% Faster Sprint for 10 seconds. \nNot refreshable."
     },
     "inLiveDatabase": true
   },
