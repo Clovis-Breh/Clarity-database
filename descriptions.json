@@ -19359,7 +19359,7 @@
   "4008116374": {
     "id": 4008116374,
     "name": "Suros Synergy",
-    "lastUpdate": 1650463250242,
+    "lastUpdate": 1650483626599,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -19376,6 +19376,13 @@
         "lineText": [
           {
             "text": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Cannot be refreshed. Works while stowed"
           }
         ]
       },
@@ -19408,11 +19415,18 @@
             "text": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds."
           }
         ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Cannot be refreshed. Works while stowed"
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds.\r\n\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />",
-      "secondaryEditor": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds."
+      "mainEditor": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Works while stowed\r\n\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />",
+      "secondaryEditor": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Works while stowed"
     },
     "inLiveDatabase": true
   },
