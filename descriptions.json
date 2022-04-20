@@ -9983,7 +9983,7 @@
     "name": "The Fourth Magic",
     "itemId": 2428181146,
     "itemName": "Verity's Brow",
-    "lastUpdate": 1650215139175,
+    "lastUpdate": 1650484962692,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -10000,14 +10000,21 @@
       {
         "lineText": [
           {
-            "text": "Each Stack of Death Throes grants 20% faster Grenade Recharge and 20% Increased Grenade Damage. "
+            "text": "Each Stack of Death Throes grants 50% Additional Base (T3) Grenade Regeneration Rate"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Max of 5 Stacks. Lasts 10 seconds."
+            "text": "and 20% Increased Grenade Damage. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Max of 5 Stacks. Lasts 11 seconds."
           }
         ]
       },
@@ -10017,14 +10024,14 @@
       {
         "lineText": [
           {
-            "text": "On Grenade Ability Usage:"
+            "text": "On Grenade Ability Use:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Allies within 18(?) meters receive Feel The Flame."
+            "text": "Allies within 18(?) metres receive Feel The Flame."
           }
         ]
       },
@@ -10037,7 +10044,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes\n\nEach Stack of Death Throes grants 20% faster Grenade Recharge and 20% Increased Grenade Damage. \nMax of 5 Stacks. Lasts 10 seconds.\n\nOn Grenade Ability Usage:\nAllies within 18(?) meters receive Feel The Flame.\nFeel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds."
+      "mainEditor": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes\n\nEach Stack of Death Throes grants 50% Additional Base (T3) Grenade Regeneration Rate\nand 20% Increased Grenade Damage. \nMax of 5 Stacks. Lasts 11 seconds.\n\nOn Grenade Ability Use:\nAllies within 18(?) metres receive Feel The Flame.\nFeel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds."
     },
     "inLiveDatabase": true
   },
