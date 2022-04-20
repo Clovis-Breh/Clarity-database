@@ -13357,10 +13357,60 @@
   "2839173408": {
     "id": 2839173408,
     "name": "Omolon Fluid Dynamics",
-    "lastUpdate": 1649872939143,
+    "lastUpdate": 1650463048494,
     "updatedBy": "Fading-Shadow",
+    "stats": {
+      "reload": {
+        "active": {
+          "stat": [
+            30,
+            15
+          ]
+        }
+      }
+    },
     "type": "weaponOriginTrait",
     "description": [
+      {
+        "lineText": [
+          {
+            "text": "The top half of the magazine has increased reload speed and stability."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Up to 20 Stability and 30 Reload, the bonus decreases as the magazine gets lower."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Maximum Effect Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Half Effect Reload Time:",
+            "formula": "reload_1",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
       {
         "lineText": [
           {
@@ -13380,8 +13430,10 @@
       }
     ],
     "editor": {
-      "mainEditor": "The top half of the magazine has increased reload speed and stability.\r\n\r\nUp to 20 Stability and 30 Reload, the bonus decreases as the magazine gets lower."
-    }
+      "mainEditor": "The top half of the magazine has increased reload speed and stability.\r\n\r\nUp to 20 Stability and 30 Reload, the bonus decreases as the magazine gets lower.\r\n\r\n<formula Maximum Effect Reload Time: reload_0 />\r\n<formula Half Effect Reload Time: reload_1 />",
+      "secondaryEditor": "The top half of the magazine has increased reload speed and stability.\r\n\r\nUp to 20 Stability and 30 Reload, the bonus decreases as the magazine gets lower."
+    },
+    "inLiveDatabase": true
   },
   "2846385770": {
     "id": "2846385770",
