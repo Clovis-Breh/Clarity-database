@@ -6578,7 +6578,7 @@
   "1645158859": {
     "id": "1645158859",
     "name": "Under Pressure",
-    "lastUpdate": 1650200606911,
+    "lastUpdate": 1650453757902,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -6592,7 +6592,15 @@
       {
         "lineText": [
           {
-            "text": "Up to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability."
+            "text": "Up to -% Accuracy Cone Size, -% "
+          },
+          {
+            "title": "How Fast Your Accuracy Cone Expands. The less the better.",
+            "text": "Accuracy Cone Growth",
+            "className": "title"
+          },
+          {
+            "text": ", and 30[?] Stability."
           }
         ]
       },
@@ -6602,15 +6610,15 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Effect is increased up to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability."
+            "text": "Enhanced: Buff Effect is increased."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "As Magazine goes below 50% until empty:\nUp to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability.\n\nEnhanced: Buff Effect is increased up to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability."
-    }
+      "mainEditor": "As Magazine goes below 50% until empty:\nUp to -% Accuracy Cone Size, -% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, and 30[?] Stability.\n\nEnhanced: Buff Effect is increased."
+    },
+    "inLiveDatabase": true
   },
   "1667892708": {
     "id": 1667892708,
