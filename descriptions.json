@@ -18976,7 +18976,7 @@
     "name": "Cerebral Uplink",
     "itemId": 3381022970,
     "itemName": "Eye of Another World",
-    "lastUpdate": 1650214050068,
+    "lastUpdate": 1650484893170,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -18993,37 +18993,13 @@
       {
         "lineText": [
           {
-            "text": "Reduces Grenade and Melee Cooldown by 38.50% at Tier 0."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": " Every Ability Tier reduces this bonus by 2.2%, lowering the bonus to 16% at Tier 10."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Reduces Class Ability Cooldown by 41% at Tier 0."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": " Every Recovery Tier reduces this bonus by 2.2%, lowering the bonus to 19% at Tier 10."
+            "text": "100% Additional Base (T3) Grenade/Melee/Class Regeneration Rate."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Highlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\n\nReduces Grenade and Melee Cooldown by 38.50% at Tier 0.\n Every Ability Tier reduces this bonus by 2.2%, lowering the bonus to 16% at Tier 10.\n\nReduces Class Ability Cooldown by 41% at Tier 0.\n Every Recovery Tier reduces this bonus by 2.2%, lowering the bonus to 19% at Tier 10."
+      "mainEditor": "Highlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\n\n100% Additional Base (T3) Grenade/Melee/Class Regeneration Rate."
     },
     "inLiveDatabase": true
   },
