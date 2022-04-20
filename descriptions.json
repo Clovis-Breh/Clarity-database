@@ -6088,7 +6088,7 @@
   "1528281896": {
     "id": "1528281896",
     "name": "Outlaw",
-    "lastUpdate": 1650200498530,
+    "lastUpdate": 1650458400146,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -6114,7 +6114,15 @@
       {
         "lineText": [
           {
-            "text": "63 Reload Speed with 0.9x Duration Multiplier for 6 seconds."
+            "text": "63 Reload Speed with a 0.9x "
+          },
+          {
+            "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
+            "text": "RDS",
+            "className": "title"
+          },
+          {
+            "text": " for 6 seconds."
           }
         ]
       },
@@ -6136,15 +6144,42 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Duration increased to [?] seconds."
+            "text": "Enhanced: Duration increased."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Precision Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "63 Reload Speed with a 0.9x Reload Duration Scalar for 6 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Duration increased."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Precision Kill:\n63 Reload Speed with 0.9x Duration Multiplier for 6 seconds.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Duration increased to [?] seconds."
-    }
+      "mainEditor": "On Precision Kill:\n63 Reload Speed with a 0.9x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] /> for 6 seconds.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Duration increased.",
+      "secondaryEditor": "On Precision Kill:\r\n63 Reload Speed with a 0.9x Reload Duration Scalar for 6 seconds.\r\n\r\nEnhanced: Duration increased."
+    },
+    "inLiveDatabase": true
   },
   "1536798515": {
     "id": 1536798515,
