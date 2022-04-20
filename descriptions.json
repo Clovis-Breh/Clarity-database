@@ -4399,7 +4399,7 @@
   "957782887": {
     "id": "957782887",
     "name": "Snapshot Sights",
-    "lastUpdate": 1650200562938,
+    "lastUpdate": 1650460203993,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -4416,9 +4416,12 @@
       {
         "lineText": [
           {
-            "text": "Stacks with ADS Multiplier effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow."
+            "text": "Stacks with ADS Multiplier effects, such as Helmet Targeting mods and Dragon's Shadow."
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -4438,10 +4441,50 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Massive Aiming-Down-Sights Animation Multiplier. "
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stacks with ADS Multiplier effects, such as Helmet Targeting mods and Dragon's Shadow."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Will reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Stability."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Massive Aiming-Down-Sights Animation Multiplier. \n\nStacks with ADS Multiplier effects, such as Helmet Targeting mods, Threat Detector, and Dragon's Shadow.\nWill reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling.\n\nEnhanced: Passively grants 4 Stability."
-    }
+      "mainEditor": "Massive Aiming-Down-Sights Animation Multiplier. \n\nStacks with ADS Multiplier effects, such as Helmet Targeting mods and Dragon's Shadow.\n\nWill reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling.\n\nEnhanced: Passively grants 4 Stability.",
+      "secondaryEditor": "Massive Aiming-Down-Sights Animation Multiplier. \r\n\r\nStacks with ADS Multiplier effects, such as Helmet Targeting mods and Dragon's Shadow.\r\n\r\nWill reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling.\r\n\r\nEnhanced: Passively grants 4 Stability."
+    },
+    "inLiveDatabase": true
   },
   "960810156": {
     "id": "960810156",
