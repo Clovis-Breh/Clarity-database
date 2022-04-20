@@ -3770,13 +3770,13 @@
   "818211479": {
     "id": "818211479",
     "name": "Shattering Blade",
-    "lastUpdate": 1650200551350,
+    "lastUpdate": 1650459924510,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            67
+            1.67
           ]
         }
       }
@@ -3798,10 +3798,27 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "If Heavy Attack consumes the last Ammo:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "67% Increased damage to Grounded Heavy Attack."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "If Heavy Attack consumes the last Ammo:\n67% Increased damage to Grounded Heavy Attack."
-    }
+      "mainEditor": "If Heavy Attack consumes the last Ammo:\n67% Increased damage to Grounded Heavy Attack.",
+      "secondaryEditor": "If Heavy Attack consumes the last Ammo:\r\n67% Increased damage to Grounded Heavy Attack."
+    },
+    "inLiveDatabase": true
   },
   "824488952": {
     "id": 824488952,
