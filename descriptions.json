@@ -17117,7 +17117,7 @@
   "3592538738": {
     "id": "3592538738",
     "name": "Wellspring",
-    "lastUpdate": 1650200623116,
+    "lastUpdate": 1650462203639,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -17154,10 +17154,44 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 8% Ability Energy split equally amongst all uncharged abilities."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "*BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES*"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Total energy gain is increased to 9%."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n<highlight_3 BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities."
-    }
+      "mainEditor": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n<highlight_3 BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities.",
+      "secondaryEditor": "On Weapon Kill:\r\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\r\n*BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES*\r\n\r\nEnhanced: Total energy gain is increased to 9%."
+    },
+    "inLiveDatabase": true
   },
   "3643424744": {
     "id": "3643424744",
