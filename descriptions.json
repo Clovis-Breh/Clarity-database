@@ -11759,7 +11759,7 @@
   "3038247973": {
     "id": "3038247973",
     "name": "Explosive Payload",
-    "lastUpdate": 1650291348326,
+    "lastUpdate": 1650455248269,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -11776,7 +11776,7 @@
       {
         "lineText": [
           {
-            "text": " [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a lot of things :(",
+            "text": " [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio.",
             "className": "pve"
           }
         ]
@@ -11791,7 +11791,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on... a lot of things :(/>\n<pvp [PVP] Total damage remains (almost) the same. />"
+      "mainEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio./>\n<pvp [PVP] Total damage remains (almost) the same. />"
     },
     "inLiveDatabase": true
   },
