@@ -12140,7 +12140,7 @@
   "3096702027": {
     "id": "3096702027",
     "name": "Genesis",
-    "lastUpdate": 1650200453915,
+    "lastUpdate": 1650456180762,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12164,7 +12164,15 @@
       {
         "lineText": [
           {
-            "text": "Energy Weapons generate 1 Ammo against Matching Elemental Shields per hit."
+            "text": "Energy Weapons "
+          },
+          {
+            "title": "Generates ammo from nothingness into the magazine",
+            "text": "generate",
+            "className": "title"
+          },
+          {
+            "text": " 1 Ammo against Matching Elemental Shields per hit."
           }
         ]
       },
@@ -12179,10 +12187,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "On Elemental or Barrier Champion's Shield Break:\nRefreshes magazine.\n\nEnergy Weapons generate 1 Ammo against Matching Elemental Shields per hit.\n\nEnhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
-    }
+      "mainEditor": "On Elemental or Barrier Champion's Shield Break:\nRefreshes magazine.\n\nEnergy Weapons <title generate [Generates ammo from nothingness into the magazine]/> 1 Ammo against Matching Elemental Shields per hit.\n\nEnhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
+    },
+    "inLiveDatabase": true
   },
   "3108830275": {
     "id": 3108830275,
