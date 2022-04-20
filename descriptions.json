@@ -1301,7 +1301,7 @@
   "354401740": {
     "id": "354401740",
     "name": "Assassin's Blade",
-    "lastUpdate": 1650454136486,
+    "lastUpdate": 1650454143750,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -1324,7 +1324,7 @@
       {
         "lineText": [
           {
-            "text": "15% Increased damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)"
+            "text": "15% Increased Damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)"
           }
         ]
       },
@@ -1347,7 +1347,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Sword Kill:\n15% Increased damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)\nIncreases Sword Lunge Distance.\n\nRemains active for its full duration even if stowed."
+      "mainEditor": "On Sword Kill:\n15% Increased Damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)\nIncreases Sword Lunge Distance.\n\nRemains active for its full duration even if stowed."
     },
     "inLiveDatabase": true
   },
