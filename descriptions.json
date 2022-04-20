@@ -12472,7 +12472,7 @@
   "2888557110": {
     "id": 2888557110,
     "name": "Full Court",
-    "lastUpdate": 1650200452063,
+    "lastUpdate": 1650458827144,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12484,10 +12484,20 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Increases Explosive Damage by 0.63% for every meter past 10 meters, up to 25% at 50 meters."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Increases Explosive Damage by 0.63% for every meter past 10 meters, up to 25% at 50 meters."
-    }
+      "mainEditor": "Increases Explosive Damage by 0.63% for every meter past 10 meters, up to 25% at 50 meters.",
+      "secondaryEditor": "Increases Explosive Damage by 0.63% for every meter past 10 meters, up to 25% at 50 meters."
+    },
+    "inLiveDatabase": true
   },
   "2896038713": {
     "id": 2896038713,
