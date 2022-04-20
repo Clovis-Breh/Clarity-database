@@ -4961,7 +4961,7 @@
   "1140096971": {
     "id": "1140096971",
     "name": "Seraph Rounds",
-    "lastUpdate": 1650234530358,
+    "lastUpdate": 1650459903944,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -4992,8 +4992,28 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Combines the Penetration from Armor-Piercing Rounds, the Ricochet aspect of Ricochet Rounds, and the Flinch Increase from High-Caliber Rounds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Damage Falloff Distance by 10%"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Combines the Penetration from Armor-Piercing Rounds, the Ricochet aspect of Ricochet Rounds, and the Flinch Increase from High-Caliber Rounds.\n\nIncreases Damage Falloff Distance by 10%"
+      "mainEditor": "Combines the Penetration from Armor-Piercing Rounds, the Ricochet aspect of Ricochet Rounds, and the Flinch Increase from High-Caliber Rounds.\n\nIncreases Damage Falloff Distance by 10%",
+      "secondaryEditor": "Combines the Penetration from Armor-Piercing Rounds, the Ricochet aspect of Ricochet Rounds, and the Flinch Increase from High-Caliber Rounds.\r\n\r\nIncreases Damage Falloff Distance by 10%"
     },
     "inLiveDatabase": true
   },
