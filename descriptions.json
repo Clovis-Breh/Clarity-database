@@ -11616,13 +11616,13 @@
   "2896038713": {
     "id": 2896038713,
     "name": "Focused Fury",
-    "lastUpdate": 1650200395861,
+    "lastUpdate": 1650455896550,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            20
+            1.2
           ]
         }
       }
@@ -11632,7 +11632,7 @@
       {
         "lineText": [
           {
-            "text": "After scoring 50% of Magazine as Precision Hits:"
+            "text": "After scoring 50% of Magazine Size as Precision Hits:"
           }
         ]
       },
@@ -11661,10 +11661,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "After scoring 50% of Magazine as Precision Hits:\r\n20% increased damage for 11 seconds.\r\nStowing or Reloading resets the precision counter. Can be refreshed.\r\n\r\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 12 seconds."
-    }
+      "mainEditor": "After scoring 50% of Magazine Size as Precision Hits:\r\n20% increased damage for 11 seconds.\r\nStowing or Reloading resets the precision counter. Can be refreshed.\r\n\r\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 12 seconds."
+    },
+    "inLiveDatabase": true
   },
   "2946784966": {
     "id": "2946784966",
