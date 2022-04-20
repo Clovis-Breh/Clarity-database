@@ -13215,7 +13215,7 @@
   "3047969693": {
     "id": "3047969693",
     "name": "Desperado",
-    "lastUpdate": 1650454482677,
+    "lastUpdate": 1650459086704,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -13259,8 +13259,49 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "After Reloading within 6 seconds of a Precision Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Rate of Fire Increases to 600RPM for 7 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "[PVE] Reduces damage by 20% against Combatants."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Can be refreshed."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Increased duration."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "After Reloading within 6 seconds of a Precision Kill:\nRate of Fire Increases to 600RPM for 7 seconds.\n<pve Reduces damage by 20% against Combatants. />\nCan be refreshed.\n\nEnhanced: Increased duration."
+      "mainEditor": "After Reloading within 6 seconds of a Precision Kill:\nRate of Fire Increases to 600RPM for 7 seconds.\n<pve Reduces damage by 20% against Combatants. />\nCan be refreshed.\n\nEnhanced: Increased duration.",
+      "secondaryEditor": "After Reloading within 6 seconds of a Precision Kill:\r\nRate of Fire Increases to 600RPM for 7 seconds.\r\n[PVE] Reduces damage by 20% against Combatants.\r\nCan be refreshed.\r\n\r\nEnhanced: Increased duration."
     },
     "inLiveDatabase": true
   },
