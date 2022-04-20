@@ -14274,17 +14274,17 @@
   "3201496230": {
     "id": "3201496230",
     "name": "Redirection",
-    "lastUpdate": 1650459820346,
+    "lastUpdate": 1650459830712,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            20,
-            40,
-            60,
-            80,
-            100
+            1.2,
+            1.4,
+            1.6,
+            1.8,
+            2
           ]
         }
       }
