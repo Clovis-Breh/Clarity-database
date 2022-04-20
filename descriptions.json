@@ -6114,7 +6114,7 @@
   "1570042021": {
     "id": "1570042021",
     "name": "Heating Up",
-    "lastUpdate": 1650200462406,
+    "lastUpdate": 1650453583670,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
@@ -6144,14 +6144,22 @@
       {
         "lineText": [
           {
-            "text": "1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction."
+            "text": "1x"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "2x = -30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction."
+            "text": "-15% "
+          },
+          {
+            "title": "How Fast Your Accuracy Cone Expands. The lower the better.",
+            "text": "Accuracy Cone Growth",
+            "className": "title"
+          },
+          {
+            "text": ", 15 Stability and ~20 Recoil Direction."
           }
         ]
       },
@@ -6161,15 +6169,40 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased by [?] seconds, to a maximum of [5.5+?] seconds."
+            "text": "2x"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "-30% "
+          },
+          {
+            "title": "How Fast Your Accuracy Cone Expands. The less the better.",
+            "text": "Accuracy Cone Growth",
+            "className": "title"
+          },
+          {
+            "text": ", 30 Stability, and ~40 Recoil Direction."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\n\n1x = -15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction.\n2x = -30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction.\n\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [5.5+?] seconds."
-    }
+      "mainEditor": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\n\n1x\n-15% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The lower the better.]/>, 15 Stability and ~20 Recoil Direction.\n\n2x\n-30% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, 30 Stability, and ~40 Recoil Direction.\n\nEnhanced: Buff Duration is increased."
+    },
+    "inLiveDatabase": true
   },
   "1583705720": {
     "id": 1583705720,
