@@ -3854,7 +3854,7 @@
   "960810156": {
     "id": "960810156",
     "name": "Danger Zone",
-    "lastUpdate": 1650200327996,
+    "lastUpdate": 1650454292038,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -3885,7 +3885,7 @@
       {
         "lineText": [
           {
-            "text": "Self Damage normally deals 25% increased damage."
+            "text": "(Self Damage normally deals 25% increased damage.)"
           }
         ]
       },
@@ -3900,10 +3900,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\nLingers for 4(?) seconds.\n\nSelf Damage normally deals 25% increased damage.\n\nEnhanced: Passively grants 3 Blast Radius."
-    }
+      "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\nLingers for 4(?) seconds.\n\n(Self Damage normally deals 25% increased damage.)\n\nEnhanced: Passively grants 3 Blast Radius."
+    },
+    "inLiveDatabase": true
   },
   "972757866": {
     "id": "972757866",
