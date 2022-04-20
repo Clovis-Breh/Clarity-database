@@ -13450,7 +13450,7 @@
   "3511092054": {
     "id": "3511092054",
     "name": "Elemental Capacitor",
-    "lastUpdate": 1650200356537,
+    "lastUpdate": 1650454793055,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -13470,7 +13470,7 @@
             "className": "solar"
           },
           {
-            "text": ": 45 Reload Speed"
+            "text": " 45 Reload Speed"
           }
         ]
       },
@@ -13480,7 +13480,7 @@
             "className": "arc"
           },
           {
-            "text": ": 45 Handling"
+            "text": " 45 Handling"
           }
         ]
       },
@@ -13490,7 +13490,7 @@
             "className": "void"
           },
           {
-            "text": ": 18 Stability"
+            "text": " 18 Stability"
           }
         ]
       },
@@ -13500,7 +13500,7 @@
             "className": "stasis"
           },
           {
-            "text": ": 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty"
+            "text": " 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty"
           }
         ]
       },
@@ -13515,10 +13515,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "Grants different Stat Bonuses based on your selected Subclass.\n\n<solar/>: 45 Reload Speed\n<arc/>: 45 Handling\n<void/>: 18 Stability\n<stasis/>: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\n\nEnhanced: Adds an additional 4 to the Stat Bonus currently in effect. Unknown for Stasis."
-    }
+      "mainEditor": "Grants different Stat Bonuses based on your selected Subclass.\n\n<solar/> 45 Reload Speed\n<arc/> 45 Handling\n<void/> 18 Stability\n<stasis/> 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\n\nEnhanced: Adds an additional 4 to the Stat Bonus currently in effect. Unknown for Stasis."
+    },
+    "inLiveDatabase": true
   },
   "3523296417": {
     "id": "3523296417",
