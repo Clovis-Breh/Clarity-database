@@ -14235,16 +14235,9 @@
   "2988596335": {
     "id": 2988596335,
     "name": "Alacrity",
-    "lastUpdate": 1649872531915,
+    "lastUpdate": 1650462783378,
     "updatedBy": "Fading-Shadow",
     "stats": {
-      "damage": {
-        "active": {
-          "multiplier": [
-            0
-          ]
-        }
-      },
       "reload": {
         "active": {
           "stat": [
@@ -14292,11 +14285,53 @@
             "text": "20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Reload Time:",
+            "formula": "reload_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "In-Game Range:",
+            "formula": "range_0",
+            "className": "formula"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While Last Guardian Standing or Solo:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
-    }
+      "mainEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range.\r\n\r\n<formula Reload Time: reload_0 />\r\n<formula In-Game Range: range_0 />",
+      "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
+    },
+    "inLiveDatabase": true
   },
   "3016987351": {
     "id": "3016987351",
