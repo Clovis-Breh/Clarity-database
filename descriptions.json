@@ -4,7 +4,7 @@
     "name": "Chaotic Exchanger",
     "itemId": "1906093346",
     "itemName": "Contraverse Hold",
-    "lastUpdate": 1650213961596,
+    "lastUpdate": 1650484856121,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -31,15 +31,15 @@
             "text": "Grenade Hits grant Chaotic Exchange, granting "
           },
           {
-            "text": " 30% ",
+            "text": " 2000% ",
             "className": "pve"
           },
           {
-            "text": " [X%]",
+            "text": " [1000%] ",
             "className": "pvp"
           },
           {
-            "text": " Grenade Ability over 1.75 seconds."
+            "text": " Additional Grenade Regeneration Rate for 1.75 seconds."
           }
         ]
       },
@@ -56,13 +56,13 @@
       {
         "lineText": [
           {
-            "text": "Charged Vortex Grenade can proc it twice if enemies get hit by the initial explosion and the last few ticks."
+            "text": "Charged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "While Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting <pve 30% /> <pvp [X%]/> Grenade Ability over 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc it twice if enemies get hit by the initial explosion and the last few ticks."
+      "mainEditor": "While Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting <pve 2000% /> <pvp [1000%] /> Additional Grenade Regeneration Rate for 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks."
     },
     "inLiveDatabase": true
   },
