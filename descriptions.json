@@ -2963,20 +2963,13 @@
   "671806388": {
     "id": 671806388,
     "name": "Compulsive Reloader",
-    "lastUpdate": 1650200280022,
+    "lastUpdate": 1650459128738,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
         "active": {
           "stat": [
             -100
-          ]
-        }
-      },
-      "chargeDraw": {
-        "passive": {
-          "stat": [
-            0
           ]
         }
       },
@@ -3010,15 +3003,42 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Reload increased to [?]"
+            "text": "Enhanced: Reload bonus increased. "
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While above 70% Magazine:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "50 Reload Speed"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Reload bonus increased. "
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While above 70% Magazine:\r\n50 Reload Speed\r\n\r\nEnhanced: Reload increased to [?]"
-    }
+      "mainEditor": "While above 70% Magazine:\r\n50 Reload Speed\r\n\r\nEnhanced: Reload bonus increased. ",
+      "secondaryEditor": "While above 70% Magazine:\r\n50 Reload Speed\r\n\r\nEnhanced: Reload bonus increased. "
+    },
+    "inLiveDatabase": true
   },
   "689005463": {
     "id": "689005463",
