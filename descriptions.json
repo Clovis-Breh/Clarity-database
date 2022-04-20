@@ -9669,7 +9669,7 @@
   "1954620775": {
     "id": "1954620775",
     "name": "Timed Payload",
-    "lastUpdate": 1650200593024,
+    "lastUpdate": 1650461505491,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -9707,10 +9707,44 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Splits 55% of Damage into an Explosive Damage portion that deals 30% Increased Damage in PVE and has no damage falloff."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Detonates after 0.6 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "[PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "[PVP] Total damage remains the same."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Splits 55% of Damage into an Explosive Damage portion that deals <pve 30% Increased Damage /> and has no damage falloff. Detonates after 0.6 seconds.\n\n<pve [PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio./>\n<pvp [PVP] Total damage remains (almost) the same./>"
-    }
+      "mainEditor": "Splits 55% of Damage into an Explosive Damage portion that deals <pve 30% Increased Damage /> and has no damage falloff. Detonates after 0.6 seconds.\n\n<pve [PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio./>\n<pvp [PVP] Total damage remains (almost) the same./>",
+      "secondaryEditor": "Splits 55% of Damage into an Explosive Damage portion that deals 30% Increased Damage in PVE and has no damage falloff.\r\nDetonates after 0.6 seconds.\r\n\r\n[PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Crit Ratio.\r\n[PVP] Total damage remains the same."
+    },
+    "inLiveDatabase": true
   },
   "1968497646": {
     "id": "1968497646",
