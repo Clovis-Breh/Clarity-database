@@ -8943,10 +8943,48 @@
   "1820235745": {
     "id": "1820235745",
     "name": "Subsistence",
-    "lastUpdate": 1650200572946,
+    "lastUpdate": 1650460522385,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
+            "text": "Refreshes",
+            "className": "title"
+          },
+          {
+            "text": " 10-17% of Magazine."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Amount varies between Weapon Archetypes"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Magazine Refresh increased to 25%"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
       {
         "lineText": [
           {
@@ -8979,10 +9017,11 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "On Weapon Kill:\nRefreshes 10-17% of Magazine.\nAmount varies between Weapon Archetypes\n\nEnhanced: Magazine Refresh increased to 25%"
-    }
+      "mainEditor": "On Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> 10-17% of Magazine.\nAmount varies between Weapon Archetypes\n\nEnhanced: Magazine Refresh increased to 25%",
+      "secondaryEditor": "On Weapon Kill:\r\nRefreshes 10-17% of Magazine.\r\nAmount varies between Weapon Archetypes\r\n\r\nEnhanced: Magazine Refresh increased to 25%"
+    },
+    "inLiveDatabase": true
   },
   "1828251441": {
     "id": 1828251441,
