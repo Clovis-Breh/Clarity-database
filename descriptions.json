@@ -3732,24 +3732,8 @@
   "744217850": {
     "id": 744217850,
     "name": "Vanguard's Vindication",
-    "lastUpdate": 1649873527361,
+    "lastUpdate": 1650463259732,
     "updatedBy": "Fading-Shadow",
-    "stats": {
-      "reload": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      },
-      "handling": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      }
-    },
     "type": "weaponOriginTrait",
     "description": [
       {
@@ -3760,9 +3744,20 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Regain 7 Health on Kills"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Regain 7 Health on Kills"
-    }
+      "mainEditor": "Regain 7 Health on Kills",
+      "secondaryEditor": "Regain 7 Health on Kills"
+    },
+    "inLiveDatabase": true
   },
   "806159697": {
     "id": "806159697",
