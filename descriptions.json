@@ -17406,14 +17406,11 @@
   "3721627275": {
     "id": "3721627275",
     "name": "Swap Mag",
-    "lastUpdate": 1650460920682,
+    "lastUpdate": 1650460923922,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
-          "stat": [
-            0
-          ],
           "multiplier": [
             0.9
           ]
