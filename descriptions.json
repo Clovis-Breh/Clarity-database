@@ -10677,7 +10677,7 @@
   "2610012052": {
     "id": "2610012052",
     "name": "Golden Tricorn",
-    "lastUpdate": 1650457142822,
+    "lastUpdate": 1650458822344,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -10726,8 +10726,45 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Matching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds. Can be refreshed by getting another Matching Ability Kill."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\n\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds. Can be refreshed by getting another Matching Ability Kill.\n\nEnhanced: Buff Duration is increased."
+      "mainEditor": "On Weapon Kill:\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\n\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds. Can be refreshed by getting another Matching Ability Kill.\n\nEnhanced: Buff Duration is increased.",
+      "secondaryEditor": "On Weapon Kill:\r\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\r\n\r\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds. Can be refreshed by getting another Matching Ability Kill.\r\n\r\nEnhanced: Buff Duration is increased."
     },
     "inLiveDatabase": true
   },
