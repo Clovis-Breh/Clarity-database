@@ -4039,7 +4039,7 @@
     "name": "Rapid Cooldown",
     "itemId": 609852545,
     "itemName": "Fr0st-EE5",
-    "lastUpdate": 1650235830170,
+    "lastUpdate": 1650484335063,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -4053,15 +4053,7 @@
       {
         "lineText": [
           {
-            "text": " Reduces Grenade and Melee Cooldown by between 25% to 45% ",
-            "className": "pvp"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": " Reduces Grenade and Melee Cooldown by between 33% to 55% ",
+            "text": " 2x Grenade/Melee Regeneration Speed ",
             "className": "pve"
           }
         ]
@@ -4069,7 +4061,26 @@
       {
         "lineText": [
           {
-            "text": "Regenerates 5.25% Gambler's Dodge, or 7% Marksman's Dodge Class Ability per Second."
+            "text": " 100% Additional Base Grenade/Melee Regeneration Rate. ",
+            "className": "pvp"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Gain an additional "
+          },
+          {
+            "text": " 100% ",
+            "className": "pve"
+          },
+          {
+            "text": " [200%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " of your Base Class Ability Regeneration Rate."
           }
         ]
       },
@@ -4096,20 +4107,10 @@
             "text": "Not refreshable."
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Stacks with Focused Breathing's 3.5% Class Ability per Second"
-          }
-        ]
       }
     ],
     "editor": {
-      "mainEditor": "While Sprinting: \n<pvp Reduces Grenade and Melee Cooldown by between 25% to 45% />\n<pve Reduces Grenade and Melee Cooldown by between 33% to 55% />\nRegenerates 5.25% Gambler's Dodge, or 7% Marksman's Dodge Class Ability per Second.\n\nOn Dodge:\n6.25% Faster Sprint for 10 seconds. \nNot refreshable.\n\nStacks with Focused Breathing's 3.5% Class Ability per Second"
+      "mainEditor": "While Sprinting: \n<pve 2x Grenade/Melee Regeneration Speed />\n<pvp 100% Additional Base Grenade/Melee Regeneration Rate. />\nGain an additional <pve 100% /><pvp [200%] /> of your Base Class Ability Regeneration Rate.\n\nOn Dodge:\n6.25% Faster Sprint for 10 seconds. \nNot refreshable."
     },
     "inLiveDatabase": true
   },
