@@ -10436,7 +10436,7 @@
     "name": "Vanishing Shadow",
     "itemId": 2773056939,
     "itemName": "Graviton Forfeit",
-    "lastUpdate": 1650209815959,
+    "lastUpdate": 1650484428305,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -10452,7 +10452,7 @@
       {
         "lineText": [
           {
-            "text": "Increases the duration of Invisibility effects."
+            "text": "Increases the duration of some Void Invisibility effects."
           }
         ]
       },
@@ -10462,21 +10462,21 @@
       {
         "lineText": [
           {
-            "text": "Rat King: 6 -> 10 seconds (66% Increase)"
+            "text": "Rat King: 6 -> 8 seconds (33% Increase)"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Trapper's Ambush: 7 -> 9 seconds (29% increase)"
+            "text": "Trapper's Ambush: 7 -> 9 seconds (29% Increase)"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase)"
+            "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase) "
           }
         ]
       },
@@ -10493,34 +10493,64 @@
       {
         "lineText": [
           {
-            "text": "Regenerates 4% of Melee Ability per second."
+            "text": " 400% ",
+            "className": "pve"
+          },
+          {
+            "text": " [100%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Additional Base Melee Regeneration Rate."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Additional Enemies within 15 meters will instead increase it to 4.66% | 6.9% | 8.88%"
+            "text": "Each enemy within 15 metres will increase the bonus to a total of "
+          },
+          {
+            "text": " 600% ",
+            "className": "pve"
+          },
+          {
+            "text": " [200%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " and "
+          },
+          {
+            "text": " 800% ",
+            "className": "pve"
+          },
+          {
+            "text": " [300%] ",
+            "className": "pvp"
+          },
+          {
+            "text": "."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Recovery Speed set to between T9 and T10"
+            "text": "(Equivalent of) 100 Recovery."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "100 Reload Speed"
+            "text": "100 Reload Speed."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Increases the duration of Invisibility effects.\n\nRat King: 6 -> 10 seconds (66% Increase)\nTrapper's Ambush: 7 -> 9 seconds (29% increase)\nVanishing Step: 4.5 -> 7 seconds (44% Increase)\n\nWhile Invisible:\nRegenerates 4% of Melee Ability per second.\nAdditional Enemies within 15 meters will instead increase it to 4.66% | 6.9% | 8.88%\nRecovery Speed set to between T9 and T10\n100 Reload Speed\n"
+      "mainEditor": "Increases the duration of some Void Invisibility effects.\n\nRat King: 6 -> 8 seconds (33% Increase)\nTrapper's Ambush: 7 -> 9 seconds (29% Increase)\nVanishing Step: 4.5 -> 7 seconds (44% Increase) \n\nWhile Invisible:\n<pve 400% /> <pvp [100%] /> Additional Base Melee Regeneration Rate.\nEach enemy within 15 metres will increase the bonus to a total of <pve 600% /> <pvp [200%] /> and <pve 800% /> <pvp [300%] />.\n(Equivalent of) 100 Recovery.\n100 Reload Speed."
     },
     "inLiveDatabase": true
   },
