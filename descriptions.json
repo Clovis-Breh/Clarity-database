@@ -6734,7 +6734,7 @@
   "1631667848": {
     "id": "1631667848",
     "name": "Grave Robber",
-    "lastUpdate": 1650200457034,
+    "lastUpdate": 1650457178958,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -6771,10 +6771,47 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Melee Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Weapons get refreshed."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refresh: Reload, but does not need animation and doesn't proc on-reload perks."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Reload Speed."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Melee Kill:\nWeapons get <title refreshed [Reload, but does not need animation and doesn't proc on-reload perks.] />.\n\nEnhanced: Passively grants 4 Reload Speed."
-    }
+      "mainEditor": "On Melee Kill:\nWeapons get <title refreshed [Reload, but does not need animation and doesn't proc on-reload perks.] />.\n\nEnhanced: Passively grants 4 Reload Speed.",
+      "secondaryEditor": "On Melee Kill:\r\nWeapons get refreshed.\r\n\r\nRefresh: Reload, but does not need animation and doesn't proc on-reload perks.\r\n\r\nEnhanced: Passively grants 4 Reload Speed."
+    },
+    "inLiveDatabase": true
   },
   "1645158859": {
     "id": "1645158859",
