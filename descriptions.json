@@ -2848,7 +2848,7 @@
   "699525795": {
     "id": "699525795",
     "name": "Eye of the Storm",
-    "lastUpdate": 1650453906958,
+    "lastUpdate": 1650455287955,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -2904,8 +2904,45 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While at Low Health:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "27 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Stability."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While at Low Health:\n27 Handling, -40% Accuracy Cone Size, and -17% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\nEnhanced: Passively grants 4 Stability."
+      "mainEditor": "While at Low Health:\n27 Handling, -40% Accuracy Cone Size, and -17% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\nEnhanced: Passively grants 4 Stability.",
+      "secondaryEditor": "While at Low Health:\r\n27 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\r\n\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Passively grants 4 Stability."
     },
     "inLiveDatabase": true
   },
