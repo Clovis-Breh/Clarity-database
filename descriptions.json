@@ -20022,7 +20022,7 @@
   "4091460919": {
     "id": 4091460919,
     "name": "One Quiet Moment",
-    "lastUpdate": 1649872958264,
+    "lastUpdate": 1650463061969,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -20038,7 +20038,7 @@
       {
         "lineText": [
           {
-            "text": "40 Reload while Out-of-Combat"
+            "text": "40 Reload Stat while Out-of-Combat"
           }
         ]
       },
@@ -20055,9 +20055,20 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "40 Reload Stat while Out-of-Combat"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "40 Reload while Out-of-Combat\r\n\r\n<formula Reload Time: reload_0 />"
-    }
+      "mainEditor": "40 Reload Stat while Out-of-Combat\r\n\r\n<formula Reload Time: reload_0 />",
+      "secondaryEditor": "40 Reload Stat while Out-of-Combat"
+    },
+    "inLiveDatabase": true
   },
   "4102900702": {
     "id": "4102900702",
