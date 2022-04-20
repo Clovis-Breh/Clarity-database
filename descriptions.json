@@ -7697,7 +7697,7 @@
   "1866048759": {
     "id": "1866048759",
     "name": "Hip-Fire Grip",
-    "lastUpdate": 1650229768380,
+    "lastUpdate": 1650453831004,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
@@ -7755,7 +7755,7 @@
       {
         "lineText": [
           {
-            "text": "+2.7 degrees precision angle threshold"
+            "text": "+2.7 degrees Precision Angle Threshold"
           }
         ]
       },
@@ -7788,7 +7788,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "If hipfiring:\n1.2x Aim Assist Falloff Distance\n1.2x Reticle Stickiness Falloff Distance\n1.2x Damage Falloff Start and End Distance\n15 Aim Assist\n+2.7 degrees precision angle threshold\n~-30% Accuracy Cone Size and ~30 Stability.\n\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\n\nEnhanced: Stronger Effect."
+      "mainEditor": "If hipfiring:\n1.2x Aim Assist Falloff Distance\n1.2x Reticle Stickiness Falloff Distance\n1.2x Damage Falloff Start and End Distance\n15 Aim Assist\n+2.7 degrees Precision Angle Threshold\n~-30% Accuracy Cone Size and ~30 Stability.\n\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\n\nEnhanced: Stronger Effect."
     },
     "inLiveDatabase": true
   },
