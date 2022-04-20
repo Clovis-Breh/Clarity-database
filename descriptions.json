@@ -8100,7 +8100,7 @@
   "1968497646": {
     "id": "1968497646",
     "name": "Armor-Piercing Rounds",
-    "lastUpdate": 1650452379599,
+    "lastUpdate": 1650454149746,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -8131,28 +8131,8 @@
         ]
       }
     ],
-    "simpleDescription": [
-      {
-        "lineText": [
-          {
-            "text": "5% Increased damage against Combatant Shields."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Bullets are able to overpenetrate enemies once."
-          }
-        ]
-      }
-    ],
     "editor": {
-      "mainEditor": "5% Increased damage against Combatant Shields.\n\nBullets are able to overpenetrate enemies once.",
-      "secondaryEditor": "5% Increased damage against Combatant Shields.\r\n\r\nBullets are able to overpenetrate enemies once."
+      "mainEditor": "5% Increased damage against Combatant Shields.\n\nBullets are able to overpenetrate enemies once."
     },
     "inLiveDatabase": true
   },
