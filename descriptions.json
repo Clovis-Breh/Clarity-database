@@ -12597,7 +12597,7 @@
   "2846385770": {
     "id": "2846385770",
     "name": "Rangefinder",
-    "lastUpdate": 1650200534082,
+    "lastUpdate": 1650459490179,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "zoom": {
@@ -12640,10 +12640,37 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "10% Increased Zoom and 30% Increased Aim Assist Falloff Distance while ADS."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "5% Faster Projectile Speed when ADS."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Handling"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "<title 10% Increased Zoom [Zoom acts as a multiplier to hipfire range and maximum falloff distance while ADS] /> and 30% Increased Aim Assist Falloff Distance while ADS.\n5% Faster Projectile Speed when ADS.\n\nEnhanced: Passively grants 4 Handling"
-    }
+      "mainEditor": "<title 10% Increased Zoom [Zoom acts as a multiplier to hipfire range and maximum falloff distance while ADS] /> and 30% Increased Aim Assist Falloff Distance while ADS.\n5% Faster Projectile Speed when ADS.\n\nEnhanced: Passively grants 4 Handling",
+      "secondaryEditor": "10% Increased Zoom and 30% Increased Aim Assist Falloff Distance while ADS.\r\n5% Faster Projectile Speed when ADS.\r\n\r\nEnhanced: Passively grants 4 Handling"
+    },
+    "inLiveDatabase": true
   },
   "2848615171": {
     "id": "2848615171",
