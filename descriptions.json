@@ -7820,45 +7820,8 @@
   "1607056502": {
     "id": 1607056502,
     "name": "Hakke Breach Armaments",
-    "lastUpdate": 1649872639920,
+    "lastUpdate": 1650462946792,
     "updatedBy": "Fading-Shadow",
-    "stats": {
-      "damage": {
-        "active": {
-          "multiplier": [
-            0
-          ]
-        }
-      },
-      "reload": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      },
-      "stability": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      },
-      "aimAssist": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      },
-      "range": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      }
-    },
     "type": "weaponOriginTrait",
     "description": [
       {
@@ -7868,7 +7831,7 @@
           },
           {
             "linkUrl": "https://d2clarity.page.link/combatant",
-            "linkText": "Vehicles",
+            "linkText": "Vehicles and Constructs",
             "className": "link"
           }
         ]
@@ -7881,9 +7844,27 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "15% Increased Damage against Vehicles and Constructs"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "30% Increased Damage against Turrets, Barricades, and Stasis Crystals."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "15% Increased Damage against <link https://d2clarity.page.link/combatant Vehicles/>\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals."
-    }
+      "mainEditor": "15% Increased Damage against <link https://d2clarity.page.link/combatant Vehicles and Constructs/>\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals.",
+      "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals."
+    },
+    "inLiveDatabase": true
   },
   "1631667848": {
     "id": "1631667848",
