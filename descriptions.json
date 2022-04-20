@@ -13801,7 +13801,7 @@
   "2946784966": {
     "id": "2946784966",
     "name": "Tunnel Vision",
-    "lastUpdate": 1650200603604,
+    "lastUpdate": 1650461705709,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "aimAssist": {
@@ -13824,7 +13824,7 @@
       {
         "lineText": [
           {
-            "text": "20 Aim Assist, -20% Accuracy Cone Size, and Y to Handling (ADS only, [?] Multiplier) for 5 seconds."
+            "text": "20 Aim Assist, -20% Accuracy Cone Size, and [?] to ADS Handling (ADS only, [?] Multiplier) for 5 seconds."
           }
         ]
       },
@@ -13834,15 +13834,42 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased by [?] seconds, to a maximum of [5+?] seconds."
+            "text": "Enhanced: Buff Duration is increased."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "After Reloading within 6 seconds of a Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20 Aim Assist, -20% Accuracy Cone Size, and [?] to ADS Handling (ADS only, [?] Multiplier) for 5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "After Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and Y to Handling (ADS only, [?] Multiplier) for 5 seconds.\n\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [5+?] seconds."
-    }
+      "mainEditor": "After Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and [?] to ADS Handling (ADS only, [?] Multiplier) for 5 seconds.\n\nEnhanced: Buff Duration is increased.",
+      "secondaryEditor": "After Reloading within 6 seconds of a Weapon Kill:\r\n20 Aim Assist, -20% Accuracy Cone Size, and [?] to ADS Handling (ADS only, [?] Multiplier) for 5 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
+    },
+    "inLiveDatabase": true
   },
   "2951499542": {
     "id": "2951499542",
