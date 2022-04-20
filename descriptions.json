@@ -7916,7 +7916,7 @@
   "1754714824": {
     "id": "1754714824",
     "name": "Kickstart",
-    "lastUpdate": 1650457892745,
+    "lastUpdate": 1650458698672,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -7968,8 +7968,35 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "During Slide, after Sprinting for 1.5s."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20% Increased damage and 100ms increased Charge Rate for [?] seconds. "
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "During Slide, after Sprinting for 1.5s.\n20% Increased damage and 100ms increased Charge Rate for [?] seconds. \n\nEnhanced: Buff Duration is increased."
+      "mainEditor": "During Slide, after Sprinting for 1.5s.\n20% Increased damage and 100ms increased Charge Rate for [?] seconds. \n\nEnhanced: Buff Duration is increased.",
+      "secondaryEditor": "During Slide, after Sprinting for 1.5s.\r\n20% Increased damage and 100ms increased Charge Rate for [?] seconds. \r\n\r\nEnhanced: Buff Duration is increased."
     },
     "inLiveDatabase": true
   },
