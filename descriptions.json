@@ -15853,7 +15853,7 @@
   "3551326236": {
     "id": "3551326236",
     "name": "Rampage",
-    "lastUpdate": 1650297567672,
+    "lastUpdate": 1650459468961,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -15911,8 +15911,49 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stacking 10% | 21% | 33.1% Increased damage for 3.5 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff Refreshed on Kill."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Huckleberry specific:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "[PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n\nHuckleberry specific:\n<pve [PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds. />\n"
+      "mainEditor": "On Weapon Kill:\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\nBuff Refreshed on Kill.\n\nHuckleberry specific:\n<pve [PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds. />\n",
+      "secondaryEditor": "On Weapon Kill:\r\nStacking 10% | 21% | 33.1% Increased damage for 3.5 seconds.\r\nBuff Refreshed on Kill.\r\n\r\nHuckleberry specific:\r\n[PVE] Stacking 20% | 41% | 66% Damage Increase for 3.5 seconds."
     },
     "inLiveDatabase": true
   },
