@@ -8714,7 +8714,7 @@
     "name": "Clenched Fist",
     "itemId": 2240152949,
     "itemName": "Stronghold",
-    "lastUpdate": 1650212891921,
+    "lastUpdate": 1650484465805,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -8745,14 +8745,7 @@
       {
         "lineText": [
           {
-            "text": "Aggressive Frame Swords grant 95% Damage Resistance."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Other Swords grant 90% Damage Resistance."
+            "text": "Swords grant 90% Damage Resistance."
           }
         ]
       },
@@ -8765,7 +8758,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Maxes out Sword's Guard Resistance, Efficiency, and Endurance.\r\nPerfectly timed blocks heal for 80(?) HP.\r\n\r\nBlocking Specifics:\r\nAggressive Frame Swords grant 95% Damage Resistance.\r\nOther Swords grant 90% Damage Resistance.\r\nSword Energy does not decay from blocking damage or holding guard."
+      "mainEditor": "Maxes out Sword's Guard Resistance, Efficiency, and Endurance.\r\nPerfectly timed blocks heal for 80(?) HP.\r\n\r\nBlocking Specifics:\r\nSwords grant 90% Damage Resistance.\r\nSword Energy does not decay from blocking damage or holding guard."
     },
     "inLiveDatabase": true
   },
