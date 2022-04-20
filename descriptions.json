@@ -15510,17 +15510,17 @@
   "4082225868": {
     "id": "4082225868",
     "name": "Swashbuckler",
-    "lastUpdate": 1650200581330,
+    "lastUpdate": 1650451980001,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            6.6,
-            13.2,
-            20,
-            26.4,
-            33
+            1.066,
+            1.132,
+            1.2,
+            1.264,
+            1.33
           ]
         }
       }
@@ -15553,7 +15553,23 @@
                 "className": "bold"
               },
               {
-                "text": "Damage Increase",
+                "text": "1x",
+                "className": "bold"
+              },
+              {
+                "text": "2x",
+                "className": "bold"
+              },
+              {
+                "text": "3x",
+                "className": "bold"
+              },
+              {
+                "text": "4x",
+                "className": "bold"
+              },
+              {
+                "text": "5x",
                 "className": "bold"
               }
             ]
@@ -15561,49 +15577,20 @@
           {
             "lineText": [
               {
-                "text": "1x"
+                "text": "Damage Increase",
+                "className": "bold"
               },
               {
                 "text": "6.6%"
-              }
-            ],
-            "className": "background"
-          },
-          {
-            "lineText": [
-              {
-                "text": "2x"
               },
               {
                 "text": "13.2%"
-              }
-            ]
-          },
-          {
-            "lineText": [
-              {
-                "text": "3x"
               },
               {
                 "text": "20%"
-              }
-            ],
-            "className": "background"
-          },
-          {
-            "lineText": [
-              {
-                "text": "4x"
               },
               {
-                "text": "26.4%"
-              }
-            ]
-          },
-          {
-            "lineText": [
-              {
-                "text": "5x"
+                "text": "26.6%"
               },
               {
                 "text": "33%"
@@ -15626,10 +15613,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks|b Damage Increase\n| 1x     | 6.6% <background/>\n| 2x     | 13.2%\n| 3x     | 20% <background/>\n| 4x     | 26.4%\n| 5x     | 33% <background/>\n<$>\n\nEnhanced: Buff Duration is increased by 2 seconds, to a maximum of 6.5 seconds."
-    }
+      "mainEditor": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks         |b 1x  |b 2x   |b 3x |b 4x   |b 5x\n|b Damage Increase| 6.6% | 13.2% | 20% | 26.6% | 33% <background/>\n<$>\n\nEnhanced: Buff Duration is increased by 2 seconds, to a maximum of 6.5 seconds."
+    },
+    "inLiveDatabase": true
   },
   "4091460919": {
     "id": 4091460919,
