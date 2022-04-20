@@ -19306,17 +19306,8 @@
   "3989629871": {
     "id": 3989629871,
     "name": "Skulking Wolf",
-    "lastUpdate": 1650463067634,
+    "lastUpdate": 1650463146751,
     "updatedBy": "Fading-Shadow",
-    "stats": {
-      "reload": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      }
-    },
     "type": "weaponOriginTrait",
     "description": [
       {
