@@ -7609,13 +7609,13 @@
   "1685431615": {
     "id": "1685431615",
     "name": "En Garde",
-    "lastUpdate": 1650200358330,
+    "lastUpdate": 1650458975709,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            30
+            1.3
           ]
         }
       }
@@ -7637,10 +7637,27 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Upon readying a Sword:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "30% Increased damage for 1.5 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Upon readying a Sword:\n30% Increased damage for 1.5 seconds.\n"
-    }
+      "mainEditor": "Upon readying a Sword:\n30% Increased damage for 1.5 seconds.\n",
+      "secondaryEditor": "Upon readying a Sword:\r\n30% Increased damage for 1.5 seconds.\r\n"
+    },
+    "inLiveDatabase": true
   },
   "1687452232": {
     "id": "1687452232",
