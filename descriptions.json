@@ -18650,24 +18650,8 @@
   "3977735242": {
     "id": 3977735242,
     "name": "Tracking Module",
-    "lastUpdate": 1650200596487,
+    "lastUpdate": 1650461534153,
     "updatedBy": "Fading-Shadow",
-    "stats": {
-      "damage": {
-        "active": {
-          "multiplier": [
-            0
-          ]
-        }
-      },
-      "handling": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      }
-    },
     "type": "weaponPerk",
     "description": [
       {
@@ -18706,10 +18690,44 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While aiming-down-sights at an Enemy:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Rockets track enemies [with diminshed effectiveness in PVP]"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Tracking persists for 1 second after not aiming at the enemy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Blast Radius."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies <pvp [with diminshed effectiveness] />\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 4 Blast Radius."
-    }
+      "mainEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies <pvp [with diminshed effectiveness] />\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 4 Blast Radius.",
+      "secondaryEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies [with diminshed effectiveness in PVP]\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 4 Blast Radius."
+    },
+    "inLiveDatabase": true
   },
   "3988215619": {
     "id": 3988215619,
