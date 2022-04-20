@@ -16254,7 +16254,7 @@
   "4134353779": {
     "id": "4134353779",
     "name": "Drop Mag",
-    "lastUpdate": 1650200346014,
+    "lastUpdate": 1650454724599,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -16302,10 +16302,30 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "27 Reload Stat with a 0.9x Reload Duration Scalar."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Decreases magazing size. (Only visible in-game.)"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "27 Reload Stat with a 0.9x <title RDS [Reload Duration Scalar - multiplies Reload Animation Length by the number] />\nDecreases magazing size. (Only visible in-game.)\n\n<formula Reload Time: reload_0 />"
-    }
+      "mainEditor": "27 Reload Stat with a 0.9x <title RDS [Reload Duration Scalar - multiplies Reload Animation Length by the number] />\nDecreases magazing size. (Only visible in-game.)\n\n<formula Reload Time: reload_0 />",
+      "secondaryEditor": "27 Reload Stat with a 0.9x Reload Duration Scalar.\r\n\r\nDecreases magazing size. (Only visible in-game.)"
+    },
+    "inLiveDatabase": true
   },
   "4152709778": {
     "id": "4152709778",
