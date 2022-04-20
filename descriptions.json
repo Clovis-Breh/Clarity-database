@@ -10172,7 +10172,7 @@
   "2284787283": {
     "id": 2284787283,
     "name": "Clown Cartridge",
-    "lastUpdate": 1650459155421,
+    "lastUpdate": 1650459169387,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -10203,7 +10203,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Higher magazine increases are more likely."
+            "text": "Enhanced: Larger magazine increases are more likely."
           }
         ]
       }
@@ -10236,14 +10236,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Higher magazine increases are more likely."
+            "text": "Enhanced: Larger magazine increases are more likely."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Reload:\r\nRandomly increases Magazine Capacity between 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Higher magazine increases are more likely.",
-      "secondaryEditor": "On Reload:\r\nRandomly increases Magazine Capacity between 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Higher magazine increases are more likely."
+      "mainEditor": "On Reload:\r\nRandomly increases Magazine Capacity between 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Larger magazine increases are more likely.",
+      "secondaryEditor": "On Reload:\r\nRandomly increases Magazine Capacity between 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Larger magazine increases are more likely."
     },
     "inLiveDatabase": true
   },
