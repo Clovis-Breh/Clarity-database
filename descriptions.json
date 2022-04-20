@@ -7452,14 +7452,11 @@
   "1570042021": {
     "id": "1570042021",
     "name": "Heating Up",
-    "lastUpdate": 1650457320913,
+    "lastUpdate": 1650494248174,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
         "active": {
-          "multiplier": [
-            0
-          ],
           "stat": [
             15,
             30
@@ -7489,15 +7486,26 @@
       {
         "lineText": [
           {
-            "text": "-15% "
+            "text": "> -15% "
           },
           {
             "title": "How Fast Your Accuracy Cone Expands. The lower the better.",
             "text": "Accuracy Cone Growth",
             "className": "title"
-          },
+          }
+        ]
+      },
+      {
+        "lineText": [
           {
-            "text": ", 15 Stability and ~20 Recoil Direction."
+            "text": "> 15 Stability"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "> ~20 Recoil Direction."
           }
         ]
       },
@@ -7520,9 +7528,20 @@
             "title": "How Fast Your Accuracy Cone Expands. The less the better.",
             "text": "Accuracy Cone Growth",
             "className": "title"
-          },
+          }
+        ]
+      },
+      {
+        "lineText": [
           {
-            "text": ", 30 Stability, and ~40 Recoil Direction."
+            "text": "> 30 Stability"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "> ~40 Recoil Direction."
           }
         ]
       },
@@ -7558,7 +7577,21 @@
       {
         "lineText": [
           {
-            "text": "-15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction."
+            "text": "> -15% Accuracy Cone Growth"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "> 15 Stability"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "> ~20 Recoil Direction."
           }
         ]
       },
@@ -7575,7 +7608,21 @@
       {
         "lineText": [
           {
-            "text": "-30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction."
+            "text": "> -30% Accuracy Cone Growth"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "> 30 Stability"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "> ~40 Recoil Direction."
           }
         ]
       },
@@ -7591,8 +7638,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\n\n1x\n-15% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The lower the better.]/>, 15 Stability and ~20 Recoil Direction.\n\n2x\n-30% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, 30 Stability, and ~40 Recoil Direction.\n\nEnhanced: Buff Duration is increased.",
-      "secondaryEditor": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\r\n\r\n1x\r\n-15% Accuracy Cone Growth, 15 Stability and ~20 Recoil Direction.\r\n\r\n2x\r\n-30% Accuracy Cone Growth, 30 Stability, and ~40 Recoil Direction.\r\n\r\nEnhanced: Buff Duration is increased."
+      "mainEditor": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\n\n1x\n> -15% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The lower the better.]/>\n> 15 Stability\n> ~20 Recoil Direction.\n\n2x\n-30% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />\n> 30 Stability\n> ~40 Recoil Direction.\n\nEnhanced: Buff Duration is increased.",
+      "secondaryEditor": "Kills increase Accuracy and Stability while improving vertical recoil for 5.5 seconds.\r\n\r\n1x\r\n> -15% Accuracy Cone Growth\r\n> 15 Stability\r\n> ~20 Recoil Direction.\r\n\r\n2x\r\n> -30% Accuracy Cone Growth\r\n> 30 Stability\r\n> ~40 Recoil Direction.\r\n\r\nEnhanced: Buff Duration is increased."
     },
     "inLiveDatabase": true
   },
