@@ -16758,7 +16758,7 @@
     "name": "Spheromatik Trigger",
     "itemId": 2326396534,
     "itemName": "Severance Enclosure",
-    "lastUpdate": 1650212831595,
+    "lastUpdate": 1650475454565,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -16803,14 +16803,14 @@
       {
         "lineText": [
           {
-            "text": "197% = Powered Melee on Major"
+            "text": "197% = Powered Melee on Miniboss"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "268% = Finisher on Major"
+            "text": "268% = Finisher on Miniboss"
           }
         ]
       },
@@ -16826,7 +16826,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Powered Melee and Finisher Kills unleash an explosion, centered on the enemy.\r\nExplosion Damage and Radius depends on Enemy Rank.\r\n\r\nExplosion Damage:\r\n100% = Powered Melee on Minor\r\n144% = Finisher on Minor\r\n197% = Powered Melee on Major\r\n268% = Finisher on Major\r\n\r\n4 second cooldown per Explosion."
+      "mainEditor": "Powered Melee and Finisher Kills unleash an explosion, centered on the enemy.\r\nExplosion Damage and Radius depends on Enemy Rank.\r\n\r\nExplosion Damage:\r\n100% = Powered Melee on Minor\r\n144% = Finisher on Minor\r\n197% = Powered Melee on Miniboss\r\n268% = Finisher on Miniboss\r\n\r\n4 second cooldown per Explosion."
     },
     "inLiveDatabase": true
   },
