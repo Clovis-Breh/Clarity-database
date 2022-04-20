@@ -19276,24 +19276,8 @@
   "3988215619": {
     "id": 3988215619,
     "name": "Veist Stinger",
-    "lastUpdate": 1649873549780,
+    "lastUpdate": 1650463269828,
     "updatedBy": "Fading-Shadow",
-    "stats": {
-      "reload": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      },
-      "handling": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      }
-    },
     "type": "weaponOriginTrait",
     "description": [
       {
@@ -19304,9 +19288,20 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Hits have a [?]% chance to refresh [?]% of your magazine."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Hits have a [?]% chance to refresh [?]% of your magazine."
-    }
+      "mainEditor": "Hits have a [?]% chance to refresh [?]% of your magazine.",
+      "secondaryEditor": "Hits have a [?]% chance to refresh [?]% of your magazine."
+    },
+    "inLiveDatabase": true
   },
   "3989629871": {
     "id": 3989629871,
