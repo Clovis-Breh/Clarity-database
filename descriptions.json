@@ -12396,7 +12396,7 @@
   "2726471870": {
     "id": "2726471870",
     "name": "Thresh",
-    "lastUpdate": 1650390835761,
+    "lastUpdate": 1650461417272,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12433,8 +12433,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Primary/Power Weapon Kills grant an additional 1% Super Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Special Weapon Kills grant an additional 1.5% Super Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "[PVP] Weapon Kills grant an additional 1% Super Energy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Bonus Super Gains on Kill increased by 33%: 1% -> 1.33% and 1.5% -> 2%"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\n<pvp [PVP] Weapon Kills grant an additional 1% Super Energy. />\n\nEnhanced: Bonus Super Gains on Kill increased by 33%: 1% -> 1.33% and 1.5% -> 2%\""
+      "mainEditor": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\n<pvp [PVP] Weapon Kills grant an additional 1% Super Energy. />\n\nEnhanced: Bonus Super Gains on Kill increased by 33%: 1% -> 1.33% and 1.5% -> 2%\"",
+      "secondaryEditor": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\r\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\r\n[PVP] Weapon Kills grant an additional 1% Super Energy.\r\n\r\nEnhanced: Bonus Super Gains on Kill increased by 33%: 1% -> 1.33% and 1.5% -> 2%"
     },
     "inLiveDatabase": true
   },
