@@ -451,7 +451,7 @@
   "124408337": {
     "id": "124408337",
     "name": "Headstone",
-    "lastUpdate": 1650200461221,
+    "lastUpdate": 1650457247514,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -488,7 +488,7 @@
       {
         "lineText": [
           {
-            "text": "Having 5 crystals active simultaneously incurs in a 5 second cooldown."
+            "text": "Having 5 crystals active simultaneously incurs a 5 second cooldown."
           }
         ]
       },
@@ -503,10 +503,54 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Precision Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Spawns a Stasis Crystal on Enemy Death Location."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Minors = Medium | Anything Else = Large"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Having 5 crystals active simultaneously incurs a 5 second cooldown."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Stability"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Precision Kill:\nSpawns a <stasis/>Stasis Crystal on Enemy Death Location.\nMinors = Medium | Anything Else = Large\n\nHaving 5 crystals active simultaneously incurs in a 5 second cooldown.\n\nEnhanced: Passively grants 4 Stability"
-    }
+      "mainEditor": "On Precision Kill:\nSpawns a <stasis/>Stasis Crystal on Enemy Death Location.\nMinors = Medium | Anything Else = Large\n\nHaving 5 crystals active simultaneously incurs a 5 second cooldown.\n\nEnhanced: Passively grants 4 Stability",
+      "secondaryEditor": "On Precision Kill:\r\nSpawns a Stasis Crystal on Enemy Death Location.\r\nMinors = Medium | Anything Else = Large\r\n\r\nHaving 5 crystals active simultaneously incurs a 5 second cooldown.\r\n\r\nEnhanced: Passively grants 4 Stability"
+    },
+    "inLiveDatabase": true
   },
   "185514250": {
     "id": 185514250,
