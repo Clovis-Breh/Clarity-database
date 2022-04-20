@@ -6987,7 +6987,7 @@
   "1546637391": {
     "id": "1546637391",
     "name": "Vorpal Weapon",
-    "lastUpdate": 1650200621795,
+    "lastUpdate": 1650462166009,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -7051,7 +7051,7 @@
             "className": "heavy"
           },
           {
-            "text": "Power Weapons: "
+            "text": "Heavy Weapons: "
           },
           {
             "text": " 5% to 10% ",
@@ -7077,10 +7077,64 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Damage Increase against Bosses, Minibosses, and Vehicles."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Primary: 20% | Special: 15% | Heavy: 10%"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Against PVP Supers Only:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Primary: 40% to 50% | Special: 10% to 20% | Heavy: 5% to 10%"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "The lower Damage Increase is against supers with no extra Damage Resistance."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Reload Speed."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Damage Increase against Bosses, Minibosses, and Vehicles.\n<pve Primary: 20% | Special: 15% | Heavy: 10% />\n\n<pvp Against Guardian Supers Only: />\n<primary/>Primary Weapons: <pvp 40% to 50% />\n<special/>Special Weapons: <pvp 10% to 20% />\n<heavy/>Power Weapons: <pvp 5% to 10% />\nThe lower Damage Increase is against supers with no extra Damage Resistance.\n\nEnhanced: Passively grants 4 Reload Speed."
-    }
+      "mainEditor": "Damage Increase against Bosses, Minibosses, and Vehicles.\n<pve Primary: 20% | Special: 15% | Heavy: 10% />\n\n<pvp Against Guardian Supers Only: />\n<primary/>Primary Weapons: <pvp 40% to 50% />\n<special/>Special Weapons: <pvp 10% to 20% />\n<heavy/>Heavy Weapons: <pvp 5% to 10% />\nThe lower Damage Increase is against supers with no extra Damage Resistance.\n\nEnhanced: Passively grants 4 Reload Speed.",
+      "secondaryEditor": "Damage Increase against Bosses, Minibosses, and Vehicles.\r\nPrimary: 20% | Special: 15% | Heavy: 10%\r\n\r\nAgainst PVP Supers Only:\r\nPrimary: 40% to 50% | Special: 10% to 20% | Heavy: 5% to 10%\r\n\r\nThe lower Damage Increase is against supers with no extra Damage Resistance.\r\n\r\nEnhanced: Passively grants 4 Reload Speed."
+    },
+    "inLiveDatabase": true
   },
   "1556840489": {
     "id": "1556840489",
