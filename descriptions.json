@@ -8063,7 +8063,7 @@
     "name": "Sunfire Furnace",
     "itemId": 1192890598,
     "itemName": "Hallowfire Heart",
-    "lastUpdate": 1650211724611,
+    "lastUpdate": 1650484788109,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -8076,21 +8076,14 @@
             "className": "solar"
           },
           {
-            "text": "Solar Subclass:"
+            "text": "Solar Subclass"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Faster Ability Recharge"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "0.9% Melee & Grenade Ability Recharge per Second"
+            "text": "75% Additional Base (T3) Grenade and Melee Regeneration Rate"
           }
         ]
       },
@@ -8106,27 +8099,20 @@
             "className": "solar"
           },
           {
-            "text": "Solar Super is Charged:"
+            "text": "Solar Super is Charged."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Significatively faster Ability Recharge"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "4.25% Melee & Grenade Ability Recharge per Second"
+            "text": "350% Additional Base (T3) Grenade and Melee Regeneration Rate"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "If on <solar/>Solar Subclass:\r\nFaster Ability Recharge\r\n0.9% Melee & Grenade Ability Recharge per Second\r\n\r\nIf <solar/>Solar Super is Charged:\r\nSignificatively faster Ability Recharge\r\n4.25% Melee & Grenade Ability Recharge per Second"
+      "mainEditor": "If on <solar/>Solar Subclass\r\n75% Additional Base (T3) Grenade and Melee Regeneration Rate\r\n\r\nIf <solar/>Solar Super is Charged.\r\n350% Additional Base (T3) Grenade and Melee Regeneration Rate"
     },
     "inLiveDatabase": true
   },
