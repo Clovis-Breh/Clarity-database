@@ -10999,13 +10999,13 @@
   "2360754333": {
     "id": "2360754333",
     "name": "Trench Barrel",
-    "lastUpdate": 1650200600419,
+    "lastUpdate": 1650461606152,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            50
+            1.5
           ]
         }
       },
@@ -11022,7 +11022,7 @@
       {
         "lineText": [
           {
-            "text": "After dealing Melee Damage:"
+            "text": "After dealing non-ranged Melee Damage:"
           }
         ]
       },
@@ -11060,15 +11060,42 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Effect is increased to [?] Reload and [?] Handling."
+            "text": "Enhanced: Buff Effect is increased."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "After dealing non-ranged Melee Damage:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Effect is increased."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "After dealing Melee Damage:\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Buff Effect is increased to [?] Reload and [?] Handling."
-    }
+      "mainEditor": "After dealing non-ranged Melee Damage:\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Buff Effect is increased.",
+      "secondaryEditor": "After dealing non-ranged Melee Damage:\r\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\r\n\r\nEnhanced: Buff Effect is increased."
+    },
+    "inLiveDatabase": true
   },
   "2383960413": {
     "id": 2383960413,
