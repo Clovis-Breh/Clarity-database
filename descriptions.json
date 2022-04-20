@@ -16040,17 +16040,8 @@
   "3363267119": {
     "id": 3363267119,
     "name": "Souldrinker",
-    "lastUpdate": 1649873370545,
+    "lastUpdate": 1650463141128,
     "updatedBy": "Fading-Shadow",
-    "stats": {
-      "reload": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      }
-    },
     "type": "weaponOriginTrait",
     "description": [
       {
@@ -16066,14 +16057,37 @@
       {
         "lineText": [
           {
-            "text": "% Magazine Based"
+            "title": "AKA the lower the Magazine Size, the larger the heal",
+            "text": "% Magazine Based",
+            "className": "title"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Regenerates Health on reload based on the amount of hits before reload."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "The lower the Magazine Size, the larger the heal."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\n% Magazine Based"
-    }
+      "mainEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\n<title % Magazine Based [AKA the lower the Magazine Size, the larger the heal]/>",
+      "secondaryEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nThe lower the Magazine Size, the larger the heal."
+    },
+    "inLiveDatabase": true
   },
   "3365897133": {
     "id": "3365897133",
