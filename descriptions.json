@@ -9519,8 +9519,20 @@
   "2551157718": {
     "id": "2551157718",
     "name": "Box Breathing",
-    "lastUpdate": 1650453065719,
+    "lastUpdate": 1650453104202,
     "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            1.31,
+            1.33,
+            1.37,
+            1.66
+          ]
+        }
+      }
+    },
     "type": "weaponPerk",
     "description": [
       {
