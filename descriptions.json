@@ -16513,7 +16513,7 @@
   "4104185692": {
     "id": "4104185692",
     "name": "Frenzy",
-    "lastUpdate": 1650455992869,
+    "lastUpdate": 1650455996838,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -16526,7 +16526,7 @@
       "damage": {
         "active": {
           "multiplier": [
-            15
+            1.15
           ]
         }
       },
