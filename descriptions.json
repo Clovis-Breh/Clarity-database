@@ -2535,7 +2535,7 @@
   "591790007": {
     "id": "591790007",
     "name": "Iron Reach",
-    "lastUpdate": 1650457759300,
+    "lastUpdate": 1650458703701,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -2547,8 +2547,18 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "18 Range and -28 Stability"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "18 Range and -28 Stability"
+      "mainEditor": "18 Range and -28 Stability",
+      "secondaryEditor": "18 Range and -28 Stability"
     },
     "inLiveDatabase": true
   },
