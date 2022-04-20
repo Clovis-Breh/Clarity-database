@@ -4020,7 +4020,7 @@
   "951095735": {
     "id": "951095735",
     "name": "Impulse Amplifier",
-    "lastUpdate": 1650457697357,
+    "lastUpdate": 1650458715580,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -4061,8 +4061,35 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "35% Faster Projectile Velocity "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "9 Reload Speed with 0.8x Multiplier."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Increases Reload Speed."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "35% Faster Projectile Velocity \n9 Reload Speed with 0.8x Multiplier.\n\nEnhanced: Increases Reload Speed."
+      "mainEditor": "35% Faster Projectile Velocity \n9 Reload Speed with 0.8x Multiplier.\n\nEnhanced: Increases Reload Speed.",
+      "secondaryEditor": "35% Faster Projectile Velocity \r\n9 Reload Speed with 0.8x Multiplier.\r\n\r\nEnhanced: Increases Reload Speed."
     },
     "inLiveDatabase": true
   },
