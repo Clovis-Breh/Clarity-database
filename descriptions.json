@@ -8001,7 +8001,7 @@
   "2010801679": {
     "id": 2010801679,
     "name": "Ambitious Assassin",
-    "lastUpdate": 1649942599835,
+    "lastUpdate": 1650452230864,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
@@ -8049,10 +8049,47 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "After Reloading within X seconds of Weapon Kills:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Always rounds magazine up."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Passively grants 4 Reload Speed."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "After Reloading within X seconds of Weapon Kills:\r\n10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity.\r\n\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Passively grants 4 Reload Speed."
-    }
+      "mainEditor": "After Reloading within X seconds of Weapon Kills:\r\n10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity.\r\n\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Passively grants 4 Reload Speed.",
+      "secondaryEditor": "After Reloading within X seconds of Weapon Kills:\r\n10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity.\r\n\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Passively grants 4 Reload Speed."
+    },
+    "inLiveDatabase": true
   },
   "2030760728": {
     "id": "2030760728",
