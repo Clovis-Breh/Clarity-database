@@ -17730,7 +17730,7 @@
   "3673922083": {
     "id": "3673922083",
     "name": "Adagio",
-    "lastUpdate": 1650454203376,
+    "lastUpdate": 1650463818350,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -17751,7 +17751,7 @@
       "damage": {
         "active": {
           "multiplier": [
-            30
+            1.3
           ]
         }
       }
@@ -17785,14 +17785,7 @@
       {
         "lineText": [
           {
-            "text": "Hand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Also Krait for some reason..."
+            "text": "Hand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles, Rapid-Fire Auto Rifles"
           }
         ]
       },
@@ -17809,7 +17802,7 @@
       {
         "lineText": [
           {
-            "text": "Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns"
+            "text": "Adaptive Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns"
           }
         ]
       },
@@ -17851,7 +17844,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\n30% increased damage, variably slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds.\n\n-15% Rate of Fire/Charge Rate:\nHand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles.\nAlso Krait for some reason...\n\n-20% Rate of Fire/Charge Rate:\nAuto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns\n\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 8 seconds.",
+      "mainEditor": "On Weapon Kill:\n30% increased damage, variably slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds.\n\n-15% Rate of Fire/Charge Rate:\nHand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles, Rapid-Fire Auto Rifles\n\n-20% Rate of Fire/Charge Rate:\nAdaptive Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns\n\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 8 seconds.",
       "secondaryEditor": "On Weapon Kill:\r\n30% increased damage, 15-20% slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds.\r\n\r\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 8 seconds."
     },
     "inLiveDatabase": true
