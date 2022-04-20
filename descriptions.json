@@ -1200,7 +1200,7 @@
   "280464955": {
     "id": "280464955",
     "name": "Firmly Planted",
-    "lastUpdate": 1650200391543,
+    "lastUpdate": 1650453299268,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -1230,7 +1230,15 @@
       {
         "lineText": [
           {
-            "text": " 30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
+            "text": " 30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% "
+          },
+          {
+            "title": "How Fast Your Accuracy Cone Expands. The less the better.",
+            "text": "Accuracy Cone Growth",
+            "className": "title"
+          },
+          {
+            "text": ", -80% Recoil Yaw (Horizontal Recoil)"
           }
         ]
       },
@@ -1272,15 +1280,23 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: [?] Handling, [?] Stability, -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, -[?]% Recoil Yaw (Horizontal Recoil)"
+            "text": "Enhanced: [?] Handling, [?] Stability, -[?]% Accuracy Cone Size, -[?]% "
+          },
+          {
+            "title": "How Fast Your Accuracy Cone Expands. The less the better.",
+            "text": "Accuracy Cone Growth",
+            "className": "title"
+          },
+          {
+            "text": ", -[?]% Recoil Yaw (Horizontal Recoil)"
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "While Crouched:\n 30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\n\n<bold Effects are halved on Fusion Rifles. />\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: [?] Handling, [?] Stability, -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, -[?]% Recoil Yaw (Horizontal Recoil)"
-    }
+      "mainEditor": "While Crouched:\n 30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, -80% Recoil Yaw (Horizontal Recoil)\n\n<bold Effects are halved on Fusion Rifles. />\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: [?] Handling, [?] Stability, -[?]% Accuracy Cone Size, -[?]% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.]/>, -[?]% Recoil Yaw (Horizontal Recoil)"
+    },
+    "inLiveDatabase": true
   },
   "354401740": {
     "id": "354401740",
