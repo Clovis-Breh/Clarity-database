@@ -8415,7 +8415,7 @@
   "1866048759": {
     "id": "1866048759",
     "name": "Hip-Fire Grip",
-    "lastUpdate": 1650457469939,
+    "lastUpdate": 1650458754189,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
@@ -8515,8 +8515,90 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "If hipfiring:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "20% Increased:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "- Aim Assist Falloff Distance"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "- Reticle Stickiness Falloff Distance"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "- Damage Falloff Start and End Distance"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "15 Aim Assist"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "+2.7 degrees Precision Angle Threshold"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "-30% Accuracy Cone Size and ~30 Stability."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Damage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Stronger Effect."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "If hipfiring:\n\n20% Increased:\n- Aim Assist Falloff Distance\n- Reticle Stickiness Falloff Distance\n- Damage Falloff Start and End Distance\n15 Aim Assist\n+2.7 degrees Precision Angle Threshold\n-30% Accuracy Cone Size and ~30 Stability.\n\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\n\nEnhanced: Stronger Effect."
+      "mainEditor": "If hipfiring:\n\n20% Increased:\n- Aim Assist Falloff Distance\n- Reticle Stickiness Falloff Distance\n- Damage Falloff Start and End Distance\n15 Aim Assist\n+2.7 degrees Precision Angle Threshold\n-30% Accuracy Cone Size and ~30 Stability.\n\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\n\nEnhanced: Stronger Effect.",
+      "secondaryEditor": "If hipfiring:\r\n\r\n20% Increased:\r\n- Aim Assist Falloff Distance\r\n- Reticle Stickiness Falloff Distance\r\n- Damage Falloff Start and End Distance\r\n15 Aim Assist\r\n+2.7 degrees Precision Angle Threshold\r\n-30% Accuracy Cone Size and ~30 Stability.\r\n\r\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\r\n\r\nEnhanced: Stronger Effect."
     },
     "inLiveDatabase": true
   },
