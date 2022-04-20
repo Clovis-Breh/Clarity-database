@@ -15814,14 +15814,14 @@
   "3400784728": {
     "id": "3400784728",
     "name": "Triple Tap",
-    "lastUpdate": 1650200602133,
+    "lastUpdate": 1650461632839,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Scoring 3 Precision Hits generates 1 Ammo to Magazine."
+            "text": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine."
           }
         ]
       },
@@ -15838,15 +15838,42 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Timer between Precision Hits increased by [?] seconds, up to a maximum of [?] seconds."
+            "text": "Enhanced: Timer between Precision Hits is increased."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Precision Hit counter is reset if no precision hits are scored within 2 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Timer between Precision Hits is increased."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Scoring 3 Precision Hits generates 1 Ammo to Magazine.\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\n\nEnhanced: Timer between Precision Hits increased by [?] seconds, up to a maximum of [?] seconds."
-    }
+      "mainEditor": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine.\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\n\nEnhanced: Timer between Precision Hits is increased.",
+      "secondaryEditor": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased."
+    },
+    "inLiveDatabase": true
   },
   "3418782618": {
     "id": "3418782618",
