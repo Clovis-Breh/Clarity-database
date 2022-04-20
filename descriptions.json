@@ -15657,13 +15657,13 @@
   "3927722942": {
     "id": "3927722942",
     "name": "Lasting Impression",
-    "lastUpdate": 1650200480371,
+    "lastUpdate": 1650458000880,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "passive": {
           "multiplier": [
-            20
+            1.2
           ]
         }
       }
@@ -15688,10 +15688,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage. Effectively 20% increased damage.\n\nEnhanced: Passively grants 3 Blast Radius."
-    }
+    },
+    "inLiveDatabase": true
   },
   "3927963100": {
     "id": 3927963100,
