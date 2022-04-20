@@ -15631,7 +15631,7 @@
   "3800201097": {
     "id": 3800201097,
     "name": "Immovable Object",
-    "lastUpdate": 1650457488556,
+    "lastUpdate": 1650458729820,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -15669,8 +15669,35 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While blocking and stationary:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "[?]% Additional Weapon Energy on Hit."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Increases Energy Bonus on Hit."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While blocking and stationary:\r\n[?]% Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit."
+      "mainEditor": "While blocking and stationary:\r\n[?]% Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit.",
+      "secondaryEditor": "While blocking and stationary:\r\n[?]% Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit."
     },
     "inLiveDatabase": true
   },
