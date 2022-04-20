@@ -5983,19 +5983,27 @@
   "1281216113": {
     "id": 1281216113,
     "name": "Stunning Recovery",
-    "lastUpdate": 1649873395176,
+    "lastUpdate": 1650463203683,
     "updatedBy": "Fading-Shadow",
-    "stats": {
-      "reload": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      }
-    },
     "type": "weaponOriginTrait",
     "description": [
+      {
+        "lineText": [
+          {
+            "text": "Stunning a Champion "
+          },
+          {
+            "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
+            "text": "refreshes",
+            "className": "title"
+          },
+          {
+            "text": " X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
       {
         "lineText": [
           {
@@ -6005,8 +6013,10 @@
       }
     ],
     "editor": {
-      "mainEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
-    }
+      "mainEditor": "Stunning a Champion <title refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds.",
+      "secondaryEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
+    },
+    "inLiveDatabase": true
   },
   "1331592343": {
     "id": "1331592343",
