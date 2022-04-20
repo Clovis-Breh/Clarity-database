@@ -12043,13 +12043,13 @@
   "2652708987": {
     "id": 2652708987,
     "name": "Successful Warm-Up",
-    "lastUpdate": 1650234722554,
+    "lastUpdate": 1650460673418,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDraw": {
         "active": {
           "multiplier": [
-            -37.5
+            62.5
           ]
         }
       }
@@ -12069,13 +12069,33 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Kills increase Charge Rate/Draw Speed for 6 seconds. Each kill while the perk is active adds an additional 5 seconds."
+            "text": "Enhanced: Added time from kills is increased to 5 seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Kills increase Charge Rate/Draw Speed by 37.5% for 6 seconds. Each kill while the perk is active adds an additional 4 seconds up to 20 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Added time from kills is increased to 5 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Kills increase Charge Rate/Draw Speed by 37.5% for 6 seconds. Each kill while the perk is active adds an additional 4 seconds up to 20 seconds.\r\n\r\nEnhanced: Kills increase Charge Rate/Draw Speed for 6 seconds. Each kill while the perk is active adds an additional 5 seconds."
+      "mainEditor": "Kills increase Charge Rate/Draw Speed by 37.5% for 6 seconds. Each kill while the perk is active adds an additional 4 seconds up to 20 seconds.\r\n\r\nEnhanced: Added time from kills is increased to 5 seconds.",
+      "secondaryEditor": "Kills increase Charge Rate/Draw Speed by 37.5% for 6 seconds. Each kill while the perk is active adds an additional 4 seconds up to 20 seconds.\r\n\r\nEnhanced: Added time from kills is increased to 5 seconds."
     },
     "inLiveDatabase": true
   },
