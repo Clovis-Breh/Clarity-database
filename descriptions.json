@@ -15375,7 +15375,7 @@
   "3350417888": {
     "id": "3350417888",
     "name": "Sympathetic Arsenal",
-    "lastUpdate": 1650200583158,
+    "lastUpdate": 1650461021312,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -15435,15 +15435,52 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Reload Timer increased by [?] seconds, up to a maximum of [?] seconds."
+            "text": "Enhanced: Reload Timer is increased."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Reload within 6 seconds of a Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes stowed weapons."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 18 Reload Speed."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Reload Timer is increased."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Reload within 6 seconds of a Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> stowed weapons.\n\nPassively grants 18 Reload Speed.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Reload Timer increased by [?] seconds, up to a maximum of [?] seconds."
-    }
+      "mainEditor": "On Reload within 6 seconds of a Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> stowed weapons.\n\nPassively grants 18 Reload Speed.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Reload Timer is increased.",
+      "secondaryEditor": "On Reload within 6 seconds of a Weapon Kill:\r\nRefreshes stowed weapons.\r\n\r\nPassively grants 18 Reload Speed.\r\n\r\nEnhanced: Reload Timer is increased."
+    },
+    "inLiveDatabase": true
   },
   "3363267119": {
     "id": 3363267119,
