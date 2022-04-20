@@ -10641,7 +10641,7 @@
   "2209918983": {
     "id": 2209918983,
     "name": "Turnabout",
-    "lastUpdate": 1650200605326,
+    "lastUpdate": 1650461763064,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -10651,9 +10651,6 @@
             "text": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:"
           }
         ]
-      },
-      {
-        "className": "spacer"
       },
       {
         "lineText": [
@@ -10673,10 +10670,37 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "[?]HP Overshield for 10 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Increases the Overshield duration to 11.4 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n\r\n[?]HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds."
-    }
+      "mainEditor": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n[?]HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds.",
+      "secondaryEditor": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n[?]HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds."
+    },
+    "inLiveDatabase": true
   },
   "2213355989": {
     "id": "2213355989",
