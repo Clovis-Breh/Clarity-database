@@ -6768,7 +6768,7 @@
   "1683379515": {
     "id": "1683379515",
     "name": "Disruption Break",
-    "lastUpdate": 1650200339652,
+    "lastUpdate": 1650454507797,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -6799,15 +6799,15 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Debuff Duration is increased by [?] seconds, to a maximum of [5.5+?] seconds."
+            "text": "Enhanced: Debuff Duration is increased."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "On Elemental/Barrier or Guardian Shield Break:\nWeakens the enemy, increasing Kinetic Damage by 50% for 5.5 seconds.\nStacks with other Debuffs, as it is a Weapon Perk.\n\nEnhanced: Debuff Duration is increased by [?] seconds, to a maximum of [5.5+?] seconds."
-    }
+      "mainEditor": "On Elemental/Barrier or Guardian Shield Break:\nWeakens the enemy, increasing Kinetic Damage by 50% for 5.5 seconds.\nStacks with other Debuffs, as it is a Weapon Perk.\n\nEnhanced: Debuff Duration is increased."
+    },
+    "inLiveDatabase": true
   },
   "1685431615": {
     "id": "1685431615",
