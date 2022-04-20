@@ -4930,7 +4930,7 @@
   "1264398905": {
     "id": "1264398905",
     "name": "Celerity",
-    "lastUpdate": 1650200257709,
+    "lastUpdate": 1650454010394,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -5000,6 +5000,22 @@
             "className": "formula"
           }
         ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While Last Guardian Standing:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS."
+          }
+        ]
       },
       {
         "className": "spacer"
@@ -5012,10 +5028,11 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "While Last Guardian Standing:\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nPassively grants 18 Handling and 18 Reload Speed"
-    }
+      "mainEditor": "While Last Guardian Standing:\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />",
+      "secondaryEditor": "While Last Guardian Standing:\r\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\r\n\r\nPassively grants 18 Handling and 18 Reload Speed"
+    },
+    "inLiveDatabase": true
   },
   "1275731761": {
     "id": "1275731761",
