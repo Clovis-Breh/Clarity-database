@@ -13160,7 +13160,7 @@
   "3337692349": {
     "id": 3337692349,
     "name": "Mulligan",
-    "lastUpdate": 1650200486683,
+    "lastUpdate": 1650458063184,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "aimAssist": {
@@ -13183,7 +13183,7 @@
       {
         "lineText": [
           {
-            "text": "20% Chance to generate 1 Ammo to Magazine."
+            "text": "20% Chance to refund 1 Ammo to the Magazine."
           }
         ]
       },
@@ -13198,10 +13198,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
-      "mainEditor": "On Miss:\r\n20% Chance to generate 1 Ammo to Magazine.\r\n\r\nEnhanced: Chance to generate ammo increased to [?] (Possibly 25%)"
-    }
+      "mainEditor": "On Miss:\r\n20% Chance to refund 1 Ammo to the Magazine.\r\n\r\nEnhanced: Chance to generate ammo increased to [?] (Possibly 25%)"
+    },
+    "inLiveDatabase": true
   },
   "3347978672": {
     "id": 3347978672,
