@@ -69,17 +69,17 @@
   "11612903": {
     "id": "11612903",
     "name": "Adrenaline Junkie",
-    "lastUpdate": 1649942594475,
+    "lastUpdate": 1650452052404,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
         "active": {
           "multiplier": [
-            6.6,
-            13.2,
-            20,
-            26.6,
-            33
+            1.066,
+            1.132,
+            1.2,
+            1.266,
+            1.33
           ]
         }
       },
@@ -207,10 +207,10 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
     "editor": {
       "mainEditor": "On Weapon or Grenade Kill:\n20 Handling and a Stacking Damage Increase for 4.5 seconds.\nBuff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks         |b 1x  |b 2x   |b 3x |b 4x   |b 5x\n|b Damage Increase| 6.6% | 13.2% | 20% | 26.6% | 33% <background/>\n<$>\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5 seconds."
-    }
+    },
+    "inLiveDatabase": true
   },
   "25606670": {
     "id": "25606670",
