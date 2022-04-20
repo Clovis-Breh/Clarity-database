@@ -9655,7 +9655,7 @@
     "name": "Overflowing Light",
     "itemId": 1341951177,
     "itemName": "Heart of Inmost Light",
-    "lastUpdate": 1650211938235,
+    "lastUpdate": 1650484754256,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -9665,15 +9665,22 @@
             "text": "Ability use grants Empowered for other abilities for "
           },
           {
-            "text": " 11",
+            "text": " 10 ",
             "className": "pve"
           },
           {
-            "text": " [6]",
+            "text": " [5] ",
             "className": "pvp"
           },
           {
-            "text": " seconds, depending on the Ability used."
+            "text": " seconds, depending on the Ability used. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "e.g.: Barricade -> Empowered Melee and Empowered Grenade."
           }
         ]
       },
@@ -9690,30 +9697,33 @@
       {
         "lineText": [
           {
-            "text": " 5% ",
-            "className": "pve"
-          },
-          {
-            "text": " [2.5%] ",
-            "className": "pvp"
-          },
-          {
-            "text": " Melee and Grenade Energy per Second."
+            "text": "Empowered Melee: 10% | 20% Increased damage."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": " 4% ",
+            "text": " 400% ",
             "className": "pve"
           },
           {
-            "text": " [2%] ",
+            "text": " [100%] ",
             "className": "pvp"
           },
           {
-            "text": " Barricade Energy per Second."
+            "text": " || "
+          },
+          {
+            "text": " 800% ",
+            "className": "pve"
+          },
+          {
+            "text": " [200%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Additional Base (T3) Melee Regeneration Rate."
           }
         ]
       },
@@ -9723,29 +9733,8 @@
       {
         "lineText": [
           {
-            "text": "Empowered Melee:"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "10% | 20% Increased damage."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Empowered Grenade:"
-          }
-        ]
-      },
-      {
-        "lineText": [
+            "text": "Empowered Grenade: "
+          },
           {
             "text": " 20% ",
             "className": "pve"
@@ -9755,10 +9744,7 @@
             "className": "pvp"
           },
           {
-            "text": " || "
-          },
-          {
-            "text": " 35% ",
+            "text": " 35 ",
             "className": "pve"
           },
           {
@@ -9771,25 +9757,70 @@
         ]
       },
       {
+        "lineText": [
+          {
+            "text": " 400% ",
+            "className": "pve"
+          },
+          {
+            "text": " [100%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " || "
+          },
+          {
+            "text": " 800% ",
+            "className": "pve"
+          },
+          {
+            "text": " [200%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Additional Base (T3) Grenade Regeneration Rate."
+          }
+        ]
+      },
+      {
         "className": "spacer"
       },
       {
         "lineText": [
           {
-            "text": "Empowered Barricade:"
+            "text": "Empowered Barricade: X% | Y% Increased HP."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "X% | Y% Increased HP."
+            "text": " 150% ",
+            "className": "pve"
+          },
+          {
+            "text": " [37.5%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " || "
+          },
+          {
+            "text": " 300% ",
+            "className": "pve"
+          },
+          {
+            "text": " [75%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " Additional Base (T3) Class Regeneration Rate."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Ability use grants Empowered for other abilities for <pve 11/> <pvp [6]/> seconds, depending on the Ability used.\n\nWhile Empowered:\n<pve 5% /> <pvp [2.5%] /> Melee and Grenade Energy per Second.\n<pve 4% /> <pvp [2%] /> Barricade Energy per Second.\n\nEmpowered Melee:\n10% | 20% Increased damage.\n\nEmpowered Grenade:\n<pve 20% /><pvp [10%] /> || <pve 35% /><pvp [20%] /> Increased damage.\n\nEmpowered Barricade:\nX% | Y% Increased HP."
+      "mainEditor": "Ability use grants Empowered for other abilities for <pve 10 /><pvp [5] /> seconds, depending on the Ability used. \ne.g.: Barricade -> Empowered Melee and Empowered Grenade.\n\nWhile Empowered:\nEmpowered Melee: 10% | 20% Increased damage.\n<pve 400% /><pvp [100%] /> || <pve 800% /><pvp [200%] /> Additional Base (T3) Melee Regeneration Rate.\n\nEmpowered Grenade: <pve 20% /><pvp [10%] /> | <pve 35 /><pvp [20%] /> Increased damage.\n<pve 400% /><pvp [100%] /> || <pve 800% /><pvp [200%] /> Additional Base (T3) Grenade Regeneration Rate.\n\nEmpowered Barricade: X% | Y% Increased HP.\n<pve 150% /><pvp [37.5%] /> || <pve 300% /><pvp [75%] /> Additional Base (T3) Class Regeneration Rate."
     },
     "inLiveDatabase": true
   },
