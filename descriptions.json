@@ -8442,17 +8442,8 @@
   "1749209109": {
     "id": 1749209109,
     "name": "Relentless Strikes",
-    "lastUpdate": 1650459837911,
+    "lastUpdate": 1650459840535,
     "updatedBy": "Fading-Shadow",
-    "stats": {
-      "damage": {
-        "active": {
-          "multiplier": [
-            0
-          ]
-        }
-      }
-    },
     "type": "weaponPerk",
     "description": [
       {
