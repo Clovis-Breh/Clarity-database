@@ -10134,7 +10134,7 @@
   "2172504645": {
     "id": 2172504645,
     "name": "Sleight of Hand",
-    "lastUpdate": 1650200556054,
+    "lastUpdate": 1650459997891,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -10151,7 +10151,7 @@
       {
         "lineText": [
           {
-            "text": "Each stack of Sleight of Hand grants [?] Handling, Reload Speed, and [?] Stability."
+            "text": "Each stack of Sleight of Hand grants Handling, Reload Speed, and Stability."
           }
         ]
       },
@@ -10161,15 +10161,45 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased by [?] seconds, to a maximum of [?] seconds."
+            "text": "Enhanced: Buff Duration is increased."
           }
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Weapon and Ability Kills made while this weapon is stowed grants a stack of Sleight of Hand. Effect becomes active upon readying."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each stack of Sleight of Hand grants Handling, Reload Speed, and Stability."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Weapon and Ability Kills made while this weapon is stowed grants a stack of Sleight of Hand. Effect becomes active upon readying.\r\n\r\nEach stack of Sleight of Hand grants [?] Handling, Reload Speed, and [?] Stability.\r\n\r\nEnhanced: Buff Duration is increased by [?] seconds, to a maximum of [?] seconds."
-    }
+      "mainEditor": "Weapon and Ability Kills made while this weapon is stowed grants a stack of Sleight of Hand. Effect becomes active upon readying.\r\n\r\nEach stack of Sleight of Hand grants Handling, Reload Speed, and Stability.\r\n\r\nEnhanced: Buff Duration is increased.",
+      "secondaryEditor": "Weapon and Ability Kills made while this weapon is stowed grants a stack of Sleight of Hand. Effect becomes active upon readying.\r\n\r\nEach stack of Sleight of Hand grants Handling, Reload Speed, and Stability.\r\n\r\nEnhanced: Buff Duration is increased."
+    },
+    "inLiveDatabase": true
   },
   "2192678014": {
     "id": "2192678014",
