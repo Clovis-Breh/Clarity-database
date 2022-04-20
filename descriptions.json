@@ -6988,7 +6988,7 @@
   "1536798515": {
     "id": 1536798515,
     "name": "Land Tank",
-    "lastUpdate": 1649872837424,
+    "lastUpdate": 1650462964978,
     "updatedBy": "Fading-Shadow",
     "type": "weaponOriginTrait",
     "description": [
@@ -7010,9 +7010,30 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Kills grant 10 Resilience and 5% Damage Resist against Combatants."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "5 second duration. Stacks up to 3 times."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Kills grant 10 Resilience and 5% Damage Resist against Combatants.\r\n\r\n5 second duration. Stacks up to 3 times."
-    }
+      "mainEditor": "Kills grant 10 Resilience and 5% Damage Resist against Combatants.\r\n\r\n5 second duration. Stacks up to 3 times.",
+      "secondaryEditor": "Kills grant 10 Resilience and 5% Damage Resist against Combatants.\r\n\r\n5 second duration. Stacks up to 3 times."
+    },
+    "inLiveDatabase": true
   },
   "1546637391": {
     "id": "1546637391",
