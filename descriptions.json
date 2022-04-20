@@ -4167,7 +4167,7 @@
   "1047830412": {
     "id": "1047830412",
     "name": "Full Choke",
-    "lastUpdate": 1650456083334,
+    "lastUpdate": 1650456095021,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -4184,13 +4184,13 @@
       {
         "lineText": [
           {
-            "text": "Reduces Precision Damage Multiplier."
+            "text": "Reduces Precision Damage Multiplier"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Minimally decreases pellet spread\r\n\r\nReduces Precision Damage Multiplier."
+      "mainEditor": "Minimally decreases pellet spread\r\n\r\nReduces Precision Damage Multiplier"
     },
     "inLiveDatabase": true
   },
