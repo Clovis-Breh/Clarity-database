@@ -19376,16 +19376,9 @@
   "4008116374": {
     "id": 4008116374,
     "name": "Suros Synergy",
-    "lastUpdate": 1649873506704,
+    "lastUpdate": 1650463250242,
     "updatedBy": "Fading-Shadow",
     "stats": {
-      "reload": {
-        "active": {
-          "stat": [
-            0
-          ]
-        }
-      },
       "handling": {
         "active": {
           "stat": [
@@ -19425,9 +19418,20 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds.\r\n\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />"
-    }
+      "mainEditor": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds.\r\n\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />",
+      "secondaryEditor": "Reloading grants 36 Handling and 20% Flinch Resistance for 6 seconds."
+    },
+    "inLiveDatabase": true
   },
   "4024170927": {
     "id": 4024170927,
