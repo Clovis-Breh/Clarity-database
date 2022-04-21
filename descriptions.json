@@ -346,18 +346,16 @@
   "47981717": {
     "id": "47981717",
     "name": "Opening Shot",
-    "lastUpdate": 1650460076375,
+    "lastUpdate": 1650572129537,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
         "active": {
           "stat": [
-            20,
             20
           ],
           "multiplier": [
-            1.05,
-            1
+            1.05
           ]
         }
       },
@@ -412,26 +410,6 @@
             "className": "formula"
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": " Shotguns do not receive the Damage Falloff Distance Increase.",
-            "className": "highlight_3"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "formulaText": "Shotgun-specific Range:",
-            "formula": "range_1",
-            "className": "formula"
-          }
-        ]
       }
     ],
     "simpleDescription": [
@@ -476,21 +454,11 @@
             "text": "-10% Accuracy Cone Growth."
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Shotguns do not receive the Damage Falloff Distance Increase."
-          }
-        ]
       }
     ],
     "editor": {
-      "mainEditor": "For the <title first bullet only [Even in the case of burst weapons. Only the first bullet of the burst is affected.] />, and 3.1s after not firing:\n20 Aim Assist, 20 Range, 5% Increased Damage Falloff Distance, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />.\n\n<formula In-Game Range: range_0 />\n\n<highlight_3 Shotguns do not receive the Damage Falloff Distance Increase./>\n<formula Shotgun-specific Range: range_1 />\n",
-      "secondaryEditor": "For the first bullet only, and after a 3.1s after not firing:\r\n20 Aim Assist\r\n20 Range\r\n5% Increased Damage Falloff Distance\r\n-5% Accuracy Cone\r\n-10% Accuracy Cone Growth.\r\n\r\nShotguns do not receive the Damage Falloff Distance Increase."
+      "mainEditor": "For the <title first bullet only [Even in the case of burst weapons. Only the first bullet of the burst is affected.] />, and 3.1s after not firing:\n20 Aim Assist, 20 Range, 5% Increased Damage Falloff Distance, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />.\n\n<formula In-Game Range: range_0 />\n",
+      "secondaryEditor": "For the first bullet only, and after a 3.1s after not firing:\r\n20 Aim Assist\r\n20 Range\r\n5% Increased Damage Falloff Distance\r\n-5% Accuracy Cone\r\n-10% Accuracy Cone Growth."
     },
     "inLiveDatabase": true
   },
