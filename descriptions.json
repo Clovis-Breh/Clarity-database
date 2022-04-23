@@ -873,7 +873,7 @@
     "name": "Peregrine Strike",
     "itemId": 2255796155,
     "itemName": "Peregrine Greaves",
-    "lastUpdate": 1650484564264,
+    "lastUpdate": 1650714411573,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -1022,7 +1022,7 @@
           },
           {
             "linkUrl": "https://d2clarity.page.link/combatant",
-            "linkText": "this shet",
+            "linkText": "this sheet",
             "className": "link"
           }
         ],
@@ -1030,7 +1030,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "<center/>Shoulder Charges deal increased damage if used midair.\n\n<center/>Minor\n<center/> <arc/> 155% |<solar/>190% | <void/>310%\n<center/>Elite\n<center/><arc/>200% |<solar/>? | <void/>?\n<center/>Miniboss\n<center/><arc/>310% |<solar/>? | <void/>?\n<center/>Boss\n<center/><arc/>360% |<solar/>157% | <void/>165%\n\n<center/>For Combatant Classifications, check out <link https://d2clarity.page.link/combatant this shet/>"
+      "mainEditor": "<center/>Shoulder Charges deal increased damage if used midair.\n\n<center/>Minor\n<center/> <arc/> 155% |<solar/>190% | <void/>310%\n<center/>Elite\n<center/><arc/>200% |<solar/>? | <void/>?\n<center/>Miniboss\n<center/><arc/>310% |<solar/>? | <void/>?\n<center/>Boss\n<center/><arc/>360% |<solar/>157% | <void/>165%\n\n<center/>For Combatant Classifications, check out <link https://d2clarity.page.link/combatant this sheet/>"
     },
     "inLiveDatabase": true
   },
