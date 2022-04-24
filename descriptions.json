@@ -19891,7 +19891,7 @@
     "name": "Dreaded Visage",
     "itemId": "3883866764",
     "itemName": "Mask of the Quiet One",
-    "lastUpdate": 1650212324369,
+    "lastUpdate": 1650807422642,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -19920,8 +19920,35 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Heals up to Max Critical Health on Kill if Critical."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Generates 5% Barricade, Grenade, and Melee Energy every time you take damage."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "X second cooldown."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Heals up to Max Critical Health on Kill if Critical.\n\nGenerates 5% Barricade, Grenade, and Melee Energy every time you take damage.\nX second cooldown.\n"
+      "mainEditor": "Heals up to Max Critical Health on Kill if Critical.\n\nGenerates 5% Barricade, Grenade, and Melee Energy every time you take damage.\nX second cooldown.\n",
+      "secondaryEditor": "Heals up to Max Critical Health on Kill if Critical.\r\n\r\nGenerates 5% Barricade, Grenade, and Melee Energy every time you take damage.\r\nX second cooldown.\r\n"
     },
     "inLiveDatabase": true
   },
