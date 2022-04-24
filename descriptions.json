@@ -4638,13 +4638,13 @@
   "972757866": {
     "id": "972757866",
     "name": "Pulse Monitor",
-    "lastUpdate": 1650461869840,
+    "lastUpdate": 1650803724591,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
           "stat": [
-            45
+            50
           ]
         }
       },
@@ -4668,7 +4668,7 @@
       {
         "lineText": [
           {
-            "text": "While below 38 Shields:"
+            "text": "Immediately upon being reduced below 38 Shields:"
           }
         ]
       },
@@ -4680,7 +4680,7 @@
             "className": "title"
           },
           {
-            "text": " weapon, 45 Handling, 5% Faster Swap Speed."
+            "text": " weapon, 50 Handling, 5% Faster Swap Speed."
           }
         ]
       },
@@ -4727,14 +4727,14 @@
       {
         "lineText": [
           {
-            "text": "While <38 Shields:"
+            "text": "Immediately upon being reduced below 38 Shields:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Refreshes weapon, 45 Handling, 5% Faster Swap Speed."
+            "text": "Refreshes weapon, 50 Handling, 5% Faster Swap Speed."
           }
         ]
       },
@@ -4751,14 +4751,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Health Requirement is reduced and overflows the magazine."
+            "text": "Enhanced: Health Requirement reduced to [?] and overflows the magazine."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "While below 38 Shields:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> weapon, 45 Handling, 5% Faster Swap Speed.\n(Works even while stowed)\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Health Requirement reduced to [?] and overflows the magazine.",
-      "secondaryEditor": "While <38 Shields:\r\nRefreshes weapon, 45 Handling, 5% Faster Swap Speed.\r\n(Works even while stowed)\r\n\r\nEnhanced: Health Requirement is reduced and overflows the magazine."
+      "mainEditor": "Immediately upon being reduced below 38 Shields:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> weapon, 50 Handling, 5% Faster Swap Speed.\n(Works even while stowed)\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Health Requirement reduced to [?] and overflows the magazine.",
+      "secondaryEditor": "Immediately upon being reduced below 38 Shields:\r\nRefreshes weapon, 50 Handling, 5% Faster Swap Speed.\r\n(Works even while stowed)\r\n\r\nEnhanced: Health Requirement reduced to [?] and overflows the magazine."
     },
     "inLiveDatabase": true
   },
