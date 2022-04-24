@@ -14735,7 +14735,7 @@
   "3108830275": {
     "id": 3108830275,
     "name": "Unrelenting",
-    "lastUpdate": 1650461909641,
+    "lastUpdate": 1650804613647,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -14752,21 +14752,21 @@
       {
         "lineText": [
           {
-            "text": "Rank-And-File give ONE point."
+            "text": "Rank-And-File give 1 point."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Guardians give TWO points."
+            "text": "Guardians give 2 points."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Elites/Minibosses/Bosses give THREE points."
+            "text": "Elites/Minibosses/Bosses give 3 points."
           }
         ]
       },
@@ -14801,7 +14801,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Handling."
+            "text": "Enhanced: Passively grants 5 Handling."
           }
         ]
       }
@@ -14820,21 +14820,21 @@
       {
         "lineText": [
           {
-            "text": "Rank-And-File give ONE point."
+            "text": "Rank-And-File give 1 point."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Guardians give TWO points."
+            "text": "Guardians give 2 points."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Elites/Minibosses/Bosses give THREE points."
+            "text": "Elites/Minibosses/Bosses give 3 points."
           }
         ]
       },
@@ -14854,14 +14854,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Handling."
+            "text": "Enhanced: Passively grants 5 Handling."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points.\r\n\r\nRank-And-File give ONE point.\r\nGuardians give TWO points.\r\nElites/Minibosses/Bosses give THREE points.\r\n\r\nFor Combatant Classifications, check out <link https://d2clarity.page.link/combatant this link/>\r\n\r\nWeapon Kills must be within [?] seconds of each.\r\n\r\nEnhanced: Passively grants 4 Handling.",
-      "secondaryEditor": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points.\r\n\r\nRank-And-File give ONE point.\r\nGuardians give TWO points.\r\nElites/Minibosses/Bosses give THREE points.\r\n\r\nWeapon Kills must be within [?] seconds of each.\r\n\r\nEnhanced: Passively grants 4 Handling."
+      "mainEditor": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points.\r\n\r\nRank-And-File give 1 point.\r\nGuardians give 2 points.\r\nElites/Minibosses/Bosses give 3 points.\r\n\r\nFor Combatant Classifications, check out <link https://d2clarity.page.link/combatant this link/>\r\n\r\nWeapon Kills must be within [?] seconds of each.\r\n\r\nEnhanced: Passively grants 5 Handling.",
+      "secondaryEditor": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points.\r\n\r\nRank-And-File give 1 point.\r\nGuardians give 2 points.\r\nElites/Minibosses/Bosses give 3 points.\r\n\r\nWeapon Kills must be within [?] seconds of each.\r\n\r\nEnhanced: Passively grants 5 Handling."
     },
     "inLiveDatabase": true
   },
