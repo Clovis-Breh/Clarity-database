@@ -12342,7 +12342,7 @@
     "name": "Solar Rampart",
     "itemId": "2384488862",
     "itemName": "Khepri's Horn",
-    "lastUpdate": 1650212178980,
+    "lastUpdate": 1650807181489,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -12379,8 +12379,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Barricade Cast:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Unleashes a Solar Wave that returns back to the Barricade after 18.5 meters."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVP: Deals 100 damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Solar Kills refresh 25% of Class Ability Energy."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Barricade Cast:\nUnleashes a Solar Wave that returns back to the Barricade after 18.5 meters.\n<pvp Deals 100 damage. />\n\nSolar Kills refresh 25% of Class Ability Energy.\n"
+      "mainEditor": "On Barricade Cast:\nUnleashes a Solar Wave that returns back to the Barricade after 18.5 meters.\n<pvp Deals 100 damage. />\n\nSolar Kills refresh 25% of Class Ability Energy.\n",
+      "secondaryEditor": "On Barricade Cast:\r\nUnleashes a Solar Wave that returns back to the Barricade after 18.5 meters.\r\nPVP: Deals 100 damage.\r\n\r\nSolar Kills refresh 25% of Class Ability Energy.\r\n"
     },
     "inLiveDatabase": true
   },
