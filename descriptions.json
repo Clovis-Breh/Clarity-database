@@ -20568,7 +20568,7 @@
   "4252909580": {
     "id": "4252909580",
     "name": "Bottomless Grief",
-    "lastUpdate": 1650801786023,
+    "lastUpdate": 1650801795570,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -20609,21 +20609,11 @@
             "text": "Kills fully refresh Magazine."
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Refresh: Reload, but does not need animation and doesn't proc on-reload perks."
-          }
-        ]
       }
     ],
     "editor": {
       "mainEditor": "While Last Guardian Standing:\nKills fully <title refresh [Reload, but does not need animation and doesn't proc on-reload perks.] /> Magazine.",
-      "secondaryEditor": "While Last Guardian Standing:\r\nKills fully refresh Magazine.\r\n\r\nRefresh: Reload, but does not need animation and doesn't proc on-reload perks."
+      "secondaryEditor": "While Last Guardian Standing:\r\nKills fully refresh Magazine."
     },
     "inLiveDatabase": true
   },
