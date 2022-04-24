@@ -8696,7 +8696,7 @@
     "name": "Survival Well",
     "itemId": "1591207519",
     "itemName": "Crest of Alpha Lupi",
-    "lastUpdate": 1650211385402,
+    "lastUpdate": 1650806670208,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -8732,8 +8732,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Healing Pulse heals for the highest between 58 HP OR to 130HP over 12 meters."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Requires Line-of-Sight to allies."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Supers generate 1 extra Orb of Power."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies.\nHealing Pulse heals for the highest between 58 HP OR to 130HP over 12 meters.\nRequires Line-of-Sight to allies.\n\nSupers generate 1 extra Orb of Power."
+      "mainEditor": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies.\nHealing Pulse heals for the highest between 58 HP OR to 130HP over 12 meters.\nRequires Line-of-Sight to allies.\n\nSupers generate 1 extra Orb of Power.",
+      "secondaryEditor": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies.\r\nHealing Pulse heals for the highest between 58 HP OR to 130HP over 12 meters.\r\nRequires Line-of-Sight to allies.\r\n\r\nSupers generate 1 extra Orb of Power."
     },
     "inLiveDatabase": true
   },
