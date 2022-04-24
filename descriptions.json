@@ -19699,10 +19699,20 @@
     "name": "Cerebral Uplink",
     "itemId": 3381022970,
     "itemName": "Eye of Another World",
-    "lastUpdate": 1650484907012,
+    "lastUpdate": 1650806226491,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 15 Airborne Effectiveness"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
       {
         "lineText": [
           {
@@ -19716,13 +19726,43 @@
       {
         "lineText": [
           {
-            "text": "100% Additional Base (T3) Grenade/Melee/Class Regeneration Rate."
+            "text": "50% Additional Base Grenade/Melee/Class Regeneration Rate."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 15 Airborne Effectiveness"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Highlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "50% Additional Base Grenade/Melee/Class Regeneration Rate."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Highlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\n\n100% Additional Base (T3) Grenade/Melee/Class Regeneration Rate."
+      "mainEditor": "Passively grants 15 Airborne Effectiveness\n\nHighlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\n\n50% Additional Base Grenade/Melee/Class Regeneration Rate.",
+      "secondaryEditor": "Passively grants 15 Airborne Effectiveness\r\n\r\nHighlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\r\n\r\n50% Additional Base Grenade/Melee/Class Regeneration Rate."
     },
     "inLiveDatabase": true
   },
