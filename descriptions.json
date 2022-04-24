@@ -17885,7 +17885,7 @@
     "name": "Alchemical Etchings",
     "itemId": 4136768282,
     "itemName": "Lunafaction Boots",
-    "lastUpdate": 1650214309763,
+    "lastUpdate": 1650807275108,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -17954,8 +17954,56 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While inside a Rift or Well of Radiance:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "+100 Reload with 0.9x Duration Scale to all Guardians inside."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While inside an  Empowering Rift or Well of Radiance:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "2.35x to 1.98x Falloff Distance Increase."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "The higher your Range Stat, the lower the Multiplier."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "This is a multiplier to effective range."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While inside a Rift or Well of Radiance:\r\n+100 Reload with 0.9x Duration Scale to all Guardians inside.\r\n\r\nWhile inside an <bold Empowering/> Rift or Well of Radiance:\r\n2.35x to 1.98x Falloff Distance Increase.\r\nThe higher your Range Stat, the lower the Multiplier.\r\nThis is a multiplier to effective range."
+      "mainEditor": "While inside a Rift or Well of Radiance:\r\n+100 Reload with 0.9x Duration Scale to all Guardians inside.\r\n\r\nWhile inside an <bold Empowering/> Rift or Well of Radiance:\r\n2.35x to 1.98x Falloff Distance Increase.\r\nThe higher your Range Stat, the lower the Multiplier.\r\nThis is a multiplier to effective range.",
+      "secondaryEditor": "While inside a Rift or Well of Radiance:\r\n+100 Reload with 0.9x Duration Scale to all Guardians inside.\r\n\r\nWhile inside an  Empowering Rift or Well of Radiance:\r\n2.35x to 1.98x Falloff Distance Increase.\r\nThe higher your Range Stat, the lower the Multiplier.\r\nThis is a multiplier to effective range."
     },
     "inLiveDatabase": true
   },
