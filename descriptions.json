@@ -12769,7 +12769,7 @@
     "name": "Double Dodge",
     "itemId": 1474735277,
     "itemName": "The Sixth Coyote",
-    "lastUpdate": 1650210885411,
+    "lastUpdate": 1650807694820,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -12781,8 +12781,18 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grants an extra Dodge Charge."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grants an extra Dodge Charge."
+      "mainEditor": "Grants an extra Dodge Charge.",
+      "secondaryEditor": "Grants an extra Dodge Charge."
     },
     "inLiveDatabase": true
   },
