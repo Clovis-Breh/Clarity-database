@@ -9771,7 +9771,7 @@
     "name": "Assault Barricade",
     "itemId": 1190497097,
     "itemName": "Citan's Ramparts",
-    "lastUpdate": 1650211333860,
+    "lastUpdate": 1650806657766,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -9818,8 +9818,52 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Alters Towering Barricade"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Assault Barricade has reduced health and duration, but enables you and your allies to shoot through it."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Barricade Stats"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVP: 600HP -> 350HP"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20 seconds -> 10 seconds "
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Alters Towering Barricade\r\n\r\nAssault Barricade has reduced health and duration, but enables you and your allies to shoot through it.\r\n\r\nBarricade Stats\r\n<pvp 600HP -> 350HP />\r\n20 seconds -> 10 seconds "
+      "mainEditor": "Alters Towering Barricade\r\n\r\nAssault Barricade has reduced health and duration, but enables you and your allies to shoot through it.\r\n\r\nBarricade Stats\r\n<pvp 600HP -> 350HP />\r\n20 seconds -> 10 seconds ",
+      "secondaryEditor": "Alters Towering Barricade\r\n\r\nAssault Barricade has reduced health and duration, but enables you and your allies to shoot through it.\r\n\r\nBarricade Stats\r\nPVP: 600HP -> 350HP\r\n20 seconds -> 10 seconds "
     },
     "inLiveDatabase": true
   },
