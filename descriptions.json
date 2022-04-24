@@ -2421,7 +2421,7 @@
     "name": "Spring-Loaded Mounting",
     "itemId": 1734144409,
     "itemName": "Mechaneer's Tricksleeves",
-    "lastUpdate": 1650210182301,
+    "lastUpdate": 1650805058745,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -2441,6 +2441,16 @@
     },
     "type": "armorExotic",
     "description": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 50 Airborne Effectiveness, 100 Handling and 100 Reload Speed to Sidearms."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
       {
         "lineText": [
           {
@@ -2469,6 +2479,15 @@
             "text": "Refreshes sidearm magazine."
           }
         ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 50 Airborne Effectiveness, 100 Handling and 100 Reload Speed to Sidearms."
+          }
+        ]
       },
       {
         "className": "spacer"
@@ -2476,13 +2495,28 @@
       {
         "lineText": [
           {
-            "text": "100 Handling and Reload Speed to Sidearms."
+            "text": "Upon readying a sidearm while at Critical Health:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100% and 35% increased damage in PVE and PVP respectively until no longer critical."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Refreshes sidearm magazine."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Upon readying a sidearm while at Critical Health:\n<pve 100% /> <pvp [35%] /> increased damage until no longer critical.\nRefreshes sidearm magazine.\n\n100 Handling and Reload Speed to Sidearms.\n"
+      "mainEditor": "Passively grants 50 Airborne Effectiveness, 100 Handling and 100 Reload Speed to Sidearms.\n\nUpon readying a sidearm while at Critical Health:\n<pve 100% /> <pvp [35%] /> increased damage until no longer critical.\nRefreshes sidearm magazine.",
+      "secondaryEditor": "Passively grants 50 Airborne Effectiveness, 100 Handling and 100 Reload Speed to Sidearms.\r\n\r\nUpon readying a sidearm while at Critical Health:\r\n100% and 35% increased damage in PVE and PVP respectively until no longer critical.\r\nRefreshes sidearm magazine."
     },
     "inLiveDatabase": true
   },
