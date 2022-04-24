@@ -3396,7 +3396,7 @@
     "name": "Synapse Junctions",
     "itemId": 2766109872,
     "itemName": "Raiden Flux",
-    "lastUpdate": 1650210434437,
+    "lastUpdate": 1650807514298,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -3439,8 +3439,49 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While in Arc Staff:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Hits grant Synapse Junctions for 5 seconds. Stacks up to 3."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "x1 = 13.5% Increased damage and X% Slower Passive Super Drain"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "x2 = 28.8% Increased damage and X% Slower Passive Super Drain"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "x3 = 46.2% Increased damage and X% Slower Passive Super Drain"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While in Arc Staff:\nHits grant Synapse Junctions for 5 seconds. Stacks up to 3.\n\nx1 = 13.5% Increased damage and X% Slower Passive Super Drain\nx2 = 28.8% Increased damage and X% Slower Passive Super Drain\nx3 = 46.2% Increased damage and X% Slower Passive Super Drain\n"
+      "mainEditor": "While in Arc Staff:\nHits grant Synapse Junctions for 5 seconds. Stacks up to 3.\n\nx1 = 13.5% Increased damage and X% Slower Passive Super Drain\nx2 = 28.8% Increased damage and X% Slower Passive Super Drain\nx3 = 46.2% Increased damage and X% Slower Passive Super Drain\n",
+      "secondaryEditor": "While in Arc Staff:\r\nHits grant Synapse Junctions for 5 seconds. Stacks up to 3.\r\n\r\nx1 = 13.5% Increased damage and X% Slower Passive Super Drain\r\nx2 = 28.8% Increased damage and X% Slower Passive Super Drain\r\nx3 = 46.2% Increased damage and X% Slower Passive Super Drain\r\n"
     },
     "inLiveDatabase": true
   },
