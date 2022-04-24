@@ -11773,7 +11773,7 @@
     "name": "Firewalker",
     "itemId": "1453120846",
     "itemName": "The Path of Burning Steps",
-    "lastUpdate": 1650805543592,
+    "lastUpdate": 1650805560168,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -11794,18 +11794,7 @@
       {
         "lineText": [
           {
-            "text": "Max of "
-          },
-          {
-            "text": " 3",
-            "className": "pve"
-          },
-          {
-            "text": " [4] ",
-            "className": "pvp"
-          },
-          {
-            "text": " Stacks."
+            "text": "Max of 4 Stacks."
           }
         ]
       },
@@ -11926,7 +11915,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Solar Kills have a chance of granting 1 Stack of Firewalker [1 to 3 Kills, average of 2]\nBeing Frozen grants 1 Stack of Firewalker\nMax of <pve 3/><pvp [4] /> Stacks.\nFirewalker increases Weapon Damage depending on Stacks and lasts 10 seconds.\n<pve  1x = 20% | 2x = 25% | 3x = 35% | 4x = 40%/>\n<pvp  1x = 20% | 2x = 25% | 3x = 20% | 4x = 35% />\n\nSlow Stacks and Duration are halved.\nReceive no damage from Stasis Breakout.\nStasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage.",
+      "mainEditor": "Solar Kills have a chance of granting 1 Stack of Firewalker [1 to 3 Kills, average of 2]\nBeing Frozen grants 1 Stack of Firewalker\nMax of 4 Stacks.\nFirewalker increases Weapon Damage depending on Stacks and lasts 10 seconds.\n<pve  1x = 20% | 2x = 25% | 3x = 35% | 4x = 40%/>\n<pvp  1x = 20% | 2x = 25% | 3x = 20% | 4x = 35% />\n\nSlow Stacks and Duration are halved.\nReceive no damage from Stasis Breakout.\nStasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage.",
       "secondaryEditor": "Solar Kills have a chance of granting 1 Stack of Firewalker [1 to 3 Kills, average of 2]\r\nBeing Frozen grants 1 Stack of Firewalker\r\nMax of 4 Stacks.\r\nFirewalker increases Weapon Damage depending on Stacks and lasts 10 seconds.\r\n[PVE] 1x = 20% | 2x = 25% | 3x = 35% | 4x = 40%\r\n[PVP] 1x = 20% | 2x = 25% | 3x = 20% | 4x = 35%\r\n\r\nSlow Stacks and Duration are halved.\r\nReceive no damage from Stasis Breakout.\r\nStasis Breakout also creates a burst of Solar Energy with a 9m radius, dealing 105 damage.\r\n"
     },
     "inLiveDatabase": true
