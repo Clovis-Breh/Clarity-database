@@ -5466,7 +5466,7 @@
     "name": "Cobra Totemic",
     "itemId": 3627185503,
     "itemName": "Ophidian Aspect",
-    "lastUpdate": 1650214567024,
+    "lastUpdate": 1650806378219,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -5489,7 +5489,26 @@
       {
         "lineText": [
           {
-            "text": "+32 Reload and Handling to all weapons."
+            "text": "Passively grants 10 Airborne Effectiveness, 32 Reload and Handling to all weapons."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increased Lunge Distance (4.5 meters -> 6.5 meters)"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 10 Airborne Effectiveness, 32 Reload and Handling to all weapons."
           }
         ]
       },
@@ -5505,7 +5524,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "+32 Reload and Handling to all weapons.\n\nIncreased Lunge Distance (4.5 meters -> 6.5 meters)"
+      "mainEditor": "Passively grants 10 Airborne Effectiveness, 32 Reload and Handling to all weapons.\n\nIncreased Lunge Distance (4.5 meters -> 6.5 meters)",
+      "secondaryEditor": "Passively grants 10 Airborne Effectiveness, 32 Reload and Handling to all weapons.\r\n\r\nIncreased Lunge Distance (4.5 meters -> 6.5 meters)"
     },
     "inLiveDatabase": true
   },
