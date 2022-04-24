@@ -3328,7 +3328,7 @@
     "name": "Probability Matrix",
     "itemId": "903984858",
     "itemName": "Lucky Raspberry",
-    "lastUpdate": 1650210098360,
+    "lastUpdate": 1650807268418,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -3350,8 +3350,28 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Additive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Arcbolt Grenades chain up to 4 times (from 3)"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Additive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability\n\nArcbolt Grenades chain up to 4 times (from 3)\n"
+      "mainEditor": "Additive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability\n\nArcbolt Grenades chain up to 4 times (from 3)\n",
+      "secondaryEditor": "Additive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability\r\n\r\nArcbolt Grenades chain up to 4 times (from 3)\r\n"
     },
     "inLiveDatabase": true
   },
