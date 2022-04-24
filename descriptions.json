@@ -13336,7 +13336,7 @@
     "name": "Nightmare Fuel",
     "itemId": "1688602431",
     "itemName": "Sealed Ahamkara Grasps",
-    "lastUpdate": 1650210650782,
+    "lastUpdate": 1650805268421,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -13351,7 +13351,23 @@
             "className": "title"
           },
           {
-            "text": " magazine for your equipped weapon."
+            "text": " magazine for your equipped weapon and grant 50 Airborne Effectiveness for 5 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "7 second cooldown."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Melee Hits refresh the magazine of your equipped weapon and grant 50 Airborne Effectiveness for 5 seconds."
           }
         ]
       },
@@ -13364,7 +13380,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Melee Hits <title refresh [Reload, but does not need animation and doesn't proc on-reload perks.] /> magazine for your equipped weapon.\n7 second cooldown.\n"
+      "mainEditor": "Melee Hits <title refresh [Reload, but does not need animation and doesn't proc on-reload perks.] /> magazine for your equipped weapon and grant 50 Airborne Effectiveness for 5 seconds.\n7 second cooldown.\n",
+      "secondaryEditor": "Melee Hits refresh the magazine of your equipped weapon and grant 50 Airborne Effectiveness for 5 seconds.\r\n7 second cooldown."
     },
     "inLiveDatabase": true
   },
