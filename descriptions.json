@@ -15486,7 +15486,7 @@
     "name": "Warlord's Sigil",
     "itemId": 3844826443,
     "itemName": "Winter's Guile",
-    "lastUpdate": 1650216697974,
+    "lastUpdate": 1650807844324,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -15522,8 +15522,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grants Warlord's Sigil on Melee Kill"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Warlord's Sigil lasts 5 seconds and grants Bonus Melee Damage"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bonus Melee Damage:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "130% | 260% | 390% | 520% | 650%"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grants Warlord's Sigil on Melee Kill\r\nWarlord's Sigil lasts 5 seconds and grants Bonus Melee Damage\r\n\r\nBonus Melee Damage:\r\n130% | 260% | 390% | 520% | 650%"
+      "mainEditor": "Grants Warlord's Sigil on Melee Kill\r\nWarlord's Sigil lasts 5 seconds and grants Bonus Melee Damage\r\n\r\nBonus Melee Damage:\r\n130% | 260% | 390% | 520% | 650%",
+      "secondaryEditor": "Grants Warlord's Sigil on Melee Kill\r\nWarlord's Sigil lasts 5 seconds and grants Bonus Melee Damage\r\n\r\nBonus Melee Damage:\r\n130% | 260% | 390% | 520% | 650%"
     },
     "inLiveDatabase": true
   },
