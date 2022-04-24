@@ -1125,17 +1125,17 @@
   "247725512": {
     "id": "247725512",
     "name": "Rapid Hit",
-    "lastUpdate": 1650459606313,
+    "lastUpdate": 1650804036322,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
           "stat": [
             5,
-            27,
-            32,
-            40,
-            54
+            30,
+            35,
+            45,
+            60
           ],
           "multiplier": [
             0.985,
@@ -1150,10 +1150,10 @@
         "active": {
           "stat": [
             2,
-            11,
-            13,
-            17,
-            22
+            12,
+            14,
+            18,
+            25
           ]
         }
       }
@@ -1223,10 +1223,10 @@
                 "className": "bold"
               },
               {
-                "text": "11"
+                "text": "12"
               },
               {
-                "text": "27"
+                "text": "30"
               },
               {
                 "text": "0.970x"
@@ -1244,10 +1244,10 @@
                 "className": "bold"
               },
               {
-                "text": "13"
+                "text": "14"
               },
               {
-                "text": "32"
+                "text": "35"
               },
               {
                 "text": "0.955x"
@@ -1266,10 +1266,10 @@
                 "className": "bold"
               },
               {
-                "text": "17"
+                "text": "18"
               },
               {
-                "text": "40"
+                "text": "45"
               },
               {
                 "text": "0.940x"
@@ -1287,10 +1287,10 @@
                 "className": "bold"
               },
               {
-                "text": "22"
+                "text": "25"
               },
               {
-                "text": "54"
+                "text": "60"
               },
               {
                 "text": "0.925x"
@@ -1328,7 +1328,7 @@
       {
         "lineText": [
           {
-            "text": "> 5 | 27 | 32 | 40 | 54 Reload Speed Stat"
+            "text": "> 5 | 30 | 35 | 45 | 60 Reload Speed Stat"
           }
         ]
       },
@@ -1342,7 +1342,7 @@
       {
         "lineText": [
           {
-            "text": "> 2 | 11 | 13 | 17 | 22 Stability for 2 seconds."
+            "text": "> 2 | 12 | 14 | 18 | 25 Stability for 2 seconds."
           }
         ]
       },
@@ -1358,8 +1358,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n| Stack| Stability| Reload Stat| <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] />| Reload Time <bold/>\n|b 1x    | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n|b 2x    | 11        | 27          | 0.970x              | <formula reload_1 />\n|b 3x    | 13        | 32          | 0.955x              | <formula reload_2 /><background/>\n|b 4x    | 17        | 40          | 0.940x              | <formula reload_3 />\n|b 5x    | 22        | 54          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect.",
-      "secondaryEditor": "Precision Hits give Rapid Hit Stacks, granting:\r\n> 5 | 27 | 32 | 40 | 54 Reload Speed Stat\r\n> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n> 2 | 11 | 13 | 17 | 22 Stability for 2 seconds.\r\n\r\nEnhanced: Stronger Effect."
+      "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n| Stack| Stability| Reload Stat| <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] />| Reload Time <bold/>\n|b 1x    | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n|b 2x    | 12        | 30          | 0.970x              | <formula reload_1 />\n|b 3x    | 14        | 35          | 0.955x              | <formula reload_2 /><background/>\n|b 4x    | 18        | 45          | 0.940x              | <formula reload_3 />\n|b 5x    | 25        | 60          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect.",
+      "secondaryEditor": "Precision Hits give Rapid Hit Stacks, granting:\r\n> 5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n> 2 | 12 | 14 | 18 | 25 Stability for 2 seconds.\r\n\r\nEnhanced: Stronger Effect."
     },
     "inLiveDatabase": true
   },
