@@ -3756,7 +3756,7 @@
     "name": "Light Shift",
     "itemId": 1619425569,
     "itemName": "Mask of Bakris",
-    "lastUpdate": 1650210137238,
+    "lastUpdate": 1650807416752,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -3813,8 +3813,59 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Stasis Subclass Only"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Replaces Dodge with Shift."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Shift has a distance of 10 meters, and renders you completely invisible except for a trail for the duration of the shift."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Dodging grants Light Shift buff for 10 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVE: Light Shift grants 10% increased damage to Slowed/Frozen targets, as well as granting 10% increased damage to Arc Weapons."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Dodge does not recharge while Light Shift buff is active."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "<stasis/>Stasis Subclass Only\nReplaces Dodge with Shift.\nShift has a distance of 10 meters, and renders you completely invisible except for a trail for the duration of the shift.\n\nDodging grants Light Shift buff for 10 seconds.\n<pve Light Shift grants 10% increased damage to Slowed/Frozen targets, as well as granting 10% increased damage to Arc Weapons. />\n\nDodge does not recharge while Light Shift buff is active.\n"
+      "mainEditor": "<stasis/>Stasis Subclass Only\nReplaces Dodge with Shift.\nShift has a distance of 10 meters, and renders you completely invisible except for a trail for the duration of the shift.\n\nDodging grants Light Shift buff for 10 seconds.\n<pve Light Shift grants 10% increased damage to Slowed/Frozen targets, as well as granting 10% increased damage to Arc Weapons. />\n\nDodge does not recharge while Light Shift buff is active.\n",
+      "secondaryEditor": "Stasis Subclass Only\r\nReplaces Dodge with Shift.\r\nShift has a distance of 10 meters, and renders you completely invisible except for a trail for the duration of the shift.\r\n\r\nDodging grants Light Shift buff for 10 seconds.\r\nPVE: Light Shift grants 10% increased damage to Slowed/Frozen targets, as well as granting 10% increased damage to Arc Weapons.\r\n\r\nDodge does not recharge while Light Shift buff is active."
     },
     "inLiveDatabase": true
   },
