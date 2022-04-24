@@ -16266,6 +16266,47 @@
     },
     "inLiveDatabase": true
   },
+  "2788909693": {
+    "id": 2788909693,
+    "name": "Boss Spec",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809682825,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            1.0777
+          ]
+        }
+      }
+    },
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "7.77% Damage Increase against Bosses and Vehicles."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "7.77% Damage Increase against Bosses and Vehicles."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "7.77% Damage Increase against Bosses and Vehicles.",
+      "secondaryEditor": "7.77% Damage Increase against Bosses and Vehicles."
+    },
+    "inLiveDatabase": true
+  },
   "2799418574": {
     "id": "2799418574",
     "name": "Rites of Ember",
