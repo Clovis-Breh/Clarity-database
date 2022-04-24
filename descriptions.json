@@ -8832,7 +8832,7 @@
   "1774574192": {
     "id": "1774574192",
     "name": "Osmosis",
-    "lastUpdate": 1650458621841,
+    "lastUpdate": 1650803595618,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -8849,7 +8849,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Handling."
+            "text": "Enhanced: Passively grants 5 Handling."
           }
         ]
       }
@@ -8868,14 +8868,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Handling."
+            "text": "Enhanced: Passively grants 5 Handling."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 4 Handling.",
-      "secondaryEditor": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 4 Handling."
+      "mainEditor": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 5 Handling.",
+      "secondaryEditor": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 5 Handling."
     },
     "inLiveDatabase": true
   },
