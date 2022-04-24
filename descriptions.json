@@ -11789,7 +11789,7 @@
   "2551157718": {
     "id": "2551157718",
     "name": "Box Breathing",
-    "lastUpdate": 1650453354851,
+    "lastUpdate": 1650801866016,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -11928,6 +11928,13 @@
         ]
       },
       {
+        "lineText": [
+          {
+            "text": "Rapid Fire & Adaptive Sniper = 31% | Linear Fusion = 33% | Aggressive Sniper = 37% | Scout Rifle = 66%"
+          }
+        ]
+      },
+      {
         "className": "spacer"
       },
       {
@@ -11940,7 +11947,7 @@
     ],
     "editor": {
       "mainEditor": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/<title Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame     |b Precision Damage Increase\n| Rapid Fire Sniper | 31% <background/>\n| Adaptive Sniper   | 31%\n| Aggressive Sniper | 37% <background/>\n| Linear Fusion     | 33%\n| Scout Rifle       | 66% <background/>\n<$>\n\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds.",
-      "secondaryEditor": "After being scoped-in for 1.5 seconds without firing:\r\nIncreased Range, improved Accuracy Cone Size/Growth, and variably increased Precision Damage for one shot.\r\n\r\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
+      "secondaryEditor": "After being scoped-in for 1.5 seconds without firing:\r\nIncreased Range, improved Accuracy Cone Size/Growth, and variably increased Precision Damage for one shot.\r\nRapid Fire & Adaptive Sniper = 31% | Linear Fusion = 33% | Aggressive Sniper = 37% | Scout Rifle = 66%\r\n\r\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
     },
     "inLiveDatabase": true
   },
