@@ -12203,6 +12203,38 @@
     },
     "inLiveDatabase": true
   },
+  "1885045197": {
+    "id": 1885045197,
+    "name": "Adept Draw Time",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650810233595,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "-40ms Draw Time"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "-40ms Draw Time"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "-40ms Draw Time",
+      "secondaryEditor": "-40ms Draw Time"
+    },
+    "inLiveDatabase": true
+  },
   "1885400500": {
     "id": 1885400500,
     "name": "Ricochet Rounds",
