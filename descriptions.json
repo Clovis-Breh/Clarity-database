@@ -69,14 +69,14 @@
   "11551321": {
     "id": 11551321,
     "name": "Iron Grip",
-    "lastUpdate": 1650458708178,
+    "lastUpdate": 1650803401420,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "18 Stability and -28 Reload Speed."
+            "text": "20 Stability and -30 Reload Speed."
           }
         ]
       }
@@ -85,14 +85,14 @@
       {
         "lineText": [
           {
-            "text": "18 Stability and -28 Reload Speed."
+            "text": "20 Stability and -30 Reload Speed."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "18 Stability and -28 Reload Speed.",
-      "secondaryEditor": "18 Stability and -28 Reload Speed."
+      "mainEditor": "20 Stability and -30 Reload Speed.",
+      "secondaryEditor": "20 Stability and -30 Reload Speed."
     },
     "inLiveDatabase": true
   },
