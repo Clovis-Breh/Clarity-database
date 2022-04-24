@@ -10267,7 +10267,7 @@
     "name": "Clenched Fist",
     "itemId": 2240152949,
     "itemName": "Stronghold",
-    "lastUpdate": 1650484467922,
+    "lastUpdate": 1650807607434,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -10310,8 +10310,49 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Maxes out Sword's Guard Resistance, Efficiency, and Endurance."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Perfectly timed blocks heal for 80(?) HP."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blocking Specifics:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Swords grant 90% Damage Resistance."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Sword Energy does not decay from blocking damage or holding guard."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Maxes out Sword's Guard Resistance, Efficiency, and Endurance.\r\nPerfectly timed blocks heal for 80(?) HP.\r\n\r\nBlocking Specifics:\r\nSwords grant 90% Damage Resistance.\r\nSword Energy does not decay from blocking damage or holding guard."
+      "mainEditor": "Maxes out Sword's Guard Resistance, Efficiency, and Endurance.\r\nPerfectly timed blocks heal for 80(?) HP.\r\n\r\nBlocking Specifics:\r\nSwords grant 90% Damage Resistance.\r\nSword Energy does not decay from blocking damage or holding guard.",
+      "secondaryEditor": "Maxes out Sword's Guard Resistance, Efficiency, and Endurance.\r\nPerfectly timed blocks heal for 80(?) HP.\r\n\r\nBlocking Specifics:\r\nSwords grant 90% Damage Resistance.\r\nSword Energy does not decay from blocking damage or holding guard."
     },
     "inLiveDatabase": true
   },
