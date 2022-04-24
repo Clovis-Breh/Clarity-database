@@ -15027,14 +15027,14 @@
   "3194351027": {
     "id": "3194351027",
     "name": "Explosive Light",
-    "lastUpdate": 1650458946912,
+    "lastUpdate": 1650802585134,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot."
+            "text": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and maxed Blast Radius. Max of 6. Consumes 1 Stack per Shot."
           }
         ]
       },
@@ -15044,7 +15044,14 @@
       {
         "lineText": [
           {
-            "text": "Grenade Launchers: 44% Increased damage and sets Blast Radius to 55(?)."
+            "text": "Grenade Launchers: 44% Increased damage"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Rocket Launchers: 25% Increased damage."
           }
         ]
       },
@@ -15054,17 +15061,7 @@
       {
         "lineText": [
           {
-            "text": "Rocket Launchers: 25% Increased damage and sets Blast Radius to 100(?)."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Enhanced: Passively grants 4 Velocity."
+            "text": "Enhanced: Passively grants 5 Velocity."
           }
         ]
       }
@@ -15073,7 +15070,7 @@
       {
         "lineText": [
           {
-            "text": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot."
+            "text": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and maxed Blast Radius. Max of 6. Consumes 1 Stack per Shot."
           }
         ]
       },
@@ -15083,7 +15080,14 @@
       {
         "lineText": [
           {
-            "text": "Grenade Launchers: 44% Increased damage and sets Blast Radius to 55(?)."
+            "text": "Grenade Launchers: 44% Increased damage"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Rocket Launchers: 25% Increased damage."
           }
         ]
       },
@@ -15093,24 +15097,14 @@
       {
         "lineText": [
           {
-            "text": "Rocket Launchers: 25% Increased damage and sets Blast Radius to 100(?)."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Enhanced: Passively grants 4 Velocity."
+            "text": "Enhanced: Passively grants 5 Velocity."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot.\n\nGrenade Launchers: 44% Increased damage and sets Blast Radius to 55(?).\n\nRocket Launchers: 25% Increased damage and sets Blast Radius to 100(?).\n\nEnhanced: Passively grants 4 Velocity.",
-      "secondaryEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup. Max of 6. Consumes 1 Stack per Shot.\r\n\r\nGrenade Launchers: 44% Increased damage and sets Blast Radius to 55(?).\r\n\r\nRocket Launchers: 25% Increased damage and sets Blast Radius to 100(?).\r\n\r\nEnhanced: Passively grants 4 Velocity."
+      "mainEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and maxed Blast Radius. Max of 6. Consumes 1 Stack per Shot.\n\nGrenade Launchers: 44% Increased damage\nRocket Launchers: 25% Increased damage.\n\nEnhanced: Passively grants 5 Velocity.",
+      "secondaryEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and maxed Blast Radius. Max of 6. Consumes 1 Stack per Shot.\r\n\r\nGrenade Launchers: 44% Increased damage\r\nRocket Launchers: 25% Increased damage.\r\n\r\nEnhanced: Passively grants 5 Velocity."
     },
     "inLiveDatabase": true
   },
