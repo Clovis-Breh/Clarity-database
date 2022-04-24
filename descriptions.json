@@ -595,6 +595,38 @@
     },
     "inLiveDatabase": true
   },
+  "117884138": {
+    "id": 117884138,
+    "name": "Adept Accuracy",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809944372,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Accuracy"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Accuracy"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+10 Accuracy",
+      "secondaryEditor": "+10 Accuracy"
+    },
+    "inLiveDatabase": true
+  },
   "124408337": {
     "id": "124408337",
     "name": "Headstone",
