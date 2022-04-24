@@ -4910,6 +4910,75 @@
     },
     "inLiveDatabase": true
   },
+  "744770875": {
+    "id": 744770875,
+    "name": "Adept Charge Time",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650810110696,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "chargeDraw": {
+        "passive": {
+          "stat": [
+            -40
+          ]
+        }
+      }
+    },
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "-40ms Charge Time"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Does not reduce damage, unlike Charge Time MW."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Does not display in the stats."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "-40ms Charge Time"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Does not reduce damage, unlike Charge Time MW."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Does not display in the stats."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "-40ms Charge Time\r\nDoes not reduce damage, unlike Charge Time MW.\r\nDoes not display in the stats.",
+      "secondaryEditor": "-40ms Charge Time\r\nDoes not reduce damage, unlike Charge Time MW.\r\nDoes not display in the stats."
+    },
+    "inLiveDatabase": true
+  },
   "806159697": {
     "id": "806159697",
     "name": "Trench Barrel",
