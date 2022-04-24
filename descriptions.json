@@ -7227,7 +7227,7 @@
     "name": "Devouring Rift",
     "itemId": 511888814,
     "itemName": "Secant Filaments",
-    "lastUpdate": 1650214818638,
+    "lastUpdate": 1650807537589,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -7263,8 +7263,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "If on Void Subclass:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Empowering Rift grants Devour."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Empowering Rift grants Overload Shot, allowing all weapons to disrupt on hit. (Weapons with Breaker Properties will not benefit from this.)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Does not work with Well of Radiance."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "If on Void Subclass:\r\nEmpowering Rift grants Devour.\r\n\r\nEmpowering Rift grants Overload Shot, allowing all weapons to disrupt on hit. (Weapons with Breaker Properties will not benefit from this.)\r\nDoes not work with Well of Radiance."
+      "mainEditor": "If on Void Subclass:\r\nEmpowering Rift grants Devour.\r\n\r\nEmpowering Rift grants Overload Shot, allowing all weapons to disrupt on hit. (Weapons with Breaker Properties will not benefit from this.)\r\nDoes not work with Well of Radiance.",
+      "secondaryEditor": "If on Void Subclass:\r\nEmpowering Rift grants Devour.\r\n\r\nEmpowering Rift grants Overload Shot, allowing all weapons to disrupt on hit. (Weapons with Breaker Properties will not benefit from this.)\r\nDoes not work with Well of Radiance."
     },
     "inLiveDatabase": true
   },
