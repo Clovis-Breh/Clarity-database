@@ -22990,14 +22990,14 @@
     "name": "Adept Icarus Grip",
     "itemId": "2563444729",
     "itemName": "ACD/0 Feedback Fence",
-    "lastUpdate": 1650810378224,
+    "lastUpdate": 1650810388087,
     "updatedBy": "Fading-Shadow",
     "type": "weaponMod",
     "description": [
       {
         "lineText": [
           {
-            "text": "Grants 15 Airborne Effectiveness"
+            "text": "+15 Airborne Effectiveness"
           }
         ]
       },
@@ -23013,7 +23013,7 @@
       {
         "lineText": [
           {
-            "text": "Grants 15 Airborne Effectiveness"
+            "text": "+15 Airborne Effectiveness"
           }
         ]
       },
@@ -23026,8 +23026,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Grants 15 Airborne Effectiveness\r\n+5 Handling",
-      "secondaryEditor": "Grants 15 Airborne Effectiveness\r\n+5 Handling"
+      "mainEditor": "+15 Airborne Effectiveness\r\n+5 Handling",
+      "secondaryEditor": "+15 Airborne Effectiveness\r\n+5 Handling"
     },
     "inLiveDatabase": true
   },
