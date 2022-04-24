@@ -13449,7 +13449,7 @@
     "name": "Relentless Tracker",
     "itemId": 896224899,
     "itemName": "Foetracer",
-    "lastUpdate": 1650804896925,
+    "lastUpdate": 1650806890604,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -13526,8 +13526,69 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Marks enemies for 5 seconds after hovering reticle near them for 1 second."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Mark persists through walls."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 20 Airborne Effectiveness"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "If Enemy is below 30% HP:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 1% increased damage per percent below 30%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "(Eg: 10% HP left -> 20% Damage Increase)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Damage Increase applies to both abilities and weapons."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Marks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nPassively grants 20 Airborne Effectiveness\n\nIf Enemy is below <pvp 30% HP />:\nGrants 1% increased damage per percent below 30%\n(Eg: <pvp 10% HP left /> -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons."
+      "mainEditor": "Marks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nPassively grants 20 Airborne Effectiveness\n\nIf Enemy is below <pvp 30% HP />:\nGrants 1% increased damage per percent below 30%\n(Eg: <pvp 10% HP left /> -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons.",
+      "secondaryEditor": "Marks enemies for 5 seconds after hovering reticle near them for 1 second.\r\nMark persists through walls.\r\n\r\nPassively grants 20 Airborne Effectiveness\r\n\r\nIf Enemy is below 30% HP:\r\nGrants 1% increased damage per percent below 30%\r\n(Eg: 10% HP left -> 20% Damage Increase)\r\n\r\nDamage Increase applies to both abilities and weapons."
     },
     "inLiveDatabase": true
   },
