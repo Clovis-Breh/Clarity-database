@@ -6362,7 +6362,7 @@
     "name": "Biotic Enhancements",
     "itemId": 241462142,
     "itemName": "Synthoceps",
-    "lastUpdate": 1650212962327,
+    "lastUpdate": 1650807628245,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -6420,8 +6420,62 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While Surrounded by 3+ enemies: Activates Biotic Enhancements"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Biotic Enhancements increases Melee and Super damage for 8 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "50% Super Damage Increase."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVE: 200% Increased Melee Damage."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVP: 100% Increased Melee Damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Melee Lunge Range to 7 meters."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While Surrounded by 3+ enemies: Activates Biotic Enhancements\n\nBiotic Enhancements increases Melee and Super damage for 8 seconds.\n\n50% Super Damage Increase.\n<pve 200% Increased Melee Damage. />\n<pvp 100% Increased Melee Damage. />\n\nIncreases Melee Lunge Range to 7 meters.\n"
+      "mainEditor": "While Surrounded by 3+ enemies: Activates Biotic Enhancements\n\nBiotic Enhancements increases Melee and Super damage for 8 seconds.\n\n50% Super Damage Increase.\n<pve 200% Increased Melee Damage. />\n<pvp 100% Increased Melee Damage. />\n\nIncreases Melee Lunge Range to 7 meters.\n",
+      "secondaryEditor": "While Surrounded by 3+ enemies: Activates Biotic Enhancements\r\n\r\nBiotic Enhancements increases Melee and Super damage for 8 seconds.\r\n\r\n50% Super Damage Increase.\r\nPVE: 200% Increased Melee Damage.\r\nPVP: 100% Increased Melee Damage.\r\n\r\nIncreases Melee Lunge Range to 7 meters.\r\n"
     },
     "inLiveDatabase": true
   },
