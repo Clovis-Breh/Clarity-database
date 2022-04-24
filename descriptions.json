@@ -18790,7 +18790,7 @@
     "name": "Sect of Vigor",
     "itemId": "2950045886",
     "itemName": "Aeon Soul",
-    "lastUpdate": 1650207786426,
+    "lastUpdate": 1650806542685,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -18824,20 +18824,50 @@
       {
         "lineText": [
           {
-            "text": "Aeon Allies receive a "
-          },
+            "text": "Aeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
           {
-            "text": " 110HP Overshield ",
-            "className": "pve"
-          },
+            "text": "Ally Deaths grant 25% Class Ability Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
           {
-            "text": " for 20 seconds that recharges after 3 seconds."
+            "text": "Gain Full Class Ability Energy on Ally Revival."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Casting Super fully heals allies within 30 meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Aeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Ally Deaths grant 25% Class Ability Energy.\nGain Full Class Ability Energy on Ally Revival.\n\nCasting Super fully heals allies within 30 meters.\n\nAeon Allies receive a <pve 110HP Overshield /> for 20 seconds that recharges after 3 seconds."
+      "mainEditor": "Ally Deaths grant 25% Class Ability Energy.\nGain Full Class Ability Energy on Ally Revival.\n\nCasting Super fully heals allies within 30 meters.\n\nAeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds.",
+      "secondaryEditor": "Ally Deaths grant 25% Class Ability Energy.\r\nGain Full Class Ability Energy on Ally Revival.\r\n\r\nCasting Super fully heals allies within 30 meters.\r\n\r\nAeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds."
     },
     "inLiveDatabase": true
   },
