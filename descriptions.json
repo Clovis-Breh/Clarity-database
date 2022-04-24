@@ -2528,7 +2528,7 @@
     "name": "Spring-Loaded Mounting",
     "itemId": 1734144409,
     "itemName": "Mechaneer's Tricksleeves",
-    "lastUpdate": 1650805068927,
+    "lastUpdate": 1650806448857,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -2609,7 +2609,7 @@
       {
         "lineText": [
           {
-            "text": "100% and 35% increased damage in PVE and PVP respectively until no longer critical."
+            "text": "100% and [PVP: 35%] increased damage until no longer critical."
           }
         ]
       },
@@ -2623,7 +2623,7 @@
     ],
     "editor": {
       "mainEditor": "Passively grants 50 Airborne Effectiveness, 100 Handling and 100 Reload Speed to Sidearms.\n\nUpon readying a sidearm while at Critical Health:\n<pve 100% /> <pvp [35%] /> increased damage until no longer critical.\nRefreshes sidearm magazine.",
-      "secondaryEditor": "Passively grants 50 Airborne Effectiveness, 100 Handling and 100 Reload Speed to Sidearms.\r\n\r\nUpon readying a sidearm while at Critical Health:\r\n100% and 35% increased damage in PVE and PVP respectively until no longer critical.\r\nRefreshes sidearm magazine."
+      "secondaryEditor": "Passively grants 50 Airborne Effectiveness, 100 Handling and 100 Reload Speed to Sidearms.\r\n\r\nUpon readying a sidearm while at Critical Health:\r\n100% and [PVP: 35%] increased damage until no longer critical.\r\nRefreshes sidearm magazine."
     },
     "inLiveDatabase": true
   },
