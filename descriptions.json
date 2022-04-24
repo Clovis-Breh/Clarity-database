@@ -15941,7 +15941,7 @@
   "3363267119": {
     "id": 3363267119,
     "name": "Souldrinker",
-    "lastUpdate": 1650463141128,
+    "lastUpdate": 1650804737718,
     "updatedBy": "Fading-Shadow",
     "type": "weaponOriginTrait",
     "description": [
@@ -15958,9 +15958,7 @@
       {
         "lineText": [
           {
-            "title": "AKA the lower the Magazine Size, the larger the heal",
-            "text": "% Magazine Based",
-            "className": "title"
+            "text": "Health gain per hit varies between Weapon Types."
           }
         ]
       }
@@ -15979,14 +15977,14 @@
       {
         "lineText": [
           {
-            "text": "The lower the Magazine Size, the larger the heal."
+            "text": "Health gain per hit varies between Weapon Types."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\n<title % Magazine Based [AKA the lower the Magazine Size, the larger the heal]/>",
-      "secondaryEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nThe lower the Magazine Size, the larger the heal."
+      "mainEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nHealth gain per hit varies between Weapon Types.",
+      "secondaryEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nHealth gain per hit varies between Weapon Types."
     },
     "inLiveDatabase": true
   },
