@@ -1118,7 +1118,7 @@
     "name": "Vanishing Execution",
     "itemId": 2203146422,
     "itemName": "Assassin's Cowl",
-    "lastUpdate": 1650209642410,
+    "lastUpdate": 1650806595889,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -1185,8 +1185,73 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Heals for X on Powered Melee Kill. (Stronger on Finishers)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Invisibility Duration:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Minor = 6 seconds (10)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Elite = 9 seconds (13)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Miniboss = 12.5 seconds (13)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Boss = 13 seconds (13)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bosses are not finishable."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)\r\nHeals for X on Powered Melee Kill. (Stronger on Finishers)\r\n\r\nInvisibility Duration:\r\nMinor = 6 seconds (10)\r\nElite = 9 seconds (13)\r\nMiniboss = 12.5 seconds (13)\r\nBoss = 13 seconds (13)\r\n\r\nBosses are not finishable."
+      "mainEditor": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)\r\nHeals for X on Powered Melee Kill. (Stronger on Finishers)\r\n\r\nInvisibility Duration:\r\nMinor = 6 seconds (10)\r\nElite = 9 seconds (13)\r\nMiniboss = 12.5 seconds (13)\r\nBoss = 13 seconds (13)\r\n\r\nBosses are not finishable.",
+      "secondaryEditor": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)\r\nHeals for X on Powered Melee Kill. (Stronger on Finishers)\r\n\r\nInvisibility Duration:\r\nMinor = 6 seconds (10)\r\nElite = 9 seconds (13)\r\nMiniboss = 12.5 seconds (13)\r\nBoss = 13 seconds (13)\r\n\r\nBosses are not finishable."
     },
     "inLiveDatabase": true
   },
