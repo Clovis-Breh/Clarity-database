@@ -18591,7 +18591,7 @@
     "name": "Transfusion Matrix",
     "itemId": 3216110440,
     "itemName": "An Insurmountable Skullfort",
-    "lastUpdate": 1650211078272,
+    "lastUpdate": 1650806555366,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -18606,8 +18606,18 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Arc Melee Kills fully recharge Melee Ability and begin Health Regeneration"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "<arc/>Arc Melee Kills fully recharge Melee Ability and begin Health Regeneration"
+      "mainEditor": "<arc/>Arc Melee Kills fully recharge Melee Ability and begin Health Regeneration",
+      "secondaryEditor": "Arc Melee Kills fully recharge Melee Ability and begin Health Regeneration"
     },
     "inLiveDatabase": true
   },
