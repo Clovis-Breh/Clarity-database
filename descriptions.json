@@ -8788,6 +8788,38 @@
     },
     "inLiveDatabase": true
   },
+  "1471333428": {
+    "id": 1471333428,
+    "name": "Surrounded Spec",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809766171,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Additive 10% Increased Surrounded Damage Increase, and lingers for 1.5s"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Additive 10% Increased Surrounded Damage Increase, and lingers for 1.5s"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Additive 10% Increased Surrounded Damage Increase, and lingers for 1.5s",
+      "secondaryEditor": "Additive 10% Increased Surrounded Damage Increase, and lingers for 1.5s"
+    },
+    "inLiveDatabase": true
+  },
   "1513326571": {
     "id": 1513326571,
     "name": "Taken Spec",
