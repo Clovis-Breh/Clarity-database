@@ -4228,7 +4228,7 @@
     "name": "And Another Thing",
     "itemId": 3874247549,
     "itemName": "Armamentarium",
-    "lastUpdate": 1650211162136,
+    "lastUpdate": 1650806587203,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -4250,8 +4250,28 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grants an extra Grenade Charge. "
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Does not Stack with Top Tree Striker"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grants an extra Grenade Charge. \r\n\r\nDoes not Stack with Top Tree Striker"
+      "mainEditor": "Grants an extra Grenade Charge. \r\n\r\nDoes not Stack with Top Tree Striker",
+      "secondaryEditor": "Grants an extra Grenade Charge. \r\n\r\nDoes not Stack with Top Tree Striker"
     },
     "inLiveDatabase": true
   },
