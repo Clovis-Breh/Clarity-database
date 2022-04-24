@@ -4072,6 +4072,47 @@
     },
     "inLiveDatabase": true
   },
+  "634781242": {
+    "id": 634781242,
+    "name": "Adept Reload",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650810019753,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "reload": {
+        "passive": {
+          "stat": [
+            10
+          ]
+        }
+      }
+    },
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Reload"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Reload"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+10 Reload",
+      "secondaryEditor": "+10 Reload"
+    },
+    "inLiveDatabase": true
+  },
   "666440382": {
     "id": 666440382,
     "name": "Rampage Spec",
