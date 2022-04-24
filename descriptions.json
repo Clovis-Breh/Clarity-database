@@ -19284,14 +19284,24 @@
     "name": "Grasp of the Devourer",
     "itemId": "2780717641",
     "itemName": "Necrotic Grip",
-    "lastUpdate": 1650214363742,
+    "lastUpdate": 1650806317866,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Melee Hit applies poison."
+            "text": "Passively grants 30 Airborne Effectiveness to Weapons of Sorrow."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Melee Hit applies poison. "
           }
         ]
       },
@@ -19336,7 +19346,16 @@
       {
         "lineText": [
           {
-            "text": "Poisoned enemies spread the poison on death on a 3 meter radius."
+            "text": "Poisoned enemies spread the poison on death on a 3 metres radius. This applies even if the source of the poison wasn't a melee attack."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 30 Airborne Effectiveness to Weapons of Sorrow."
           }
         ]
       },
@@ -19346,14 +19365,55 @@
       {
         "lineText": [
           {
-            "text": " Thorn Kills, as well as enemies poisoned by Thorn spread poison on death. ",
-            "className": "highlight_3"
+            "text": "Melee Hit applies poison. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Poison deals up to 680% the total damage of Melee Damage. [PVP: 30 Damage]"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bosses take an additional 80% damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Initial Poison tick deals 18% of Melee damage, while the last tick deals 54%."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each successive Poison tick deals 9% more damage. Lasts 19 ticks."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Poisoned enemies spread the poison on death on a 3 metres radius. This applies even if the source of the poison wasn't a melee attack."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Melee Hit applies poison.\nPoison deals up to 680% the total damage of Melee Damage. <pvp [30 Damage] />\nBosses take an additional 80% damage.\n\nInitial Poison tick deals 18% of Melee damage, while the last tick deals 54%.\nEach successive Poison tick deals 9% more damage. Lasts 19 ticks.\n\nPoisoned enemies spread the poison on death on a 3 meter radius.\n\n<highlight_3 Thorn Kills, as well as enemies poisoned by Thorn spread poison on death. />\n"
+      "mainEditor": "Passively grants 30 Airborne Effectiveness to Weapons of Sorrow.\n\nMelee Hit applies poison. \nPoison deals up to 680% the total damage of Melee Damage. <pvp [30 Damage] />\nBosses take an additional 80% damage.\n\nInitial Poison tick deals 18% of Melee damage, while the last tick deals 54%.\nEach successive Poison tick deals 9% more damage. Lasts 19 ticks.\n\nPoisoned enemies spread the poison on death on a 3 metres radius. This applies even if the source of the poison wasn't a melee attack.",
+      "secondaryEditor": "Passively grants 30 Airborne Effectiveness to Weapons of Sorrow.\r\n\r\nMelee Hit applies poison. \r\nPoison deals up to 680% the total damage of Melee Damage. [PVP: 30 Damage]\r\nBosses take an additional 80% damage.\r\n\r\nInitial Poison tick deals 18% of Melee damage, while the last tick deals 54%.\r\nEach successive Poison tick deals 9% more damage. Lasts 19 ticks.\r\n\r\nPoisoned enemies spread the poison on death on a 3 metres radius. This applies even if the source of the poison wasn't a melee attack."
     },
     "inLiveDatabase": true
   },
