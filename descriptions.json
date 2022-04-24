@@ -9411,6 +9411,36 @@
     },
     "inLiveDatabase": true
   },
+  "1885400500": {
+    "id": 1885400500,
+    "name": "Ricochet Rounds",
+    "lastUpdate": 1650804155166,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Bullets have a 100% chance to Ricochet off of Surfaces."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Bullets have a 100% chance to Ricochet off of Surfaces."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Bullets have a 100% chance to Ricochet off of Surfaces.",
+      "secondaryEditor": "Bullets have a 100% chance to Ricochet off of Surfaces."
+    },
+    "inLiveDatabase": true
+  },
   "1890422124": {
     "id": "1890422124",
     "name": "Tap the Trigger",
