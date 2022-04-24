@@ -1871,6 +1871,38 @@
     },
     "inLiveDatabase": true
   },
+  "299264772": {
+    "id": 299264772,
+    "name": "Adept Range",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809979238,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Range"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Range"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+10 Range",
+      "secondaryEditor": "+10 Range"
+    },
+    "inLiveDatabase": true
+  },
   "354401740": {
     "id": "354401740",
     "name": "Assassin's Blade",
