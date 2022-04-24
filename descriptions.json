@@ -4248,7 +4248,7 @@
     "name": "Blessing of Order",
     "itemId": 3045642045,
     "itemName": "Boots of the Assembler",
-    "lastUpdate": 1650806050842,
+    "lastUpdate": 1650806110964,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -4339,14 +4339,14 @@
       {
         "lineText": [
           {
-            "text": "Empowering Rift Noble Seekers grant a 35% and 15% Damage Increase in PVE and PVP respectively for 5 seconds."
+            "text": "Empowering Rift Noble Seekers grant a 35% and [PVP: 15%] Damage Increase for 5 seconds."
           }
         ]
       }
     ],
     "editor": {
       "mainEditor": "Standing in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 meters and apply a buff depending on the type of Rift.\n\nEach time a Noble Seeker applies a buff, the Rift gets extended by 5 seconds.\n\nHealing Rift Noble Seekers heal allies for 75HP and begins Health Regeneration.\nEmpowering Rift Noble Seekers grant a <pve 35% /> <pvp [20%] /> Damage Increase for 5 seconds.\n",
-      "secondaryEditor": "Passively grants 30 Airborne Effectiveness to Lumina.\r\n\r\nStanding in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 metres and apply a buff depending on the type of Rift.\r\n\r\nEach time a Noble Seeker applies a buff, the Rift gets extended by 5 seconds.\r\n\r\nHealing Rift Noble Seekers heal allies for 75HP and begins Health Regeneration.\r\nEmpowering Rift Noble Seekers grant a 35% and 15% Damage Increase in PVE and PVP respectively for 5 seconds."
+      "secondaryEditor": "Passively grants 30 Airborne Effectiveness to Lumina.\r\n\r\nStanding in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 metres and apply a buff depending on the type of Rift.\r\n\r\nEach time a Noble Seeker applies a buff, the Rift gets extended by 5 seconds.\r\n\r\nHealing Rift Noble Seekers heal allies for 75HP and begins Health Regeneration.\r\nEmpowering Rift Noble Seekers grant a 35% and [PVP: 15%] Damage Increase for 5 seconds."
     },
     "inLiveDatabase": true
   },
