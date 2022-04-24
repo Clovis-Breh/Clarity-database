@@ -4583,7 +4583,7 @@
   "960810156": {
     "id": "960810156",
     "name": "Danger Zone",
-    "lastUpdate": 1650802159776,
+    "lastUpdate": 1650802188227,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -4597,7 +4597,15 @@
       {
         "lineText": [
           {
-            "text": "Sets Blast Radius to 100[?] and reduces Self Damage by 40%."
+            "text": "Sets Blast Radius to 100[?] and reduces "
+          },
+          {
+            "title": "Self Damage normally deals 25% increased damage.",
+            "text": "Self Damage",
+            "className": "title"
+          },
+          {
+            "text": " by 40%."
           }
         ]
       },
@@ -4605,16 +4613,6 @@
         "lineText": [
           {
             "text": "Lingers for 4(?) seconds."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "(Self Damage normally deals 25% increased damage.)"
           }
         ]
       },
@@ -4663,7 +4661,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\nLingers for 4(?) seconds.\n\n(Self Damage normally deals 25% increased damage.)\n\nEnhanced: Passively grants 5 Blast Radius.",
+      "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces <title Self Damage [Self Damage normally deals 25% increased damage.] /> by 40%.\nLingers for 4(?) seconds.\n\nEnhanced: Passively grants 5 Blast Radius.",
       "secondaryEditor": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
     },
     "inLiveDatabase": true
