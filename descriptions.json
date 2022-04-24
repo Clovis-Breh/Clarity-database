@@ -7581,6 +7581,38 @@
     },
     "inLiveDatabase": true
   },
+  "1334978104": {
+    "id": 1334978104,
+    "name": "Quick Access Sling",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809344083,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "0.9x Ready/Stow Animation Duration Multiplier"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "0.9x Ready/Stow Animation Duration Multiplier"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "0.9x Ready/Stow Animation Duration Multiplier",
+      "secondaryEditor": "0.9x Ready/Stow Animation Duration Multiplier"
+    },
+    "inLiveDatabase": true
+  },
   "1341199512": {
     "id": 1341199512,
     "name": "Devouring Rift",
