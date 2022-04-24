@@ -3976,6 +3976,38 @@
     },
     "inLiveDatabase": true
   },
+  "666440382": {
+    "id": 666440382,
+    "name": "Rampage Spec",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809750785,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Rampage lasts 1 second longer (3.5s -> 4.5s)"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Rampage lasts 1 second longer (3.5s -> 4.5s)"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Rampage lasts 1 second longer (3.5s -> 4.5s)",
+      "secondaryEditor": "Rampage lasts 1 second longer (3.5s -> 4.5s)"
+    },
+    "inLiveDatabase": true
+  },
   "671806388": {
     "id": 671806388,
     "name": "Compulsive Reloader",
