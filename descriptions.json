@@ -8503,42 +8503,28 @@
     "name": "Hydraulic Boosters",
     "itemId": 193869520,
     "itemName": "St0mp-EE5",
-    "lastUpdate": 1650210943276,
+    "lastUpdate": 1650805412942,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "This description needs updating"
+            "text": "Passively grants -50 Airborne Effectiveness"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Check if all data is present some items are missing id's"
+            "text": "Increases Sprint Speed by 6.25%."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Make sure it's up to date and stats are correct"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "And obviously, fix syntax"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "To update simply remove this text and upload"
+            "text": "Increases Slide Distance by 33%."
           }
         ]
       },
@@ -8548,93 +8534,41 @@
       {
         "lineText": [
           {
-            "text": " Increased Jump Height Increase: ",
-            "className": "highlight_1"
+            "text": "Increased Jump Height Increase:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "High Jump = 9 meters -> 12 meters (33% higher)"
+            "text": "High Jump = 9 metres -> 12 metres (33% higher)"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Strafe Jump = 8 meters -> 9 meters (10% higher)"
+            "text": "Strafe Jump = 8 metres -> 9 metres (10% higher)"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Triple Jump = 6 meters -> 7 meters for First Jump (16% higher)"
+            "text": "Triple Jump = 6 metres -> 7 metres for First Jump (16% higher)"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "9 meters -> 11 meters for Second Jump (22% higher)"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": " Jump Distance Increase: (Includes innate 6.25% faster sprint) ",
-            "className": "highlight_1"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "High Jump = 28 meters -> 33 meters (18% higher)"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Strafe Jump = 26 meters -> 31 meters (19% higher)"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Triple Jump = 31 meters -> 38 meters. (22% higher)"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": " Increases Sprint Speed by 6.25% ",
-            "className": "highlight_1"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": " Increases Slide Distance by 33% ",
-            "className": "highlight_1"
+            "text": "9 metres -> 11 metres for Second Jump (22% higher)"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "This description needs updating\nCheck if all data is present some items are missing id's\nMake sure it's up to date and stats are correct\nAnd obviously, fix syntax\nTo update simply remove this text and upload\n\n<highlight_1 Increased Jump Height Increase: />\nHigh Jump = 9 meters -> 12 meters (33% higher)\nStrafe Jump = 8 meters -> 9 meters (10% higher)\nTriple Jump = 6 meters -> 7 meters for First Jump (16% higher)\n9 meters -> 11 meters for Second Jump (22% higher)\n\n<highlight_1 Jump Distance Increase: (Includes innate 6.25% faster sprint) />\nHigh Jump = 28 meters -> 33 meters (18% higher)\nStrafe Jump = 26 meters -> 31 meters (19% higher)\nTriple Jump = 31 meters -> 38 meters. (22% higher)\n\n<highlight_1 Increases Sprint Speed by 6.25% />\n<highlight_1 Increases Slide Distance by 33% />"
+      "mainEditor": "Passively grants -50 Airborne Effectiveness\nIncreases Sprint Speed by 6.25%.\nIncreases Slide Distance by 33%.\n\nIncreased Jump Height Increase:\nHigh Jump = 9 metres -> 12 metres (33% higher)\nStrafe Jump = 8 metres -> 9 metres (10% higher)\nTriple Jump = 6 metres -> 7 metres for First Jump (16% higher)\n9 metres -> 11 metres for Second Jump (22% higher)"
     },
     "inLiveDatabase": true
   },
