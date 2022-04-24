@@ -5670,7 +5670,7 @@
     "name": "Fury Conductors",
     "itemId": "2563444729",
     "itemName": "ACD/0 Feedback Fence",
-    "lastUpdate": 1650206989514,
+    "lastUpdate": 1650806514665,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -5725,10 +5725,54 @@
         ]
       }
     ],
-    "inLiveDatabase": true,
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Melee Hits grant Stacks of Fury Conductors."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Receiving melee damage unleashes an Arc Explosion with a radius of 5 metres."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Arc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Fury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "All Stacks disappear upon receiving melee damage or after 10 seconds of not Meleeing."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Melee Hits grant Stacks of Fury Conductors.\nReceiving melee damage unleashes an <arc/>Arc Explosion with a radius of 5 metres.\n<arc/>Arc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\n\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\n\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not Meleeing."
-    }
+      "mainEditor": "Melee Hits grant Stacks of Fury Conductors.\nReceiving melee damage unleashes an <arc/>Arc Explosion with a radius of 5 metres.\n<arc/>Arc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\n\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\n\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not Meleeing.",
+      "secondaryEditor": "Melee Hits grant Stacks of Fury Conductors.\r\nReceiving melee damage unleashes an Arc Explosion with a radius of 5 metres.\r\nArc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\r\n\r\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\r\n\r\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not Meleeing."
+    },
+    "inLiveDatabase": true
   },
   "1155472387": {
     "id": 1155472387,
