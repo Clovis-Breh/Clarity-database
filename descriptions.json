@@ -1209,7 +1209,7 @@
       {
         "lineText": [
           {
-            "text": "Generate a 180° frontal shield that reflects damage and projectiles."
+            "text": "Generate a 180Â° frontal shield that reflects damage and projectiles."
           }
         ]
       },
@@ -1235,7 +1235,7 @@
       {
         "lineText": [
           {
-            "text": "Generate a 180° frontal shield that reflects damage and projectiles."
+            "text": "Generate a 180Â° frontal shield that reflects damage and projectiles."
           }
         ]
       },
@@ -1251,8 +1251,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%",
-      "secondaryEditor": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%"
+      "mainEditor": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180Â° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%",
+      "secondaryEditor": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180Â° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%"
     },
     "inLiveDatabase": true
   },
@@ -21712,7 +21712,7 @@
     "name": "Insatiable",
     "itemId": "1096253259",
     "itemName": "Apotheosis Veil",
-    "lastUpdate": 1650213736266,
+    "lastUpdate": 1650806582613,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -21741,8 +21741,35 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Super Ability Activation:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Fully restores Health, Grenade, Melee, and Class Ability Energy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Allies within 18(?) meters recharge 0.25% of their Class Ability per Second."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Super Ability Activation:\nFully restores Health, Grenade, Melee, and Class Ability Energy.\n\nAllies within 18(?) meters recharge 0.25% of their Class Ability per Second."
+      "mainEditor": "On Super Ability Activation:\nFully restores Health, Grenade, Melee, and Class Ability Energy.\n\nAllies within 18(?) meters recharge 0.25% of their Class Ability per Second.",
+      "secondaryEditor": "On Super Ability Activation:\r\nFully restores Health, Grenade, Melee, and Class Ability Energy.\r\n\r\nAllies within 18(?) meters recharge 0.25% of their Class Ability per Second."
     },
     "inLiveDatabase": true
   },
