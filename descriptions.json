@@ -3215,7 +3215,7 @@
     "name": "Warlord's End",
     "itemId": 2822465023,
     "itemName": "Felwinter's Helm",
-    "lastUpdate": 1650214068993,
+    "lastUpdate": 1650806247594,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -3239,7 +3239,7 @@
       {
         "lineText": [
           {
-            "text": "Enemy Ranks are Minor/Elite/Major/Boss."
+            "text": "Enemy Ranks are Minor/Elite/Miniboss/Boss."
           }
         ]
       },
@@ -3263,7 +3263,71 @@
       {
         "lineText": [
           {
-            "text": "Range: 10/15/20/25 meters, centered on enemy."
+            "text": "Range: 10/15/20/25 metres, centered on enemy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Duration: 5/10/15/20 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Finisher Duration: 10/15/20 seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and receive 30% increased damage."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Duration and Range are dependant on Enemy Rank. "
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enemy Ranks are Minor/Elite/Miniboss/Boss."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Finishers add 5 seconds to Duration. Bosses are not finishable. Guardians count as Elites."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Warlord's End."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Range: 10/15/20/25 metres, centered on enemy."
           }
         ]
       },
@@ -3283,7 +3347,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and receive 30% increased damage.\nDuration and Range are dependant on Enemy Rank. \n\nEnemy Ranks are Minor/Elite/Major/Boss.\nFinishers add 5 seconds to Duration. Bosses are not finishable. Guardians count as Elites.\n\nWarlord's End.\nRange: 10/15/20/25 meters, centered on enemy.\nDuration: 5/10/15/20 seconds.\nFinisher Duration: 10/15/20 seconds."
+      "mainEditor": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and receive 30% increased damage.\nDuration and Range are dependant on Enemy Rank. \n\nEnemy Ranks are Minor/Elite/Miniboss/Boss.\nFinishers add 5 seconds to Duration. Bosses are not finishable. Guardians count as Elites.\n\nWarlord's End.\nRange: 10/15/20/25 metres, centered on enemy.\nDuration: 5/10/15/20 seconds.\nFinisher Duration: 10/15/20 seconds.",
+      "secondaryEditor": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and receive 30% increased damage.\r\nDuration and Range are dependant on Enemy Rank. \r\n\r\nEnemy Ranks are Minor/Elite/Miniboss/Boss.\r\nFinishers add 5 seconds to Duration. Bosses are not finishable. Guardians count as Elites.\r\n\r\nWarlord's End.\r\nRange: 10/15/20/25 metres, centered on enemy.\r\nDuration: 5/10/15/20 seconds.\r\nFinisher Duration: 10/15/20 seconds."
     },
     "inLiveDatabase": true
   },
