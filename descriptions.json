@@ -6141,6 +6141,47 @@
     },
     "inLiveDatabase": true
   },
+  "984527513": {
+    "id": 984527513,
+    "name": "Major Spec",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809666834,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            1.0777
+          ]
+        }
+      }
+    },
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "7.77% Damage Increase against Elites and Minibosses"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "7.77% Damage Increase against Elites and Minibosses"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "7.77% Damage Increase against Elites and Minibosses",
+      "secondaryEditor": "7.77% Damage Increase against Elites and Minibosses"
+    },
+    "inLiveDatabase": true
+  },
   "1015611457": {
     "id": "1015611457",
     "name": "Kill Clip",
