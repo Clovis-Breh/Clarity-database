@@ -6756,7 +6756,7 @@
     "name": "Depths of Duskfield",
     "itemId": 2169905051,
     "itemName": "Renewal Grasps",
-    "lastUpdate": 1650210606249,
+    "lastUpdate": 1650805228900,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -6780,10 +6780,21 @@
       {
         "lineText": [
           {
-            "text": "Enemies deal 50% reduced damage, and allies receive "
+            "text": "Enemies deal "
           },
           {
-            "text": " [?] ",
+            "text": " 50% ",
+            "className": "pve"
+          },
+          {
+            "text": " 20% ",
+            "className": "pvp"
+          },
+          {
+            "text": " reduced damage, and allies receive "
+          },
+          {
+            "text": " [25%] ",
             "className": "pve"
           },
           {
@@ -6813,8 +6824,52 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Duskfield Grenades have [?]% increased radius."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While inside a Duskfield Grenade's Slowing Field:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enemies deal 50% [20%] reduced damage, and allies receive 25% [15%] reduced damage in PVE and PVP respectively."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "When combined with Touch of Winter:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Crystal increases from Medium to Large, and radius is increased additively."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Duskfield Grenades have [?]% increased radius.\r\n\r\nWhile inside a Duskfield Grenade's Slowing Field:\r\nEnemies deal 50% reduced damage, and allies receive <pve [?] /> <pvp [15%] /> reduced damage.\r\n\r\nWhen combined with Touch of Winter:\r\nCrystal increases from Medium to Large, and radius is increased additively."
+      "mainEditor": "Duskfield Grenades have [?]% increased radius.\r\n\r\nWhile inside a Duskfield Grenade's Slowing Field:\r\nEnemies deal <pve 50% /><pvp 20% /> reduced damage, and allies receive <pve [25%] /> <pvp [15%] /> reduced damage.\r\n\r\nWhen combined with Touch of Winter:\r\nCrystal increases from Medium to Large, and radius is increased additively.",
+      "secondaryEditor": "Duskfield Grenades have [?]% increased radius.\r\n\r\nWhile inside a Duskfield Grenade's Slowing Field:\r\nEnemies deal 50% [20%] reduced damage, and allies receive 25% [15%] reduced damage in PVE and PVP respectively.\r\n\r\nWhen combined with Touch of Winter:\r\nCrystal increases from Medium to Large, and radius is increased additively."
     },
     "inLiveDatabase": true
   },
