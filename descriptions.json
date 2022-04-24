@@ -14139,7 +14139,7 @@
     "name": "Rites of Ember",
     "itemId": "2316914168",
     "itemName": "Dawn Chorus",
-    "lastUpdate": 1650214028189,
+    "lastUpdate": 1650806810301,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -14242,8 +14242,73 @@
         "className": "spacer"
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Burns last X seconds longer and grant X% Melee Energy on Solar Burn DoT"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Daybreak applies burning."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Solar Burns add Rites of Ember debuff, which amplify the damage dealt by Daybreak."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Only Daybreak projectiles, Igniting Touch, and Phoenix Dive work."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Top Tree | Bottom Tree"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "1-4 Stacks = 45% | 35%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "5-6 Stacks = 110% | 95%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "7+ Stacks = 205% | 183%"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Burns last X seconds longer and grant X% Melee Energy on Solar Burn DoT\nDaybreak applies burning.\n\nSolar Burns add Rites of Ember debuff, which amplify the damage dealt by Daybreak.\nOnly Daybreak projectiles, Igniting Touch, and Phoenix Dive work.\n\n< table >\n|b Stacks|b Top Tree|b Bottom Tree\n| 1-4    | 45%  | 35%\n| 5-6    | 110% | 95%\n| 7+     | 205% | 183%\n<$>\n\n"
+      "mainEditor": "Burns last X seconds longer and grant X% Melee Energy on Solar Burn DoT\nDaybreak applies burning.\n\nSolar Burns add Rites of Ember debuff, which amplify the damage dealt by Daybreak.\nOnly Daybreak projectiles, Igniting Touch, and Phoenix Dive work.\n\n< table >\n|b Stacks|b Top Tree|b Bottom Tree\n| 1-4    | 45%  | 35%\n| 5-6    | 110% | 95%\n| 7+     | 205% | 183%\n<$>\n\n",
+      "secondaryEditor": "Burns last X seconds longer and grant X% Melee Energy on Solar Burn DoT\r\nDaybreak applies burning.\r\n\r\nSolar Burns add Rites of Ember debuff, which amplify the damage dealt by Daybreak.\r\nOnly Daybreak projectiles, Igniting Touch, and Phoenix Dive work.\r\n\r\nTop Tree | Bottom Tree\r\n1-4 Stacks = 45% | 35%\r\n5-6 Stacks = 110% | 95%\r\n7+ Stacks = 205% | 183%"
     },
     "inLiveDatabase": true
   },
