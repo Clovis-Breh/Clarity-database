@@ -5294,7 +5294,7 @@
     "name": "Fusion Harness",
     "itemId": 2082483156,
     "itemName": "Starfire Protocol",
-    "lastUpdate": 1650214858459,
+    "lastUpdate": 1650807599984,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -5336,8 +5336,48 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Gain an extra Fusion Grenade Charge."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "20% Grenade Energy per Weapon Hit while Empowered (0.5s Cooldown)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "100% Class Ability Energy on Grenade Kill"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Empowered is either Well of Radiance, Empowering Rift or Guiding Flame."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Gain an extra Fusion Grenade Charge.\n\n20% Grenade Energy per Weapon Hit while Empowered (0.5s Cooldown)\n\n100% Class Ability Energy on Grenade Kill\n\nEmpowered is either Well of Radiance, Empowering Rift or Guiding Flame.\n"
+      "mainEditor": "Gain an extra Fusion Grenade Charge.\n\n20% Grenade Energy per Weapon Hit while Empowered (0.5s Cooldown)\n\n100% Class Ability Energy on Grenade Kill\n\nEmpowered is either Well of Radiance, Empowering Rift or Guiding Flame.\n",
+      "secondaryEditor": "Gain an extra Fusion Grenade Charge.\r\n\r\n20% Grenade Energy per Weapon Hit while Empowered (0.5s Cooldown)\r\n\r\n100% Class Ability Energy on Grenade Kill\r\n\r\nEmpowered is either Well of Radiance, Empowering Rift or Guiding Flame.\r\n"
     },
     "inLiveDatabase": true
   },
