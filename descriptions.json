@@ -12391,7 +12391,7 @@
     "name": "Relentless Tracker",
     "itemId": 896224899,
     "itemName": "Foetracer",
-    "lastUpdate": 1650209449891,
+    "lastUpdate": 1650804893139,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -12406,6 +12406,16 @@
         "lineText": [
           {
             "text": "Mark persists through walls."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 20 Airborne Effectiveness"
           }
         ]
       },
@@ -12459,7 +12469,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Marks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nIf Enemy is below <pvp 30% HP />:\nGrants 1% increased damage per percent below 30%\n(Eg: <pvp 10% HP left /> -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons."
+      "mainEditor": "Marks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nPassively grants 20 Airborne Effectiveness\n\nIf Enemy is below <pvp 30% HP />:\nGrants 1% increased damage per percent below 30%\n(Eg: <pvp 10% HP left /> -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons."
     },
     "inLiveDatabase": true
   },
