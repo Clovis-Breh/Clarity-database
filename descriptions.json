@@ -16798,7 +16798,7 @@
   "3511092054": {
     "id": "3511092054",
     "name": "Elemental Capacitor",
-    "lastUpdate": 1650459011875,
+    "lastUpdate": 1650802400538,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -16818,7 +16818,7 @@
             "className": "solar"
           },
           {
-            "text": " 45 Reload Speed"
+            "text": " 50 Reload Speed"
           }
         ]
       },
@@ -16828,7 +16828,7 @@
             "className": "arc"
           },
           {
-            "text": " 45 Handling"
+            "text": " 50 Handling"
           }
         ]
       },
@@ -16838,7 +16838,7 @@
             "className": "void"
           },
           {
-            "text": " 18 Stability"
+            "text": " 20 Stability"
           }
         ]
       },
@@ -16858,7 +16858,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Adds an additional 4 to the Stat Bonus currently in effect. Unknown for Stasis."
+            "text": "Enhanced: Adds an additional 5 to the Stat Bonus currently in effect. Unknown for Stasis."
           }
         ]
       }
@@ -16877,21 +16877,21 @@
       {
         "lineText": [
           {
-            "text": "Solar: 45 Reload Speed"
+            "text": "Solar: 50 Reload Speed"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Arc: 45 Handling"
+            "text": "Arc: 50 Handling"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Void: 18 Stability"
+            "text": "Void: 20 Stability"
           }
         ]
       },
@@ -16908,14 +16908,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Adds an additional 4 to the Stat Bonus currently in effect. Unknown for Stasis."
+            "text": "Enhanced: Adds an additional 5 to the Stat Bonus currently in effect. Unknown for Stasis."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Grants different Stat Bonuses based on your selected Subclass.\n\n<solar/> 45 Reload Speed\n<arc/> 45 Handling\n<void/> 18 Stability\n<stasis/> 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\n\nEnhanced: Adds an additional 4 to the Stat Bonus currently in effect. Unknown for Stasis.",
-      "secondaryEditor": "Grants different Stat Bonuses based on your selected Subclass.\r\n\r\nSolar: 45 Reload Speed\r\nArc: 45 Handling\r\nVoid: 18 Stability\r\nStasis: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\r\n\r\nEnhanced: Adds an additional 4 to the Stat Bonus currently in effect. Unknown for Stasis."
+      "mainEditor": "Grants different Stat Bonuses based on your selected Subclass.\n\n<solar/> 50 Reload Speed\n<arc/> 50 Handling\n<void/> 20 Stability\n<stasis/> 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\n\nEnhanced: Adds an additional 5 to the Stat Bonus currently in effect. Unknown for Stasis.",
+      "secondaryEditor": "Grants different Stat Bonuses based on your selected Subclass.\r\n\r\nSolar: 50 Reload Speed\r\nArc: 50 Handling\r\nVoid: 20 Stability\r\nStasis: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\r\n\r\nEnhanced: Adds an additional 5 to the Stat Bonus currently in effect. Unknown for Stasis."
     },
     "inLiveDatabase": true
   },
