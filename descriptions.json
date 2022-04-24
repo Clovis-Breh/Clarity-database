@@ -16050,7 +16050,7 @@
   "3365897133": {
     "id": "3365897133",
     "name": "Explosive Head",
-    "lastUpdate": 1650458958024,
+    "lastUpdate": 1650802531653,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -16089,7 +16089,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Accuracy."
+            "text": "Enhanced: Passively grants 5 Accuracy."
           }
         ]
       }
@@ -16128,14 +16128,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Accuracy."
+            "text": "Enhanced: Passively grants 5 Accuracy."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio./>\n\n<pvp [PVP] Total damage remains the same. />\n\nEnhanced: Passively grants 4 Accuracy.",
-      "secondaryEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance.\r\n\r\n[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio.\r\n\r\n[PVP] Total damage remains the same.\r\n\r\nEnhanced: Passively grants 4 Accuracy."
+      "mainEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio./>\n\n<pvp [PVP] Total damage remains the same. />\n\nEnhanced: Passively grants 5 Accuracy.",
+      "secondaryEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. Detonation timer varies on draw and distance.\r\n\r\n[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Crit Ratio.\r\n\r\n[PVP] Total damage remains the same.\r\n\r\nEnhanced: Passively grants 5 Accuracy."
     },
     "inLiveDatabase": true
   },
