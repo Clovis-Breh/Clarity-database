@@ -18195,6 +18195,40 @@
     },
     "inLiveDatabase": true
   },
+  "3722653512": {
+    "id": 3722653512,
+    "name": "Air Assault",
+    "lastUpdate": 1650801484868,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While at Low Health:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants up to 60 Airborne Effectiveness."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While at Low Health:\r\nGrants up to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health."
+    },
+    "inLiveDatabase": true
+  },
   "3723531833": {
     "id": "3723531833",
     "name": "Burning Souls",
