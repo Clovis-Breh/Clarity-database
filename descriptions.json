@@ -11631,7 +11631,7 @@
     "name": "Roving Assassin",
     "itemId": "1474735276",
     "itemName": "Gwisin Vest",
-    "lastUpdate": 1650209577503,
+    "lastUpdate": 1650807051866,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -11676,8 +11676,49 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "During Spectral Blade"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Restores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Super Energy % gains based on kills"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVE: 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVP: 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "During Spectral Blade\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\n\nSuper Energy % gains based on kills\n<pve 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 />\n<pvp 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7 />\n"
+      "mainEditor": "During Spectral Blade\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\n\nSuper Energy % gains based on kills\n<pve 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 />\n<pvp 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7 />\n",
+      "secondaryEditor": "During Spectral Blade\r\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\r\n\r\nSuper Energy % gains based on kills\r\nPVE: 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1\r\nPVP: 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
     },
     "inLiveDatabase": true
   },
