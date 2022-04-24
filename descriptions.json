@@ -5724,6 +5724,38 @@
     },
     "inLiveDatabase": true
   },
+  "941997506": {
+    "id": 941997506,
+    "name": "Icarus Grip",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809493295,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Grants 15 Airborne Effectiveness"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grants 15 Airborne Effectiveness"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Grants 15 Airborne Effectiveness",
+      "secondaryEditor": "Grants 15 Airborne Effectiveness"
+    },
+    "inLiveDatabase": true
+  },
   "951095735": {
     "id": "951095735",
     "name": "Impulse Amplifier",
