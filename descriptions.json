@@ -2967,7 +2967,7 @@
     "name": "Beyond The Veil",
     "itemId": 1935198785,
     "itemName": "Omnioculus",
-    "lastUpdate": 1650210230679,
+    "lastUpdate": 1650807469620,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -3017,8 +3017,48 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grants an extra Smoke Bomb Charge."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Cloaking allies grants 50% Melee Energy per ally."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "50% [PVP: 25%] Damage Resistance on any Invisible effects. Applies to teammates made invisible."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Damage Resistance does not apply in Super."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grants an extra Smoke Bomb Charge.\n\nCloaking allies grants 50% Melee Energy per ally.\n\n<pve 50% /> <pvp [25%] /> Damage Resistance on any Invisible effects. Applies to teammates made invisible.\n\nDamage Resistance does not apply in Super.\n"
+      "mainEditor": "Grants an extra Smoke Bomb Charge.\n\nCloaking allies grants 50% Melee Energy per ally.\n\n<pve 50% /> <pvp [25%] /> Damage Resistance on any Invisible effects. Applies to teammates made invisible.\n\nDamage Resistance does not apply in Super.\n",
+      "secondaryEditor": "Grants an extra Smoke Bomb Charge.\r\n\r\nCloaking allies grants 50% Melee Energy per ally.\r\n\r\n50% [PVP: 25%] Damage Resistance on any Invisible effects. Applies to teammates made invisible.\r\n\r\nDamage Resistance does not apply in Super."
     },
     "inLiveDatabase": true
   },
