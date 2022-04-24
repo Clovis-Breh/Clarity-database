@@ -19625,7 +19625,7 @@
     "name": "Feast of Light",
     "itemId": "1001356380",
     "itemName": "Star-Eater Scales",
-    "lastUpdate": 1650210910342,
+    "lastUpdate": 1650805329070,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -19687,20 +19687,92 @@
       {
         "lineText": [
           {
-            "text": "Casting Super while Overcharged heals you for XHP"
+            "text": "Casting Super while Overcharged heals you for 95 to 200 HP based on Overcharge Stacks."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Casting Super while at 8 Overcharge Stacks grants you a YHP Overshield for 16 seconds."
+            "text": "Casting Super while at 8 Overcharge Stacks grants you a 100HP Overshield for 16 seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Increased Super Energy from Orbs of Power."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "7.1% -> 10% for Super Orbs"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "2.5% -> 4.17% for Small Orbs"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While Super Energy is full:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Picking up an Orb of Power grants 1 Overcharge Stack. "
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each Overcharge Stacks grants increased Super Damage, up to 70%."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "14% | 27% | 40% | 55% | 62% | 66% | 70%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Casting Super while Overcharged heals you for 95 to 200 HP based on Overcharge Stacks."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Casting Super while at 8 Overcharge Stacks grants you a 100HP Overshield for 16 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Increased Super Energy from Orbs of Power.\n7.1% -> 10% for Super Orbs\n2.5% -> 4.17% for Small Orbs\n\nWhile Super Energy is full:\nPicking up an Orb of Power grants 1 Overcharge Stack. \n\nEach Overcharge Stacks grants increased Super Damage, up to 70%.\n14% | 27% | 40% | 55% | 62% | 66% | 70%\nCasting Super while Overcharged heals you for XHP\nCasting Super while at 8 Overcharge Stacks grants you a YHP Overshield for 16 seconds.\n"
+      "mainEditor": "Increased Super Energy from Orbs of Power.\n7.1% -> 10% for Super Orbs\n2.5% -> 4.17% for Small Orbs\n\nWhile Super Energy is full:\nPicking up an Orb of Power grants 1 Overcharge Stack. \n\nEach Overcharge Stacks grants increased Super Damage, up to 70%.\n14% | 27% | 40% | 55% | 62% | 66% | 70%\nCasting Super while Overcharged heals you for 95 to 200 HP based on Overcharge Stacks.\nCasting Super while at 8 Overcharge Stacks grants you a 100HP Overshield for 16 seconds.",
+      "secondaryEditor": "Increased Super Energy from Orbs of Power.\r\n7.1% -> 10% for Super Orbs\r\n2.5% -> 4.17% for Small Orbs\r\n\r\nWhile Super Energy is full:\r\nPicking up an Orb of Power grants 1 Overcharge Stack. \r\n\r\nEach Overcharge Stacks grants increased Super Damage, up to 70%.\r\n14% | 27% | 40% | 55% | 62% | 66% | 70%\r\nCasting Super while Overcharged heals you for 95 to 200 HP based on Overcharge Stacks.\r\nCasting Super while at 8 Overcharge Stacks grants you a 100HP Overshield for 16 seconds."
     },
     "inLiveDatabase": true
   },
