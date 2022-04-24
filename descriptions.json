@@ -8153,7 +8153,7 @@
     "name": "Sunfire Furnace",
     "itemId": 1192890598,
     "itemName": "Hallowfire Heart",
-    "lastUpdate": 1650484820715,
+    "lastUpdate": 1650805907119,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -8173,7 +8173,7 @@
       {
         "lineText": [
           {
-            "text": "75% Additional Base (T3) Grenade and Melee Regeneration Rate"
+            "text": "75% Additional Base Grenade and Melee Regeneration Rate"
           }
         ]
       },
@@ -8196,13 +8196,57 @@
       {
         "lineText": [
           {
-            "text": "350% Additional Base (T3) Grenade and Melee Regeneration Rate"
+            "text": "350% Additional Base Grenade and Melee Regeneration Rate"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 20 Airborne Effectiveness"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "If on Solar Subclass"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "75% Additional Base Grenade and Melee Regeneration Rate"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "If Solar Super is Charged."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "350% Additional Base Grenade and Melee Regeneration Rate"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "If on <solar/>Solar Subclass\r\n75% Additional Base (T3) Grenade and Melee Regeneration Rate\r\n\r\nIf <solar/>Solar Super is Charged.\r\n350% Additional Base (T3) Grenade and Melee Regeneration Rate"
+      "mainEditor": "If on <solar/>Solar Subclass\r\n75% Additional Base Grenade and Melee Regeneration Rate\r\n\r\nIf <solar/>Solar Super is Charged.\r\n350% Additional Base Grenade and Melee Regeneration Rate",
+      "secondaryEditor": "Passively grants 20 Airborne Effectiveness\r\n\r\nIf on Solar Subclass\r\n75% Additional Base Grenade and Melee Regeneration Rate\r\n\r\nIf Solar Super is Charged.\r\n350% Additional Base Grenade and Melee Regeneration Rate"
     },
     "inLiveDatabase": true
   },
