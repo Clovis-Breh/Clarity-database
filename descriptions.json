@@ -4853,7 +4853,7 @@
     "name": "Resolute",
     "itemId": 2808156426,
     "itemName": "Eternal Warrior",
-    "lastUpdate": 1650211608300,
+    "lastUpdate": 1650806863825,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -4885,8 +4885,38 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Casting Fists of Havoc grants Resolute."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Resolute is a 75HP Overshield that negates Precision Damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Overshield can be refreshed by unequipping and equipping but who is gonna do that to be quite honest."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Casting Fists of Havoc grants Resolute.\r\n\r\nResolute is a 75HP Overshield that negates Precision Damage.\r\n\r\nOvershield can be refreshed by unequipping and equipping but who is gonna do that to be quite honest."
+      "mainEditor": "Casting Fists of Havoc grants Resolute.\r\n\r\nResolute is a 75HP Overshield that negates Precision Damage.\r\n\r\nOvershield can be refreshed by unequipping and equipping but who is gonna do that to be quite honest.",
+      "secondaryEditor": "Casting Fists of Havoc grants Resolute.\r\n\r\nResolute is a 75HP Overshield that negates Precision Damage.\r\n\r\nOvershield can be refreshed by unequipping and equipping but who is gonna do that to be quite honest."
     },
     "inLiveDatabase": true
   },
