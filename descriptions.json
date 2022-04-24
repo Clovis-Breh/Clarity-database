@@ -19562,7 +19562,7 @@
     "name": "Spheromatik Trigger",
     "itemId": 2326396534,
     "itemName": "Severance Enclosure",
-    "lastUpdate": 1650484556728,
+    "lastUpdate": 1650807546828,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -19641,8 +19641,73 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Powered Melee and Finisher Kills unleash an explosion, centered on the enemy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Explosion Damage and Radius depends on Enemy Rank."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Explosion Damage:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100% = Powered Melee on Minor"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "144% = Finisher on Minor"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "197% = Powered Melee on Miniboss"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "268% = Finisher on Miniboss"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "4 second cooldown per Explosion."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Powered Melee and Finisher Kills unleash an explosion, centered on the enemy.\r\nExplosion Damage and Radius depends on Enemy Rank.\r\n\r\nExplosion Damage:\r\n100% = Powered Melee on Minor\r\n144% = Finisher on Minor\r\n197% = Powered Melee on Miniboss\r\n268% = Finisher on Miniboss\r\nFor Combatant Classifications, check out <link https://d2clarity.page.link/combatant this sheet/>\r\n\r\n4 second cooldown per Explosion."
+      "mainEditor": "Powered Melee and Finisher Kills unleash an explosion, centered on the enemy.\r\nExplosion Damage and Radius depends on Enemy Rank.\r\n\r\nExplosion Damage:\r\n100% = Powered Melee on Minor\r\n144% = Finisher on Minor\r\n197% = Powered Melee on Miniboss\r\n268% = Finisher on Miniboss\r\nFor Combatant Classifications, check out <link https://d2clarity.page.link/combatant this sheet/>\r\n\r\n4 second cooldown per Explosion.",
+      "secondaryEditor": "Powered Melee and Finisher Kills unleash an explosion, centered on the enemy.\r\nExplosion Damage and Radius depends on Enemy Rank.\r\n\r\nExplosion Damage:\r\n100% = Powered Melee on Minor\r\n144% = Finisher on Minor\r\n197% = Powered Melee on Miniboss\r\n268% = Finisher on Miniboss\r\n\r\n4 second cooldown per Explosion."
     },
     "inLiveDatabase": true
   },
