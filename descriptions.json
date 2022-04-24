@@ -2760,7 +2760,7 @@
     "name": "Wish-Dragon Teeth",
     "itemId": 475652357,
     "itemName": "Young Ahamkara's Spine",
-    "lastUpdate": 1650213569769,
+    "lastUpdate": 1650807890105,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -2827,8 +2827,66 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Tripmine Grenades are enhanced and have Fastball intrinsically."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced Tripmine Grenades"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "14% increased damage from explosion."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "X% Bigger Radius, with no Damage Falloff."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Last 30 seconds (10 -> 30) and have 100HP with 50% Damage Resist in PVP."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Removes self-damage from Tripmine Grenades."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Ability Damage recharges 33% of Grenade Ability."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Tripmine Grenades are enhanced and have Fastball intrinsically.\n\nEnhanced Tripmine Grenades\n14% increased damage from explosion.\nX% Bigger Radius, with no Damage Falloff.\nLast 30 seconds (10 -> 30) and have <pvp 100HP /> with 50% Damage Resist.\nRemoves self-damage from Tripmine Grenades.\n\nAbility Damage recharges 33% of Grenade Ability."
+      "mainEditor": "Tripmine Grenades are enhanced and have Fastball intrinsically.\n\nEnhanced Tripmine Grenades\n14% increased damage from explosion.\nX% Bigger Radius, with no Damage Falloff.\nLast 30 seconds (10 -> 30) and have <pvp 100HP /> with 50% Damage Resist.\nRemoves self-damage from Tripmine Grenades.\n\nAbility Damage recharges 33% of Grenade Ability.",
+      "secondaryEditor": "Tripmine Grenades are enhanced and have Fastball intrinsically.\r\n\r\nEnhanced Tripmine Grenades\r\n14% increased damage from explosion.\r\nX% Bigger Radius, with no Damage Falloff.\r\nLast 30 seconds (10 -> 30) and have 100HP with 50% Damage Resist in PVP.\r\nRemoves self-damage from Tripmine Grenades.\r\n\r\nAbility Damage recharges 33% of Grenade Ability."
     },
     "inLiveDatabase": true
   },
