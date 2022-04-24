@@ -712,7 +712,7 @@
   "201365942": {
     "id": "201365942",
     "name": "Archer's Tempo",
-    "lastUpdate": 1650459223563,
+    "lastUpdate": 1650801528778,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
@@ -725,7 +725,7 @@
       "chargeDraw": {
         "active": {
           "multiplier": [
-            0.7
+            0.75
           ]
         }
       }
@@ -742,7 +742,7 @@
       {
         "lineText": [
           {
-            "text": "Decreases Draw Time by 30% for 3 seconds."
+            "text": "Decreases Draw Time by 25% for 3 seconds."
           }
         ]
       },
@@ -768,7 +768,7 @@
       {
         "lineText": [
           {
-            "text": "Decreases Draw Time by 30% for 3 seconds."
+            "text": "Decreases Draw Time by 25% for 3 seconds."
           }
         ]
       },
@@ -784,8 +784,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Precision Hit:\nDecreases Draw Time by 30% for 3 seconds.\n\nEnhanced: Timer increased to 4 seconds.",
-      "secondaryEditor": "On Precision Hit:\r\nDecreases Draw Time by 30% for 3 seconds.\r\n\r\nEnhanced: Timer increased to 4 seconds."
+      "mainEditor": "On Precision Hit:\nDecreases Draw Time by 25% for 3 seconds.\n\nEnhanced: Timer increased to 4 seconds.",
+      "secondaryEditor": "On Precision Hit:\r\nDecreases Draw Time by 25% for 3 seconds.\r\n\r\nEnhanced: Timer increased to 4 seconds."
     },
     "inLiveDatabase": true
   },
