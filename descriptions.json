@@ -13796,7 +13796,7 @@
     "name": "Relentless Tracker",
     "itemId": 896224899,
     "itemName": "Foetracer",
-    "lastUpdate": 1650806890604,
+    "lastUpdate": 1650807216271,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -13830,14 +13830,7 @@
       {
         "lineText": [
           {
-            "text": "If Enemy is below "
-          },
-          {
-            "text": " 30% HP ",
-            "className": "pvp"
-          },
-          {
-            "text": ":"
+            "text": "If Enemy is below 30% HP:"
           }
         ]
       },
@@ -13851,14 +13844,7 @@
       {
         "lineText": [
           {
-            "text": "(Eg: "
-          },
-          {
-            "text": " 10% HP left ",
-            "className": "pvp"
-          },
-          {
-            "text": " -> 20% Damage Increase)"
+            "text": "(Eg: 10% HP left -> 20% Damage Increase)"
           }
         ]
       },
@@ -13934,7 +13920,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Marks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nPassively grants 20 Airborne Effectiveness\n\nIf Enemy is below <pvp 30% HP />:\nGrants 1% increased damage per percent below 30%\n(Eg: <pvp 10% HP left /> -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons.",
+      "mainEditor": "Marks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nPassively grants 20 Airborne Effectiveness\n\nIf Enemy is below 30% HP:\nGrants 1% increased damage per percent below 30%\n(Eg: 10% HP left -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons.",
       "secondaryEditor": "Marks enemies for 5 seconds after hovering reticle near them for 1 second.\r\nMark persists through walls.\r\n\r\nPassively grants 20 Airborne Effectiveness\r\n\r\nIf Enemy is below 30% HP:\r\nGrants 1% increased damage per percent below 30%\r\n(Eg: 10% HP left -> 20% Damage Increase)\r\n\r\nDamage Increase applies to both abilities and weapons."
     },
     "inLiveDatabase": true
