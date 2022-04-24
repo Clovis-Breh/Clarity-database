@@ -6629,7 +6629,7 @@
     "name": "Starless Night",
     "itemId": "106575079",
     "itemName": "Helm of Saint-14",
-    "lastUpdate": 1650212029700,
+    "lastUpdate": 1650807059979,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -6661,8 +6661,38 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Guarding with Banner Shield blinds enemies within 7 metres for 5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Any Ward of Dawn that you create grants Starless Night, which gives a 65HP Void Overshield to any ally that enters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enemies that enter your Ward of Dawn are also blinded for 5 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Guarding with Banner Shield blinds enemies within 7 metres for 5 seconds.\n\nAny Ward of Dawn that you create grants Starless Night, which gives a 65HP Void Overshield to any ally that enters.\n\nEnemies that enter your Ward of Dawn are also blinded for 5 seconds."
+      "mainEditor": "Guarding with Banner Shield blinds enemies within 7 metres for 5 seconds.\n\nAny Ward of Dawn that you create grants Starless Night, which gives a 65HP Void Overshield to any ally that enters.\n\nEnemies that enter your Ward of Dawn are also blinded for 5 seconds.",
+      "secondaryEditor": "Guarding with Banner Shield blinds enemies within 7 metres for 5 seconds.\r\n\r\nAny Ward of Dawn that you create grants Starless Night, which gives a 65HP Void Overshield to any ally that enters.\r\n\r\nEnemies that enter your Ward of Dawn are also blinded for 5 seconds."
     },
     "inLiveDatabase": true
   },
