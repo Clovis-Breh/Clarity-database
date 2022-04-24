@@ -282,7 +282,7 @@
   "25606670": {
     "id": "25606670",
     "name": "Dual Loader",
-    "lastUpdate": 1650459035217,
+    "lastUpdate": 1650802357585,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -296,7 +296,7 @@
       {
         "lineText": [
           {
-            "text": "Reduces Reload Speed by 32."
+            "text": "Reduces Reload Speed by 35."
           }
         ]
       },
@@ -322,7 +322,7 @@
       {
         "lineText": [
           {
-            "text": "Reduces Reload Speed by 32."
+            "text": "Reduces Reload Speed by 35."
           }
         ]
       },
@@ -338,8 +338,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Loads 2 Ammo at a time.\nReduces Reload Speed by 32.\n\nEnhanced: Loads 3 Ammo instead of 2.",
-      "secondaryEditor": "Loads 2 Ammo at a time.\r\nReduces Reload Speed by 32.\r\n\r\nEnhanced: Loads 3 Ammo instead of 2."
+      "mainEditor": "Loads 2 Ammo at a time.\nReduces Reload Speed by 35.\n\nEnhanced: Loads 3 Ammo instead of 2.",
+      "secondaryEditor": "Loads 2 Ammo at a time.\r\nReduces Reload Speed by 35.\r\n\r\nEnhanced: Loads 3 Ammo instead of 2."
     },
     "inLiveDatabase": true
   },
