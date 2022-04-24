@@ -3140,6 +3140,38 @@
     },
     "inLiveDatabase": true
   },
+  "518387148": {
+    "id": 518387148,
+    "name": "Sprint Grip",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809519781,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "X Handling for Y seconds after sprinting for Z seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "X Handling for Y seconds after sprinting for Z seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "X Handling for Y seconds after sprinting for Z seconds.",
+      "secondaryEditor": "X Handling for Y seconds after sprinting for Z seconds."
+    },
+    "inLiveDatabase": true
+  },
   "553093017": {
     "id": 553093017,
     "name": "Beyond The Veil",
