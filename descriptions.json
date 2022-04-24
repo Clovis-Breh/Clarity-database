@@ -19896,7 +19896,7 @@
     "name": "Abyssal Extractors",
     "itemId": 3381022971,
     "itemName": "Nezarec's Sin",
-    "lastUpdate": 1650214406491,
+    "lastUpdate": 1650806350742,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -19927,27 +19927,61 @@
       {
         "lineText": [
           {
-            "text": "2.35% Rift Recharge per second"
+            "text": "300% Additional Base Grenade and Melee Regeneration Rate."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "3.65% Grenade and Melee Recharge per second"
+            "text": "200% Additional Base Rift and Super Regeneration Rate."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Void Kills grant Abyssal Extractors for 2.5 seconds."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "0.67% Super Recharge per second"
+            "text": "Maxes out at 20 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While Abyssal Extractor is active:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "300% Additional Base Grenade and Melee Regeneration Rate."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "200% Additional Base Rift and Super Regeneration Rate."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Void Kills grant Abyssal Extractors for 2.5 seconds.\r\nMaxes out at 20 seconds.\r\n\r\nWhile Abyssal Extractor is active:\r\n2.35% Rift Recharge per second\r\n3.65% Grenade and Melee Recharge per second\r\n0.67% Super Recharge per second"
+      "mainEditor": "Void Kills grant Abyssal Extractors for 2.5 seconds.\r\nMaxes out at 20 seconds.\r\n\r\nWhile Abyssal Extractor is active:\r\n300% Additional Base Grenade and Melee Regeneration Rate.\r\n200% Additional Base Rift and Super Regeneration Rate.",
+      "secondaryEditor": "Void Kills grant Abyssal Extractors for 2.5 seconds.\r\nMaxes out at 20 seconds.\r\n\r\nWhile Abyssal Extractor is active:\r\n300% Additional Base Grenade and Melee Regeneration Rate.\r\n200% Additional Base Rift and Super Regeneration Rate."
     },
     "inLiveDatabase": true
   },
