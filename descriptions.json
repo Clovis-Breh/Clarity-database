@@ -13786,7 +13786,7 @@
   "2869569095": {
     "id": "2869569095",
     "name": "Field Prep",
-    "lastUpdate": 1650802778399,
+    "lastUpdate": 1650802783383,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -13796,13 +13796,6 @@
           ],
           "multiplier": [
             0.8
-          ]
-        }
-      },
-      "handling": {
-        "active": {
-          "multiplier": [
-            0
           ]
         }
       },
