@@ -1993,7 +1993,7 @@
     "name": "Burning Fists",
     "itemId": 1734844651,
     "itemName": "Wormgod Caress",
-    "lastUpdate": 1650213445673,
+    "lastUpdate": 1650807848404,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -2029,8 +2029,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grants Burning Fists on Melee Kill."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Burning Fists lasts 5 seconds and grants Bonus Melee Damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bonus Melee Damage:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "80% | 170% | 390% | 520% | 650%"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grants Burning Fists on Melee Kill.\r\nBurning Fists lasts 5 seconds and grants Bonus Melee Damage.\r\n\r\nBonus Melee Damage:\r\n80% | 170% | 390% | 520% | 650%"
+      "mainEditor": "Grants Burning Fists on Melee Kill.\r\nBurning Fists lasts 5 seconds and grants Bonus Melee Damage.\r\n\r\nBonus Melee Damage:\r\n80% | 170% | 390% | 520% | 650%",
+      "secondaryEditor": "Grants Burning Fists on Melee Kill.\r\nBurning Fists lasts 5 seconds and grants Bonus Melee Damage.\r\n\r\nBonus Melee Damage:\r\n80% | 170% | 390% | 520% | 650%"
     },
     "inLiveDatabase": true
   },
