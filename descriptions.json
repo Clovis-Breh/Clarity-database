@@ -22359,7 +22359,7 @@
     "name": "Actual Grandeur",
     "itemId": 1030017949,
     "itemName": "Skull of Dire Ahamkara",
-    "lastUpdate": 1650214843972,
+    "lastUpdate": 1650807590387,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -22408,8 +22408,55 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Massively Increases Damage Resist during Nova Bomb"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "(Over 99.5% on Wind-Up)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Nova Bomb returns Super Energy on Kills"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "X% -> X% -> X% -> X% -> X% -> X%..."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Caps at 50% Super Energy."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Massively Increases Damage Resist during Nova Bomb\n(Over 99.5% on Wind-Up)\n\nNova Bomb returns Super Energy on Kills\n\nX% -> X% -> X% -> X% -> X% -> X%...\n\nCaps at 50% Super Energy.\n"
+      "mainEditor": "Massively Increases Damage Resist during Nova Bomb\n(Over 99.5% on Wind-Up)\n\nNova Bomb returns Super Energy on Kills\n\nX% -> X% -> X% -> X% -> X% -> X%...\n\nCaps at 50% Super Energy.\n",
+      "secondaryEditor": "Massively Increases Damage Resist during Nova Bomb\r\n(Over 99.5% on Wind-Up)\r\n\r\nNova Bomb returns Super Energy on Kills\r\n\r\nX% -> X% -> X% -> X% -> X% -> X%...\r\n\r\nCaps at 50% Super Energy.\r\n"
     },
     "inLiveDatabase": true
   },
