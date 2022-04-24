@@ -8503,7 +8503,7 @@
     "name": "Hydraulic Boosters",
     "itemId": 193869520,
     "itemName": "St0mp-EE5",
-    "lastUpdate": 1650805412942,
+    "lastUpdate": 1650805430546,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -8541,34 +8541,34 @@
       {
         "lineText": [
           {
-            "text": "High Jump = 9 metres -> 12 metres (33% higher)"
+            "text": "High Jump = 9 meters -> 12 meters (33% higher)"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Strafe Jump = 8 metres -> 9 metres (10% higher)"
+            "text": "Strafe Jump = 8 meters -> 9 meters (10% higher)"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Triple Jump = 6 metres -> 7 metres for First Jump (16% higher)"
+            "text": "Triple Jump = 6 meters -> 7 meters for First Jump (16% higher)"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "9 metres -> 11 metres for Second Jump (22% higher)"
+            "text": "9 meters -> 11 meters for Second Jump (22% higher)"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Passively grants -50 Airborne Effectiveness\nIncreases Sprint Speed by 6.25%.\nIncreases Slide Distance by 33%.\n\nIncreased Jump Height Increase:\nHigh Jump = 9 metres -> 12 metres (33% higher)\nStrafe Jump = 8 metres -> 9 metres (10% higher)\nTriple Jump = 6 metres -> 7 metres for First Jump (16% higher)\n9 metres -> 11 metres for Second Jump (22% higher)"
+      "mainEditor": "Passively grants -50 Airborne Effectiveness\nIncreases Sprint Speed by 6.25%.\nIncreases Slide Distance by 33%.\n\nIncreased Jump Height Increase:\nHigh Jump = 9 meters -> 12 meters (33% higher)\nStrafe Jump = 8 meters -> 9 meters (10% higher)\nTriple Jump = 6 meters -> 7 meters for First Jump (16% higher)\n9 meters -> 11 meters for Second Jump (22% higher)"
     },
     "inLiveDatabase": true
   },
