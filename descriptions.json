@@ -650,7 +650,7 @@
     "name": "Glacial Guard",
     "itemId": 1467044898,
     "itemName": "Icefall Mantle",
-    "lastUpdate": 1650212156616,
+    "lastUpdate": 1650807157142,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -717,8 +717,69 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Replaces Barricade with Glacial Guard."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Glacial Guard Cast:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants Shielded buff and applies 40 Slow Stacks to Combatants within 7 meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Shielded lasts 20 seconds and grants a 100HP Overshield with 62.5% Damage Resist in PVE."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Shielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While Shielded is active, you cannot regain Class Ability Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Activating Barricade while Glacial Guard is active will remove the effect."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Replaces Barricade with Glacial Guard.\n\nOn Glacial Guard Cast:\nGrants Shielded buff and applies 40 Slow Stacks to Combatants within 7 meters.\n\nShielded lasts 20 seconds and grants a 100HP Overshield <pve with 62.5% Damage Resist./>\nShielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding.\n\nWhile Shielded is active, you cannot regain Class Ability Energy.\nActivating Barricade while Glacial Guard is active will remove the effect."
+      "mainEditor": "Replaces Barricade with Glacial Guard.\n\nOn Glacial Guard Cast:\nGrants Shielded buff and applies 40 Slow Stacks to Combatants within 7 meters.\n\nShielded lasts 20 seconds and grants a 100HP Overshield <pve with 62.5% Damage Resist./>\nShielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding.\n\nWhile Shielded is active, you cannot regain Class Ability Energy.\nActivating Barricade while Glacial Guard is active will remove the effect.",
+      "secondaryEditor": "Replaces Barricade with Glacial Guard.\r\n\r\nOn Glacial Guard Cast:\r\nGrants Shielded buff and applies 40 Slow Stacks to Combatants within 7 meters.\r\n\r\nShielded lasts 20 seconds and grants a 100HP Overshield with 62.5% Damage Resist in PVE.\r\nShielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding.\r\n\r\nWhile Shielded is active, you cannot regain Class Ability Energy.\r\nActivating Barricade while Glacial Guard is active will remove the effect."
     },
     "inLiveDatabase": true
   },
