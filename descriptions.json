@@ -19075,7 +19075,7 @@
     "name": "Strange Protractor",
     "itemId": "138282166",
     "itemName": "Transversive Steps",
-    "lastUpdate": 1650215120600,
+    "lastUpdate": 1650807758574,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -19116,8 +19116,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Refreshes held weapon after 1.5 seconds of sprinting."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Sprint Speed by 6.25%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Slide Distance by 33%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Sneak Speed set to 4m/s. Unaffected by slows of any kind."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> held weapon after 1.5 seconds of sprinting.\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\nSneak Speed set to 4m/s. Unaffected by slows of any kind.\n"
+      "mainEditor": "<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> held weapon after 1.5 seconds of sprinting.\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\nSneak Speed set to 4m/s. Unaffected by slows of any kind.\n",
+      "secondaryEditor": "Refreshes held weapon after 1.5 seconds of sprinting.\r\n\r\nIncreases Sprint Speed by 6.25%\r\nIncreases Slide Distance by 33%\r\nSneak Speed set to 4m/s. Unaffected by slows of any kind.\r\n"
     },
     "inLiveDatabase": true
   },
