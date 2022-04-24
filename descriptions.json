@@ -9416,6 +9416,38 @@
     },
     "inLiveDatabase": true
   },
+  "1588595445": {
+    "id": 1588595445,
+    "name": "Counterbalance Stock",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809325689,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+15 Recoil Direction"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+15 Recoil Direction"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+15 Recoil Direction",
+      "secondaryEditor": "+15 Recoil Direction"
+    },
+    "inLiveDatabase": true
+  },
   "1600092898": {
     "id": "1600092898",
     "name": "Backup Plan",
