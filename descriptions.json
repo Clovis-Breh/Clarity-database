@@ -14030,7 +14030,7 @@
     "name": "Upgraded Sensor Pack",
     "itemId": "1321354572",
     "itemName": "Knucklehead Radar",
-    "lastUpdate": 1650209857124,
+    "lastUpdate": 1650807188549,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -14066,8 +14066,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Radar remains active while Aiming Down Sights."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "If crouched:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants Enhanced Radar."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "(Has 12 sectors instead of 6)"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Radar remains active while Aiming Down Sights.\n\nIf crouched:\nGrants Enhanced Radar.\n(Has 12 sectors instead of 6)\n"
+      "mainEditor": "Radar remains active while Aiming Down Sights.\n\nIf crouched:\nGrants Enhanced Radar.\n(Has 12 sectors instead of 6)\n",
+      "secondaryEditor": "Radar remains active while Aiming Down Sights.\r\n\r\nIf crouched:\r\nGrants Enhanced Radar.\r\n(Has 12 sectors instead of 6)\r\n"
     },
     "inLiveDatabase": true
   },
