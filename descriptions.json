@@ -7398,7 +7398,7 @@
     "name": "Blood Magic",
     "itemId": 3070555693,
     "itemName": "Sanguine Alchemy",
-    "lastUpdate": 1650214766953,
+    "lastUpdate": 1650807525547,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -7434,8 +7434,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Weapon Kills while inside an Empowering or Healing Rift grant Blood Magic"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blood Magic halts the duration of the Rift."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blood Magic Duration:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "5 seconds of per Kill. Caps at 15 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Weapon Kills while inside an Empowering or Healing Rift grant Blood Magic\r\nBlood Magic halts the duration of the Rift.\r\n\r\nBlood Magic Duration:\r\n5 seconds of per Kill. Caps at 15 seconds."
+      "mainEditor": "Weapon Kills while inside an Empowering or Healing Rift grant Blood Magic\r\nBlood Magic halts the duration of the Rift.\r\n\r\nBlood Magic Duration:\r\n5 seconds of per Kill. Caps at 15 seconds.",
+      "secondaryEditor": "Weapon Kills while inside an Empowering or Healing Rift grant Blood Magic\r\nBlood Magic halts the duration of the Rift.\r\n\r\nBlood Magic Duration:\r\n5 seconds of per Kill. Caps at 15 seconds."
     },
     "inLiveDatabase": true
   },
