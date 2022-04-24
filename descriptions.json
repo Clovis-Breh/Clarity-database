@@ -19073,6 +19073,38 @@
     },
     "inLiveDatabase": true
   },
+  "3208647503": {
+    "id": 3208647503,
+    "name": "Adept Impact",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650810356999,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+5 Impact"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+5 Impact"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+5 Impact",
+      "secondaryEditor": "+5 Impact"
+    },
+    "inLiveDatabase": true
+  },
   "3228611386": {
     "id": 3228611386,
     "name": "Targeting Adjuster",
