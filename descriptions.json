@@ -1195,7 +1195,7 @@
     "name": "Reflective Vents",
     "itemId": 2423243921,
     "itemName": "Antaeus Wards",
-    "lastUpdate": 1650211121973,
+    "lastUpdate": 1650806578579,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -1209,7 +1209,33 @@
       {
         "lineText": [
           {
-            "text": "Generate a 180Â° frontal shield that reflects damage and projectiles."
+            "text": "Generate a 180° frontal shield that reflects damage and projectiles."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Slide Distance by 33%"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "During slide after sprinting for at least 1.5 seconds: "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Generate a 180° frontal shield that reflects damage and projectiles."
           }
         ]
       },
@@ -1225,7 +1251,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180Â° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%"
+      "mainEditor": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%",
+      "secondaryEditor": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%"
     },
     "inLiveDatabase": true
   },
