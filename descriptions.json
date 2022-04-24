@@ -4386,7 +4386,7 @@
     "name": "Rapid Cooldown",
     "itemId": 609852545,
     "itemName": "Fr0st-EE5",
-    "lastUpdate": 1650806923984,
+    "lastUpdate": 1650806936649,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -4408,7 +4408,7 @@
       {
         "lineText": [
           {
-            "text": " 100% Additional Base (T3) Grenade/Melee Regeneration Rate. ",
+            "text": " 100% Additional Base Grenade/Melee Regeneration Rate. ",
             "className": "pvp"
           }
         ]
@@ -4427,7 +4427,7 @@
             "className": "pvp"
           },
           {
-            "text": " of your Base (T3) Class Ability Regeneration Rate."
+            "text": " of your Base Class Ability Regeneration Rate."
           }
         ]
       },
@@ -4474,14 +4474,14 @@
       {
         "lineText": [
           {
-            "text": "PVP: 100% Additional Base (T3) Grenade/Melee Regeneration Rate. />"
+            "text": "PVP: 100% Additional Base Grenade/Melee Regeneration Rate. />"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Gain an additional 100% [PVP: 200%] of your Base (T3) Class Ability Regeneration Rate."
+            "text": "Gain an additional 100% [PVP: 200%] of your Base Class Ability Regeneration Rate."
           }
         ]
       },
@@ -4511,8 +4511,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "While Sprinting: \n<pve 2x Grenade/Melee Regeneration Speed />\n<pvp 100% Additional Base (T3) Grenade/Melee Regeneration Rate. />\nGain an additional <pve 100% /><pvp [200%] /> of your Base (T3) Class Ability Regeneration Rate.\n\nOn Dodge:\n6.25% Faster Sprint for 10 seconds. \nNot refreshable.",
-      "secondaryEditor": "While Sprinting: \r\nPVE: 2x Grenade/Melee Regeneration Speed />\r\nPVP: 100% Additional Base (T3) Grenade/Melee Regeneration Rate. />\r\nGain an additional 100% [PVP: 200%] of your Base (T3) Class Ability Regeneration Rate.\r\n\r\nOn Dodge:\r\n6.25% Faster Sprint for 10 seconds. \r\nNot refreshable."
+      "mainEditor": "While Sprinting: \n<pve 2x Grenade/Melee Regeneration Speed />\n<pvp 100% Additional Base Grenade/Melee Regeneration Rate. />\nGain an additional <pve 100% /><pvp [200%] /> of your Base Class Ability Regeneration Rate.\n\nOn Dodge:\n6.25% Faster Sprint for 10 seconds. \nNot refreshable.",
+      "secondaryEditor": "While Sprinting: \r\nPVE: 2x Grenade/Melee Regeneration Speed />\r\nPVP: 100% Additional Base Grenade/Melee Regeneration Rate. />\r\nGain an additional 100% [PVP: 200%] of your Base Class Ability Regeneration Rate.\r\n\r\nOn Dodge:\r\n6.25% Faster Sprint for 10 seconds. \r\nNot refreshable."
     },
     "inLiveDatabase": true
   },
