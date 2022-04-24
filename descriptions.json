@@ -4883,14 +4883,14 @@
   "1047830412": {
     "id": "1047830412",
     "name": "Full Choke",
-    "lastUpdate": 1650458833139,
+    "lastUpdate": 1650803212639,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Minimally decreases pellet spread"
+            "text": "Decreases Shotgun Pellet Spread by 3.75"
           }
         ]
       },
@@ -4909,7 +4909,7 @@
       {
         "lineText": [
           {
-            "text": "Minimally decreases pellet spread"
+            "text": "Decreases Shotgun Pellet Spread by 3.75"
           }
         ]
       },
@@ -4925,8 +4925,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Minimally decreases pellet spread\r\n\r\nReduces Precision Damage Multiplier",
-      "secondaryEditor": "Minimally decreases pellet spread\r\n\r\nReduces Precision Damage Multiplier"
+      "mainEditor": "Decreases Shotgun Pellet Spread by 3.75\r\n\r\nReduces Precision Damage Multiplier",
+      "secondaryEditor": "Decreases Shotgun Pellet Spread by 3.75\r\n\r\nReduces Precision Damage Multiplier"
     },
     "inLiveDatabase": true
   },
