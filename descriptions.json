@@ -7675,7 +7675,7 @@
   "1600092898": {
     "id": "1600092898",
     "name": "Backup Plan",
-    "lastUpdate": 1650452617095,
+    "lastUpdate": 1650801673895,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -7719,21 +7719,7 @@
       {
         "lineText": [
           {
-            "text": "Multiplies Charge Time by 0.7"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "20% Reduced damage"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "100 Handling"
+            "text": "30% Faster Charge Rate, 20% decreased damage, and 100 Handling"
           }
         ]
       },
@@ -7770,28 +7756,14 @@
       {
         "lineText": [
           {
-            "text": "Multiplies Charge Time by 0.7"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "20% Reduced damage"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "100 Handling"
+            "text": "30% Faster Charge Rate, 20% decreased damage, and 100 Handling"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "For 4 seconds after readying a Fusion Rifle:\nMultiplies Charge Time by 0.7\n20% Reduced damage\n100 Handling\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />",
-      "secondaryEditor": "For 4 seconds after readying a Fusion Rifle:\r\nMultiplies Charge Time by 0.7\r\n20% Reduced damage\r\n100 Handling"
+      "mainEditor": "For 4 seconds after readying a Fusion Rifle:\n30% Faster Charge Rate, 20% decreased damage, and 100 Handling\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />",
+      "secondaryEditor": "For 4 seconds after readying a Fusion Rifle:\r\n30% Faster Charge Rate, 20% decreased damage, and 100 Handling"
     },
     "inLiveDatabase": true
   },
