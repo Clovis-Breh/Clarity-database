@@ -1028,6 +1028,38 @@
     },
     "inLiveDatabase": true
   },
+  "229003538": {
+    "id": 229003538,
+    "name": "Adept Blast Radius",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809960426,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Blast Radius"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Blast Radius"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+10 Blast Radius",
+      "secondaryEditor": "+10 Blast Radius"
+    },
+    "inLiveDatabase": true
+  },
   "235075862": {
     "id": 235075862,
     "name": "Peregrine Strike",
