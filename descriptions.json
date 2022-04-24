@@ -11451,8 +11451,17 @@
     "name": "Dragonfly Spec",
     "itemId": "2563444729",
     "itemName": "ACD/0 Feedback Fence",
-    "lastUpdate": 1650809730343,
+    "lastUpdate": 1650809734236,
     "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            1.5
+          ]
+        }
+      }
+    },
     "type": "weaponMod",
     "description": [
       {
