@@ -22171,6 +22171,38 @@
     },
     "inLiveDatabase": true
   },
+  "3785661089": {
+    "id": 3785661089,
+    "name": "Radar Booster",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809390947,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Maximum Radar Distance increased by 8 metres."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Maximum Radar Distance increased by 8 metres."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Maximum Radar Distance increased by 8 metres.",
+      "secondaryEditor": "Maximum Radar Distance increased by 8 metres."
+    },
+    "inLiveDatabase": true
+  },
   "3796465595": {
     "id": "3796465595",
     "name": "Impact Casing",
