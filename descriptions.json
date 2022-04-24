@@ -4647,6 +4647,47 @@
     },
     "inLiveDatabase": true
   },
+  "736000386": {
+    "id": 736000386,
+    "name": "Freehand Grip",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809456729,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "draw": {
+        "active": {
+          "multiplier": [
+            0.95
+          ]
+        }
+      }
+    },
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "X% increased Hipfire Accuracy and 0.95x Ready Animation Duration Scalar."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "X% increased Hipfire Accuracy and 0.95x Ready Animation Duration Scalar."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "X% increased Hipfire Accuracy and 0.95x Ready Animation Duration Scalar.",
+      "secondaryEditor": "X% increased Hipfire Accuracy and 0.95x Ready Animation Duration Scalar."
+    },
+    "inLiveDatabase": true
+  },
   "744217850": {
     "id": 744217850,
     "name": "Vanguard's Vindication",
