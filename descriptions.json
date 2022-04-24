@@ -14289,6 +14289,38 @@
     },
     "inLiveDatabase": true
   },
+  "2299766748": {
+    "id": 2299766748,
+    "name": "Adept Projectile Speed",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650810262258,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Velocity"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Velocity"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+10 Velocity",
+      "secondaryEditor": "+10 Velocity"
+    },
+    "inLiveDatabase": true
+  },
   "2355041704": {
     "id": "2355041704",
     "name": "Solar Rampart",
