@@ -11111,6 +11111,52 @@
     },
     "inLiveDatabase": true
   },
+  "1710791394": {
+    "id": 1710791394,
+    "name": "Adept Targeting",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650810186383,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Aim Assist"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "-15 Stability"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Aim Assist"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "-15 Stability"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+10 Aim Assist\r\n-15 Stability",
+      "secondaryEditor": "+10 Aim Assist\r\n-15 Stability"
+    },
+    "inLiveDatabase": true
+  },
   "1716000303": {
     "id": "1716000303",
     "name": "Concussion Grenades",
