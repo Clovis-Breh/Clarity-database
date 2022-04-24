@@ -4063,7 +4063,7 @@
     "name": "Vengeance",
     "itemId": 2578771006,
     "itemName": "One-Eyed Mask",
-    "lastUpdate": 1650212592006,
+    "lastUpdate": 1650807474067,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -4095,8 +4095,38 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Taking damage highlights the enemy that caused it for 8 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Killing the targeted enemy grants Vengeance for 6 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Vengeance grants a 95 HP Overshield."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Taking damage highlights the enemy that caused it for 8 seconds.\r\n\r\nKilling the targeted enemy grants Vengeance for 6 seconds.\r\n\r\nVengeance grants a 95 HP Overshield."
+      "mainEditor": "Taking damage highlights the enemy that caused it for 8 seconds.\r\n\r\nKilling the targeted enemy grants Vengeance for 6 seconds.\r\n\r\nVengeance grants a 95 HP Overshield.",
+      "secondaryEditor": "Taking damage highlights the enemy that caused it for 8 seconds.\r\n\r\nKilling the targeted enemy grants Vengeance for 6 seconds.\r\n\r\nVengeance grants a 95 HP Overshield."
     },
     "inLiveDatabase": true
   },
