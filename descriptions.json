@@ -11446,6 +11446,38 @@
     },
     "inLiveDatabase": true
   },
+  "1837151577": {
+    "id": 1837151577,
+    "name": "Dragonfly Spec",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809727284,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "50% Increased Damage and Radius for Dragonfly explosions"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "50% Increased Damage and Radius for Dragonfly explosions"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "50% Increased Damage and Radius for Dragonfly explosions",
+      "secondaryEditor": "50% Increased Damage and Radius for Dragonfly explosions"
+    },
+    "inLiveDatabase": true
+  },
   "1844314558": {
     "id": "1844314558",
     "name": "Parting Gift",
