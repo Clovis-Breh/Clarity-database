@@ -15288,7 +15288,7 @@
     "name": "Helium Spirals",
     "itemId": 3787517196,
     "itemName": "Sunbracers",
-    "lastUpdate": 1650217534175,
+    "lastUpdate": 1650807610944,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -15320,8 +15320,38 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Solar Grenades have Fastball intrinsically and last twice as long (5 -> 10 seconds)."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Powered Melee Kills grant 5 seconds of Sunbracers Ready."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Using your Grenade Ability while Sunbracers Ready is active grants the Sunbracers buff, granting unlimited Solar Grenades for 5 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Solar Grenades have Fastball intrinsically and last twice as long (5 -> 10 seconds).\r\n\r\nPowered Melee Kills grant 5 seconds of Sunbracers Ready.\r\n\r\nUsing your Grenade Ability while Sunbracers Ready is active grants the Sunbracers buff, granting unlimited Solar Grenades for 5 seconds."
+      "mainEditor": "Solar Grenades have Fastball intrinsically and last twice as long (5 -> 10 seconds).\r\n\r\nPowered Melee Kills grant 5 seconds of Sunbracers Ready.\r\n\r\nUsing your Grenade Ability while Sunbracers Ready is active grants the Sunbracers buff, granting unlimited Solar Grenades for 5 seconds.",
+      "secondaryEditor": "Solar Grenades have Fastball intrinsically and last twice as long (5 -> 10 seconds).\r\n\r\nPowered Melee Kills grant 5 seconds of Sunbracers Ready.\r\n\r\nUsing your Grenade Ability while Sunbracers Ready is active grants the Sunbracers buff, granting unlimited Solar Grenades for 5 seconds."
     },
     "inLiveDatabase": true
   },
