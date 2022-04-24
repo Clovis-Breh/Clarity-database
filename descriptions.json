@@ -7251,7 +7251,7 @@
   "1561002382": {
     "id": "1561002382",
     "name": "High-Caliber Rounds",
-    "lastUpdate": 1650458787753,
+    "lastUpdate": 1650803368929,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -7279,7 +7279,7 @@
       {
         "lineText": [
           {
-            "text": " Flinch amount against Guardians varies between Archetypes, from 6% to 11% Increased Flinch received. ",
+            "text": " Flinch amount against Guardians varies between Weapon Archetypes, from 6% to 11% Increased Flinch received. ",
             "className": "pvp"
           }
         ]
@@ -7309,14 +7309,14 @@
       {
         "lineText": [
           {
-            "text": "[PVP] Flinch amount against Guardians varies between Archetypes, from 6% to 11% Increased Flinch received."
+            "text": "[PVP] Flinch amount against Guardians varies between Weapon Archetypes, from 6% to 11% Increased Flinch received."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Increased Flinch on Enemies.\n\n<pve Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors. />\n\n<pvp Flinch amount against Guardians varies between Archetypes, from 6% to 11% Increased Flinch received. />\n",
-      "secondaryEditor": "Increased Flinch on Enemies.\r\n\r\n[PVE] Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors.\r\n\r\n[PVP] Flinch amount against Guardians varies between Archetypes, from 6% to 11% Increased Flinch received.\r\n"
+      "mainEditor": "Increased Flinch on Enemies.\n\n<pve Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors. />\n\n<pvp Flinch amount against Guardians varies between Weapon Archetypes, from 6% to 11% Increased Flinch received. />\n",
+      "secondaryEditor": "Increased Flinch on Enemies.\r\n\r\n[PVE] Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors.\r\n\r\n[PVP] Flinch amount against Guardians varies between Weapon Archetypes, from 6% to 11% Increased Flinch received.\r\n"
     },
     "inLiveDatabase": true
   },
