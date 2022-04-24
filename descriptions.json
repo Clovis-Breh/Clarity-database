@@ -26079,5 +26079,37 @@
       "secondaryEditor": "Automatically queues up the next shot after firing if you hold the trigger.\r\n\r\n10% Faster Rate of Fire on Shotguns exclusively."
     },
     "inLiveDatabase": true
+  },
+  "4278960718": {
+    "id": 4278960718,
+    "name": "Adept Handling",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650810412921,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Handling"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+10 Handling"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+10 Handling",
+      "secondaryEditor": "+10 Handling"
+    },
+    "inLiveDatabase": true
   }
 }
