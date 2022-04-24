@@ -16229,7 +16229,7 @@
     "name": "Sect of Force",
     "itemId": "3942036043",
     "itemName": "Aeon Swift",
-    "lastUpdate": 1650207847281,
+    "lastUpdate": 1650806549677,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -16288,8 +16288,65 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Aeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Champion Stun, Mini-boss, or Boss Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Allies within 30 metres gain 50% Grenade and Melee Energy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Aeon Allies additionally gain 10% Super Energy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "4 second cooldown between refresh."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds.\n\nAeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed.\n\nOn Champion Stun, Mini-boss, or Boss Kill:\nAllies within 30 metres gain 50% Grenade and Melee Energy.\n\nAeon Allies additionally gain 10% Super Energy.\n\n4 second cooldown between refresh."
+      "mainEditor": "4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds.\n\nAeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed.\n\nOn Champion Stun, Mini-boss, or Boss Kill:\nAllies within 30 metres gain 50% Grenade and Melee Energy.\n\nAeon Allies additionally gain 10% Super Energy.\n\n4 second cooldown between refresh.",
+      "secondaryEditor": "4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds.\r\n\r\nAeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed.\r\n\r\nOn Champion Stun, Mini-boss, or Boss Kill:\r\nAllies within 30 metres gain 50% Grenade and Melee Energy.\r\n\r\nAeon Allies additionally gain 10% Super Energy.\r\n\r\n4 second cooldown between refresh."
     },
     "inLiveDatabase": true
   },
