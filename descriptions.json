@@ -11989,7 +11989,7 @@
     "name": "The Fourth Magic",
     "itemId": 2428181146,
     "itemName": "Verity's Brow",
-    "lastUpdate": 1650484974924,
+    "lastUpdate": 1650807790421,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -12006,7 +12006,64 @@
       {
         "lineText": [
           {
-            "text": "Each Stack of Death Throes grants 50% Additional Base (T3) Grenade Regeneration Rate"
+            "text": "Each Stack of Death Throes grants 50% Additional Base Grenade Regeneration Rate"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "and 20% Increased Grenade Damage. "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Max of 5 Stacks. Lasts 11 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Grenade Ability Use:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Allies within 18(?) metres receive Feel The Flame."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Feel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Each Stack of Death Throes grants 50% Additional Base Grenade Regeneration Rate"
           }
         ]
       },
@@ -12050,7 +12107,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes\n\nEach Stack of Death Throes grants 50% Additional Base (T3) Grenade Regeneration Rate\nand 20% Increased Grenade Damage. \nMax of 5 Stacks. Lasts 11 seconds.\n\nOn Grenade Ability Use:\nAllies within 18(?) metres receive Feel The Flame.\nFeel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds."
+      "mainEditor": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes\n\nEach Stack of Death Throes grants 50% Additional Base Grenade Regeneration Rate\nand 20% Increased Grenade Damage. \nMax of 5 Stacks. Lasts 11 seconds.\n\nOn Grenade Ability Use:\nAllies within 18(?) metres receive Feel The Flame.\nFeel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds.",
+      "secondaryEditor": "Weapons Kills with a Matching Subclass Element grant Stacks of Death Throes\r\n\r\nEach Stack of Death Throes grants 50% Additional Base Grenade Regeneration Rate\r\nand 20% Increased Grenade Damage. \r\nMax of 5 Stacks. Lasts 11 seconds.\r\n\r\nOn Grenade Ability Use:\r\nAllies within 18(?) metres receive Feel The Flame.\r\nFeel the Flame grants 500% (verify) faster Grenade Recharge for (2 * Stacks) seconds."
     },
     "inLiveDatabase": true
   },
