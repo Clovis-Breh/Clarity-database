@@ -18409,7 +18409,7 @@
     "name": "Sect of Insight",
     "itemId": 1654461647,
     "itemName": "Aeon Safe",
-    "lastUpdate": 1650207751056,
+    "lastUpdate": 1650806525301,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -18448,8 +18448,45 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "2 Precision Multikills drop an Orb of Power for allies."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Finishing an Elite spawns a Special Ammo Brick for Allies"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Finishing a Mini-boss spawns a Power Ammo Brick for Allies."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Aeon Allies additionally receive a 35% Damage Increase for 20 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "2 Precision Multikills drop an Orb of Power for allies.\n\nFinishing an Elite spawns a Special Ammo Brick for Allies\nFinishing a Mini-boss spawns a Power Ammo Brick for Allies.\n\nAeon Allies additionally receive a 35% Damage Increase for 20 seconds."
+      "mainEditor": "2 Precision Multikills drop an Orb of Power for allies.\n\nFinishing an Elite spawns a Special Ammo Brick for Allies\nFinishing a Mini-boss spawns a Power Ammo Brick for Allies.\n\nAeon Allies additionally receive a 35% Damage Increase for 20 seconds.",
+      "secondaryEditor": "2 Precision Multikills drop an Orb of Power for allies.\r\n\r\nFinishing an Elite spawns a Special Ammo Brick for Allies\r\nFinishing a Mini-boss spawns a Power Ammo Brick for Allies.\r\n\r\nAeon Allies additionally receive a 35% Damage Increase for 20 seconds."
     },
     "inLiveDatabase": true
   },
