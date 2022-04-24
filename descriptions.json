@@ -3310,7 +3310,7 @@
     "name": "Wraithmetal Mail",
     "itemId": 2766109874,
     "itemName": "The Dragon's Shadow",
-    "lastUpdate": 1650209764906,
+    "lastUpdate": 1650807687020,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -3374,7 +3374,61 @@
       {
         "lineText": [
           {
-            "text": " Increases Sprint Speed by 6.25%."
+            "text": "Increases Sprint Speed by 6.25%."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Slide Distance by 33%."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Dodge:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants Wraithmetal Mail for 9 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Wraithmetal Mail"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reloads all weapons"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 100 Handling (w/ 0.95x Multiplier), 100 Reload, and 50 Mobility."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Sprint Speed by 6.25%."
           }
         ]
       },
@@ -3387,7 +3441,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Dodge:\r\nGrants Wraithmetal Mail for 9 seconds.\r\n\r\nWraithmetal Mail\r\nReloads all weapons\r\nGrants 100 Handling (w/ 0.95x Multiplier), 100 Reload, and 50 Mobility.\r\n Increases Sprint Speed by 6.25%.\r\nIncreases Slide Distance by 33%."
+      "mainEditor": "On Dodge:\r\nGrants Wraithmetal Mail for 9 seconds.\r\n\r\nWraithmetal Mail\r\nReloads all weapons\r\nGrants 100 Handling (w/ 0.95x Multiplier), 100 Reload, and 50 Mobility.\r\nIncreases Sprint Speed by 6.25%.\r\nIncreases Slide Distance by 33%.",
+      "secondaryEditor": "On Dodge:\r\nGrants Wraithmetal Mail for 9 seconds.\r\n\r\nWraithmetal Mail\r\nReloads all weapons\r\nGrants 100 Handling (w/ 0.95x Multiplier), 100 Reload, and 50 Mobility.\r\nIncreases Sprint Speed by 6.25%.\r\nIncreases Slide Distance by 33%."
     },
     "inLiveDatabase": true
   },
