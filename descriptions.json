@@ -15445,14 +15445,64 @@
     "name": "Jump Jets",
     "itemId": "3539357318",
     "itemName": "Lion Rampant",
-    "lastUpdate": 1650212209442,
+    "lastUpdate": 1650805744335,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Enables hipfiring while in Lift, and removes Accuracy Penalty from being Airborne."
+            "text": "Enables hipfiring while in Lift, and passively grants 50 Airborne Effectiveness while hipfiring."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Lift Duration to 4 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lift Duration in seconds:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "High Lift: 2.6 -> 4 (54% increase)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stafe Lift: 2.2 -> 4 (82% increase)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Catapult Lift: 1 -> 4 (300% increase!)"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Enables hipfiring while in Lift, and passively grants 50 Airborne Effectiveness while hipfiring."
           }
         ]
       },
@@ -15499,7 +15549,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Enables hipfiring while in Lift, and removes Accuracy Penalty from being Airborne.\n\nIncreases Lift Duration to 4 seconds.\n\nLift Duration in seconds:\nHigh Lift: 2.6 -> 4 (54% increase)\nStafe Lift: 2.2 -> 4 (82% increase)\nCatapult Lift: 1 -> 4 (300% increase!)\n"
+      "mainEditor": "Enables hipfiring while in Lift, and passively grants 50 Airborne Effectiveness while hipfiring.\n\nIncreases Lift Duration to 4 seconds.\n\nLift Duration in seconds:\nHigh Lift: 2.6 -> 4 (54% increase)\nStafe Lift: 2.2 -> 4 (82% increase)\nCatapult Lift: 1 -> 4 (300% increase!)",
+      "secondaryEditor": "Enables hipfiring while in Lift, and passively grants 50 Airborne Effectiveness while hipfiring.\r\n\r\nIncreases Lift Duration to 4 seconds.\r\n\r\nLift Duration in seconds:\r\nHigh Lift: 2.6 -> 4 (54% increase)\r\nStafe Lift: 2.2 -> 4 (82% increase)\r\nCatapult Lift: 1 -> 4 (300% increase!)"
     },
     "inLiveDatabase": true
   },
