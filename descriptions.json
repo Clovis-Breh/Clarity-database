@@ -346,7 +346,7 @@
   "47981717": {
     "id": "47981717",
     "name": "Opening Shot",
-    "lastUpdate": 1650572157059,
+    "lastUpdate": 1650803576766,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -387,7 +387,7 @@
       {
         "lineText": [
           {
-            "text": "20 Aim Assist, 20 Range, 5% Increased Damage Falloff Distance, -5% Accuracy Cone Size, -10% "
+            "text": "20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% "
           },
           {
             "title": "How Fast Your Accuracy Cone Expands. The less the better.",
@@ -423,42 +423,14 @@
       {
         "lineText": [
           {
-            "text": "20 Aim Assist"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "20 Range"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "5% Increased Damage Falloff Distance"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "-5% Accuracy Cone"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "-10% Accuracy Cone Growth."
+            "text": "20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "For the <title first bullet only [Even in the case of burst weapons. Only the first bullet of the burst is affected.] />, and 3.1s after not firing:\n20 Aim Assist, 20 Range, 5% Increased Damage Falloff Distance, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />.\n\n<formula In-Game Range: range_0 />\n",
-      "secondaryEditor": "For the first bullet only, and after a 3.1s after not firing:\r\n20 Aim Assist\r\n20 Range\r\n5% Increased Damage Falloff Distance\r\n-5% Accuracy Cone\r\n-10% Accuracy Cone Growth."
+      "mainEditor": "For the <title first bullet only [Even in the case of burst weapons. Only the first bullet of the burst is affected.] />, and 3.1s after not firing:\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />.\n\n<formula In-Game Range: range_0 />\n",
+      "secondaryEditor": "For the first bullet only, and after a 3.1s after not firing:\r\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth."
     },
     "inLiveDatabase": true
   },
