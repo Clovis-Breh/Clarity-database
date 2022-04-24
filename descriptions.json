@@ -16260,7 +16260,7 @@
     "name": "Beacons of Empowerment",
     "itemId": "1537074069",
     "itemName": "Phoenix Cradle",
-    "lastUpdate": 1650212722877,
+    "lastUpdate": 1650807494626,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -16279,8 +16279,25 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Sun Warrior buff from Sunspots lasts twice as long (5 -> 10 seconds)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Sunspots affect the entire team."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Sun Warrior buff from Sunspots lasts twice as long (5 -> 10 seconds)\nSunspots affect the entire team.\n"
+      "mainEditor": "Sun Warrior buff from Sunspots lasts twice as long (5 -> 10 seconds)\nSunspots affect the entire team.\n",
+      "secondaryEditor": "Sun Warrior buff from Sunspots lasts twice as long (5 -> 10 seconds)\r\nSunspots affect the entire team.\r\n"
     },
     "inLiveDatabase": true
   },
