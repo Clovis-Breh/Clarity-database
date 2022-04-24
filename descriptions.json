@@ -5940,7 +5940,7 @@
     "name": "Embers of Light",
     "itemId": "235591051",
     "itemName": "Promethium Spur",
-    "lastUpdate": 1650214693647,
+    "lastUpdate": 1650807507082,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -5986,8 +5986,52 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Daybreak Kills spawn both an Empowering and Healing Rift on Enemy Death Location."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While standing in a Rift:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Solar Weapon Kills grant X% Class Ability Energy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "While your Class Ability Energy is Full:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Weapon Kills consume your Class Ability Energy and spawn a Empowering + Healing Rift at the Target's Location."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Daybreak Kills spawn both an Empowering and Healing Rift on Enemy Death Location.\n\nWhile standing in a Rift:\nSolar Weapon Kills grant X% Class Ability Energy.\n\nWhile your Class Ability Energy is Full:\nWeapon Kills consume your Class Ability Energy and spawn a Empowering + Healing Rift at the Target's Location.\n"
+      "mainEditor": "Daybreak Kills spawn both an Empowering and Healing Rift on Enemy Death Location.\n\nWhile standing in a Rift:\nSolar Weapon Kills grant X% Class Ability Energy.\n\nWhile your Class Ability Energy is Full:\nWeapon Kills consume your Class Ability Energy and spawn a Empowering + Healing Rift at the Target's Location.\n",
+      "secondaryEditor": "Daybreak Kills spawn both an Empowering and Healing Rift on Enemy Death Location.\r\n\r\nWhile standing in a Rift:\r\nSolar Weapon Kills grant X% Class Ability Energy.\r\n\r\nWhile your Class Ability Energy is Full:\r\nWeapon Kills consume your Class Ability Energy and spawn a Empowering + Healing Rift at the Target's Location.\r\n"
     },
     "inLiveDatabase": true
   },
