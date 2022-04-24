@@ -11233,7 +11233,7 @@
   "2387244414": {
     "id": "2387244414",
     "name": "Zen Moment",
-    "lastUpdate": 1650462243573,
+    "lastUpdate": 1650804643432,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -11264,7 +11264,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Stability."
+            "text": "Enhanced: Passively grants 5 Stability."
           }
         ]
       }
@@ -11297,14 +11297,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Stability."
+            "text": "Enhanced: Passively grants 5 Stability."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Stacking Hits:\n Reduces the Maximum Recoil Angle and Weapon Shake. \nRemoves Reticle Bounce on Controller input.\n\nEnhanced: Passively grants 4 Stability.",
-      "secondaryEditor": "On Stacking Hits:\r\nReduces the Maximum Recoil Angle and Weapon Shake. \r\nRemoves Reticle Bounce on Controller input.\r\n\r\nEnhanced: Passively grants 4 Stability."
+      "mainEditor": "On Stacking Hits:\n Reduces the Maximum Recoil Angle and Weapon Shake. \nRemoves Reticle Bounce on Controller input.\n\nEnhanced: Passively grants 5 Stability.",
+      "secondaryEditor": "On Stacking Hits:\r\nReduces the Maximum Recoil Angle and Weapon Shake. \r\nRemoves Reticle Bounce on Controller input.\r\n\r\nEnhanced: Passively grants 5 Stability."
     },
     "inLiveDatabase": true
   },
