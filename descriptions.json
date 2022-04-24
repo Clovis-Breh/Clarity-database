@@ -21944,7 +21944,7 @@
     "name": "Burning Souls",
     "itemId": "3562696927",
     "itemName": "Wormhusk Crown",
-    "lastUpdate": 1650211054510,
+    "lastUpdate": 1650807851982,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -21963,8 +21963,25 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "On Dodge:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Heals 67HP."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "On Dodge:\nHeals 67HP.\n"
+      "mainEditor": "On Dodge:\nHeals 67HP.\n",
+      "secondaryEditor": "On Dodge:\r\nHeals 67HP.\r\n"
     },
     "inLiveDatabase": true
   },
