@@ -23927,7 +23927,7 @@
     "name": "Mobius Conduit",
     "itemId": 2268523867,
     "itemName": "Raiju's Harness",
-    "lastUpdate": 1650210475599,
+    "lastUpdate": 1650807517903,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -23963,8 +23963,42 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While in Arc Staff:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blocking with Whirlwind Guard doesn't consume extra Super Energy."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Can deactivate Arc Staff at any time to preserve a portion of unspent Super Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Instantaneous Deactivation refunds 62.5% Super Energy."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While in Arc Staff:\r\nBlocking with Whirlwind Guard doesn't consume extra Super Energy.\r\n\r\nCan deactivate Arc Staff at any time to preserve a portion of unspent Super Energy.\r\nInstantaneous Deactivation refunds 62.5% Super Energy."
+      "mainEditor": "While in Arc Staff:\r\nBlocking with Whirlwind Guard doesn't consume extra Super Energy.\r\n\r\nCan deactivate Arc Staff at any time to preserve a portion of unspent Super Energy.\r\nInstantaneous Deactivation refunds 62.5% Super Energy.",
+      "secondaryEditor": "While in Arc Staff:\r\nBlocking with Whirlwind Guard doesn't consume extra Super Energy.\r\n\r\nCan deactivate Arc Staff at any time to preserve a portion of unspent Super Energy.\r\nInstantaneous Deactivation refunds 62.5% Super Energy."
     },
     "inLiveDatabase": true
   },
