@@ -1894,6 +1894,38 @@
     },
     "inLiveDatabase": true
   },
+  "371216963": {
+    "id": 371216963,
+    "name": "Radar Tuner",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809404018,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Radar immediately returns after stopping ADS. (Normally takes 1.5s)"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Radar immediately returns after stopping ADS. (Normally takes 1.5s)"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Radar immediately returns after stopping ADS. (Normally takes 1.5s)",
+      "secondaryEditor": "Radar immediately returns after stopping ADS. (Normally takes 1.5s)"
+    },
+    "inLiveDatabase": true
+  },
   "384759954": {
     "id": 384759954,
     "name": "Bring the Heat",
