@@ -18323,6 +18323,38 @@
     },
     "inLiveDatabase": true
   },
+  "3228611386": {
+    "id": 3228611386,
+    "name": "Targeting Adjuster",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809361823,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+5 Aim Assist"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+5 Aim Assist"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+5 Aim Assist",
+      "secondaryEditor": "+5 Aim Assist"
+    },
+    "inLiveDatabase": true
+  },
   "3241194940": {
     "id": "3241194940",
     "name": "Jump Jets",
