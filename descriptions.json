@@ -4441,34 +4441,21 @@
   "957782887": {
     "id": "957782887",
     "name": "Snapshot Sights",
-    "lastUpdate": 1650460203993,
+    "lastUpdate": 1650804246118,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Massive Aiming-Down-Sights Animation Multiplier. "
+            "text": "0.5x Aim Down Sights Animation Scalar for Primary Weapons"
           }
         ]
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
-            "text": "Stacks with ADS Multiplier effects, such as Helmet Targeting mods and Dragon's Shadow."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Will reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling."
+            "text": "0.75x Aim Down Sights Animation Scalar for Special Weapons"
           }
         ]
       },
@@ -4487,27 +4474,14 @@
       {
         "lineText": [
           {
-            "text": "Massive Aiming-Down-Sights Animation Multiplier. "
+            "text": "0.5x Aim Down Sights Animation Scalar for Primary Weapons"
           }
         ]
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
-            "text": "Stacks with ADS Multiplier effects, such as Helmet Targeting mods and Dragon's Shadow."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Will reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling."
+            "text": "0.75x Aim Down Sights Animation Scalar for Special Weapons"
           }
         ]
       },
@@ -4523,8 +4497,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Massive Aiming-Down-Sights Animation Multiplier. \n\nStacks with ADS Multiplier effects, such as Helmet Targeting mods and Dragon's Shadow.\n\nWill reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling.\n\nEnhanced: Passively grants 4 Stability.",
-      "secondaryEditor": "Massive Aiming-Down-Sights Animation Multiplier. \r\n\r\nStacks with ADS Multiplier effects, such as Helmet Targeting mods and Dragon's Shadow.\r\n\r\nWill reach ADS Animation Cap very quickly when stacked with other multipliers and/or high handling.\r\n\r\nEnhanced: Passively grants 4 Stability."
+      "mainEditor": "0.5x Aim Down Sights Animation Scalar for Primary Weapons\n0.75x Aim Down Sights Animation Scalar for Special Weapons\n\nEnhanced: Passively grants 4 Stability.",
+      "secondaryEditor": "0.5x Aim Down Sights Animation Scalar for Primary Weapons\r\n0.75x Aim Down Sights Animation Scalar for Special Weapons\r\n\r\nEnhanced: Passively grants 4 Stability."
     },
     "inLiveDatabase": true
   },
