@@ -16054,10 +16054,96 @@
     "name": "Move to Survive",
     "itemId": "3948284065",
     "itemName": "Astrocyte Verse",
-    "lastUpdate": 1650213746368,
+    "lastUpdate": 1650805977095,
     "updatedBy": "Fading-Shadow",
+    "stats": {
+      "draw": {
+        "active": {
+          "stat": [
+            100
+          ]
+        }
+      }
+    },
     "type": "armorExotic",
     "description": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 30 Airborne Effectiveness"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "25% increased Blink distance."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Reduces Blink charge cooldown by ~16% on average."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Blink:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "100 Ready Speed Handling, Radar remains active."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Blink Cooldowns:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "2.5 seconds (3 seconds base)"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Cooldown = 4.5 seconds (5 seconds base)"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 30 Airborne Effectiveness"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
       {
         "lineText": [
           {
@@ -16115,7 +16201,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "25% increased Blink distance.\nReduces Blink charge cooldown by ~16% on average.\n\nOn Blink:\n100 Ready Speed Handling, Radar remains active.\n\nBlink Cooldowns:\n2.5 seconds (3 seconds base)\nCooldown = 4.5 seconds (5 seconds base)\n"
+      "mainEditor": "Passively grants 30 Airborne Effectiveness\n\n25% increased Blink distance.\nReduces Blink charge cooldown by ~16% on average.\n\nOn Blink:\n100 Ready Speed Handling, Radar remains active.\n\nBlink Cooldowns:\n2.5 seconds (3 seconds base)\nCooldown = 4.5 seconds (5 seconds base)",
+      "secondaryEditor": "Passively grants 30 Airborne Effectiveness\r\n\r\n25% increased Blink distance.\r\nReduces Blink charge cooldown by ~16% on average.\r\n\r\nOn Blink:\r\n100 Ready Speed Handling, Radar remains active.\r\n\r\nBlink Cooldowns:\r\n2.5 seconds (3 seconds base)\r\nCooldown = 4.5 seconds (5 seconds base)"
     },
     "inLiveDatabase": true
   },
