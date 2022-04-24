@@ -7323,13 +7323,13 @@
   "1561789734": {
     "id": "1561789734",
     "name": "Firefly",
-    "lastUpdate": 1650455768408,
+    "lastUpdate": 1650802799256,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
           "stat": [
-            45
+            50
           ]
         }
       }
@@ -7353,7 +7353,7 @@
       {
         "lineText": [
           {
-            "text": "45 Reload Speed for 6 seconds."
+            "text": "50 Reload Speed for 6 seconds."
           }
         ]
       },
@@ -7409,7 +7409,7 @@
       {
         "lineText": [
           {
-            "text": "45 Reload Speed for 6 seconds."
+            "text": "50 Reload Speed for 6 seconds."
           }
         ]
       },
@@ -7435,8 +7435,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\n45 Reload Speed for 6 seconds.\n\n<highlight_4 Not affected by Dragonfly Spec. />\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Stronger effect.",
-      "secondaryEditor": "On Precision Kill:\r\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\r\n45 Reload Speed for 6 seconds.\r\n\r\nNot affected by Dragonfly Spec.\r\n\r\nEnhanced: Stronger effect."
+      "mainEditor": "On Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\n50 Reload Speed for 6 seconds.\n\n<highlight_4 Not affected by Dragonfly Spec. />\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Stronger effect.",
+      "secondaryEditor": "On Precision Kill:\r\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\r\n50 Reload Speed for 6 seconds.\r\n\r\nNot affected by Dragonfly Spec.\r\n\r\nEnhanced: Stronger effect."
     },
     "inLiveDatabase": true
   },
