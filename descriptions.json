@@ -6340,7 +6340,7 @@
     "name": "Planetary Torrent",
     "itemId": 1725917554,
     "itemName": "Vesper of Radius",
-    "lastUpdate": 1650215300952,
+    "lastUpdate": 1650807812318,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -6390,8 +6390,45 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies ="
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "1 second after casting Rift:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "An Arc Shockwave is cast that deals 300 [PVP100] damage and heavily knockbacks in a 7.5 meter radius."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second.\n\n3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies =\n\n1 second after casting Rift:\nAn Arc Shockwave is cast that deals <pve 300 /> <pvp [100] /> damage and heavily knockbacks in a 7.5 meter radius.\n"
+      "mainEditor": "While surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second.\n\n3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies =\n\n1 second after casting Rift:\nAn Arc Shockwave is cast that deals <pve 300 /> <pvp [100] /> damage and heavily knockbacks in a 7.5 meter radius.\n",
+      "secondaryEditor": "While surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second.\r\n\r\n3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies =\r\n\r\n1 second after casting Rift:\r\nAn Arc Shockwave is cast that deals 300 [PVP100] damage and heavily knockbacks in a 7.5 meter radius.\r\n"
     },
     "inLiveDatabase": true
   },
