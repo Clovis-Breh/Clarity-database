@@ -8756,6 +8756,47 @@
     },
     "inLiveDatabase": true
   },
+  "1513326571": {
+    "id": 1513326571,
+    "name": "Taken Spec",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809701590,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "damage": {
+        "active": {
+          "multiplier": [
+            1.0777
+          ]
+        }
+      }
+    },
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "10% Damage Increase against Taken Combatants."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "10% Damage Increase against Taken Combatants."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "10% Damage Increase against Taken Combatants.",
+      "secondaryEditor": "10% Damage Increase against Taken Combatants."
+    },
+    "inLiveDatabase": true
+  },
   "1523832109": {
     "id": "1523832109",
     "name": "Reconstruction",
