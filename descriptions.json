@@ -5932,7 +5932,7 @@
     "name": "Horns of Doom",
     "itemId": 241462141,
     "itemName": "Doom Fang Pauldron",
-    "lastUpdate": 1650211475192,
+    "lastUpdate": 1650806830322,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -5965,8 +5965,28 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Powered Void Melee Kills grant 20% [PVP: 10%] Super Energy"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Sentinel Shield's Shield Throws regenerate 10% Super Energy"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Powered Void Melee Kills grant <pve 20% /> <pvp [10%] /> Super Energy\n\nSentinel Shield's Shield Throws regenerate 10% Super Energy\n"
+      "mainEditor": "Powered Void Melee Kills grant <pve 20% /> <pvp [10%] /> Super Energy\n\nSentinel Shield's Shield Throws regenerate 10% Super Energy\n",
+      "secondaryEditor": "Powered Void Melee Kills grant 20% [PVP: 10%] Super Energy\r\n\r\nSentinel Shield's Shield Throws regenerate 10% Super Energy\r\n"
     },
     "inLiveDatabase": true
   },
