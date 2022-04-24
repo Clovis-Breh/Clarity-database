@@ -19165,7 +19165,7 @@
   "3977735242": {
     "id": 3977735242,
     "name": "Tracking Module",
-    "lastUpdate": 1650461534153,
+    "lastUpdate": 1650804471920,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -19200,7 +19200,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Blast Radius."
+            "text": "Enhanced: Passively grants 5 Blast Radius."
           }
         ]
       }
@@ -19233,14 +19233,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Blast Radius."
+            "text": "Enhanced: Passively grants 5 Blast Radius."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies <pvp [with diminshed effectiveness] />\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 4 Blast Radius.",
-      "secondaryEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies [with diminshed effectiveness in PVP]\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 4 Blast Radius."
+      "mainEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies <pvp [with diminshed effectiveness] />\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 5 Blast Radius.",
+      "secondaryEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies [with diminshed effectiveness in PVP]\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
     },
     "inLiveDatabase": true
   },
