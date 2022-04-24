@@ -9397,7 +9397,7 @@
   "1890422124": {
     "id": "1890422124",
     "name": "Tap the Trigger",
-    "lastUpdate": 1650461335193,
+    "lastUpdate": 1650804397606,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
@@ -9456,7 +9456,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Stronger Effect"
+            "text": "Enhanced: Stronger Effect, duration increased to 0.76 seconds."
           }
         ]
       }
@@ -9499,14 +9499,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Stronger Effect"
+            "text": "Enhanced: Stronger Effect, duration increased to 0.76 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Immediately upon firing:\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\n\n<highlight_3 Fusion Rifles Only Receive 1/4 of the benefits/>\n\n<highlight_1 [Controller-Only] /> Weapon fires the instant trigger pressure is applied.\n\nEnhanced: Stronger Effect",
-      "secondaryEditor": "Immediately upon firing:\r\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\r\n\r\n[Fusion Rifles Only Receive 1/4 of the benefits]\r\n[Controller-Only] Weapon fires the instant trigger pressure is applied.\r\n\r\nEnhanced: Stronger Effect"
+      "mainEditor": "Immediately upon firing:\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\n\n<highlight_3 Fusion Rifles Only Receive 1/4 of the benefits/>\n\n<highlight_1 [Controller-Only] /> Weapon fires the instant trigger pressure is applied.\n\nEnhanced: Stronger Effect, duration increased to 0.76 seconds.",
+      "secondaryEditor": "Immediately upon firing:\r\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\r\n\r\n[Fusion Rifles Only Receive 1/4 of the benefits]\r\n[Controller-Only] Weapon fires the instant trigger pressure is applied.\r\n\r\nEnhanced: Stronger Effect, duration increased to 0.76 seconds."
     },
     "inLiveDatabase": true
   },
