@@ -346,16 +346,13 @@
   "47981717": {
     "id": "47981717",
     "name": "Opening Shot",
-    "lastUpdate": 1650803576766,
+    "lastUpdate": 1650803583217,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
         "active": {
           "stat": [
-            20
-          ],
-          "multiplier": [
-            1.05
+            25
           ]
         }
       },
