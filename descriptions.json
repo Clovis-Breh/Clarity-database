@@ -13274,7 +13274,7 @@
     "name": "The Whispers",
     "itemId": 3288917178,
     "itemName": "Claws of Ahamkara",
-    "lastUpdate": 1650213898716,
+    "lastUpdate": 1650806664076,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -13286,8 +13286,18 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grants an extra Melee Charge."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grants an extra Melee Charge."
+      "mainEditor": "Grants an extra Melee Charge.",
+      "secondaryEditor": "Grants an extra Melee Charge."
     },
     "inLiveDatabase": true
   },
