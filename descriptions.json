@@ -5484,13 +5484,13 @@
   "1168162263": {
     "id": "1168162263",
     "name": "Outlaw",
-    "lastUpdate": 1650458379446,
+    "lastUpdate": 1650803613031,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
           "stat": [
-            63
+            70
           ],
           "multiplier": [
             0.9
@@ -5510,7 +5510,7 @@
       {
         "lineText": [
           {
-            "text": "63 Reload Speed with a 0.9x "
+            "text": "70 Reload Speed with a 0.9x "
           },
           {
             "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
@@ -5556,7 +5556,7 @@
       {
         "lineText": [
           {
-            "text": "63 Reload Speed with a 0.9x Reload Duration Scalar for 6 seconds."
+            "text": "70 Reload Speed with a 0.9x Reload Duration Scalar for 6 seconds."
           }
         ]
       },
@@ -5572,8 +5572,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Precision Kill:\n63 Reload Speed with a 0.9x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] /> for 6 seconds.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Duration increased.",
-      "secondaryEditor": "On Precision Kill:\r\n63 Reload Speed with a 0.9x Reload Duration Scalar for 6 seconds.\r\n\r\nEnhanced: Duration increased."
+      "mainEditor": "On Precision Kill:\n70 Reload Speed with a 0.9x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] /> for 6 seconds.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Duration increased.",
+      "secondaryEditor": "On Precision Kill:\r\n70 Reload Speed with a 0.9x Reload Duration Scalar for 6 seconds.\r\n\r\nEnhanced: Duration increased."
     },
     "inLiveDatabase": true
   },
