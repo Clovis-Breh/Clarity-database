@@ -4,7 +4,7 @@
     "name": "Chaotic Exchanger",
     "itemId": "1906093346",
     "itemName": "Contraverse Hold",
-    "lastUpdate": 1650484856121,
+    "lastUpdate": 1650806082114,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -61,8 +61,52 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While Charging a Grenade:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Chaotic Exchanger grants 20% Damage Resist."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grenade Hits grant Chaotic Exchange, granting 2000% [PVP: 1000%] Additional Base Grenade Regeneration Rate for 1.75 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "4 second cooldown."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Charged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "While Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting <pve 2000% /> <pvp [1000%] /> Additional Grenade Regeneration Rate for 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks."
+      "mainEditor": "While Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting <pve 2000% /> <pvp [1000%] /> Additional Grenade Regeneration Rate for 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks.",
+      "secondaryEditor": "While Charging a Grenade:\r\nChaotic Exchanger grants 20% Damage Resist.\r\n\r\nGrenade Hits grant Chaotic Exchange, granting 2000% [PVP: 1000%] Additional Base Grenade Regeneration Rate for 1.75 seconds.\r\n4 second cooldown.\r\n\r\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks."
     },
     "inLiveDatabase": true
   },
