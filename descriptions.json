@@ -21961,7 +21961,7 @@
     "name": "New Tricks",
     "itemId": 1053737370,
     "itemName": "Shinobu's Vow",
-    "lastUpdate": 1650210786993,
+    "lastUpdate": 1650807569292,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -22004,8 +22004,38 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grants an extra Skip Grenade Charge."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Skip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Hits with Skip Grenades grant X% [PVP: X/3] Grenade Energy."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grants an extra Skip Grenade Charge.\n\nSkip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively.\n\nHits with Skip Grenades grant <pve X% /> <pvp [X/3] /> Grenade Energy."
+      "mainEditor": "Grants an extra Skip Grenade Charge.\n\nSkip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively.\n\nHits with Skip Grenades grant <pve X% /> <pvp [X/3] /> Grenade Energy.",
+      "secondaryEditor": "Grants an extra Skip Grenade Charge.\r\n\r\nSkip Grenades spawn 1 more drone (4 -> 5) and chase enemies much more aggressively.\r\n\r\nHits with Skip Grenades grant X% [PVP: X/3] Grenade Energy."
     },
     "inLiveDatabase": true
   },
