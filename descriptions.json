@@ -18779,7 +18779,7 @@
     "name": "Skittering Stinger",
     "itemId": 2415768376,
     "itemName": "Athrys's Embrace",
-    "lastUpdate": 1650209091041,
+    "lastUpdate": 1650806614006,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -18839,8 +18839,55 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Weighted Throwing Knives gain a second bounce with greatly increased tracking."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "After 3 Precision Hits within 2.5 seconds of each: Gain Strengthened Throwing Knife."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Additional Precision Hits increase duration by 5 seconds each."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Strengthened Throwing Knife deal 200% [PVP: 100%] increased damage and stagger unstoppable champions."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Landing a Knife Hit consumes Strengthened Throwing Knife."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Weighted Throwing Knives gain a second bounce with greatly increased tracking.\r\n\r\nAfter 3 Precision Hits within 2.5 seconds of each: Gain Strengthened Throwing Knife.\r\nAdditional Precision Hits increase duration by 5 seconds each.\r\n\r\nStrengthened Throwing Knife deal <pve 200% /> <pvp [100%] /> increased damage and stagger unstoppable champions.\r\n\r\nLanding a Knife Hit consumes Strengthened Throwing Knife."
+      "mainEditor": "Weighted Throwing Knives gain a second bounce with greatly increased tracking.\r\n\r\nAfter 3 Precision Hits within 2.5 seconds of each: Gain Strengthened Throwing Knife.\r\nAdditional Precision Hits increase duration by 5 seconds each.\r\n\r\nStrengthened Throwing Knife deal <pve 200% /> <pvp [100%] /> increased damage and stagger unstoppable champions.\r\n\r\nLanding a Knife Hit consumes Strengthened Throwing Knife.",
+      "secondaryEditor": "Weighted Throwing Knives gain a second bounce with greatly increased tracking.\r\n\r\nAfter 3 Precision Hits within 2.5 seconds of each: Gain Strengthened Throwing Knife.\r\nAdditional Precision Hits increase duration by 5 seconds each.\r\n\r\nStrengthened Throwing Knife deal 200% [PVP: 100%] increased damage and stagger unstoppable champions.\r\n\r\nLanding a Knife Hit consumes Strengthened Throwing Knife."
     },
     "inLiveDatabase": true
   },
