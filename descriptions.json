@@ -1876,8 +1876,17 @@
     "name": "Adept Range",
     "itemId": "2563444729",
     "itemName": "ACD/0 Feedback Fence",
-    "lastUpdate": 1650809997382,
+    "lastUpdate": 1650810033950,
     "updatedBy": "Fading-Shadow",
+    "stats": {
+      "range": {
+        "passive": {
+          "stat": [
+            10
+          ]
+        }
+      }
+    },
     "type": "weaponMod",
     "description": [
       {
