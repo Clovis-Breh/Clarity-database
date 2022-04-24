@@ -14152,7 +14152,7 @@
   "2978966579": {
     "id": 2978966579,
     "name": "Chill Clip",
-    "lastUpdate": 1650459175939,
+    "lastUpdate": 1650802005826,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -14176,7 +14176,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Stability."
+            "text": "Enhanced: Passively grants 5 Stability."
           }
         ]
       }
@@ -14202,14 +14202,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 4 Stability."
+            "text": "Enhanced: Passively grants 5 Stability."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "While above 50% Magazine:\r\nDirect Hits create an explosion which applies 50 Slow to enemies within [?] meters.\r\n\r\nEnhanced: Passively grants 4 Stability.",
-      "secondaryEditor": "While above 50% Magazine:\r\nDirect Hits create an explosion which applies 50 Slow to enemies within [?] meters.\r\n\r\nEnhanced: Passively grants 4 Stability."
+      "mainEditor": "While above 50% Magazine:\r\nDirect Hits create an explosion which applies 50 Slow to enemies within [?] meters.\r\n\r\nEnhanced: Passively grants 5 Stability.",
+      "secondaryEditor": "While above 50% Magazine:\r\nDirect Hits create an explosion which applies 50 Slow to enemies within [?] meters.\r\n\r\nEnhanced: Passively grants 5 Stability."
     },
     "inLiveDatabase": true
   },
