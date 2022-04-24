@@ -7739,21 +7739,21 @@
     "name": "Adept Mag",
     "itemId": "2563444729",
     "itemName": "ACD/0 Feedback Fence",
-    "lastUpdate": 1650810141740,
+    "lastUpdate": 1650810168000,
     "updatedBy": "Fading-Shadow",
     "type": "weaponMod",
     "description": [
       {
         "lineText": [
           {
-            "text": "+40 Magazine Stat"
+            "text": "+35 Recoil Direction"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "-15 Handling"
+            "text": "-10 Range"
           }
         ]
       }
@@ -7762,21 +7762,21 @@
       {
         "lineText": [
           {
-            "text": "+40 Magazine Stat"
+            "text": "+35 Recoil Direction"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "-15 Handling"
+            "text": "-10 Range"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "+40 Magazine Stat\r\n-15 Handling",
-      "secondaryEditor": "+40 Magazine Stat\r\n-15 Handling"
+      "mainEditor": "+35 Recoil Direction\r\n-10 Range",
+      "secondaryEditor": "+35 Recoil Direction\r\n-10 Range"
     },
     "inLiveDatabase": true
   },
