@@ -16551,7 +16551,7 @@
     "name": "Linear Actuators",
     "itemId": 1160559849,
     "itemName": "Dunemarchers",
-    "lastUpdate": 1650211506390,
+    "lastUpdate": 1650806858575,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -16616,8 +16616,69 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "After sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Melee Hit:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Linear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVE: 300%(?) Melee Damage"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVP: 85 Damage. Immune to Dunemarchers for 2 seconds after being hit."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Sprint Speed by 6.25%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Increases Slide Distance by 33%"
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "After sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds.\n\nOn Melee Hit:\nLinear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain.\n\n<pve 300%(?) Melee Damage />\n<pvp 85 Damage. Immune to Dunemarchers for 2 seconds after being hit. />\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\n"
+      "mainEditor": "After sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds.\n\nOn Melee Hit:\nLinear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain.\n\n<pve 300%(?) Melee Damage />\n<pvp 85 Damage. Immune to Dunemarchers for 2 seconds after being hit. />\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\n",
+      "secondaryEditor": "After sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds.\r\n\r\nOn Melee Hit:\r\nLinear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain.\r\n\r\nPVE: 300%(?) Melee Damage\r\nPVP: 85 Damage. Immune to Dunemarchers for 2 seconds after being hit.\r\n\r\nIncreases Sprint Speed by 6.25%\r\nIncreases Slide Distance by 33%\r\n"
     },
     "inLiveDatabase": true
   },
