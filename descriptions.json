@@ -18310,6 +18310,38 @@
     },
     "inLiveDatabase": true
   },
+  "3018373291": {
+    "id": 3018373291,
+    "name": "Adept Big Ones Spec",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650810325309,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "7.77% Damage Increase against Elites, Minibosses, and Bosses"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "7.77% Damage Increase against Elites, Minibosses, and Bosses"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "7.77% Damage Increase against Elites, Minibosses, and Bosses",
+      "secondaryEditor": "7.77% Damage Increase against Elites, Minibosses, and Bosses"
+    },
+    "inLiveDatabase": true
+  },
   "3032599245": {
     "id": "3032599245",
     "name": "Blinding Grenades",
