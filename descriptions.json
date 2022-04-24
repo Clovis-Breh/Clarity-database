@@ -4392,7 +4392,7 @@
     "name": "Dearly Departed",
     "itemId": "2177524718",
     "itemName": "The Stag",
-    "lastUpdate": 1650215075773,
+    "lastUpdate": 1650807740260,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -4467,8 +4467,59 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Grants 25% [PVP: 15%] Damage Resist to Guardians inside your Rift."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Upon reaching Critical Health:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Dearly Departed grants 55% [PVP: 27.5%] Class Ability Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff lasts until no longer Critical."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "On Death:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Spawns a Healing Rift for 15 seconds."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Grants <pve 25%/><pvp [15%]/> Damage Resist to Guardians inside your Rift.\n\nUpon reaching Critical Health:\nDearly Departed grants <pve 55% /><pvp [27.5%] /> Class Ability Energy.\nBuff lasts until no longer Critical.\n\nOn Death:\nSpawns a Healing Rift for 15 seconds.\n"
+      "mainEditor": "Grants <pve 25%/><pvp [15%]/> Damage Resist to Guardians inside your Rift.\n\nUpon reaching Critical Health:\nDearly Departed grants <pve 55% /><pvp [27.5%] /> Class Ability Energy.\nBuff lasts until no longer Critical.\n\nOn Death:\nSpawns a Healing Rift for 15 seconds.\n",
+      "secondaryEditor": "Grants 25% [PVP: 15%] Damage Resist to Guardians inside your Rift.\r\n\r\nUpon reaching Critical Health:\r\nDearly Departed grants 55% [PVP: 27.5%] Class Ability Energy.\r\nBuff lasts until no longer Critical.\r\n\r\nOn Death:\r\nSpawns a Healing Rift for 15 seconds."
     },
     "inLiveDatabase": true
   },
