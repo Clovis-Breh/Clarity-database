@@ -19086,6 +19086,38 @@
     },
     "inLiveDatabase": true
   },
+  "3336648220": {
+    "id": 3336648220,
+    "name": "Backup Mag",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1650809237147,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+30 Magazine Stat"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+30 Magazine Stat"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+30 Magazine Stat",
+      "secondaryEditor": "+30 Magazine Stat"
+    },
+    "inLiveDatabase": true
+  },
   "3337692349": {
     "id": 3337692349,
     "name": "Mulligan",
