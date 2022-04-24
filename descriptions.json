@@ -2762,10 +2762,20 @@
     "name": "Force Multiplier",
     "itemId": "3267996858",
     "itemName": "No Backup Plans",
-    "lastUpdate": 1650212541016,
+    "lastUpdate": 1650805724111,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 30 Airborne Effectiveness to Shotguns."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
       {
         "lineText": [
           {
@@ -2793,13 +2803,57 @@
       {
         "lineText": [
           {
-            "text": "Shotgun Kills activate Void Overshield and consume your Melee Energy."
+            "text": "Shotgun Kills activates Void Overshield and consume your Melee Energy."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 30 Airborne Effectiveness to Shotguns."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Shotgun Kills restore Melee Ability Energy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "10% Minors | 25% Anything Else"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "If your Void Melee Ability is Charged:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Shotgun Kills activates Void Overshield and consume your Melee Energy."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Shotgun Kills restore Melee Ability Energy.\n10% Minors | 25% Anything Else\n\nIf your Void Melee Ability is Charged:\nShotgun Kills activate Void Overshield and consume your Melee Energy."
+      "mainEditor": "Passively grants 30 Airborne Effectiveness to Shotguns.\n\nShotgun Kills restore Melee Ability Energy.\n10% Minors | 25% Anything Else\n\nIf your Void Melee Ability is Charged:\nShotgun Kills activates Void Overshield and consume your Melee Energy.",
+      "secondaryEditor": "Passively grants 30 Airborne Effectiveness to Shotguns.\r\n\r\nShotgun Kills restore Melee Ability Energy.\r\n10% Minors | 25% Anything Else\r\n\r\nIf your Void Melee Ability is Charged:\r\nShotgun Kills activates Void Overshield and consume your Melee Energy."
     },
     "inLiveDatabase": true
   },
