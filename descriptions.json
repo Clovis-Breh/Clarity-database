@@ -5813,7 +5813,7 @@
   "1264398905": {
     "id": "1264398905",
     "name": "Celerity",
-    "lastUpdate": 1650454010394,
+    "lastUpdate": 1650801918093,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -5851,6 +5851,13 @@
         "lineText": [
           {
             "text": "100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 20 Handling and 20 Reload Speed"
           }
         ]
       },
@@ -5906,14 +5913,14 @@
       {
         "lineText": [
           {
-            "text": "Passively grants 18 Handling and 18 Reload Speed"
+            "text": "Passively grants 20 Handling and 20 Reload Speed"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "While Last Guardian Standing:\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />",
-      "secondaryEditor": "While Last Guardian Standing:\r\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\r\n\r\nPassively grants 18 Handling and 18 Reload Speed"
+      "mainEditor": "While Last Guardian Standing:\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\nPassively grants 20 Handling and 20 Reload Speed\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />",
+      "secondaryEditor": "While Last Guardian Standing:\r\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\r\n\r\nPassively grants 20 Handling and 20 Reload Speed"
     },
     "inLiveDatabase": true
   },
