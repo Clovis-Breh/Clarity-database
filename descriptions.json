@@ -13786,13 +13786,13 @@
   "2869569095": {
     "id": "2869569095",
     "name": "Field Prep",
-    "lastUpdate": 1650455697013,
+    "lastUpdate": 1650802778399,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
           "stat": [
-            45
+            50
           ],
           "multiplier": [
             0.8
@@ -13833,7 +13833,7 @@
       {
         "lineText": [
           {
-            "text": "45 Reload Speed with 0.8x "
+            "text": "50 Reload Speed with 0.8x "
           },
           {
             "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
@@ -13841,7 +13841,7 @@
             "className": "title"
           },
           {
-            "text": " and 0.8x Ready/Stow Animation Duration Multiplier."
+            "text": " and 0.8x Ready/Stow Duration Scalar."
           }
         ]
       },
@@ -13907,7 +13907,7 @@
       {
         "lineText": [
           {
-            "text": "45 Reload Speed with 0.8x Reload Duration Scalar and 0.8x Ready/Stow Animation Duration Multiplier."
+            "text": "50 Reload Speed with 0.8x Reload Duration Scalar and 0.8x Ready/Stow Duration Scalar."
           }
         ]
       },
@@ -13933,8 +13933,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "While Crouched:\n45 Reload Speed with 0.8x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] /> and 0.8x Ready/Stow Animation Duration Multiplier.\n\nGrants increased Ammo Reserves.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.\t\t",
-      "secondaryEditor": "While Crouched:\r\n45 Reload Speed with 0.8x Reload Duration Scalar and 0.8x Ready/Stow Animation Duration Multiplier.\r\n\r\nGrants increased Ammo Reserves.\r\n\r\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.\t"
+      "mainEditor": "While Crouched:\n50 Reload Speed with 0.8x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] /> and 0.8x Ready/Stow Duration Scalar.\n\nGrants increased Ammo Reserves.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.\t\t",
+      "secondaryEditor": "While Crouched:\r\n50 Reload Speed with 0.8x Reload Duration Scalar and 0.8x Ready/Stow Duration Scalar.\r\n\r\nGrants increased Ammo Reserves.\r\n\r\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.\t"
     },
     "inLiveDatabase": true
   },
