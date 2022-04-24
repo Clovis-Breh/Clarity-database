@@ -22543,7 +22543,7 @@
     "name": "Touch of Venom",
     "itemId": "2757274117",
     "itemName": "Khepri's Sting",
-    "lastUpdate": 1650209845167,
+    "lastUpdate": 1650807185135,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -22572,8 +22572,35 @@
         ]
       }
     ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Powered Melee Hit instantly casts Smoke Bomb."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Smoke Bombs deal 150% increased damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Standing in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away."
+          }
+        ]
+      }
+    ],
     "editor": {
-      "mainEditor": "Powered Melee Hit instantly casts Smoke Bomb.\nSmoke Bombs deal 150% increased damage.\n\nStanding in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\n"
+      "mainEditor": "Powered Melee Hit instantly casts Smoke Bomb.\nSmoke Bombs deal 150% increased damage.\n\nStanding in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\n",
+      "secondaryEditor": "Powered Melee Hit instantly casts Smoke Bomb.\r\nSmoke Bombs deal 150% increased damage.\r\n\r\nStanding in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\r\n"
     },
     "inLiveDatabase": true
   },
