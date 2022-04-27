@@ -23766,7 +23766,7 @@
     "name": "Cerebral Uplink",
     "itemId": 3381022970,
     "itemName": "Eye of Another World",
-    "lastUpdate": 1651078174519,
+    "lastUpdate": 1651078187432,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -23790,7 +23790,7 @@
       {
         "lineText": [
           {
-            "text": "Invisible enemies that also fulfill those conditions will also be highlight."
+            "text": "Invisible enemies that fulfill those conditions will also be highlight."
           }
         ]
       },
@@ -23826,7 +23826,7 @@
       {
         "lineText": [
           {
-            "text": "Invisible enemies that also fulfill those conditions will also be highlight."
+            "text": "Invisible enemies that fulfill those conditions will also be highlight."
           }
         ]
       },
@@ -23842,8 +23842,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Passively grants 15 Airborne Effectiveness\n\nHighlights enemies below 50% HP enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\nInvisible enemies that also fulfill those conditions will also be highlight.\n\n50% Additional Base Grenade/Melee/Class Regeneration Rate.",
-      "secondaryEditor": "Passively grants 15 Airborne Effectiveness\r\n\r\nHighlights enemies below 50% HP enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\r\nInvisible enemies that also fulfill those conditions will also be highlight.\r\n\r\n50% Additional Base Grenade/Melee/Class Regeneration Rate."
+      "mainEditor": "Passively grants 15 Airborne Effectiveness\n\nHighlights enemies below 50% HP enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\nInvisible enemies that fulfill those conditions will also be highlight.\n\n50% Additional Base Grenade/Melee/Class Regeneration Rate.",
+      "secondaryEditor": "Passively grants 15 Airborne Effectiveness\r\n\r\nHighlights enemies below 50% HP enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\r\nInvisible enemies that fulfill those conditions will also be highlight.\r\n\r\n50% Additional Base Grenade/Melee/Class Regeneration Rate."
     },
     "inLiveDatabase": true
   },
