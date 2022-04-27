@@ -23766,7 +23766,7 @@
     "name": "Cerebral Uplink",
     "itemId": 3381022970,
     "itemName": "Eye of Another World",
-    "lastUpdate": 1650806238246,
+    "lastUpdate": 1651078174519,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -23783,7 +23783,14 @@
       {
         "lineText": [
           {
-            "text": "Highlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline."
+            "text": "Highlights enemies below 50% HP enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Invisible enemies that also fulfill those conditions will also be highlight."
           }
         ]
       },
@@ -23812,7 +23819,14 @@
       {
         "lineText": [
           {
-            "text": "Highlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline."
+            "text": "Highlights enemies below 50% HP enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Invisible enemies that also fulfill those conditions will also be highlight."
           }
         ]
       },
@@ -23828,8 +23842,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Passively grants 15 Airborne Effectiveness\n\nHighlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\n\n50% Additional Base Grenade/Melee/Class Regeneration Rate.",
-      "secondaryEditor": "Passively grants 15 Airborne Effectiveness\r\n\r\nHighlights enemies below 50% HP and invisible enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\r\n\r\n50% Additional Base Grenade/Melee/Class Regeneration Rate."
+      "mainEditor": "Passively grants 15 Airborne Effectiveness\n\nHighlights enemies below 50% HP enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\nInvisible enemies that also fulfill those conditions will also be highlight.\n\n50% Additional Base Grenade/Melee/Class Regeneration Rate.",
+      "secondaryEditor": "Passively grants 15 Airborne Effectiveness\r\n\r\nHighlights enemies below 50% HP enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\r\nInvisible enemies that also fulfill those conditions will also be highlight.\r\n\r\n50% Additional Base Grenade/Melee/Class Regeneration Rate."
     },
     "inLiveDatabase": true
   },
