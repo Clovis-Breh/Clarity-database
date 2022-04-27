@@ -20016,7 +20016,7 @@
     "name": "Alchemical Etchings",
     "itemId": 4136768282,
     "itemName": "Lunafaction Boots",
-    "lastUpdate": 1651079046358,
+    "lastUpdate": 1651079693687,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -20052,7 +20052,7 @@
             "text": "+100 Reload with 0.9x "
           },
           {
-            "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
+            "title": "Reload Duration Scalar\\n(Multiplies Reload Animation Duration by that number)",
             "text": "RDS",
             "className": "title"
           },
@@ -20120,7 +20120,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "While inside a Rift or Well of Radiance:\r\n+100 Reload with 0.9x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] /> to all Guardians inside.\r\n\r\nWhile inside an <bold Empowering /> Rift or Well of Radiance:\r\n2x Falloff Distance Increase.",
+      "mainEditor": "While inside a Rift or Well of Radiance:\r\n+100 Reload with 0.9x <title RDS [Reload Duration Scalar\\n(Multiplies Reload Animation Duration by that number)] /> to all Guardians inside.\r\n\r\nWhile inside an <bold Empowering /> Rift or Well of Radiance:\r\n2x Falloff Distance Increase.",
       "secondaryEditor": "While inside a Rift or Well of Radiance:\r\n+100 Reload with 0.9x Duration Scale to all Guardians inside.\r\n\r\nWhile inside an Empowering Rift or Well of Radiance:\r\n2x Falloff Distance Increase."
     },
     "inLiveDatabase": true
