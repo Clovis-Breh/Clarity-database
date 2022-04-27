@@ -13340,7 +13340,7 @@
     "name": "Vanishing Shadow",
     "itemId": 2773056939,
     "itemName": "Graviton Forfeit",
-    "lastUpdate": 1650807030388,
+    "lastUpdate": 1651078048380,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -13356,31 +13356,7 @@
       {
         "lineText": [
           {
-            "text": "Increases the duration of some Void Invisibility effects."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Rat King: 6 -> 8 seconds (33% Increase)"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Trapper's Ambush: 7 -> 9 seconds (29% Increase)"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase) "
+            "text": "Void Invisibility effects last 2 seconds longer."
           }
         ]
       },
@@ -13457,31 +13433,7 @@
       {
         "lineText": [
           {
-            "text": "Increases the duration of some Void Invisibility effects."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Rat King: 6 -> 8 seconds (33% Increase)"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Trapper's Ambush: 7 -> 9 seconds (29% Increase)"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Vanishing Step: 4.5 -> 7 seconds (44% Increase) "
+            "text": "Void Invisibility effects last 2 seconds longer."
           }
         ]
       },
@@ -13525,8 +13477,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Increases the duration of some Void Invisibility effects.\n\nRat King: 6 -> 8 seconds (33% Increase)\nTrapper's Ambush: 7 -> 9 seconds (29% Increase)\nVanishing Step: 4.5 -> 7 seconds (44% Increase) \n\nWhile Invisible:\n<pve 400% /> <pvp [100%] /> Additional Base Melee Regeneration Rate.\nEach enemy within 15 metres will increase the bonus to a total of <pve 600% /> <pvp [200%] /> and <pve 800% /> <pvp [300%] />.\n(Equivalent of) 100 Recovery.\n100 Reload Speed.",
-      "secondaryEditor": "Increases the duration of some Void Invisibility effects.\r\n\r\nRat King: 6 -> 8 seconds (33% Increase)\r\nTrapper's Ambush: 7 -> 9 seconds (29% Increase)\r\nVanishing Step: 4.5 -> 7 seconds (44% Increase) \r\n\r\nWhile Invisible:\r\n400% [PVP: 100%] Additional Base Melee Regeneration Rate.\r\nEach enemy within 15 metres will increase the bonus to a total of 600% [PVP: 200%] and 800% [PVP: 300%].\r\n(Equivalent of) 100 Recovery.\r\n100 Reload Speed."
+      "mainEditor": "Void Invisibility effects last 2 seconds longer.\n\nWhile Invisible:\n<pve 400% /> <pvp [100%] /> Additional Base Melee Regeneration Rate.\nEach enemy within 15 metres will increase the bonus to a total of <pve 600% /> <pvp [200%] /> and <pve 800% /> <pvp [300%] />.\n(Equivalent of) 100 Recovery.\n100 Reload Speed.",
+      "secondaryEditor": "Void Invisibility effects last 2 seconds longer.\r\n\r\nWhile Invisible:\r\n400% [PVP: 100%] Additional Base Melee Regeneration Rate.\r\nEach enemy within 15 metres will increase the bonus to a total of 600% [PVP: 200%] and 800% [PVP: 300%].\r\n(Equivalent of) 100 Recovery.\r\n100 Reload Speed."
     },
     "inLiveDatabase": true
   },
