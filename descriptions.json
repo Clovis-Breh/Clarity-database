@@ -8934,14 +8934,14 @@
     "name": "Depths of Duskfield",
     "itemId": 2169905051,
     "itemName": "Renewal Grasps",
-    "lastUpdate": 1650806503888,
+    "lastUpdate": 1651078106039,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Duskfield Grenades have [?]% increased radius."
+            "text": "Duskfield Grenades have [?]% increased radius and have a 152 second base cooldown."
           }
         ]
       },
@@ -9006,7 +9006,7 @@
       {
         "lineText": [
           {
-            "text": "Duskfield Grenades have [?]% increased radius."
+            "text": "Duskfield Grenades have [?]% increased radius and have a 152 second base cooldown."
           }
         ]
       },
@@ -9046,8 +9046,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Duskfield Grenades have [?]% increased radius.\r\n\r\nWhile inside a Duskfield Grenade's Slowing Field:\r\nEnemies deal <pve 50% /><pvp [20%] /> reduced damage, and allies receive <pve 25% /> <pvp [15%] /> reduced damage.\r\n\r\nWhen combined with Touch of Winter:\r\nCrystal increases from Medium to Large, and radius is increased additively.",
-      "secondaryEditor": "Duskfield Grenades have [?]% increased radius.\r\n\r\nWhile inside a Duskfield Grenade's Slowing Field:\r\nEnemies deal 50% [PVP: 20%] reduced damage, and allies receive 25% [PVP: 15%] reduced damage.\r\n\r\nWhen combined with Touch of Winter:\r\nCrystal increases from Medium to Large, and radius is increased additively."
+      "mainEditor": "Duskfield Grenades have [?]% increased radius and have a 152 second base cooldown.\r\n\r\nWhile inside a Duskfield Grenade's Slowing Field:\r\nEnemies deal <pve 50% /><pvp [20%] /> reduced damage, and allies receive <pve 25% /> <pvp [15%] /> reduced damage.\r\n\r\nWhen combined with Touch of Winter:\r\nCrystal increases from Medium to Large, and radius is increased additively.",
+      "secondaryEditor": "Duskfield Grenades have [?]% increased radius and have a 152 second base cooldown.\r\n\r\nWhile inside a Duskfield Grenade's Slowing Field:\r\nEnemies deal 50% [PVP: 20%] reduced damage, and allies receive 25% [PVP: 15%] reduced damage.\r\n\r\nWhen combined with Touch of Winter:\r\nCrystal increases from Medium to Large, and radius is increased additively."
     },
     "inLiveDatabase": true
   },
