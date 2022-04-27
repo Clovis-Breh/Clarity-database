@@ -6266,7 +6266,7 @@
   "972757866": {
     "id": "972757866",
     "name": "Pulse Monitor",
-    "lastUpdate": 1650803738599,
+    "lastUpdate": 1651077921844,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -6308,7 +6308,7 @@
             "className": "title"
           },
           {
-            "text": " weapon, 50 Handling, 5% Faster Swap Speed."
+            "text": " weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed."
           }
         ]
       },
@@ -6362,7 +6362,7 @@
       {
         "lineText": [
           {
-            "text": "Refreshes weapon, 50 Handling, 5% Faster Swap Speed."
+            "text": "Refreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed."
           }
         ]
       },
@@ -6385,8 +6385,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Immediately upon being reduced below 38 Shields:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> weapon, 50 Handling, 5% Faster Swap Speed.\n(Works even while stowed)\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Health Requirement reduced to [?] and overflows the magazine.",
-      "secondaryEditor": "Immediately upon being reduced below 38 Shields:\r\nRefreshes weapon, 50 Handling, 5% Faster Swap Speed.\r\n(Works even while stowed)\r\n\r\nEnhanced: Health Requirement reduced to [?] and overflows the magazine."
+      "mainEditor": "Immediately upon being reduced below 38 Shields:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\n(Works even while stowed)\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Health Requirement reduced to [?] and overflows the magazine.",
+      "secondaryEditor": "Immediately upon being reduced below 38 Shields:\r\nRefreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\r\n(Works even while stowed)\r\n\r\nEnhanced: Health Requirement reduced to [?] and overflows the magazine."
     },
     "inLiveDatabase": true
   },
