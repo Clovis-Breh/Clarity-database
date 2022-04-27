@@ -390,7 +390,7 @@
   "47981717": {
     "id": "47981717",
     "name": "Opening Shot",
-    "lastUpdate": 1650803589164,
+    "lastUpdate": 1651077867626,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -421,7 +421,7 @@
             "className": "title"
           },
           {
-            "text": ", and 3.1s after not firing:"
+            "text": ":"
           }
         ]
       },
@@ -446,6 +446,16 @@
       {
         "lineText": [
           {
+            "text": "3.1 seconds cooldown, resets if the weapon is shot."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
             "formulaText": "In-Game Range:",
             "formula": "range_0",
             "className": "formula"
@@ -457,7 +467,7 @@
       {
         "lineText": [
           {
-            "text": "For the first bullet only, and after a 3.1s after not firing:"
+            "text": "For one bullet only:"
           }
         ]
       },
@@ -467,11 +477,21 @@
             "text": "20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "3.1 seconds cooldown, resets if the weapon is shot."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "For the <title first bullet only [Even in the case of burst weapons. Only the first bullet of the burst is affected.] />, and 3.1s after not firing:\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />.\n\n<formula In-Game Range: range_0 />\n",
-      "secondaryEditor": "For the first bullet only, and after a 3.1s after not firing:\r\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth."
+      "mainEditor": "For the <title first bullet only [Even in the case of burst weapons. Only the first bullet of the burst is affected.] />:\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />.\n\n3.1 seconds cooldown, resets if the weapon is shot.\n\n<formula In-Game Range: range_0 />\n",
+      "secondaryEditor": "For one bullet only:\r\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\r\n\r\n3.1 seconds cooldown, resets if the weapon is shot."
     },
     "inLiveDatabase": true
   },
