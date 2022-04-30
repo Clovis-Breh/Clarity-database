@@ -13865,7 +13865,7 @@
   "2209918983": {
     "id": 2209918983,
     "name": "Turnabout",
-    "lastUpdate": 1650461763064,
+    "lastUpdate": 1651309965883,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -13879,7 +13879,7 @@
       {
         "lineText": [
           {
-            "text": "[?]HP Overshield for 10 seconds."
+            "text": "30HP Overshield for 10 seconds."
           }
         ]
       },
@@ -13905,7 +13905,7 @@
       {
         "lineText": [
           {
-            "text": "[?]HP Overshield for 10 seconds."
+            "text": "30HP Overshield for 10 seconds."
           }
         ]
       },
@@ -13921,8 +13921,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n[?]HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds.",
-      "secondaryEditor": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n[?]HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds."
+      "mainEditor": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n30HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds.",
+      "secondaryEditor": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n30HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds."
     },
     "inLiveDatabase": true
   },
