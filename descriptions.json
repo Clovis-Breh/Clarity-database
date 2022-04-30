@@ -21511,7 +21511,7 @@
   "3551326236": {
     "id": "3551326236",
     "name": "Rampage",
-    "lastUpdate": 1650803910647,
+    "lastUpdate": 1651339571257,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -21567,6 +21567,14 @@
             "className": "pve"
           }
         ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " PVP values stay the same. ",
+            "className": "pvp"
+          }
+        ]
       }
     ],
     "simpleDescription": [
@@ -21607,11 +21615,18 @@
             "text": "[PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds."
           }
         ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVP values stay the same."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\n10% | 21% | 33.1% increased damage for 3.5 seconds.\nBuff Refreshed on Kill. \n\nHuckleberry specific:\n<pve [PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds. />\n",
-      "secondaryEditor": "On Weapon Kill:\r\n10% | 21% | 33.1% Increased damage for 3.5 seconds.\r\nBuff Refreshed on Kill.\r\n\r\nHuckleberry specific:\r\n[PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds."
+      "mainEditor": "On Weapon Kill:\n10% | 21% | 33.1% increased damage for 3.5 seconds.\nBuff Refreshed on Kill. \n\nHuckleberry specific:\n<pve [PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds. />\n<pvp PVP values stay the same. />",
+      "secondaryEditor": "On Weapon Kill:\r\n10% | 21% | 33.1% Increased damage for 3.5 seconds.\r\nBuff Refreshed on Kill.\r\n\r\nHuckleberry specific:\r\n[PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds.\r\nPVP values stay the same."
     },
     "inLiveDatabase": true
   },
