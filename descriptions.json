@@ -19194,13 +19194,27 @@
     "name": "Mecha Holster",
     "itemId": 3539357319,
     "itemName": "Peacekeepers",
-    "lastUpdate": 1651078159205,
+    "lastUpdate": 1651310829312,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
         "active": {
           "stat": [
             100
+          ]
+        }
+      },
+      "stow": {
+        "active": {
+          "multiplier": [
+            0.6
+          ]
+        }
+      },
+      "draw": {
+        "active": {
+          "multiplier": [
+            0.6
           ]
         }
       }
@@ -19255,7 +19269,7 @@
       {
         "lineText": [
           {
-            "text": "100 Handling(?)"
+            "text": "100 Handling with a 0.6x Ready/Stow Duration Multiplier."
           }
         ]
       },
@@ -19319,7 +19333,7 @@
       {
         "lineText": [
           {
-            "text": "100 Handling(?)"
+            "text": "100 Handling with a 0.6x Ready/Stow Duration Multiplier."
           }
         ]
       },
@@ -19335,8 +19349,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Passively grants 40 Airborne Effectiveness to SMGs.\r\n\r\nWhen an SMG is readied:\r\n50 Mobility\r\nIncreases Sprint Speed by 6.25%\r\nIncreases Slide Distance by 33%\r\nDecreases SMG ADS penalty from 25% to 9%\r\n100 Handling(?)\r\n\r\nReloads stowed SMGs in 1.3s",
-      "secondaryEditor": "Passively grants 40 Airborne Effectiveness to SMGs.\r\n\r\nWhen an SMG is readied:\r\n50 Mobility\r\nIncreases Sprint Speed by 6.25%\r\nIncreases Slide Distance by 33%\r\nDecreases SMG ADS penalty from 25% to 9%\r\n100 Handling(?)\r\n\r\nReloads stowed SMGs in 1.3s"
+      "mainEditor": "Passively grants 40 Airborne Effectiveness to SMGs.\r\n\r\nWhen an SMG is readied:\r\n50 Mobility\r\nIncreases Sprint Speed by 6.25%\r\nIncreases Slide Distance by 33%\r\nDecreases SMG ADS penalty from 25% to 9%\r\n100 Handling with a 0.6x Ready/Stow Duration Multiplier.\r\n\r\nReloads stowed SMGs in 1.3s",
+      "secondaryEditor": "Passively grants 40 Airborne Effectiveness to SMGs.\r\n\r\nWhen an SMG is readied:\r\n50 Mobility\r\nIncreases Sprint Speed by 6.25%\r\nIncreases Slide Distance by 33%\r\nDecreases SMG ADS penalty from 25% to 9%\r\n100 Handling with a 0.6x Ready/Stow Duration Multiplier.\r\n\r\nReloads stowed SMGs in 1.3s"
     },
     "inLiveDatabase": true
   },
