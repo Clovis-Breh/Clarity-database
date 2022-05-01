@@ -7256,7 +7256,7 @@
     "name": "Horns of Doom",
     "itemId": 241462141,
     "itemName": "Doom Fang Pauldron",
-    "lastUpdate": 1650806830322,
+    "lastUpdate": 1651412725687,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -7275,6 +7275,13 @@
           },
           {
             "text": " Super Energy"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Shield Throw only grants increased Super Energy once per usage."
           }
         ]
       },
@@ -7298,6 +7305,13 @@
         ]
       },
       {
+        "lineText": [
+          {
+            "text": "Shield Throw only grants increased Super Energy once per usage."
+          }
+        ]
+      },
+      {
         "className": "spacer"
       },
       {
@@ -7309,8 +7323,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Powered Void Melee Kills grant <pve 20% /> <pvp [10%] /> Super Energy\n\nSentinel Shield's Shield Throws regenerate 10% Super Energy\n",
-      "secondaryEditor": "Powered Void Melee Kills grant 20% [PVP: 10%] Super Energy\r\n\r\nSentinel Shield's Shield Throws regenerate 10% Super Energy\r\n"
+      "mainEditor": "Powered Void Melee Kills grant <pve 20% /> <pvp [10%] /> Super Energy\nShield Throw only grants increased Super Energy once per usage.\n\nSentinel Shield's Shield Throws regenerate 10% Super Energy\n",
+      "secondaryEditor": "Powered Void Melee Kills grant 20% [PVP: 10%] Super Energy\r\nShield Throw only grants increased Super Energy once per usage.\r\n\r\nSentinel Shield's Shield Throws regenerate 10% Super Energy\r\n"
     },
     "inLiveDatabase": true
   },
