@@ -21636,14 +21636,21 @@
     "name": "Voltaic Mirror",
     "itemId": 1703551922,
     "itemName": "Blight Ranger",
-    "lastUpdate": 1650806627554,
+    "lastUpdate": 1652036607038,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Projectiles reflected while in Arc Staff deal 650% increased damage."
+            "text": "While in Arc Staff Super:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Projectiles reflected deal 650% increased damage."
           }
         ]
       },
@@ -21662,7 +21669,14 @@
       {
         "lineText": [
           {
-            "text": "Projectiles reflected while in Arc Staff deal 650% increased damage."
+            "text": "While in Arc Staff Super:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Projectiles reflected deal 650% increased damage."
           }
         ]
       },
@@ -21678,8 +21692,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Projectiles reflected while in Arc Staff deal 650% increased damage.\r\n\r\nReflecting projectiles generates Orbs of Power for allies.",
-      "secondaryEditor": "Projectiles reflected while in Arc Staff deal 650% increased damage.\r\n\r\nReflecting projectiles generates Orbs of Power for allies."
+      "mainEditor": "While in Arc Staff Super:\r\nProjectiles reflected deal 650% increased damage.\r\n\r\nReflecting projectiles generates Orbs of Power for allies.",
+      "secondaryEditor": "While in Arc Staff Super:\r\nProjectiles reflected deal 650% increased damage.\r\n\r\nReflecting projectiles generates Orbs of Power for allies."
     },
     "inLiveDatabase": true
   },
