@@ -12359,7 +12359,7 @@
     "name": "Overflowing Light",
     "itemId": 1341951177,
     "itemName": "Heart of Inmost Light",
-    "lastUpdate": 1650805887349,
+    "lastUpdate": 1652036985683,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -12448,7 +12448,7 @@
             "className": "pvp"
           },
           {
-            "text": " 35 ",
+            "text": " 35% ",
             "className": "pve"
           },
           {
@@ -12532,6 +12532,9 @@
         ]
       },
       {
+        "className": "spacer"
+      },
+      {
         "lineText": [
           {
             "text": "Ability use grants Empowered for other abilities for 10 [5] seconds, depending on the Ability used. "
@@ -12554,6 +12557,9 @@
             "text": "While Empowered:"
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -12605,8 +12611,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Ability use grants Empowered for other abilities for <pve 10 /><pvp [5] /> seconds, depending on the Ability used. \ne.g.: Barricade -> Empowered Melee and Empowered Grenade.\n\nWhile Empowered:\nEmpowered Melee: 10% | 20% Increased damage.\n<pve 400% /><pvp [100%] /> || <pve 800% /><pvp [200%] /> Additional Base Melee Regeneration Rate.\n\nEmpowered Grenade: <pve 20% /><pvp [10%] /> | <pve 35 /><pvp [20%] /> Increased damage.\n<pve 400% /><pvp [100%] /> || <pve 800% /><pvp [200%] /> Additional Base Grenade Regeneration Rate.\n\nEmpowered Barricade: X% | Y% Increased HP.\n<pve 150% /><pvp [37.5%] /> || <pve 300% /><pvp [75%] /> Additional Base Barricade Regeneration Rate.",
-      "secondaryEditor": "Numbers in [brackets] represent PVP values.\r\nAbility use grants Empowered for other abilities for 10 [5] seconds, depending on the Ability used. \r\ne.g.: Barricade -> Empowered Melee and Empowered Grenade.\r\n\r\nWhile Empowered:\r\nEmpowered Melee: 10% | 20% Increased damage.\r\n400% [100%] | 800% [200%] Additional Base Melee Regeneration Rate.\r\n\r\nEmpowered Grenade: 20% [10%] | 35% [20%] Increased damage.\r\n400% [100%] | 800% [200%] Additional Base Grenade Regeneration Rate.\r\n\r\nEmpowered Barricade: X% | Y% Increased HP.\r\n150% [37.5%] | 300% [75%] Additional Base Barricade Regeneration Rate."
+      "mainEditor": "Ability use grants Empowered for other abilities for <pve 10 /><pvp [5] /> seconds, depending on the Ability used. \ne.g.: Barricade -> Empowered Melee and Empowered Grenade.\n\nWhile Empowered:\nEmpowered Melee: 10% | 20% Increased damage.\n<pve 400% /><pvp [100%] /> || <pve 800% /><pvp [200%] /> Additional Base Melee Regeneration Rate.\n\nEmpowered Grenade: <pve 20% /><pvp [10%] /> | <pve 35% /><pvp [20%] /> Increased damage.\n<pve 400% /><pvp [100%] /> || <pve 800% /><pvp [200%] /> Additional Base Grenade Regeneration Rate.\n\nEmpowered Barricade: X% | Y% Increased HP.\n<pve 150% /><pvp [37.5%] /> || <pve 300% /><pvp [75%] /> Additional Base Barricade Regeneration Rate.",
+      "secondaryEditor": "Numbers in [brackets] represent PVP values.\r\n\r\nAbility use grants Empowered for other abilities for 10 [5] seconds, depending on the Ability used. \r\ne.g.: Barricade -> Empowered Melee and Empowered Grenade.\r\n\r\nWhile Empowered:\r\n\r\nEmpowered Melee: 10% | 20% Increased damage.\r\n400% [100%] | 800% [200%] Additional Base Melee Regeneration Rate.\r\n\r\nEmpowered Grenade: 20% [10%] | 35% [20%] Increased damage.\r\n400% [100%] | 800% [200%] Additional Base Grenade Regeneration Rate.\r\n\r\nEmpowered Barricade: X% | Y% Increased HP.\r\n150% [37.5%] | 300% [75%] Additional Base Barricade Regeneration Rate."
     },
     "inLiveDatabase": true
   },
