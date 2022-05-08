@@ -7240,7 +7240,7 @@
     "name": "Horns of Doom",
     "itemId": 241462141,
     "itemName": "Doom Fang Pauldron",
-    "lastUpdate": 1651412736775,
+    "lastUpdate": 1652036705285,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -7258,14 +7258,7 @@
             "className": "pvp"
           },
           {
-            "text": " Super Energy"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Shield Throw only grants increased Super Energy once per usage."
+            "text": " Super Energy once per usage."
           }
         ]
       },
@@ -7284,14 +7277,7 @@
       {
         "lineText": [
           {
-            "text": "Powered Void Melee Kills grant 20% [PVP: 10%] Super Energy"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Shield Throw only grants increased Super Energy once per usage."
+            "text": "Powered Void Melee Kills grant 20% [PVP: 10%] Super Energy once per usage."
           }
         ]
       },
@@ -7307,8 +7293,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Powered Void Melee Kills grant <pve 20% /> <pvp [10%] /> Super Energy\nShield Throw only grants increased Super Energy once per usage.\n\nSentinel Shield's Shield Throws regenerate 10% Super Energy\n",
-      "secondaryEditor": "Powered Void Melee Kills grant 20% [PVP: 10%] Super Energy\r\nShield Throw only grants increased Super Energy once per usage.\r\n\r\nSentinel Shield's Shield Throws regenerate 10% Super Energy\r\n"
+      "mainEditor": "Powered Void Melee Kills grant <pve 20% /> <pvp [10%] /> Super Energy once per usage.\n\nSentinel Shield's Shield Throws regenerate 10% Super Energy\n",
+      "secondaryEditor": "Powered Void Melee Kills grant 20% [PVP: 10%] Super Energy once per usage.\r\n\r\nSentinel Shield's Shield Throws regenerate 10% Super Energy\r\n"
     },
     "inLiveDatabase": true
   },
