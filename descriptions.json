@@ -17842,14 +17842,14 @@
     "name": "Beacons of Empowerment",
     "itemId": "1537074069",
     "itemName": "Phoenix Cradle",
-    "lastUpdate": 1650807494626,
+    "lastUpdate": 1652036868107,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Sun Warrior buff from Sunspots lasts twice as long (5 -> 10 seconds)"
+            "text": "Sun Warrior buff from Sunspots lasts twice as long (5 ->10 seconds)"
           }
         ]
       },
@@ -17857,6 +17857,28 @@
         "lineText": [
           {
             "text": "Sunspots affect the entire team."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Sun Warrior has reduced effectiveness for Ability Regeneration:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "title": "Sun Warrior is normally 450% additional base regeneration rate.",
+            "text": "350%",
+            "className": "title"
+          },
+          {
+            "text": " Additional Base Grenade and Melee Regeneration Rate."
           }
         ]
       }
@@ -17865,7 +17887,7 @@
       {
         "lineText": [
           {
-            "text": "Sun Warrior buff from Sunspots lasts twice as long (5 -> 10 seconds)"
+            "text": "Sun Warrior buff from Sunspots lasts twice as long (5 ->10 seconds)"
           }
         ]
       },
@@ -17875,11 +17897,28 @@
             "text": "Sunspots affect the entire team."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Sun Warrior has reduced effectiveness for Ability Regeneration:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "350% Additional Base Grenade and Melee Regeneration Rate. (Down from 450%)"
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "Sun Warrior buff from Sunspots lasts twice as long (5 -> 10 seconds)\nSunspots affect the entire team.\n",
-      "secondaryEditor": "Sun Warrior buff from Sunspots lasts twice as long (5 -> 10 seconds)\r\nSunspots affect the entire team.\r\n"
+      "mainEditor": "Sun Warrior buff from Sunspots lasts twice as long (5 ->10 seconds)\nSunspots affect the entire team.\n\nSun Warrior has reduced effectiveness for Ability Regeneration:\n<title 350% [Sun Warrior is normally 450% additional base regeneration rate.] /> Additional Base Grenade and Melee Regeneration Rate.",
+      "secondaryEditor": "Sun Warrior buff from Sunspots lasts twice as long (5 ->10 seconds)\r\nSunspots affect the entire team.\r\n\r\nSun Warrior has reduced effectiveness for Ability Regeneration:\r\n350% Additional Base Grenade and Melee Regeneration Rate. (Down from 450%)"
     },
     "inLiveDatabase": true
   },
