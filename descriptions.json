@@ -11119,6 +11119,38 @@
     },
     "inLiveDatabase": true
   },
+  "1702976605": {
+    "id": 1702976605,
+    "name": "Classy Contender",
+    "itemId": 1341951177,
+    "itemName": "Heart of Inmost Light",
+    "lastUpdate": 1652037164974,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Kills grant 5% Class Ability Energy."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Kills grant 5% Class Ability Energy."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Kills grant 5% Class Ability Energy.",
+      "secondaryEditor": "Kills grant 5% Class Ability Energy."
+    },
+    "inLiveDatabase": true
+  },
   "1710791394": {
     "id": 1710791394,
     "name": "Adept Targeting",
