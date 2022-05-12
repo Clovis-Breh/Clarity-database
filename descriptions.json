@@ -11658,7 +11658,7 @@
   "1820235745": {
     "id": "1820235745",
     "name": "Subsistence",
-    "lastUpdate": 1650460591526,
+    "lastUpdate": 1652370475259,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -11677,14 +11677,14 @@
             "className": "title"
           },
           {
-            "text": " 10-17% of Magazine."
+            "text": " a portion of Magazine."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Amount varies between Weapon Archetypes"
+            "text": "Submachine Guns and Auto Rifles: 17% | Machine Guns: 10%"
           }
         ]
       },
@@ -11710,14 +11710,14 @@
       {
         "lineText": [
           {
-            "text": "Refreshes 10-17% of Magazine."
+            "text": "Refreshes a portion of Magazine."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Amount varies between Weapon Archetypes"
+            "text": "Submachine Guns and Auto Rifles: 17% | Machine Guns: 10%"
           }
         ]
       },
@@ -11733,8 +11733,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> 10-17% of Magazine.\nAmount varies between Weapon Archetypes\n\nEnhanced: Magazine Refresh increased to 25%",
-      "secondaryEditor": "On Weapon Kill:\r\nRefreshes 10-17% of Magazine.\r\nAmount varies between Weapon Archetypes\r\n\r\nEnhanced: Magazine Refresh increased to 25%"
+      "mainEditor": "On Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> a portion of Magazine.\nSubmachine Guns and Auto Rifles: 17% | Machine Guns: 10%\n\nEnhanced: Magazine Refresh increased to 25%",
+      "secondaryEditor": "On Weapon Kill:\r\nRefreshes a portion of Magazine.\r\nSubmachine Guns and Auto Rifles: 17% | Machine Guns: 10%\r\n\r\nEnhanced: Magazine Refresh increased to 25%"
     },
     "inLiveDatabase": true
   },
