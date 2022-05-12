@@ -18029,7 +18029,7 @@
     "name": "Kintsugi",
     "itemId": 3974038291,
     "itemName": "Precious Scars",
-    "lastUpdate": 1650807503654,
+    "lastUpdate": 1652370624803,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -18046,21 +18046,14 @@
       {
         "lineText": [
           {
-            "text": "Kintsugi:"
+            "text": "Grants you and allies within 15 metres a 100HP Overshield for 10 seconds."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Grants you and allies within 15 meters a 100HP Overshield for 10 seconds."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Leaving the 15 meter radius removes Overshield"
+            "text": "Leaving the 15 metres radius removes Overshield"
           }
         ]
       },
@@ -18077,7 +18070,7 @@
       {
         "lineText": [
           {
-            "text": "Heals you and allies within 15 meters for 60(?)HP for X seconds after getting a Weapon Kill with a Matching Subclass Element."
+            "text": "Heals you and allies within 15 metres for 60(?)HP after getting a Weapon Kill with a Matching Subclass Element with a 3 second cooldown."
           }
         ]
       }
@@ -18096,21 +18089,14 @@
       {
         "lineText": [
           {
-            "text": "Kintsugi:"
+            "text": "Grants you and allies within 15 metres a 100HP Overshield for 10 seconds."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Grants you and allies within 15 meters a 100HP Overshield for 10 seconds."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Leaving the 15 meter radius removes Overshield"
+            "text": "Leaving the 15 metres radius removes Overshield"
           }
         ]
       },
@@ -18127,14 +18113,14 @@
       {
         "lineText": [
           {
-            "text": "Heals you and allies within 15 meters for 60(?)HP for X seconds after getting a Weapon Kill with a Matching Subclass Element."
+            "text": "Heals you and allies within 15 metres for 60(?)HP after getting a Weapon Kill with a Matching Subclass Element with a 3 second cooldown."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Reviving or Getting Revived grants Kintsugi\n\nKintsugi:\nGrants you and allies within 15 meters a 100HP Overshield for 10 seconds.\nLeaving the 15 meter radius removes Overshield\nIf the wearer loses Overshield, so too does everyone else.\n\nHeals you and allies within 15 meters for 60(?)HP for X seconds after getting a Weapon Kill with a Matching Subclass Element.\n",
-      "secondaryEditor": "Reviving or Getting Revived grants Kintsugi\r\n\r\nKintsugi:\r\nGrants you and allies within 15 meters a 100HP Overshield for 10 seconds.\r\nLeaving the 15 meter radius removes Overshield\r\nIf the wearer loses Overshield, so too does everyone else.\r\n\r\nHeals you and allies within 15 meters for 60(?)HP for X seconds after getting a Weapon Kill with a Matching Subclass Element.\r\n"
+      "mainEditor": "Reviving or Getting Revived grants Kintsugi\n\nGrants you and allies within 15 metres a 100HP Overshield for 10 seconds.\nLeaving the 15 metres radius removes Overshield\nIf the wearer loses Overshield, so too does everyone else.\n\nHeals you and allies within 15 metres for 60(?)HP after getting a Weapon Kill with a Matching Subclass Element with a 3 second cooldown.",
+      "secondaryEditor": "Reviving or Getting Revived grants Kintsugi\r\n\r\nGrants you and allies within 15 metres a 100HP Overshield for 10 seconds.\r\nLeaving the 15 metres radius removes Overshield\r\nIf the wearer loses Overshield, so too does everyone else.\r\n\r\nHeals you and allies within 15 metres for 60(?)HP after getting a Weapon Kill with a Matching Subclass Element with a 3 second cooldown."
     },
     "inLiveDatabase": true
   },
