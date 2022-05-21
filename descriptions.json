@@ -1317,7 +1317,7 @@
     "name": "Vanishing Execution",
     "itemId": 2203146422,
     "itemName": "Assassin's Cowl",
-    "lastUpdate": 1650806595889,
+    "lastUpdate": 1653171994208,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -1379,7 +1379,7 @@
       {
         "lineText": [
           {
-            "text": "Bosses are not finishable."
+            "text": "Bosses and Vehicles are not finishable. Generally."
           }
         ]
       }
@@ -1443,14 +1443,14 @@
       {
         "lineText": [
           {
-            "text": "Bosses are not finishable."
+            "text": "Bosses and Vehicles are not finishable. Generally."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)\r\nHeals for X on Powered Melee Kill. (Stronger on Finishers)\r\n\r\nInvisibility Duration:\r\nMinor = 6 seconds (10)\r\nElite = 9 seconds (13)\r\nMiniboss = 12.5 seconds (13)\r\nBoss = 13 seconds (13)\r\n\r\nBosses are not finishable.",
-      "secondaryEditor": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)\r\nHeals for X on Powered Melee Kill. (Stronger on Finishers)\r\n\r\nInvisibility Duration:\r\nMinor = 6 seconds (10)\r\nElite = 9 seconds (13)\r\nMiniboss = 12.5 seconds (13)\r\nBoss = 13 seconds (13)\r\n\r\nBosses are not finishable."
+      "mainEditor": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)\r\nHeals for X on Powered Melee Kill. (Stronger on Finishers)\r\n\r\nInvisibility Duration:\r\nMinor = 6 seconds (10)\r\nElite = 9 seconds (13)\r\nMiniboss = 12.5 seconds (13)\r\nBoss = 13 seconds (13)\r\n\r\nBosses and Vehicles are not finishable. Generally.",
+      "secondaryEditor": "Gain Invisibility on Powered Melee Kill. (Longer on Finishers)\r\nHeals for X on Powered Melee Kill. (Stronger on Finishers)\r\n\r\nInvisibility Duration:\r\nMinor = 6 seconds (10)\r\nElite = 9 seconds (13)\r\nMiniboss = 12.5 seconds (13)\r\nBoss = 13 seconds (13)\r\n\r\nBosses and Vehicles are not finishable. Generally."
     },
     "inLiveDatabase": true
   },
