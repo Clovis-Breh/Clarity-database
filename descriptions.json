@@ -24347,7 +24347,7 @@
     "name": "Conduction Tines",
     "itemId": 3381022969,
     "itemName": "Crown of Tempests",
-    "lastUpdate": 1650806755059,
+    "lastUpdate": 1653172589257,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -24365,7 +24365,7 @@
             "className": "pvp"
           },
           {
-            "text": " seconds. Stacks up to 3x."
+            "text": " seconds."
           }
         ]
       },
@@ -24382,7 +24382,7 @@
       {
         "lineText": [
           {
-            "text": "1.5% Grenade and Melee Ability per Second | 0.45% Super Ability per Second"
+            "text": "175% Additional Base Grenade, Melee, and Super Regeneration Rate | [22?]% Slower Super Drain."
           }
         ]
       },
@@ -24399,7 +24399,7 @@
       {
         "lineText": [
           {
-            "text": "4% Grenade and Melee Ability per Second | [?] Super Ability per Second"
+            "text": "350% Additional Base Grenade, Melee, and Super Regeneration Rate | [44?]% Slower Super Drain."
           }
         ]
       },
@@ -24416,9 +24416,12 @@
       {
         "lineText": [
           {
-            "text": "6.3% Grenade and Melee Ability per Second | 1.7% Super Ability per Second | 66% Slower Super Drain"
+            "text": "525% Additional Base Grenade, Melee, and Super Regeneration Rate | 66% Slower Super Drain."
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -24432,7 +24435,7 @@
       {
         "lineText": [
           {
-            "text": "Arc Ability Kills grant Conduction Tines for 7 [PVP: 4] seconds. Stacks up to 3x."
+            "text": "Arc Ability Kills grant Conduction Tines for 7 [PVP: 4] seconds."
           }
         ]
       },
@@ -24449,7 +24452,7 @@
       {
         "lineText": [
           {
-            "text": "1.5% Grenade and Melee Ability per Second | 0.45% Super Ability per Second"
+            "text": "175% Additional Base Grenade, Melee, and Super Regeneration Rate | [22?]% Slower Super Drain."
           }
         ]
       },
@@ -24466,7 +24469,7 @@
       {
         "lineText": [
           {
-            "text": "4% Grenade and Melee Ability per Second | [?] Super Ability per Second"
+            "text": "350% Additional Base Grenade, Melee, and Super Regeneration Rate | [44?]% Slower Super Drain."
           }
         ]
       },
@@ -24483,9 +24486,12 @@
       {
         "lineText": [
           {
-            "text": "6.3% Grenade and Melee Ability per Second | 1.7% Super Ability per Second | 66% Slower Super Drain"
+            "text": "525% Additional Base Grenade, Melee, and Super Regeneration Rate | 66% Slower Super Drain."
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -24496,8 +24502,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Arc Ability Kills grant Conduction Tines for <pve 7 /> <pvp [4] /> seconds. Stacks up to 3x.\n\nAt x1 Conduction Tines\n1.5% Grenade and Melee Ability per Second | 0.45% Super Ability per Second\n\nAt x2 Conduction Tines\n4% Grenade and Melee Ability per Second | [?] Super Ability per Second\n\nAt x3 Conduction Tines\n6.3% Grenade and Melee Ability per Second | 1.7% Super Ability per Second | 66% Slower Super Drain\nSuper Drain affects every Roaming Super BUT Chaos Reach.\n",
-      "secondaryEditor": "Arc Ability Kills grant Conduction Tines for 7 [PVP: 4] seconds. Stacks up to 3x.\r\n\r\nAt x1 Conduction Tines\r\n1.5% Grenade and Melee Ability per Second | 0.45% Super Ability per Second\r\n\r\nAt x2 Conduction Tines\r\n4% Grenade and Melee Ability per Second | [?] Super Ability per Second\r\n\r\nAt x3 Conduction Tines\r\n6.3% Grenade and Melee Ability per Second | 1.7% Super Ability per Second | 66% Slower Super Drain\r\nSuper Drain affects every Roaming Super BUT Chaos Reach.\r\n"
+      "mainEditor": "Arc Ability Kills grant Conduction Tines for <pve 7 /> <pvp [4] /> seconds.\n\nAt x1 Conduction Tines\n175% Additional Base Grenade, Melee, and Super Regeneration Rate | [22?]% Slower Super Drain.\n\nAt x2 Conduction Tines\n350% Additional Base Grenade, Melee, and Super Regeneration Rate | [44?]% Slower Super Drain.\n\nAt x3 Conduction Tines\n525% Additional Base Grenade, Melee, and Super Regeneration Rate | 66% Slower Super Drain.\n\nSuper Drain affects every Roaming Super BUT Chaos Reach.",
+      "secondaryEditor": "Arc Ability Kills grant Conduction Tines for 7 [PVP: 4] seconds.\r\n\r\nAt x1 Conduction Tines\r\n175% Additional Base Grenade, Melee, and Super Regeneration Rate | [22?]% Slower Super Drain.\r\n\r\nAt x2 Conduction Tines\r\n350% Additional Base Grenade, Melee, and Super Regeneration Rate | [44?]% Slower Super Drain.\r\n\r\nAt x3 Conduction Tines\r\n525% Additional Base Grenade, Melee, and Super Regeneration Rate | 66% Slower Super Drain.\r\n\r\nSuper Drain affects every Roaming Super BUT Chaos Reach."
     },
     "inLiveDatabase": true
   },
