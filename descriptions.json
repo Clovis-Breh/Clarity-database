@@ -10406,21 +10406,28 @@
     "name": "Survival Well",
     "itemId": "1591207519",
     "itemName": "Crest of Alpha Lupi",
-    "lastUpdate": 1650806670208,
+    "lastUpdate": 1653172375289,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies."
+            "text": "On Barricade Cast:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Healing Pulse heals for the highest between 58 HP OR to 130HP over 12 meters."
+            "text": "Generates a Healing Pulse which heals both the user and allies within 12 metres."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Healing Pulse heals for either 58 HP OR to 130HP, depending on which is highest."
           }
         ]
       },
@@ -10446,14 +10453,21 @@
       {
         "lineText": [
           {
-            "text": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies."
+            "text": "On Barricade Cast:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Healing Pulse heals for the highest between 58 HP OR to 130HP over 12 meters."
+            "text": "Generates a Healing Pulse which heals both the user and allies within 12 metres."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Healing Pulse heals for either 58 HP OR to 130HP, depending on which is highest."
           }
         ]
       },
@@ -10476,8 +10490,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies.\nHealing Pulse heals for the highest between 58 HP OR to 130HP over 12 meters.\nRequires Line-of-Sight to allies.\n\nSupers generate 1 extra Orb of Power.",
-      "secondaryEditor": "Generates a Healing Pulse on Barricade Cast which heals both the user and allies.\r\nHealing Pulse heals for the highest between 58 HP OR to 130HP over 12 meters.\r\nRequires Line-of-Sight to allies.\r\n\r\nSupers generate 1 extra Orb of Power."
+      "mainEditor": "On Barricade Cast:\nGenerates a Healing Pulse which heals both the user and allies within 12 metres.\nHealing Pulse heals for either 58 HP OR to 130HP, depending on which is highest.\nRequires Line-of-Sight to allies.\n\nSupers generate 1 extra Orb of Power.",
+      "secondaryEditor": "On Barricade Cast:\r\nGenerates a Healing Pulse which heals both the user and allies within 12 metres.\r\nHealing Pulse heals for either 58 HP OR to 130HP, depending on which is highest.\r\nRequires Line-of-Sight to allies.\r\n\r\nSupers generate 1 extra Orb of Power."
     },
     "inLiveDatabase": true
   },
