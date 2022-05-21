@@ -13366,7 +13366,7 @@
     "name": "Vanishing Shadow",
     "itemId": 2773056939,
     "itemName": "Graviton Forfeit",
-    "lastUpdate": 1651310778541,
+    "lastUpdate": 1653172031188,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -13441,16 +13441,12 @@
         ]
       },
       {
-        "lineText": [
-          {
-            "text": "(Equivalent of) 100 Recovery."
-          }
-        ]
+        "className": "spacer"
       },
       {
         "lineText": [
           {
-            "text": "100 Reload Speed."
+            "text": "100 Recovery and 100 Reload Speed."
           }
         ]
       }
@@ -13488,23 +13484,19 @@
         ]
       },
       {
-        "lineText": [
-          {
-            "text": "(Equivalent of) 100 Recovery."
-          }
-        ]
+        "className": "spacer"
       },
       {
         "lineText": [
           {
-            "text": "100 Reload Speed."
+            "text": "100 Recovery and 100 Reload Speed."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Void Invisibility effects last 2 seconds longer.\n\nWhile Invisible:\n<pve 400% /> <pvp [100%] /> Additional Base Melee Regeneration Rate.\nEach enemy within 15 metres will increase the bonus to a total of <pve 600% /> <pvp [200%] /> and <pve 800% /> <pvp [300%] />.\n(Equivalent of) 100 Recovery.\n100 Reload Speed.",
-      "secondaryEditor": "Void Invisibility effects last 2 seconds longer.\r\n\r\nWhile Invisible:\r\n400% [PVP: 100%] Additional Base Melee Regeneration Rate.\r\nEach enemy within 15 metres will increase the bonus to a total of 600% [PVP: 200%] and 800% [PVP: 300%].\r\n(Equivalent of) 100 Recovery.\r\n100 Reload Speed."
+      "mainEditor": "Void Invisibility effects last 2 seconds longer.\n\nWhile Invisible:\n<pve 400% /> <pvp [100%] /> Additional Base Melee Regeneration Rate.\nEach enemy within 15 metres will increase the bonus to a total of <pve 600% /> <pvp [200%] /> and <pve 800% /> <pvp [300%] />.\n\n100 Recovery and 100 Reload Speed.",
+      "secondaryEditor": "Void Invisibility effects last 2 seconds longer.\r\n\r\nWhile Invisible:\r\n400% [PVP: 100%] Additional Base Melee Regeneration Rate.\r\nEach enemy within 15 metres will increase the bonus to a total of 600% [PVP: 200%] and 800% [PVP: 300%].\r\n\r\n100 Recovery and 100 Reload Speed."
     },
     "inLiveDatabase": true
   },
