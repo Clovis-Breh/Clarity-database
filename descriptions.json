@@ -25929,7 +25929,7 @@
     "name": "Insatiable",
     "itemId": "1096253259",
     "itemName": "Apotheosis Veil",
-    "lastUpdate": 1650806582613,
+    "lastUpdate": 1653172445623,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -25953,7 +25953,7 @@
       {
         "lineText": [
           {
-            "text": "Allies within 18(?) meters recharge 0.25% of their Class Ability per Second."
+            "text": "Allies within 18(?) metres receive [?]% Additional Base Ability Class Regeneration Rate."
           }
         ]
       }
@@ -25979,14 +25979,14 @@
       {
         "lineText": [
           {
-            "text": "Allies within 18(?) meters recharge 0.25% of their Class Ability per Second."
+            "text": "Allies within 18(?) metres receive [?]% Additional Base Ability Class Regeneration Rate."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Super Ability Activation:\nFully restores Health, Grenade, Melee, and Class Ability Energy.\n\nAllies within 18(?) meters recharge 0.25% of their Class Ability per Second.",
-      "secondaryEditor": "On Super Ability Activation:\r\nFully restores Health, Grenade, Melee, and Class Ability Energy.\r\n\r\nAllies within 18(?) meters recharge 0.25% of their Class Ability per Second."
+      "mainEditor": "On Super Ability Activation:\nFully restores Health, Grenade, Melee, and Class Ability Energy.\n\nAllies within 18(?) metres receive [?]% Additional Base Ability Class Regeneration Rate.",
+      "secondaryEditor": "On Super Ability Activation:\r\nFully restores Health, Grenade, Melee, and Class Ability Energy.\r\n\r\nAllies within 18(?) metres receive [?]% Additional Base Ability Class Regeneration Rate."
     },
     "inLiveDatabase": true
   },
