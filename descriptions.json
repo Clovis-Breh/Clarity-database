@@ -14884,7 +14884,7 @@
     "name": "Glacial Fortification",
     "itemId": 1322544481,
     "itemName": "Hoarfrost-Z",
-    "lastUpdate": 1650807129894,
+    "lastUpdate": 1653172405957,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -14908,7 +14908,7 @@
       {
         "lineText": [
           {
-            "text": "The Stasis Wall is 7 crystals wide, and the middle crystal is a small crystal."
+            "text": "The Stasis Wall is 7 medium crystals wide, and the middle crystal is a small crystal."
           }
         ]
       },
@@ -14944,7 +14944,7 @@
       {
         "lineText": [
           {
-            "text": "The Stasis Wall is 7 crystals wide, and the middle crystal is a small crystal."
+            "text": "The Stasis Wall is 7 medium crystals wide, and the middle crystal is a small crystal."
           }
         ]
       },
@@ -14960,8 +14960,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "While on Stasis Subclass:\r\nBarricade is replaced by a Stasis Wall.\r\n\r\nThe Stasis Wall is 7 crystals wide, and the middle crystal is a small crystal.\r\n\r\nGrants Rally Barricade benefits. Functions even if no crystals remain.",
-      "secondaryEditor": "While on Stasis Subclass:\r\nBarricade is replaced by a Stasis Wall.\r\n\r\nThe Stasis Wall is 7 crystals wide, and the middle crystal is a small crystal.\r\n\r\nGrants Rally Barricade benefits. Functions even if no crystals remain."
+      "mainEditor": "While on Stasis Subclass:\r\nBarricade is replaced by a Stasis Wall.\r\n\r\nThe Stasis Wall is 7 medium crystals wide, and the middle crystal is a small crystal.\r\n\r\nGrants Rally Barricade benefits. Functions even if no crystals remain.",
+      "secondaryEditor": "While on Stasis Subclass:\r\nBarricade is replaced by a Stasis Wall.\r\n\r\nThe Stasis Wall is 7 medium crystals wide, and the middle crystal is a small crystal.\r\n\r\nGrants Rally Barricade benefits. Functions even if no crystals remain."
     },
     "inLiveDatabase": true
   },
