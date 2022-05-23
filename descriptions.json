@@ -16389,7 +16389,7 @@
     "name": "Vampire's Caress",
     "itemId": 3844826440,
     "itemName": "Karnstein Armlets",
-    "lastUpdate": 1650807162532,
+    "lastUpdate": 1653303444549,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -16401,12 +16401,9 @@
         ]
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
-            "text": "Heal for XHP and constantly regenerate XHP/s."
+            "text": "Heal for 50HP and constantly regenerate 30HP/s."
           }
         ]
       },
@@ -16416,7 +16413,7 @@
       {
         "lineText": [
           {
-            "text": "Lasts for 8.5 seconds. "
+            "text": "Lasts for 8 seconds. "
           }
         ]
       },
@@ -16437,12 +16434,9 @@
         ]
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
-            "text": "Heal for XHP and constantly regenerate XHP/s."
+            "text": "Heal for 50HP and constantly regenerate 30HP/s."
           }
         ]
       },
@@ -16452,7 +16446,7 @@
       {
         "lineText": [
           {
-            "text": "Lasts for 8.5 seconds. "
+            "text": "Lasts for 8 seconds. "
           }
         ]
       },
@@ -16465,8 +16459,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Melee Kill:\r\n\r\nHeal for XHP and constantly regenerate XHP/s.\r\n\r\nLasts for 8.5 seconds. \r\nCan be Refreshed.",
-      "secondaryEditor": "On Melee Kill:\r\n\r\nHeal for XHP and constantly regenerate XHP/s.\r\n\r\nLasts for 8.5 seconds. \r\nCan be Refreshed."
+      "mainEditor": "On Melee Kill:\r\nHeal for 50HP and constantly regenerate 30HP/s.\r\n\r\nLasts for 8 seconds. \r\nCan be Refreshed.",
+      "secondaryEditor": "On Melee Kill:\r\nHeal for 50HP and constantly regenerate 30HP/s.\r\n\r\nLasts for 8 seconds. \r\nCan be Refreshed."
     },
     "inLiveDatabase": true
   },
