@@ -10,5 +10,5 @@
 - Want to use our data but in a different format such as Markdown? As long as you can provide us with the code that converts it from our existing formats to yours, we can implement it into the database saving you runtime by omitting the conversion.
 
 ## Projects currently using our data
-- [Clarity - A DIM Companion](https://d2clarity.wordpress.com): our first party tool
+- [Clarity - A DIM Companion](https://d2clarity.wordpress.com): our First Party tool to enhance DIM
 - [Crayon](https://mijago.github.io/Crayon): a Discord Bot by Mijago
