@@ -7,6 +7,7 @@
 - Do not modify the contents of our database on your without clearly marking your changes. This is necessary to avoid data inaccuracies.
   - If you implement long-term changes to the data, please contact us through our [Discord Server](https://d2clarity.page.link/discord) before doing so.
 - If you wish to use our data in larger projects, please contact us through our [Discord Server](https://d2clarity.page.link/discord) so we can discuss the specifics of the cooperation.
+- Want to use our data but in a different form? As long as you can provide us with the code that converts it from our existing formats to yours, we can implement it into the database saving you runtime by omitting the conversion.
 
 ## Projects currently using our data
 - [Clarity - A DIM Companion](https://d2clarity.wordpress.com): our first party tool
