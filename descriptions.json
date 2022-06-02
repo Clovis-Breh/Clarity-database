@@ -9069,7 +9069,7 @@
     "name": "Adamantine Brace",
     "itemId": 691578978,
     "itemName": "Oathkeeper",
-    "lastUpdate": 1650805084262,
+    "lastUpdate": 1654187355558,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDraw": {
@@ -9085,6 +9085,16 @@
       {
         "lineText": [
           {
+            "text": "Passively grants 40 Airborne Effectiveness to Bows."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
             "text": "Bows are able to hold perfect draws indefinitely."
           }
         ]
@@ -9095,17 +9105,7 @@
       {
         "lineText": [
           {
-            "text": "Grants 40 Airborne Effectiveness to Bows."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Bows reach full draw 30 miliseconds faster."
+            "text": "Bows have a -30ms Draw Time."
           }
         ]
       }
@@ -9114,6 +9114,16 @@
       {
         "lineText": [
           {
+            "text": "Passively grants 40 Airborne Effectiveness to Bows."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
             "text": "Bows are able to hold perfect draws indefinitely."
           }
         ]
@@ -9124,24 +9134,14 @@
       {
         "lineText": [
           {
-            "text": "Grants 40 Airborne Effectiveness to Bows."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Bows reach full draw 30 miliseconds faster."
+            "text": "Bows have a -30ms Draw Time."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Bows are able to hold perfect draws indefinitely.\n\nGrants 40 Airborne Effectiveness to Bows.\n\nBows reach full draw 30 miliseconds faster.",
-      "secondaryEditor": "Bows are able to hold perfect draws indefinitely.\r\n\r\nGrants 40 Airborne Effectiveness to Bows.\r\n\r\nBows reach full draw 30 miliseconds faster."
+      "mainEditor": "Passively grants 40 Airborne Effectiveness to Bows.\n\nBows are able to hold perfect draws indefinitely.\n\nBows have a -30ms Draw Time.",
+      "secondaryEditor": "Passively grants 40 Airborne Effectiveness to Bows.\r\n\r\nBows are able to hold perfect draws indefinitely.\r\n\r\nBows have a -30ms Draw Time."
     },
     "inLiveDatabase": true
   },
