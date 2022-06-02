@@ -5075,6 +5075,76 @@
     },
     "inLiveDatabase": true
   },
+  "776531651": {
+    "id": 776531651,
+    "name": "Repulsor Brace",
+    "lastUpdate": 1654185853879,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Upon killing an enemy affected by a Void Debuff:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "45[?]HP Overshield for 8 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased to [?] seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Upon killing an enemy affected by a Void Debuff:"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "45[?]HP Overshield for 8 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased to [?] seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Upon killing an enemy affected by a Void Debuff:\r\n\r\n45[?]HP Overshield for 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased to [?] seconds.",
+      "secondaryEditor": "Upon killing an enemy affected by a Void Debuff:\r\n\r\n45[?]HP Overshield for 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased to [?] seconds."
+    },
+    "inLiveDatabase": true
+  },
   "806159697": {
     "id": "806159697",
     "name": "Trench Barrel",
