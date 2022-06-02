@@ -23078,7 +23078,7 @@
   "3700496672": {
     "id": "3700496672",
     "name": "Shoot to Loot",
-    "lastUpdate": 1650804200674,
+    "lastUpdate": 1654185907205,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -23099,7 +23099,7 @@
       {
         "lineText": [
           {
-            "text": "Triggers Ammo Pickup effects. 4 second Cooldown."
+            "text": "Triggers Ammo Pickup effects. Only activates if you are not full on Ammo."
           }
         ]
       },
@@ -23132,7 +23132,7 @@
       {
         "lineText": [
           {
-            "text": "Triggers Ammo Pickup effects. 4 second Cooldown."
+            "text": "Triggers Ammo Pickup effects. Only activates if you are not full on Ammo."
           }
         ]
       },
@@ -23148,8 +23148,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "After Shooting an Ammo Pickup:\nPicks up the Ammo and Refreshes all your Weapons.\nTriggers Ammo Pickup effects. 4 second Cooldown.\n\nEnhanced: Passively grants 5 Range.",
-      "secondaryEditor": "After Shooting an Ammo Pickup:\r\nPicks up the Ammo and Refreshes all your Weapons.\r\nTriggers Ammo Pickup effects. 4 second Cooldown.\r\n\r\nEnhanced: Passively grants 5 Range."
+      "mainEditor": "After Shooting an Ammo Pickup:\nPicks up the Ammo and Refreshes all your Weapons.\nTriggers Ammo Pickup effects. Only activates if you are not full on Ammo.\n\nEnhanced: Passively grants 5 Range.",
+      "secondaryEditor": "After Shooting an Ammo Pickup:\r\nPicks up the Ammo and Refreshes all your Weapons.\r\nTriggers Ammo Pickup effects. Only activates if you are not full on Ammo.\r\n\r\nEnhanced: Passively grants 5 Range."
     },
     "inLiveDatabase": true
   },
