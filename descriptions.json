@@ -5934,14 +5934,14 @@
     "name": "Tome of Dawn",
     "itemId": 370930766,
     "itemName": "Wings of Sacred Dawn",
-    "lastUpdate": 1650806432077,
+    "lastUpdate": 1654187995463,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Passively grants 50 Airborne Effectiveness"
+            "text": "Passively grants 50 Airborne Effectiveness."
           }
         ]
       },
@@ -6005,7 +6005,7 @@
       {
         "lineText": [
           {
-            "text": "Passively grants 50 Airborne Effectiveness"
+            "text": "Passively grants 50 Airborne Effectiveness."
           }
         ]
       },
@@ -6066,8 +6066,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Passively grants 50 Airborne Effectiveness\r\n\r\nIf on Solar Subclass:\r\nAiming Down Sights while Airborne grants Tome of Dawn.\r\n\r\nTomes of Dawn: \r\nHolds you in place midair\r\n25% Reduced Flinch\r\nGrants 15% Damage Resistance. \r\nLasts for 2.8 seconds. Hits refresh Y seconds.",
-      "secondaryEditor": "Passively grants 50 Airborne Effectiveness\r\n\r\nIf on Solar Subclass:\r\nAiming Down Sights while Airborne grants Tome of Dawn.\r\n\r\nTomes of Dawn: \r\nHolds you in place midair\r\n25% Reduced Flinch\r\nGrants 15% Damage Resistance. \r\nLasts for 2.8 seconds. Hits refresh Y seconds."
+      "mainEditor": "Passively grants 50 Airborne Effectiveness.\r\n\r\nIf on Solar Subclass:\r\nAiming Down Sights while Airborne grants Tome of Dawn.\r\n\r\nTomes of Dawn: \r\nHolds you in place midair\r\n25% Reduced Flinch\r\nGrants 15% Damage Resistance. \r\nLasts for 2.8 seconds. Hits refresh Y seconds.",
+      "secondaryEditor": "Passively grants 50 Airborne Effectiveness.\r\n\r\nIf on Solar Subclass:\r\nAiming Down Sights while Airborne grants Tome of Dawn.\r\n\r\nTomes of Dawn: \r\nHolds you in place midair\r\n25% Reduced Flinch\r\nGrants 15% Damage Resistance. \r\nLasts for 2.8 seconds. Hits refresh Y seconds."
     },
     "inLiveDatabase": true
   },
