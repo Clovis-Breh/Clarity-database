@@ -26574,6 +26574,78 @@
     },
     "inLiveDatabase": true
   },
+  "4222205045": {
+    "id": 4222205045,
+    "name": "Soaring Fusilier",
+    "itemId": 1624882687,
+    "itemName": "Rain of Fire",
+    "lastUpdate": 1654187891487,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 30 Airborne Effectiveness to Fusion Rifles and Linear Fusion Rifles."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Fusion Rifle and Linear Fusion Rifle kills grant Radiant."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Icarus Dash reloads your equipped weapon."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 30 Airborne Effectiveness to Fusion Rifles and Linear Fusion Rifles."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Fusion Rifle and Linear Fusion Rifle kills grant Radiant."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Icarus Dash reloads your equipped weapon."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Passively grants 30 Airborne Effectiveness to Fusion Rifles and Linear Fusion Rifles.\r\n\r\nFusion Rifle and Linear Fusion Rifle kills grant Radiant.\r\n\r\nIcarus Dash reloads your equipped weapon.",
+      "secondaryEditor": "Passively grants 30 Airborne Effectiveness to Fusion Rifles and Linear Fusion Rifles.\r\n\r\nFusion Rifle and Linear Fusion Rifle kills grant Radiant.\r\n\r\nIcarus Dash reloads your equipped weapon."
+    },
+    "inLiveDatabase": true
+  },
   "4235122381": {
     "id": 4235122381,
     "name": "Glorious Charge",
