@@ -14814,6 +14814,77 @@
     },
     "inLiveDatabase": true
   },
+  "2451262963": {
+    "id": 2451262963,
+    "name": "Fragile Focus",
+    "lastUpdate": 1654185590407,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "range": {
+        "active": {
+          "stat": [
+            20
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 20 Range, but has a 5 second cooldown if you take damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "In-Game Range:",
+            "formula": "range_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Timer after not taking damage is reduced to [?] seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 20 Range, but has a 5 second cooldown if you take damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Timer after not taking damage is reduced to [?] seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Passively grants 20 Range, but has a 5 second cooldown if you take damage.\r\n\r\n<formula In-Game Range: range_0 />\r\n\r\nEnhanced: Timer after not taking damage is reduced to [?] seconds.",
+      "secondaryEditor": "Passively grants 20 Range, but has a 5 second cooldown if you take damage.\r\n\r\nEnhanced: Timer after not taking damage is reduced to [?] seconds."
+    },
+    "inLiveDatabase": true
+  },
   "2458213969": {
     "id": "2458213969",
     "name": "Multikill Clip",
