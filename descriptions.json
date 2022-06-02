@@ -5006,6 +5006,90 @@
     },
     "inLiveDatabase": true
   },
+  "744594675": {
+    "id": 744594675,
+    "name": "Well-Rounded",
+    "lastUpdate": 1654186041357,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Using your Grenade or hitting an enemy with a Charged Melee Attack grants a stack of Well-Rounded. Using your Super Ability grants two stacks."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lasts 4.5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "? | ? Stability, ? | ? Handling, and ? | ? Range"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased to 5 seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Using your Grenade or hitting an enemy with a Charged Melee Attack grants a stack of Well-Rounded. Using your Super Ability grants two stacks."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Lasts 4.5 seconds."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "? | ? Stability, ? | ? Handling, and ? | ? Range"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Buff Duration is increased to 5 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Using your Grenade or hitting an enemy with a Charged Melee Attack grants a stack of Well-Rounded. Using your Super Ability grants two stacks.\r\nLasts 4.5 seconds.\r\n\r\n? | ? Stability, ? | ? Handling, and ? | ? Range\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds.",
+      "secondaryEditor": "Using your Grenade or hitting an enemy with a Charged Melee Attack grants a stack of Well-Rounded. Using your Super Ability grants two stacks.\r\nLasts 4.5 seconds.\r\n\r\n? | ? Stability, ? | ? Handling, and ? | ? Range\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds."
+    },
+    "inLiveDatabase": true
+  },
   "744770875": {
     "id": 744770875,
     "name": "Adept Charge Time",
