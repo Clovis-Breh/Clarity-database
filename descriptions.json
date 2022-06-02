@@ -13946,6 +13946,58 @@
     },
     "inLiveDatabase": true
   },
+  "2179827240": {
+    "id": 2179827240,
+    "name": "Roast 'Em",
+    "itemId": 3453042252,
+    "itemName": "Caliban's Hand",
+    "lastUpdate": 1654187147846,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Proximity Knife applies [?] Scorch on detonation. Direct hits ignite."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "[?]% Increased Base Melee Recharge Rate while Proximity Knife is unexploded."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Proximity Knife applies [?] Scorch on detonation. Direct hits ignite."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "[?]% Increased Base Melee Recharge Rate while Proximity Knife is unexploded."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Proximity Knife applies [?] Scorch on detonation. Direct hits ignite.\r\n\r\n[?]% Increased Base Melee Recharge Rate while Proximity Knife is unexploded.",
+      "secondaryEditor": "Proximity Knife applies [?] Scorch on detonation. Direct hits ignite.\r\n\r\n[?]% Increased Base Melee Recharge Rate while Proximity Knife is unexploded."
+    },
+    "inLiveDatabase": true
+  },
   "2192678014": {
     "id": "2192678014",
     "name": "Roving Assassin",
