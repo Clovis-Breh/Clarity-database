@@ -11033,7 +11033,7 @@
     "name": "Illegally Modded Holster",
     "itemId": 193869522,
     "itemName": "Lucky Pants",
-    "lastUpdate": 1654187318059,
+    "lastUpdate": 1654187332652,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "draw": {
@@ -11103,6 +11103,9 @@
             "text": "Only works against Combatants."
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -11202,7 +11205,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Intrinsic Hand Cannon Holster\n100 Handling Ready Speed with 0.6 Duration Multiplier, 20 Airborne Effectiveness, and -40% Accuracy Cone Size on Ready for 4 seconds.\n\nUpon readying a Kinetic or Matching Hand Cannon with a Full Magazine:\n<pve 60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits. />\nOnly works against Combatants.\nFor Exotic Hand Cannon interactions, go to <link https://docs.google.com/spreadsheets/d/1i1KUwgVkd8qhwYj481gkV9sZNJQCE-C3Q-dpQutPCi4/edit#rangeid=1312688627 Court's Spreadsheet/>\n\nAfter the Buff runs out, you swap weapons, or firing after the 5 second period:\nYou cannot gain stacks or reacquire the buff for 10 seconds.\n",
+      "mainEditor": "Intrinsic Hand Cannon Holster\n100 Handling Ready Speed with 0.6 Duration Multiplier, 20 Airborne Effectiveness, and -40% Accuracy Cone Size on Ready for 4 seconds.\n\nUpon readying a Kinetic or Matching Hand Cannon with a Full Magazine:\n<pve 60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits. />\nOnly works against Combatants.\n\nFor Exotic Hand Cannon interactions, go to <link https://docs.google.com/spreadsheets/d/1i1KUwgVkd8qhwYj481gkV9sZNJQCE-C3Q-dpQutPCi4/edit#rangeid=1312688627 Court's Spreadsheet/>\n\nAfter the Buff runs out, you swap weapons, or firing after the 5 second period:\nYou cannot gain stacks or reacquire the buff for 10 seconds.\n",
       "secondaryEditor": "Intrinsic Hand Cannon Holster\r\n100 Handling Ready Speed with 0.6x Duration Multiplier, 20 Airborne Effectiveness, and -40% Accuracy Cone Size on Ready for 4 seconds.\r\n\r\nUpon readying a Kinetic or Matching Hand Cannon with a Full Magazine:\r\n60% increased damage per hit for 5 seconds. Maxes out at 600% after 10 Hits.\r\nOnly works against Combatants.\r\n\r\nFor Exotic Hand Cannon interactions, go to Court's Spreadsheet\r\n\r\nAfter the Buff runs out, you swap weapons, or firing after the 5 second period:\r\nYou cannot gain stacks or reacquire the buff for 10 seconds.\r\n"
     },
     "inLiveDatabase": true
