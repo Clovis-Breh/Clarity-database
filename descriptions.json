@@ -23103,7 +23103,7 @@
   "3722653512": {
     "id": 3722653512,
     "name": "Air Assault",
-    "lastUpdate": 1650801626818,
+    "lastUpdate": 1654185443551,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -23125,6 +23125,16 @@
         "lineText": [
           {
             "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Grants up to 66[?] Airborne Effectiveness."
           }
         ]
       }
@@ -23150,11 +23160,21 @@
             "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Grants up to 66[?] Airborne Effectiveness."
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "While at Low Health:\r\nGrants up to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.",
-      "secondaryEditor": "While at Low Health:\r\nGrants up to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health."
+      "mainEditor": "While at Low Health:\r\nGrants up to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness.",
+      "secondaryEditor": "While at Low Health:\r\nGrants up to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness."
     },
     "inLiveDatabase": true
   },
