@@ -18009,7 +18009,7 @@
   "2978966579": {
     "id": 2978966579,
     "name": "Chill Clip",
-    "lastUpdate": 1650802005826,
+    "lastUpdate": 1654185479765,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -18023,7 +18023,14 @@
       {
         "lineText": [
           {
-            "text": "Direct Hits create an explosion which applies 50 Slow to enemies within [?] meters."
+            "text": "Direct Hits create a Stasis burst which applies 50 Slow to enemies within [?] meters."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Weapons with multiple projectiles activate the perk once per enemy."
           }
         ]
       },
@@ -18049,7 +18056,14 @@
       {
         "lineText": [
           {
-            "text": "Direct Hits create an explosion which applies 50 Slow to enemies within [?] meters."
+            "text": "Direct Hits create a Stasis burst which applies 50 Slow to enemies within [?] meters."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Weapons with multiple projectiles activate the perk once per enemy."
           }
         ]
       },
@@ -18065,8 +18079,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "While above 50% Magazine:\r\nDirect Hits create an explosion which applies 50 Slow to enemies within [?] meters.\r\n\r\nEnhanced: Passively grants 5 Stability.",
-      "secondaryEditor": "While above 50% Magazine:\r\nDirect Hits create an explosion which applies 50 Slow to enemies within [?] meters.\r\n\r\nEnhanced: Passively grants 5 Stability."
+      "mainEditor": "While above 50% Magazine:\r\nDirect Hits create a Stasis burst which applies 50 Slow to enemies within [?] meters.\r\nWeapons with multiple projectiles activate the perk once per enemy.\r\n\r\nEnhanced: Passively grants 5 Stability.",
+      "secondaryEditor": "While above 50% Magazine:\r\nDirect Hits create a Stasis burst which applies 50 Slow to enemies within [?] meters.\r\nWeapons with multiple projectiles activate the perk once per enemy.\r\n\r\nEnhanced: Passively grants 5 Stability."
     },
     "inLiveDatabase": true
   },
