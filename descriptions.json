@@ -26508,17 +26508,8 @@
   "4293542123": {
     "id": 4293542123,
     "name": "Incandescent",
-    "lastUpdate": 1654185647261,
+    "lastUpdate": 1654185651186,
     "updatedBy": "Fading-Shadow",
-    "stats": {
-      "range": {
-        "active": {
-          "stat": [
-            20
-          ]
-        }
-      }
-    },
     "type": "weaponPerk",
     "description": [
       {
