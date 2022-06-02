@@ -9064,6 +9064,58 @@
     },
     "inLiveDatabase": true
   },
+  "1437147326": {
+    "id": 1437147326,
+    "name": "Myrmidon's Reach",
+    "itemId": 1443166262,
+    "itemName": "Second Chance",
+    "lastUpdate": 1654187606751,
+    "updatedBy": "Fading-Shadow",
+    "type": "armorExotic",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Gain an additional Shield Throw charge."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Shield Throw grants Anti-Barrier capabilities."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Gain an additional Shield Throw charge."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Shield Throw grants Anti-Barrier capabilities."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Gain an additional Shield Throw charge.\r\n\r\nShield Throw grants Anti-Barrier capabilities.",
+      "secondaryEditor": "Gain an additional Shield Throw charge.\r\n\r\nShield Throw grants Anti-Barrier capabilities."
+    },
+    "inLiveDatabase": true
+  },
   "1449897496": {
     "id": 1449897496,
     "name": "Adamantine Brace",
