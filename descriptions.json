@@ -12718,6 +12718,50 @@
     },
     "inLiveDatabase": true
   },
+  "1905044254": {
+    "id": 1905044254,
+    "name": "To Excess",
+    "lastUpdate": 1654186179000,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "After a kill while your Super is full:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20 Discipline and Strength for 12 seconds."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "After a kill while your Super is full:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "20 Discipline and Strength for 12 seconds."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "After a kill while your Super is full:\r\n20 Discipline and Strength for 12 seconds.",
+      "secondaryEditor": "After a kill while your Super is full:\r\n20 Discipline and Strength for 12 seconds."
+    },
+    "inLiveDatabase": true
+  },
   "1919923227": {
     "id": 1919923227,
     "name": "Overflowing Light",
