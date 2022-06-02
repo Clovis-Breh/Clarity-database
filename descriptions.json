@@ -26328,6 +26328,36 @@
     },
     "inLiveDatabase": true
   },
+  "4154828211": {
+    "id": 4154828211,
+    "name": "Bitterspite",
+    "lastUpdate": 1654186079298,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Taking damage while this weapon is equipped grants Reload Speed."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Taking damage while this weapon is equipped grants Reload Speed."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Taking damage while this weapon is equipped grants Reload Speed.",
+      "secondaryEditor": "Taking damage while this weapon is equipped grants Reload Speed."
+    },
+    "inLiveDatabase": true
+  },
   "4174493725": {
     "id": "4174493725",
     "name": "Insatiable",
