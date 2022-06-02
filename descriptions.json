@@ -8038,6 +8038,50 @@
     },
     "inLiveDatabase": true
   },
+  "1250481499": {
+    "id": 1250481499,
+    "name": "Extrovert",
+    "lastUpdate": 1654186145370,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponOriginTrait",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "While surrounded by [?] enemies or by a Nightmare within [?] meters:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Kills grant [?]HP"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "While surrounded by [?] enemies or by a Nightmare within [?] meters:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Kills grant [?]HP"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills grant [?]HP",
+      "secondaryEditor": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills grant [?]HP"
+    },
+    "inLiveDatabase": true
+  },
   "1264398905": {
     "id": "1264398905",
     "name": "Celerity",
