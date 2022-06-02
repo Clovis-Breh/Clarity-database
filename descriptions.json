@@ -26504,5 +26504,78 @@
       "secondaryEditor": "+10 Handling"
     },
     "inLiveDatabase": true
+  },
+  "4293542123": {
+    "id": 4293542123,
+    "name": "Incandescent",
+    "lastUpdate": 1654185647261,
+    "updatedBy": "Fading-Shadow",
+    "stats": {
+      "range": {
+        "active": {
+          "stat": [
+            20
+          ]
+        }
+      }
+    },
+    "type": "weaponPerk",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "Kills apply [?] Scorch to enemies within [?] meters."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Killing Powerful Combatants increases the range to [?] meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Scorch lasts [?] seconds longer."
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "Kills apply [?] Scorch to enemies within [?] meters."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Killing Powerful Combatants increases the range to [?] meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Scorch lasts [?] seconds longer."
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "Kills apply [?] Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants increases the range to [?] meters.\r\n\r\nEnhanced: Scorch lasts [?] seconds longer.",
+      "secondaryEditor": "Kills apply [?] Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants increases the range to [?] meters.\r\n\r\nEnhanced: Scorch lasts [?] seconds longer."
+    },
+    "inLiveDatabase": true
   }
 }
