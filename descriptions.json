@@ -9522,6 +9522,52 @@
     },
     "inLiveDatabase": true
   },
+  "1525622117": {
+    "id": 1525622117,
+    "name": "Adept Counterbalance",
+    "itemId": "2563444729",
+    "itemName": "ACD/0 Feedback Fence",
+    "lastUpdate": 1654188627237,
+    "updatedBy": "Fading-Shadow",
+    "type": "weaponMod",
+    "description": [
+      {
+        "lineText": [
+          {
+            "text": "+35 Recoil Direction"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "-10 Range"
+          }
+        ]
+      }
+    ],
+    "simpleDescription": [
+      {
+        "lineText": [
+          {
+            "text": "+35 Recoil Direction"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "-10 Range"
+          }
+        ]
+      }
+    ],
+    "editor": {
+      "mainEditor": "+35 Recoil Direction\r\n-10 Range",
+      "secondaryEditor": "+35 Recoil Direction\r\n-10 Range"
+    },
+    "inLiveDatabase": true
+  },
   "1528281896": {
     "id": "1528281896",
     "name": "Outlaw",
