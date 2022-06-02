@@ -24598,10 +24598,20 @@
     "name": "Abyssal Extractors",
     "itemId": 3381022971,
     "itemName": "Nezarec's Sin",
-    "lastUpdate": 1650806358955,
+    "lastUpdate": 1654187861818,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 20 Airbone Effectiveness to Void Weapons."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
       {
         "lineText": [
           {
@@ -24636,7 +24646,7 @@
       {
         "lineText": [
           {
-            "text": "200% Additional Base Rift and Super Regeneration Rate."
+            "text": "200% Additional Base Class and Super Regeneration Rate."
           }
         ]
       }
@@ -24645,6 +24655,16 @@
       {
         "lineText": [
           {
+            "text": "Passively grants 20 Airbone Effectiveness to Void Weapons."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
             "text": "Void Kills grant Abyssal Extractors for 2.5 seconds."
           }
         ]
@@ -24676,14 +24696,14 @@
       {
         "lineText": [
           {
-            "text": "200% Additional Base Rift and Super Regeneration Rate."
+            "text": "200% Additional Base Class and Super Regeneration Rate."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Void Kills grant Abyssal Extractors for 2.5 seconds.\r\nMaxes out at 20 seconds.\r\n\r\nWhile Abyssal Extractor is active:\r\n300% Additional Base Grenade and Melee Regeneration Rate.\r\n200% Additional Base Rift and Super Regeneration Rate.",
-      "secondaryEditor": "Void Kills grant Abyssal Extractors for 2.5 seconds.\r\nMaxes out at 20 seconds.\r\n\r\nWhile Abyssal Extractor is active:\r\n300% Additional Base Grenade and Melee Regeneration Rate.\r\n200% Additional Base Rift and Super Regeneration Rate."
+      "mainEditor": "Passively grants 20 Airbone Effectiveness to Void Weapons.\r\n\r\nVoid Kills grant Abyssal Extractors for 2.5 seconds.\r\nMaxes out at 20 seconds.\r\n\r\nWhile Abyssal Extractor is active:\r\n300% Additional Base Grenade and Melee Regeneration Rate.\r\n200% Additional Base Class and Super Regeneration Rate.",
+      "secondaryEditor": "Passively grants 20 Airbone Effectiveness to Void Weapons.\r\n\r\nVoid Kills grant Abyssal Extractors for 2.5 seconds.\r\nMaxes out at 20 seconds.\r\n\r\nWhile Abyssal Extractor is active:\r\n300% Additional Base Grenade and Melee Regeneration Rate.\r\n200% Additional Base Class and Super Regeneration Rate."
     },
     "inLiveDatabase": true
   },
