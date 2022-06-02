@@ -16436,7 +16436,7 @@
     "name": "Hawkeye Hack",
     "itemId": 1321354573,
     "itemName": "Celestial Nighthawk",
-    "lastUpdate": 1650806633155,
+    "lastUpdate": 1654187191373,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -16453,7 +16453,7 @@
       {
         "lineText": [
           {
-            "text": "Grants 500% more damage to Golden Gun."
+            "text": "Grants 500% more damage and 100 Airborne Effectiveness to Golden Gun."
           }
         ]
       },
@@ -16489,7 +16489,7 @@
       {
         "lineText": [
           {
-            "text": "Grants 500% more damage to Golden Gun."
+            "text": "Grants 500% more damage and 100 Airborne Effectiveness to Golden Gun."
           }
         ]
       },
@@ -16512,8 +16512,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Only one shot per Golden Gun activation.\r\n\r\nGrants 500% more damage to Golden Gun.\r\n(37% more compared to Line 'Em Up x3)\r\n\r\nReturns 33% of Super Energy on Kill.",
-      "secondaryEditor": "Only one shot per Golden Gun activation.\r\n\r\nGrants 500% more damage to Golden Gun.\r\n(37% more compared to Line 'Em Up x3)\r\n\r\nReturns 33% of Super Energy on Kill."
+      "mainEditor": "Only one shot per Golden Gun activation.\r\n\r\nGrants 500% more damage and 100 Airborne Effectiveness to Golden Gun.\r\n(37% more compared to Line 'Em Up x3)\r\n\r\nReturns 33% of Super Energy on Kill.",
+      "secondaryEditor": "Only one shot per Golden Gun activation.\r\n\r\nGrants 500% more damage and 100 Airborne Effectiveness to Golden Gun.\r\n(37% more compared to Line 'Em Up x3)\r\n\r\nReturns 33% of Super Energy on Kill."
     },
     "inLiveDatabase": true
   },
