@@ -14990,23 +14990,11 @@
   "2383960413": {
     "id": 2383960413,
     "name": "Cruel Remedy",
-    "lastUpdate": 1650206788178,
-    "updatedBy": "Icemourne",
     "itemId": 3437746471,
     "itemName": "Crimson",
+    "lastUpdate": 1654257386361,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerkExotic",
-    "description": [
-      {
-        "lineText": [
-          {
-            "text": "info on right is accurate well weapon and perk id and name are"
-          }
-        ]
-      }
-    ],
-    "editor": {
-      "mainEditor": "info on right is accurate well weapon and perk id and name are"
-    },
     "inLiveDatabase": false
   },
   "2387244414": {
