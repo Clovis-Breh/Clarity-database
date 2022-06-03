@@ -22243,8 +22243,8 @@
     "name": "Time-Slip",
     "itemId": 1594120904,
     "itemName": "No Time to Explain",
-    "lastUpdate": 1650208728428,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1654257389246,
+    "updatedBy": "Fading-Shadow",
     "type": "weaponPerkExotic",
     "description": [
       {
@@ -22258,12 +22258,7 @@
     "editor": {
       "mainEditor": "info on right is correct"
     },
-    "inLiveDatabase": false,
-    "linkedWith": [
-      2010801679,
-      3032599245,
-      2284787283
-    ]
+    "inLiveDatabase": false
   },
   "3592538738": {
     "id": "3592538738",
