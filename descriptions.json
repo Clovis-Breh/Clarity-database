@@ -22251,7 +22251,7 @@
   "3592538738": {
     "id": "3592538738",
     "name": "Wellspring",
-    "lastUpdate": 1650462203639,
+    "lastUpdate": 1654453794530,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -22272,7 +22272,7 @@
       {
         "lineText": [
           {
-            "text": " BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES ",
+            "text": " If you have more than 3 ability charges in total, the perk stops functioning. ",
             "className": "highlight_3"
           }
         ]
@@ -22306,7 +22306,7 @@
       {
         "lineText": [
           {
-            "text": "*BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES*"
+            "text": "If you have more than 3 ability charges in total, the perk stops functioning."
           }
         ]
       },
@@ -22316,14 +22316,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Total energy gain is increased to 9%."
+            "text": "Enhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n<highlight_3 BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities.",
-      "secondaryEditor": "On Weapon Kill:\r\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\r\n*BUGGED WITH ABILITIES THAT POSSESS MULTIPLE CHARGES*\r\n\r\nEnhanced: Total energy gain is increased to 9%."
+      "mainEditor": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n<highlight_3 If you have more than 3 ability charges in total, the perk stops functioning. />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities.",
+      "secondaryEditor": "On Weapon Kill:\r\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\r\nIf you have more than 3 ability charges in total, the perk stops functioning.\r\n\r\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities."
     },
     "inLiveDatabase": true
   },
