@@ -3145,7 +3145,7 @@
   "509074078": {
     "id": 509074078,
     "name": "Steady Hands",
-    "lastUpdate": 1650460486672,
+    "lastUpdate": 1654453988021,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -3159,7 +3159,7 @@
       {
         "lineText": [
           {
-            "text": "X Handling for all weapons for 8 seconds."
+            "text": "X (a lot of) Handling for all weapons for 8 seconds."
           }
         ]
       },
@@ -3179,7 +3179,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased by [?] and [?] seconds, to a maximum of [?] and [?] seconds respectively."
+            "text": "Enhanced: Buff Duration is increased to [?] and [?] seconds respectively."
           }
         ]
       }
@@ -3195,7 +3195,7 @@
       {
         "lineText": [
           {
-            "text": "X Handling for all weapons for 8 seconds."
+            "text": "X (a lot of) Handling for all weapons for 8 seconds."
           }
         ]
       },
@@ -3215,14 +3215,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased."
+            "text": "Enhanced: Buff Duration is increased to [?] and [?] seconds respectively."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\r\nX Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased by [?] and [?] seconds, to a maximum of [?] and [?] seconds respectively.",
-      "secondaryEditor": "On Weapon Kill:\r\nX Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
+      "mainEditor": "On Weapon Kill:\r\nX (a lot of) Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased to [?] and [?] seconds respectively.",
+      "secondaryEditor": "On Weapon Kill:\r\nX (a lot of) Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased to [?] and [?] seconds respectively."
     },
     "inLiveDatabase": true
   },
