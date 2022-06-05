@@ -18465,24 +18465,14 @@
     "name": "Kintsugi",
     "itemId": 3974038291,
     "itemName": "Precious Scars",
-    "lastUpdate": 1652370624803,
+    "lastUpdate": 1654453877265,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Reviving or Getting Revived grants Kintsugi"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Grants you and allies within 15 metres a 100HP Overshield for 10 seconds."
+            "text": "Reviving or being revived grants you and allies within 15 metres a 100HP Overshield for 10 seconds."
           }
         ]
       },
@@ -18515,17 +18505,7 @@
       {
         "lineText": [
           {
-            "text": "Reviving or Getting Revived grants Kintsugi"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "Grants you and allies within 15 metres a 100HP Overshield for 10 seconds."
+            "text": "Reviving or being revived grants you and allies within 15 metres a 100HP Overshield for 10 seconds."
           }
         ]
       },
@@ -18555,8 +18535,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Reviving or Getting Revived grants Kintsugi\n\nGrants you and allies within 15 metres a 100HP Overshield for 10 seconds.\nLeaving the 15 metres radius removes Overshield\nIf the wearer loses Overshield, so too does everyone else.\n\nHeals you and allies within 15 metres for 60(?)HP after getting a Weapon Kill with a Matching Subclass Element with a 3 second cooldown.",
-      "secondaryEditor": "Reviving or Getting Revived grants Kintsugi\r\n\r\nGrants you and allies within 15 metres a 100HP Overshield for 10 seconds.\r\nLeaving the 15 metres radius removes Overshield\r\nIf the wearer loses Overshield, so too does everyone else.\r\n\r\nHeals you and allies within 15 metres for 60(?)HP after getting a Weapon Kill with a Matching Subclass Element with a 3 second cooldown."
+      "mainEditor": "Reviving or being revived grants you and allies within 15 metres a 100HP Overshield for 10 seconds.\nLeaving the 15 metres radius removes Overshield\nIf the wearer loses Overshield, so too does everyone else.\n\nHeals you and allies within 15 metres for 60(?)HP after getting a Weapon Kill with a Matching Subclass Element with a 3 second cooldown.",
+      "secondaryEditor": "Reviving or being revived grants you and allies within 15 metres a 100HP Overshield for 10 seconds.\r\nLeaving the 15 metres radius removes Overshield\r\nIf the wearer loses Overshield, so too does everyone else.\r\n\r\nHeals you and allies within 15 metres for 60(?)HP after getting a Weapon Kill with a Matching Subclass Element with a 3 second cooldown."
     },
     "inLiveDatabase": true
   },
