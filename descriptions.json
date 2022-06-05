@@ -26960,21 +26960,21 @@
   "4293542123": {
     "id": 4293542123,
     "name": "Incandescent",
-    "lastUpdate": 1654185660958,
+    "lastUpdate": 1654453716522,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Kills apply [?] Scorch to enemies within [?] meters."
+            "text": "Kills apply 30+10 Scorch to enemies within [?] meters."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Killing Powerful Combatants increases the range to [?] meters."
+            "text": "Killing Powerful Combatants and Guardians increases the range to [?] meters."
           }
         ]
       },
@@ -26993,14 +26993,14 @@
       {
         "lineText": [
           {
-            "text": "Kills apply [?] Scorch to enemies within [?] meters."
+            "text": "Kills apply 30+10 Scorch to enemies within [?] meters."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Killing Powerful Combatants increases the range to [?] meters."
+            "text": "Killing Powerful Combatants and Guardians increases the range to [?] meters."
           }
         ]
       },
@@ -27016,8 +27016,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Kills apply [?] Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants increases the range to [?] meters.\r\n\r\nEnhanced: Scorch lasts [?] seconds longer.",
-      "secondaryEditor": "Kills apply [?] Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants increases the range to [?] meters.\r\n\r\nEnhanced: Scorch lasts [?] seconds longer."
+      "mainEditor": "Kills apply 30+10 Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants and Guardians increases the range to [?] meters.\r\n\r\nEnhanced: Scorch lasts [?] seconds longer.",
+      "secondaryEditor": "Kills apply 30+10 Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants and Guardians increases the range to [?] meters.\r\n\r\nEnhanced: Scorch lasts [?] seconds longer."
     },
     "inLiveDatabase": true
   }
