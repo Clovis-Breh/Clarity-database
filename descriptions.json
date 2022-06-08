@@ -1085,7 +1085,7 @@
     "name": "Peregrine Strike",
     "itemId": 2255796155,
     "itemName": "Peregrine Greaves",
-    "lastUpdate": 1650805685341,
+    "lastUpdate": 1654709329636,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -1100,7 +1100,7 @@
       {
         "lineText": [
           {
-            "text": "Shoulder Charges deal increased damage if used midair."
+            "text": "Shoulder Charges deal increased damage if used midair"
           }
         ],
         "className": "center"
@@ -1263,7 +1263,7 @@
       {
         "lineText": [
           {
-            "text": "Shoulder Charges deal increased damage if used midair."
+            "text": "Shoulder Charges deal increased damage if used midair"
           }
         ]
       },
@@ -1307,8 +1307,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "<center/>Passively grants 20 Airborne Effectiveness\n<center/>Shoulder Charges deal increased damage if used midair.\n\n<center/>Minor\n<center/> <arc/> 155% |<solar/>190% | <void/>310%\n<center/>Elite\n<center/><arc/>200% |<solar/>? | <void/>?\n<center/>Miniboss\n<center/><arc/>310% |<solar/>? | <void/>?\n<center/>Boss\n<center/><arc/>360% |<solar/>157% | <void/>165%\n\n<center/>For Combatant Classifications, check out <link https://d2clarity.page.link/combatant this sheet/>!",
-      "secondaryEditor": "Passively grants 20 Airborne Effectiveness\r\nShoulder Charges deal increased damage if used midair.\r\n\r\n(Arc/Solar/void)\r\nMinor: 155% | 190% | 310%\r\nElite: 200% | ? | ?\r\nMiniboss: 310% | ? | ?\r\nBoss: 360% | 157% | 165%"
+      "mainEditor": "<center/>Passively grants 20 Airborne Effectiveness\n<center/>Shoulder Charges deal increased damage if used midair\n\n<center/>Minor\n<center/> <arc/> 155% |<solar/>190% | <void/>310%\n<center/>Elite\n<center/><arc/>200% |<solar/>? | <void/>?\n<center/>Miniboss\n<center/><arc/>310% |<solar/>? | <void/>?\n<center/>Boss\n<center/><arc/>360% |<solar/>157% | <void/>165%\n\n<center/>For Combatant Classifications, check out <link https://d2clarity.page.link/combatant this sheet/>!",
+      "secondaryEditor": "Passively grants 20 Airborne Effectiveness\r\nShoulder Charges deal increased damage if used midair\r\n\r\n(Arc/Solar/void)\r\nMinor: 155% | 190% | 310%\r\nElite: 200% | ? | ?\r\nMiniboss: 310% | ? | ?\r\nBoss: 360% | 157% | 165%"
     },
     "inLiveDatabase": true
   },
