@@ -5009,21 +5009,40 @@
   "744594675": {
     "id": 744594675,
     "name": "Well-Rounded",
-    "lastUpdate": 1654186050570,
+    "lastUpdate": 1654681746886,
     "updatedBy": "Fading-Shadow",
+    "stats": {
+      "range": {
+        "active": {
+          "stat": [
+            10,
+            20
+          ]
+        }
+      },
+      "handling": {
+        "active": {
+          "stat": [
+            10,
+            20
+          ]
+        }
+      },
+      "stability": {
+        "active": {
+          "stat": [
+            10,
+            20
+          ]
+        }
+      }
+    },
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Using your Grenade or hitting an enemy with a Charged Melee Attack grants a stack of Well-Rounded. Using your Super Ability grants two stacks."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Lasts 4.5 seconds."
+            "text": "Using your Grenade, hitting an enemy with a Charged Melee Attack, or using your Super Ability grants stacks of Well-Rounded. Super Ability grants two."
           }
         ]
       },
@@ -5033,9 +5052,91 @@
       {
         "lineText": [
           {
-            "text": "? | ? Stability, ? | ? Handling, and ? | ? Range"
+            "text": "10 Range, Stability, and Handling per stack."
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Stacks",
+                "className": "bold"
+              },
+              {
+                "text": "In-Game Range",
+                "className": "bold"
+              },
+              {
+                "text": "Reload Time",
+                "className": "bold"
+              },
+              {
+                "text": "Ready Speed",
+                "className": "bold"
+              },
+              {
+                "text": "Stow Speed",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "1x",
+                "className": "bold"
+              },
+              {
+                "formula": "range_0",
+                "className": "formula"
+              },
+              {
+                "formula": "reload_0",
+                "className": "formula"
+              },
+              {
+                "formula": "ready_0",
+                "className": "formula"
+              },
+              {
+                "formula": "stow_0",
+                "className": "formula"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "2x",
+                "className": "bold"
+              },
+              {
+                "formula": "range_1",
+                "className": "formula"
+              },
+              {
+                "formula": "reload_1",
+                "className": "formula"
+              },
+              {
+                "formula": "ready_1",
+                "className": "formula"
+              },
+              {
+                "formula": "stow_1",
+                "className": "formula"
+              }
+            ]
+          }
+        ],
+        "className": "table",
+        "formula": false
       },
       {
         "className": "spacer"
@@ -5069,7 +5170,7 @@
       {
         "lineText": [
           {
-            "text": "? | ? Stability, ? | ? Handling, and ? | ? Range"
+            "text": "10 Range, Stability, and Handling per stack."
           }
         ]
       },
@@ -5085,8 +5186,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Using your Grenade or hitting an enemy with a Charged Melee Attack grants a stack of Well-Rounded. Using your Super Ability grants two stacks.\r\nLasts 4.5 seconds.\r\n\r\n? | ? Stability, ? | ? Handling, and ? | ? Range\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds.",
-      "secondaryEditor": "Using your Grenade or hitting an enemy with a Charged Melee Attack grants a stack of Well-Rounded. Using your Super Ability grants two stacks.\r\nLasts 4.5 seconds.\r\n\r\n? | ? Stability, ? | ? Handling, and ? | ? Range\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds."
+      "mainEditor": "Using your Grenade, hitting an enemy with a Charged Melee Attack, or using your Super Ability grants stacks of Well-Rounded. Super Ability grants two.\r\n\r\n10 Range, Stability, and Handling per stack.\r\n\r\n< table > \r\n|b Stacks |b In-Game Range |b Reload Time |b Ready Speed |b Stow Speed\r\n|b 1x | <formula range_0 /> | <formula reload_0 /> |<formula ready_0 />|<formula stow_0 /> <background/>\r\n|b 2x | <formula range_1 /> | <formula reload_1 /> |<formula ready_1 />|<formula stow_1 />\r\n<$>\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds.",
+      "secondaryEditor": "Using your Grenade or hitting an enemy with a Charged Melee Attack grants a stack of Well-Rounded. Using your Super Ability grants two stacks.\r\nLasts 4.5 seconds.\r\n\r\n10 Range, Stability, and Handling per stack.\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds."
     },
     "inLiveDatabase": true
   },
