@@ -14147,14 +14147,14 @@
     "name": "Roast 'Em",
     "itemId": 3453042252,
     "itemName": "Caliban's Hand",
-    "lastUpdate": 1654682079429,
+    "lastUpdate": 1654691052511,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Proximity Knife applies [?] Scorch on detonation. Direct hit kills ignite."
+            "text": "Proximity Knife applies [?] Scorch on detonation. Direct hit kills ignite the target."
           }
         ]
       },
@@ -14173,7 +14173,7 @@
       {
         "lineText": [
           {
-            "text": "Proximity Knife applies [?] Scorch on detonation. Direct hit kills ignite."
+            "text": "Proximity Knife applies [?] Scorch on detonation. Direct hit kills ignite the target."
           }
         ]
       },
@@ -14189,8 +14189,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Proximity Knife applies [?] Scorch on detonation. Direct hit kills ignite.\r\n\r\n[?]% Increased Base Melee Recharge Rate while Proximity Knife is unexploded.",
-      "secondaryEditor": "Proximity Knife applies [?] Scorch on detonation. Direct hit kills ignite.\r\n\r\n[?]% Increased Base Melee Recharge Rate while Proximity Knife is unexploded."
+      "mainEditor": "Proximity Knife applies [?] Scorch on detonation. Direct hit kills ignite the target.\r\n\r\n[?]% Increased Base Melee Recharge Rate while Proximity Knife is unexploded.",
+      "secondaryEditor": "Proximity Knife applies [?] Scorch on detonation. Direct hit kills ignite the target.\r\n\r\n[?]% Increased Base Melee Recharge Rate while Proximity Knife is unexploded."
     },
     "inLiveDatabase": true
   },
