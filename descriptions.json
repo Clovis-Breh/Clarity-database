@@ -12405,7 +12405,7 @@
     "name": "Parting Gift",
     "itemId": "1219761634",
     "itemName": "The Bombardiers",
-    "lastUpdate": 1652036674747,
+    "lastUpdate": 1654681993117,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -12436,6 +12436,9 @@
       {
         "lineText": [
           {
+            "className": "arc"
+          },
+          {
             "text": "Blind for "
           },
           {
@@ -12447,30 +12450,35 @@
             "className": "pvp"
           },
           {
-            "text": " seconds."
+            "text": " seconds"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Burn for 3 seconds, "
+            "className": "solar"
           },
           {
-            "text": " dealing 6x5 ",
-            "className": "pvp"
+            "text": "[?] Scorch"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Slows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks."
+            "className": "stasis"
+          },
+          {
+            "text": "Slows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks"
           }
         ]
       },
       {
         "lineText": [
+          {
+            "className": "void"
+          },
           {
             "text": "Suppress for "
           },
@@ -12486,7 +12494,7 @@
             "text": " seconds "
           },
           {
-            "text": " [Does not apply to Guardians in Super] ",
+            "text": " (Does not apply to Guardians in Super) ",
             "className": "highlight_3"
           }
         ]
@@ -12497,7 +12505,7 @@
       {
         "lineText": [
           {
-            "text": " Suppression generally does not activate effects that proc on suppressing.",
+            "text": " Suppression generally does not activate effects that activate on suppressing.",
             "className": "highlight_4"
           }
         ]
@@ -12531,28 +12539,28 @@
       {
         "lineText": [
           {
-            "text": "Blind for 7 [PVP: 3] seconds."
+            "text": "Arc: Blind for 7 [PVP: 3] seconds"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Burn for 3 seconds, dealing 6x5"
+            "text": "Solar: [?] Scorch"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Slows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks."
+            "text": "Stasis: Slows for 2 seconds and refreshes Slow Stacks. Does not apply Slow Stacks by itself"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Suppress for 9 [PVP: 7] seconds [Does not apply to Guardians in Super]"
+            "text": "Void: Suppress for 9 [PVP: 7] seconds (Does not apply to Guardians in Super)"
           }
         ]
       },
@@ -12562,14 +12570,14 @@
       {
         "lineText": [
           {
-            "text": "Suppression generally does not activate effects that proc on suppressing."
+            "text": "Suppression generally does not activate effects that activate on suppressing."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Dodge:\nDrops a Parting Gift that explodes and deals 120 damage over 7.5 meters with a 1(?) second fuse.\n\nParting Gift has an additional effect based on Subclass:\nBlind for <pve 7 /><pvp[3]/> seconds.\nBurn for 3 seconds, <pvp dealing 6x5 />\nSlows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks.\nSuppress for <pve 9 /> <pvp [7] /> seconds <highlight_3 [Does not apply to Guardians in Super] />\n\n<highlight_4 Suppression generally does not activate effects that proc on suppressing./>",
-      "secondaryEditor": "On Dodge:\r\nDrops a Parting Gift that explodes and deals 120 damage over 7.5 metres with a 1(?) second fuse.\r\n\r\nParting Gift has an additional effect based on Subclass:\r\nBlind for 7 [PVP: 3] seconds.\r\nBurn for 3 seconds, dealing 6x5\r\nSlows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks.\r\nSuppress for 9 [PVP: 7] seconds [Does not apply to Guardians in Super]\r\n\r\nSuppression generally does not activate effects that proc on suppressing."
+      "mainEditor": "On Dodge:\nDrops a Parting Gift that explodes and deals 120 damage over 7.5 meters with a 1(?) second fuse.\n\nParting Gift has an additional effect based on Subclass:\n<arc/>Blind for <pve 7 /><pvp[3]/> seconds\n<solar/>[?] Scorch\n<stasis/>Slows for 2 seconds and refreshes existing Slow Stacks. Does not apply Slow Stacks\n<void/>Suppress for <pve 9 /> <pvp [7] /> seconds <highlight_3 (Does not apply to Guardians in Super) />\n\n<highlight_4 Suppression generally does not activate effects that activate on suppressing./>",
+      "secondaryEditor": "On Dodge:\r\nDrops a Parting Gift that explodes and deals 120 damage over 7.5 metres with a 1(?) second fuse.\r\n\r\nParting Gift has an additional effect based on Subclass:\r\nArc: Blind for 7 [PVP: 3] seconds\r\nSolar: [?] Scorch\r\nStasis: Slows for 2 seconds and refreshes Slow Stacks. Does not apply Slow Stacks by itself\r\nVoid: Suppress for 9 [PVP: 7] seconds (Does not apply to Guardians in Super)\r\n\r\nSuppression generally does not activate effects that activate on suppressing."
     },
     "inLiveDatabase": true
   },
