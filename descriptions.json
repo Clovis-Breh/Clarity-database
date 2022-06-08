@@ -9804,7 +9804,7 @@
   "1546637391": {
     "id": "1546637391",
     "name": "Vorpal Weapon",
-    "lastUpdate": 1650804637510,
+    "lastUpdate": 1654713286113,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -9829,7 +9829,7 @@
       {
         "lineText": [
           {
-            "text": " Against Guardian Supers Only: ",
+            "text": " Against Player Supers Only: ",
             "className": "pvp"
           }
         ]
@@ -9915,7 +9915,7 @@
       {
         "lineText": [
           {
-            "text": "Against PVP Supers Only:"
+            "text": "Against Player Supers Only:"
           }
         ]
       },
@@ -9948,8 +9948,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Damage Increase against Bosses, Minibosses, and Vehicles.\n<pve Primary: 20% | Special: 15% | Heavy: 10% />\n\n<pvp Against Guardian Supers Only: />\n<primary/>Primary Weapons: <pvp 40% to 50% />\n<special/>Special Weapons: <pvp 10% to 20% />\n<heavy/>Heavy Weapons: <pvp 5% to 10% />\nThe lower Damage Increase is against supers with no extra Damage Resistance.\n\nEnhanced: Passively grants 5 Reload Speed.",
-      "secondaryEditor": "Damage Increase against Bosses, Minibosses, and Vehicles.\r\nPrimary: 20% | Special: 15% | Heavy: 10%\r\n\r\nAgainst PVP Supers Only:\r\nPrimary: 40% to 50% | Special: 10% to 20% | Heavy: 5% to 10%\r\n\r\nThe lower Damage Increase is against supers with no extra Damage Resistance.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
+      "mainEditor": "Damage Increase against Bosses, Minibosses, and Vehicles.\n<pve Primary: 20% | Special: 15% | Heavy: 10% />\n\n<pvp Against Player Supers Only: />\n<primary/>Primary Weapons: <pvp 40% to 50% />\n<special/>Special Weapons: <pvp 10% to 20% />\n<heavy/>Heavy Weapons: <pvp 5% to 10% />\nThe lower Damage Increase is against supers with no extra Damage Resistance.\n\nEnhanced: Passively grants 5 Reload Speed.",
+      "secondaryEditor": "Damage Increase against Bosses, Minibosses, and Vehicles.\r\nPrimary: 20% | Special: 15% | Heavy: 10%\r\n\r\nAgainst Player Supers Only:\r\nPrimary: 40% to 50% | Special: 10% to 20% | Heavy: 5% to 10%\r\n\r\nThe lower Damage Increase is against supers with no extra Damage Resistance.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
     },
     "inLiveDatabase": true
   },
