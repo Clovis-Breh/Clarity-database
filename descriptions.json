@@ -26926,14 +26926,14 @@
   "4293542123": {
     "id": 4293542123,
     "name": "Incandescent",
-    "lastUpdate": 1654453740561,
+    "lastUpdate": 1654681496383,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Kills apply 30+10 Scorch to enemies within [?] meters."
+            "text": "Kills apply 30 Scorch to enemies within [?] meters."
           }
         ]
       },
@@ -26945,12 +26945,19 @@
         ]
       },
       {
+        "lineText": [
+          {
+            "text": "Unaffected by Ember of Ashes."
+          }
+        ]
+      },
+      {
         "className": "spacer"
       },
       {
         "lineText": [
           {
-            "text": "Enhanced: Scorch lasts [?] seconds longer."
+            "text": "Enhanced: Scorch lasts 0.05 seconds longer."
           }
         ]
       }
@@ -26959,7 +26966,7 @@
       {
         "lineText": [
           {
-            "text": "Kills apply 30+10 Scorch to enemies within [?] meters."
+            "text": "Kills apply 30 Scorch to enemies within [?] meters."
           }
         ]
       },
@@ -26971,19 +26978,26 @@
         ]
       },
       {
+        "lineText": [
+          {
+            "text": "Unaffected by Ember of Ashes."
+          }
+        ]
+      },
+      {
         "className": "spacer"
       },
       {
         "lineText": [
           {
-            "text": "Enhanced: Scorch lasts [?] seconds longer."
+            "text": "Enhanced: Scorch lasts 0.05 seconds longer."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Kills apply 30+10 Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants and Guardians increases the range to [?] meters.\r\n\r\nEnhanced: Scorch lasts [?] seconds longer.",
-      "secondaryEditor": "Kills apply 30+10 Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants and Guardians increases the range to [?] meters.\r\n\r\nEnhanced: Scorch lasts [?] seconds longer."
+      "mainEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants and Guardians increases the range to [?] meters.\r\nUnaffected by Ember of Ashes.\r\n\r\nEnhanced: Scorch lasts 0.05 seconds longer.",
+      "secondaryEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants and Guardians increases the range to [?] meters.\r\nUnaffected by Ember of Ashes.\r\n\r\nEnhanced: Scorch lasts 0.05 seconds longer."
     },
     "inLiveDatabase": true
   }
