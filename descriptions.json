@@ -26244,7 +26244,7 @@
   "4104185692": {
     "id": "4104185692",
     "name": "Frenzy",
-    "lastUpdate": 1650802936481,
+    "lastUpdate": 1654692447099,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -26336,7 +26336,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: In Combat Timer is increased by 0.5 seconds, to a maximum of 5.5 seconds"
+            "text": "Enhanced: In Combat Timer is increased to 5.5 seconds"
           }
         ]
       }
@@ -26379,14 +26379,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: In Combat Timer is increased to 5.5 seconds."
+            "text": "Enhanced: In Combat Timer is increased to 5.5 seconds"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "After being <title in Combat [Defined as having either dealt or received damage within 5 seconds.]/> for 12 seconds:\n15% Increased Damage, 50 Handling, and 50 Reload Speed.\nLasts until you're out of combat and works while stowed.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 /> \n\nEnhanced: In Combat Timer is increased by 0.5 seconds, to a maximum of 5.5 seconds",
-      "secondaryEditor": "After being in Combat for 12 seconds:\r\n15% Increased Damage, 50 Handling, and 50 Reload Speed.\r\nLasts until you're out of combat and works while stowed.\r\n\r\nBeing in Combat is defined as having either dealt or received damage within 5 seconds.\r\n\r\nEnhanced: In Combat Timer is increased to 5.5 seconds."
+      "mainEditor": "After being <title in Combat [Defined as having either dealt or received damage within 5 seconds.]/> for 12 seconds:\n15% Increased Damage, 50 Handling, and 50 Reload Speed.\nLasts until you're out of combat and works while stowed.\n\n<formula Reload Time: reload_0 />\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 /> \n\nEnhanced: In Combat Timer is increased to 5.5 seconds",
+      "secondaryEditor": "After being in Combat for 12 seconds:\r\n15% Increased Damage, 50 Handling, and 50 Reload Speed.\r\nLasts until you're out of combat and works while stowed.\r\n\r\nBeing in Combat is defined as having either dealt or received damage within 5 seconds.\r\n\r\nEnhanced: In Combat Timer is increased to 5.5 seconds"
     },
     "inLiveDatabase": true
   },
