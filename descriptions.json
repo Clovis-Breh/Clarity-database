@@ -26671,7 +26671,7 @@
     "name": "Soaring Fusilier",
     "itemId": 1624882687,
     "itemName": "Rain of Fire",
-    "lastUpdate": 1654187935440,
+    "lastUpdate": 1654789370992,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -26688,7 +26688,7 @@
       {
         "lineText": [
           {
-            "text": "Fusion Rifle and Linear Fusion Rifle kills grant Radiant."
+            "text": "Fusion Rifle and Linear Fusion Rifle kills grant Radiant for 7.5 seconds."
           }
         ]
       },
@@ -26698,7 +26698,15 @@
       {
         "lineText": [
           {
-            "text": "Icarus Dash reloads your equipped weapon."
+            "text": "Icarus Dash "
+          },
+          {
+            "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
+            "text": "refreshes",
+            "className": "title"
+          },
+          {
+            "text": " all your weapons."
           }
         ]
       }
@@ -26717,7 +26725,7 @@
       {
         "lineText": [
           {
-            "text": "Fusion Rifle and Linear Fusion Rifle kills grant Radiant."
+            "text": "Fusion Rifle and Linear Fusion Rifle kills grant Radiant for 7.5 seconds."
           }
         ]
       },
@@ -26727,14 +26735,14 @@
       {
         "lineText": [
           {
-            "text": "Icarus Dash reloads your equipped weapon."
+            "text": "Icarus Dash refreshes all your weapons."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Passively grants 30 Airborne Effectiveness to Fusion Rifles and Linear Fusion Rifles.\r\n\r\nFusion Rifle and Linear Fusion Rifle kills grant Radiant.\r\n\r\nIcarus Dash reloads your equipped weapon.",
-      "secondaryEditor": "Passively grants 30 Airborne Effectiveness to Fusion Rifles and Linear Fusion Rifles.\r\n\r\nFusion Rifle and Linear Fusion Rifle kills grant Radiant.\r\n\r\nIcarus Dash reloads your equipped weapon."
+      "mainEditor": "Passively grants 30 Airborne Effectiveness to Fusion Rifles and Linear Fusion Rifles.\r\n\r\nFusion Rifle and Linear Fusion Rifle kills grant Radiant for 7.5 seconds.\r\n\r\nIcarus Dash <title refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> all your weapons.",
+      "secondaryEditor": "Passively grants 30 Airborne Effectiveness to Fusion Rifles and Linear Fusion Rifles.\r\n\r\nFusion Rifle and Linear Fusion Rifle kills grant Radiant for 7.5 seconds.\r\n\r\nIcarus Dash refreshes all your weapons."
     },
     "inLiveDatabase": true
   },
