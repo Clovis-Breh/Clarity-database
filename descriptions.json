@@ -27070,7 +27070,7 @@
   "4293542123": {
     "id": 4293542123,
     "name": "Incandescent",
-    "lastUpdate": 1654681509197,
+    "lastUpdate": 1655056584232,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -27084,14 +27084,7 @@
       {
         "lineText": [
           {
-            "text": "Killing Powerful Combatants and Guardians increases the range to [?] meters."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Unaffected by Ember of Ashes."
+            "text": "Ember of Ashes increases this to 40 Scorch."
           }
         ]
       },
@@ -27101,7 +27094,36 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Scorch lasts 0.05 seconds longer."
+            "text": "Killing Powerful Combatants and Players increases the range to [?] meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped ",
+            "className": "pve"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": " Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped ",
+            "className": "pvp"
           }
         ]
       }
@@ -27117,14 +27139,7 @@
       {
         "lineText": [
           {
-            "text": "Killing Powerful Combatants and Guardians increases the range to [?] meters."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Unaffected by Ember of Ashes."
+            "text": "Ember of Ashes increases this to 40 Scorch."
           }
         ]
       },
@@ -27134,14 +27149,44 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Scorch lasts 0.05 seconds longer."
+            "text": "Killing Powerful Combatants and Players increases the range to [?] meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVP: Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "PVE: Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants and Guardians increases the range to [?] meters.\r\nUnaffected by Ember of Ashes.\r\n\r\nEnhanced: Scorch lasts 0.05 seconds longer.",
-      "secondaryEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nKilling Powerful Combatants and Guardians increases the range to [?] meters.\r\nUnaffected by Ember of Ashes.\r\n\r\nEnhanced: Scorch lasts 0.05 seconds longer."
+      "mainEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nEmber of Ashes increases this to 40 Scorch.\r\n\r\nKilling Powerful Combatants and Players increases the range to [?] meters.\r\n\r\n\r\nEnhanced:\r\n<pve Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped />\r\n<pvp Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped />",
+      "secondaryEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nEmber of Ashes increases this to 40 Scorch.\r\n\r\nKilling Powerful Combatants and Players increases the range to [?] meters.\r\n\r\n\r\nEnhanced:\r\nPVP: Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped\r\n\r\nPVE: Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped"
     },
     "inLiveDatabase": true
   }
