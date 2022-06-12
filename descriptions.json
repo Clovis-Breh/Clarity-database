@@ -17471,21 +17471,14 @@
     "name": "Rites of Ember",
     "itemId": "2316914168",
     "itemName": "Dawn Chorus",
-    "lastUpdate": 1654187839431,
+    "lastUpdate": 1655057356104,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
       {
         "lineText": [
           {
-            "text": "Exhibits odd behavior since the new update, will update this description when we know more."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Until then, here's the default description:"
+            "text": "Daybreak Projectiles apply 60 Scorch on hit. This is increased to 90 Scorch with Ember of Ashes Equipped."
           }
         ]
       },
@@ -17495,7 +17488,28 @@
       {
         "lineText": [
           {
-            "text": "Your Daybreak projectiles cause targets to scorch on contact. Your scorch effects deal more damage, and you gain a small amount of melee energy each time your scorch effects damage a target."
+            "text": "Scorch effects deal "
+          },
+          {
+            "text": " 200%  ",
+            "className": "pve"
+          },
+          {
+            "text": " [50%] ",
+            "className": "pvp"
+          },
+          {
+            "text": " increased damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Regain [?] Melee Ability Energy every time Scorch deals damage."
           }
         ]
       }
@@ -17504,14 +17518,7 @@
       {
         "lineText": [
           {
-            "text": "Exhibits odd behavior since the new update, will update this description when we know more."
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Until then, here's the default description:"
+            "text": "Daybreak Projectiles apply 60 Scorch on hit. This is increased to 90 Scorch with Ember of Ashes Equipped."
           }
         ]
       },
@@ -17521,14 +17528,24 @@
       {
         "lineText": [
           {
-            "text": "Your Daybreak projectiles cause targets to scorch on contact. Your scorch effects deal more damage, and you gain a small amount of melee energy each time your scorch effects damage a target."
+            "text": "Scorch effects deal 200% [PVP: 50%] increased damage."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Regain [?] Melee Ability Energy every time Scorch deals damage."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Exhibits odd behavior since the new update, will update this description when we know more.\nUntil then, here's the default description:\n\nYour Daybreak projectiles cause targets to scorch on contact. Your scorch effects deal more damage, and you gain a small amount of melee energy each time your scorch effects damage a target.",
-      "secondaryEditor": "Exhibits odd behavior since the new update, will update this description when we know more.\r\nUntil then, here's the default description:\r\n\r\nYour Daybreak projectiles cause targets to scorch on contact. Your scorch effects deal more damage, and you gain a small amount of melee energy each time your scorch effects damage a target."
+      "mainEditor": "Daybreak Projectiles apply 60 Scorch on hit. This is increased to 90 Scorch with Ember of Ashes Equipped.\n\nScorch effects deal <pve 200%  /><pvp [50%] /> increased damage.\n\nRegain [?] Melee Ability Energy every time Scorch deals damage.",
+      "secondaryEditor": "Daybreak Projectiles apply 60 Scorch on hit. This is increased to 90 Scorch with Ember of Ashes Equipped.\r\n\r\nScorch effects deal 200% [PVP: 50%] increased damage.\r\n\r\nRegain [?] Melee Ability Energy every time Scorch deals damage."
     },
     "inLiveDatabase": true
   },
