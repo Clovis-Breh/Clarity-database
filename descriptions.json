@@ -22878,7 +22878,7 @@
     "name": "Scissor Fingers",
     "itemId": 978537162,
     "itemName": "Ophidia Spathe",
-    "lastUpdate": 1650807477976,
+    "lastUpdate": 1655057242577,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -22903,6 +22903,37 @@
         "lineText": [
           {
             "text": "(Eg: Both are recharged on Gambler's Dodge)"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Interaction with Knock 'Em Down Aspect while Radiant:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Knife Kills restore 1 Charge"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Knife Trick Precision Kills restore 2 Charges"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Ignition Kills procced by Knives restore 2 Charges"
           }
         ]
       }
@@ -22931,11 +22962,42 @@
             "text": "(Eg: Both are recharged on Gambler's Dodge)"
           }
         ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Interaction with Knock 'Em Down Aspect while Radiant:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Knife Kills restore 1 Charge"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Knife Trick Precision Kills restore 2 Charges"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Ignition Kills procced by Knives restore 2 Charges"
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "Grants an additional Melee Charge to Solar Subclasses.\r\nMelee Charges are recharged simultaneously.\r\n\r\n(Eg: Both are recharged on Gambler's Dodge)",
-      "secondaryEditor": "Grants an additional Melee Charge to Solar Subclasses.\r\nMelee Charges are recharged simultaneously.\r\n\r\n(Eg: Both are recharged on Gambler's Dodge)"
+      "mainEditor": "Grants an additional Melee Charge to Solar Subclasses.\r\nMelee Charges are recharged simultaneously.\r\n\r\n(Eg: Both are recharged on Gambler's Dodge)\r\n\r\nInteraction with Knock 'Em Down Aspect while Radiant:\r\nKnife Kills restore 1 Charge\r\nKnife Trick Precision Kills restore 2 Charges\r\nIgnition Kills procced by Knives restore 2 Charges",
+      "secondaryEditor": "Grants an additional Melee Charge to Solar Subclasses.\r\nMelee Charges are recharged simultaneously.\r\n\r\n(Eg: Both are recharged on Gambler's Dodge)\r\n\r\nInteraction with Knock 'Em Down Aspect while Radiant:\r\nKnife Kills restore 1 Charge\r\nKnife Trick Precision Kills restore 2 Charges\r\nIgnition Kills procced by Knives restore 2 Charges"
     },
     "inLiveDatabase": true
   },
