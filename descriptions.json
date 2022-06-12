@@ -6902,7 +6902,7 @@
   "1048183818": {
     "id": 1048183818,
     "name": "Adaptive Munitions",
-    "lastUpdate": 1654185405788,
+    "lastUpdate": 1655052967567,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -6933,14 +6933,14 @@
       {
         "lineText": [
           {
-            "text": "29% per Hit: Fusion Rifles."
+            "text": "29% per hit, up to 435%: Fusion Rifles"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "33.3% per hit: Auto Rifles, Trace Rifles, Pulse Rifles "
+            "text": "33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles "
           }
         ],
         "className": "background"
@@ -6948,14 +6948,14 @@
       {
         "lineText": [
           {
-            "text": "166.6% per hit: Bows, Hand Cannons, Scout Rifles"
+            "text": "150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] "
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "150% per hit: Linear Fusion Rifles [Maxes at 450%] "
+            "text": "166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles "
           }
         ],
         "className": "background"
@@ -6964,9 +6964,19 @@
         "className": "spacer"
       },
       {
+        "className": "spacer"
+      },
+      {
         "lineText": [
           {
             "text": "Enhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Eg: 500% -> 600%"
           }
         ]
       }
@@ -6975,14 +6985,21 @@
       {
         "lineText": [
           {
-            "text": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield: Hits deal increasingly higher damage against Combatant Shields, up to 500% increased damage."
+            "text": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Buff is removed upon hitting a matching or unshielded enemy."
+            "text": "Hits deal increasingly higher damage against Combatant Shields, up to 500% increased damage."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff is removed upon hitting a matching shield or an unshielded enemy."
           }
         ]
       },
@@ -6992,30 +7009,33 @@
       {
         "lineText": [
           {
-            "text": "29% per hit: Fusion Rifles"
+            "text": "29% per hit, up to 435%: Fusion Rifles"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "33.3% per hit: Auto Rifles, Trace Rifles, Pulse Rifles"
+            "text": "33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "166.6% per hit: Bows, Hand Cannons, Scout Rifles"
+            "text": "150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] "
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "150% per hit: Linear Fusion Rifles [Maxes at 450%]"
+            "text": "166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles"
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "className": "spacer"
@@ -7026,11 +7046,18 @@
             "text": "Enhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%"
           }
         ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Eg: 500% -> 600%"
+          }
+        ]
       }
     ],
     "editor": {
-      "mainEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per Hit: Fusion Rifles.\r\n33.3% per hit: Auto Rifles, Trace Rifles, Pulse Rifles <background/>\r\n166.6% per hit: Bows, Hand Cannons, Scout Rifles\r\n150% per hit: Linear Fusion Rifles [Maxes at 450%] <background/>\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%",
-      "secondaryEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield: Hits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\nBuff is removed upon hitting a matching or unshielded enemy.\r\n\r\n29% per hit: Fusion Rifles\r\n33.3% per hit: Auto Rifles, Trace Rifles, Pulse Rifles\r\n166.6% per hit: Bows, Hand Cannons, Scout Rifles\r\n150% per hit: Linear Fusion Rifles [Maxes at 450%]\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%"
+      "mainEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per hit, up to 435%: Fusion Rifles\r\n33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles <background/>\r\n150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] \r\n166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles <background/>\r\n\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%\r\nEg: 500% -> 600%",
+      "secondaryEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per hit, up to 435%: Fusion Rifles\r\n33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\r\n150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] \r\n166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles\r\n\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%\r\nEg: 500% -> 600%"
     },
     "inLiveDatabase": true
   },
