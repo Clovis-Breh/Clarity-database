@@ -23954,7 +23954,7 @@
   "3800201097": {
     "id": 3800201097,
     "name": "Immovable Object",
-    "lastUpdate": 1650458733937,
+    "lastUpdate": 1655144446312,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -23968,7 +23968,7 @@
       {
         "lineText": [
           {
-            "text": "[?]% Additional Weapon Energy on Hit."
+            "text": "[50%?] Additional Weapon Energy on Hit."
           }
         ]
       },
@@ -23994,7 +23994,7 @@
       {
         "lineText": [
           {
-            "text": "[?]% Additional Weapon Energy on Hit."
+            "text": "[50%?] Additional Weapon Energy on Hit."
           }
         ]
       },
@@ -24010,8 +24010,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "While blocking and stationary:\r\n[?]% Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit.",
-      "secondaryEditor": "While blocking and stationary:\r\n[?]% Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit."
+      "mainEditor": "While blocking and stationary:\r\n[50%?] Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit.",
+      "secondaryEditor": "While blocking and stationary:\r\n[50%?] Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit."
     },
     "inLiveDatabase": true
   },
