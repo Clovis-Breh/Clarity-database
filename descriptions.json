@@ -10746,7 +10746,7 @@
   "1607056502": {
     "id": 1607056502,
     "name": "Hakke Breach Armaments",
-    "lastUpdate": 1650462946792,
+    "lastUpdate": 1655409924467,
     "updatedBy": "Fading-Shadow",
     "type": "weaponOriginTrait",
     "description": [
@@ -10765,7 +10765,7 @@
       {
         "lineText": [
           {
-            "text": "30% Increased Damage against Turrets, Barricades, and Stasis Crystals."
+            "text": "30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
           }
         ]
       }
@@ -10781,14 +10781,14 @@
       {
         "lineText": [
           {
-            "text": "30% Increased Damage against Turrets, Barricades, and Stasis Crystals."
+            "text": "30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "15% Increased Damage against <link https://d2clarity.page.link/combatant Vehicles and Constructs/>\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals.",
-      "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals."
+      "mainEditor": "15% Increased Damage against <link https://d2clarity.page.link/combatant Vehicles and Constructs/>\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals",
+      "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
     },
     "inLiveDatabase": true
   },
