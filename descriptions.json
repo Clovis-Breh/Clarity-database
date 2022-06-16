@@ -6659,7 +6659,7 @@
   "972757866": {
     "id": "972757866",
     "name": "Pulse Monitor",
-    "lastUpdate": 1651077928153,
+    "lastUpdate": 1655405097535,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -6689,7 +6689,7 @@
       {
         "lineText": [
           {
-            "text": "Immediately upon being reduced below 38 Shields:"
+            "text": "Immediately upon being reduced below 110 HP:"
           }
         ]
       },
@@ -6706,9 +6706,12 @@
         ]
       },
       {
+        "className": "spacer"
+      },
+      {
         "lineText": [
           {
-            "text": "(Works even while stowed)"
+            "text": "Works while stowed."
           }
         ]
       },
@@ -6748,7 +6751,7 @@
       {
         "lineText": [
           {
-            "text": "Immediately upon being reduced below 38 Shields:"
+            "text": "Immediately upon being reduced below 110 HP:"
           }
         ]
       },
@@ -6760,9 +6763,12 @@
         ]
       },
       {
+        "className": "spacer"
+      },
+      {
         "lineText": [
           {
-            "text": "(Works even while stowed)"
+            "text": "Works while stowed."
           }
         ]
       },
@@ -6778,8 +6784,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Immediately upon being reduced below 38 Shields:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\n(Works even while stowed)\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Health Requirement reduced to [?] and overflows the magazine.",
-      "secondaryEditor": "Immediately upon being reduced below 38 Shields:\r\nRefreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\r\n(Works even while stowed)\r\n\r\nEnhanced: Health Requirement reduced to [?] and overflows the magazine."
+      "mainEditor": "Immediately upon being reduced below 110 HP:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\n\nWorks while stowed.\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Health Requirement reduced to [?] and overflows the magazine.",
+      "secondaryEditor": "Immediately upon being reduced below 110 HP:\r\nRefreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\r\n\r\nWorks while stowed.\r\n\r\nEnhanced: Health Requirement reduced to [?] and overflows the magazine."
     },
     "inLiveDatabase": true
   },
