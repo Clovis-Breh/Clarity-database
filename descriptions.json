@@ -650,7 +650,7 @@
   "124408337": {
     "id": "124408337",
     "name": "Headstone",
-    "lastUpdate": 1650803309784,
+    "lastUpdate": 1655403526962,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -664,20 +664,20 @@
       {
         "lineText": [
           {
-            "text": "Spawns a "
+            "text": "Spawns a Large "
           },
           {
             "className": "stasis"
           },
           {
-            "text": "Stasis Crystal on Enemy Death Location."
+            "text": "Stasis Crystal on Enemy Death Location. "
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Minors = Medium | Anything Else = Large"
+            "text": "Rank-and-File Combatants spawn a Medium Stasis Crystal."
           }
         ]
       },
@@ -687,7 +687,7 @@
       {
         "lineText": [
           {
-            "text": "Having 5 crystals active simultaneously incurs a 5 second cooldown."
+            "text": "Having 5 crystals active at once incurs in a 5 second cooldown."
           }
         ]
       },
@@ -713,14 +713,14 @@
       {
         "lineText": [
           {
-            "text": "Spawns a Stasis Crystal on Enemy Death Location."
+            "text": "Spawns a Large Stasis Crystal on Enemy Death Location. "
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Minors = Medium | Anything Else = Large"
+            "text": "Rank-and-File Combatants spawn a Medium Stasis Crystal."
           }
         ]
       },
@@ -730,7 +730,7 @@
       {
         "lineText": [
           {
-            "text": "Having 5 crystals active simultaneously incurs a 5 second cooldown."
+            "text": "Having 5 crystals active at once incurs in a 5 second cooldown."
           }
         ]
       },
@@ -746,8 +746,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Precision Kill:\nSpawns a <stasis/>Stasis Crystal on Enemy Death Location.\nMinors = Medium | Anything Else = Large\n\nHaving 5 crystals active simultaneously incurs a 5 second cooldown.\n\nEnhanced: Passively grants 5 Stability",
-      "secondaryEditor": "On Precision Kill:\r\nSpawns a Stasis Crystal on Enemy Death Location.\r\nMinors = Medium | Anything Else = Large\r\n\r\nHaving 5 crystals active simultaneously incurs a 5 second cooldown.\r\n\r\nEnhanced: Passively grants 5 Stability"
+      "mainEditor": "On Precision Kill:\nSpawns a Large <stasis/>Stasis Crystal on Enemy Death Location. \nRank-and-File Combatants spawn a Medium Stasis Crystal.\n\nHaving 5 crystals active at once incurs in a 5 second cooldown.\n\nEnhanced: Passively grants 5 Stability",
+      "secondaryEditor": "On Precision Kill:\r\nSpawns a Large Stasis Crystal on Enemy Death Location. \r\nRank-and-File Combatants spawn a Medium Stasis Crystal.\r\n\r\nHaving 5 crystals active at once incurs in a 5 second cooldown.\r\n\r\nEnhanced: Passively grants 5 Stability"
     },
     "inLiveDatabase": true
   },
