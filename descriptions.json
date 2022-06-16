@@ -26909,14 +26909,21 @@
   "4154828211": {
     "id": 4154828211,
     "name": "Bitterspite",
-    "lastUpdate": 1654186111082,
+    "lastUpdate": 1655409889837,
     "updatedBy": "Fading-Shadow",
     "type": "weaponOriginTrait",
     "description": [
       {
         "lineText": [
           {
-            "text": "Taking damage while this weapon is equipped grants Reload Speed."
+            "text": "Receiving [20?] damage grants a stack, up to 5 stacks."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stacks increase Reload Speed and expire upon reloading or stowing."
           }
         ]
       }
@@ -26925,14 +26932,21 @@
       {
         "lineText": [
           {
-            "text": "Taking damage while this weapon is equipped grants Reload Speed."
+            "text": "Receiving [20?] damage grants a stack, up to 5 stacks."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Stacks increase Reload Speed and expire upon reloading or stowing."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Taking damage while this weapon is equipped grants Reload Speed.",
-      "secondaryEditor": "Taking damage while this weapon is equipped grants Reload Speed."
+      "mainEditor": "Receiving [20?] damage grants a stack, up to 5 stacks.\r\nStacks increase Reload Speed and expire upon reloading or stowing.",
+      "secondaryEditor": "Receiving [20?] damage grants a stack, up to 5 stacks.\r\nStacks increase Reload Speed and expire upon reloading or stowing."
     },
     "inLiveDatabase": true
   },
