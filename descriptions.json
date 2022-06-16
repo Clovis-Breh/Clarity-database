@@ -10432,7 +10432,7 @@
   "1583705720": {
     "id": 1583705720,
     "name": "Stats for All",
-    "lastUpdate": 1650460465653,
+    "lastUpdate": 1655408245440,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -10461,6 +10461,13 @@
             10
           ]
         }
+      },
+      "handling": {
+        "active": {
+          "stat": [
+            35
+          ]
+        }
       }
     },
     "type": "weaponPerk",
@@ -10475,7 +10482,7 @@
       {
         "lineText": [
           {
-            "text": "10 Range (w/5% Increased Falloff Distance), 10 Stability, [?] Handling, and 35 Reload Speed (w/0.95x "
+            "text": "10 Range with 5% Increased Falloff Distance, 10 Stability, 35 Handling, and 35 Reload Speed with 0.95x "
           },
           {
             "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
@@ -10483,14 +10490,14 @@
             "className": "title"
           },
           {
-            "text": ") for 10 seconds."
+            "text": " for 10 seconds."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Can't be refreshed."
+            "text": "Buff can't be refreshed."
           }
         ]
       },
@@ -10516,12 +10523,30 @@
         ]
       },
       {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
+        ]
+      },
+      {
         "className": "spacer"
       },
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased by 1 second, to a maximum of 11 seconds."
+            "text": "Enhanced: Buff Duration is increased to 11 seconds."
           }
         ]
       }
@@ -10537,7 +10562,7 @@
       {
         "lineText": [
           {
-            "text": "10 Range (w/5% Increased Falloff Distance), 10 Stability, [?] Handling, and 35 Reload Speed (w/0.95x RDS) for 10 seconds."
+            "text": "10 Range with 5% Increased Falloff Distance, 10 Stability, 35 Handling, and 35 Reload Speed with 0.95x Duration Multiplier for 10 seconds."
           }
         ]
       },
@@ -10560,8 +10585,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n10 Range (w/5% Increased Falloff Distance), 10 Stability, [?] Handling, and 35 Reload Speed (w/0.95x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] />) for 10 seconds.\r\nCan't be refreshed.\r\n\r\n<formula In-Game Range: range_0 />\r\n<formula Reload Time: reload_0 />\r\n\r\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 11 seconds.",
-      "secondaryEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n10 Range (w/5% Increased Falloff Distance), 10 Stability, [?] Handling, and 35 Reload Speed (w/0.95x RDS) for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds."
+      "mainEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n10 Range with 5% Increased Falloff Distance, 10 Stability, 35 Handling, and 35 Reload Speed with 0.95x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] /> for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\n<formula In-Game Range: range_0 />\r\n<formula Reload Time: reload_0 />\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds.",
+      "secondaryEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n10 Range with 5% Increased Falloff Distance, 10 Stability, 35 Handling, and 35 Reload Speed with 0.95x Duration Multiplier for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds."
     },
     "inLiveDatabase": true
   },
