@@ -19468,14 +19468,21 @@
   "3108830275": {
     "id": 3108830275,
     "name": "Unrelenting",
-    "lastUpdate": 1654681542097,
+    "lastUpdate": 1655409483671,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points."
+            "text": "Upon reaching 3 points with Weapon Kills:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Starts Health Regeneration and heals for ~80 HP"
           }
         ]
       },
@@ -19543,7 +19550,14 @@
       {
         "lineText": [
           {
-            "text": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points."
+            "text": "Upon reaching 3 points with Weapon Kills:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Starts Health Regeneration and heals for ~80 HP"
           }
         ]
       },
@@ -19593,8 +19607,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points.\r\n\r\nRank-And-File give 1 point.\r\nGuardians give 2 points.\r\nElites/Minibosses/Bosses give 3 points.\r\n\r\nFor Combatant Classifications, check out <link https://d2clarity.page.link/combatant this link/>\r\n\r\nWeapon Kills must be within 5 seconds of each.\r\n\r\nEnhanced: Passively grants 5 Handling.",
-      "secondaryEditor": "Starts Health Regeneration and heals for ~80HP after obtaining 3 points.\r\n\r\nRank-And-File give 1 point.\r\nGuardians give 2 points.\r\nElites/Minibosses/Bosses give 3 points.\r\n\r\nWeapon Kills must be within 5 seconds of each.\r\n\r\nEnhanced: Passively grants 5 Handling."
+      "mainEditor": "Upon reaching 3 points with Weapon Kills:\r\nStarts Health Regeneration and heals for ~80 HP\r\n\r\nRank-And-File give 1 point.\r\nGuardians give 2 points.\r\nElites/Minibosses/Bosses give 3 points.\r\n\r\nFor Combatant Classifications, check out <link https://d2clarity.page.link/combatant this link/>\r\n\r\nWeapon Kills must be within 5 seconds of each.\r\n\r\nEnhanced: Passively grants 5 Handling.",
+      "secondaryEditor": "Upon reaching 3 points with Weapon Kills:\r\nStarts Health Regeneration and heals for ~80 HP\r\n\r\nRank-And-File give 1 point.\r\nGuardians give 2 points.\r\nElites/Minibosses/Bosses give 3 points.\r\n\r\nWeapon Kills must be within 5 seconds of each.\r\n\r\nEnhanced: Passively grants 5 Handling."
     },
     "inLiveDatabase": true
   },
