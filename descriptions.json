@@ -14808,7 +14808,7 @@
   "2224838837": {
     "id": 2224838837,
     "name": "Unstoppable Force",
-    "lastUpdate": 1650461935446,
+    "lastUpdate": 1655409510398,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -14834,7 +14834,7 @@
       {
         "lineText": [
           {
-            "text": "30% increased projectile damage for 4 seconds or until you stop blocking. Hits refresh duration."
+            "text": "30% increased projectile damage for 4 seconds or until you stop blocking. Blocking any hit refreshes the duration."
           }
         ]
       },
@@ -14844,7 +14844,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased by 1 second, to a maximum of 5 seconds."
+            "text": "Enhanced: Buff Duration is increased to 5 seconds."
           }
         ]
       }
@@ -14863,7 +14863,7 @@
       {
         "lineText": [
           {
-            "text": "30% increased projectile damage for 4 seconds or until you stop blocking. Hits refresh duration."
+            "text": "30% increased projectile damage for 4 seconds or until you stop blocking. Blocking any hit refreshes the duration."
           }
         ]
       },
@@ -14879,8 +14879,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\n30% increased projectile damage for 4 seconds or until you stop blocking. Hits refresh duration.\r\n\r\nEnhanced: Buff Duration is increased by 1 second, to a maximum of 5 seconds.",
-      "secondaryEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\n30% increased projectile damage for 4 seconds or until you stop blocking. Hits refresh duration.\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds."
+      "mainEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\n30% increased projectile damage for 4 seconds or until you stop blocking. Blocking any hit refreshes the duration.\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds.",
+      "secondaryEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\n30% increased projectile damage for 4 seconds or until you stop blocking. Blocking any hit refreshes the duration.\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds."
     },
     "inLiveDatabase": true
   },
