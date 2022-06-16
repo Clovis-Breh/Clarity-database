@@ -27286,14 +27286,21 @@
   "4293542123": {
     "id": 4293542123,
     "name": "Incandescent",
-    "lastUpdate": 1655057170389,
+    "lastUpdate": 1655403839881,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Kills apply 30 Scorch to enemies within [?] meters."
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Apply 30 Scorch to enemies within [?] meters."
           }
         ]
       },
@@ -27310,12 +27317,9 @@
       {
         "lineText": [
           {
-            "text": "Killing Powerful Combatants and Players increases the range to [?] meters."
+            "text": "Killing Powerful Combatants and Players increases the range to 8 meters."
           }
         ]
-      },
-      {
-        "className": "spacer"
       },
       {
         "className": "spacer"
@@ -27365,7 +27369,7 @@
       {
         "lineText": [
           {
-            "text": "Killing Powerful Combatants and Players increases the range to [?] meters."
+            "text": "Killing Powerful Combatants and Players increases the range to 8 meters."
           }
         ]
       },
@@ -27385,7 +27389,7 @@
       {
         "lineText": [
           {
-            "text": "PVP: Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped"
+            "text": "PVE: Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped"
           }
         ]
       },
@@ -27395,14 +27399,14 @@
       {
         "lineText": [
           {
-            "text": "PVE: Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped"
+            "text": "PVP: Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nEmber of Ashes increases this to 40 Scorch.\r\n\r\nKilling Powerful Combatants and Players increases the range to [?] meters.\r\n\r\n\r\nEnhanced:\r\n<pve Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped />\r\n<pvp Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped />",
-      "secondaryEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nEmber of Ashes increases this to 40 Scorch.\r\n\r\nKilling Powerful Combatants and Players increases the range to [?] meters.\r\n\r\n\r\nEnhanced:\r\nPVP: Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped\r\n\r\nPVE: Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped"
+      "mainEditor": "On Weapon Kill:\r\nApply 30 Scorch to enemies within [?] meters.\r\nEmber of Ashes increases this to 40 Scorch.\r\n\r\nKilling Powerful Combatants and Players increases the range to 8 meters.\r\n\r\nEnhanced:\r\n<pve Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped />\r\n<pvp Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped />",
+      "secondaryEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nEmber of Ashes increases this to 40 Scorch.\r\n\r\nKilling Powerful Combatants and Players increases the range to 8 meters.\r\n\r\n\r\nEnhanced:\r\nPVE: Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped\r\n\r\nPVP: Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped"
     },
     "inLiveDatabase": true
   }
