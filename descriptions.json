@@ -14831,14 +14831,14 @@
   "2244851822": {
     "id": "2244851822",
     "name": "Flash Counter",
-    "lastUpdate": 1650458867341,
+    "lastUpdate": 1655403250066,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "After Blocking a Melee Attack within 0.5 seconds of starting to Block:"
+            "text": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:"
           }
         ]
       },
@@ -14855,7 +14855,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Increased Ammo Reserves."
+            "text": "Enhanced: Passively grants increased Ammo Reserves."
           }
         ]
       }
@@ -14864,7 +14864,7 @@
       {
         "lineText": [
           {
-            "text": "After Blocking a Melee Attack within 0.5 seconds of starting to Block:"
+            "text": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:"
           }
         ]
       },
@@ -14881,14 +14881,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Increased Ammo Reserves."
+            "text": "Enhanced: Passively grants increased Ammo Reserves."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "After Blocking a Melee Attack within 0.5 seconds of starting to Block:\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\n\nEnhanced: Increased Ammo Reserves.",
-      "secondaryEditor": "After Blocking a Melee Attack within 0.5 seconds of starting to Block:\r\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\r\n\r\nEnhanced: Increased Ammo Reserves."
+      "mainEditor": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\n\nEnhanced: Passively grants increased Ammo Reserves.",
+      "secondaryEditor": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:\r\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\r\n\r\nEnhanced: Passively grants increased Ammo Reserves."
     },
     "inLiveDatabase": true
   },
