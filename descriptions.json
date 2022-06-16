@@ -2698,14 +2698,14 @@
   "469285294": {
     "id": "469285294",
     "name": "Recombination",
-    "lastUpdate": 1650459688393,
+    "lastUpdate": 1655407331163,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Elemental Kills grant stacks of Recombination, increasing the damage of the next shot of the weapon:"
+            "text": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon."
           }
         ]
       },
@@ -2911,7 +2911,7 @@
       {
         "lineText": [
           {
-            "text": "Elemental Kills grant stacks of Recombination, increasing the damage of the next shot of the weapon:"
+            "text": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon, up to 10 stacks."
           }
         ]
       },
@@ -2921,7 +2921,7 @@
       {
         "lineText": [
           {
-            "text": "8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage in PVE."
+            "text": "8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage in PVE"
           }
         ]
       },
@@ -2931,7 +2931,7 @@
       {
         "lineText": [
           {
-            "text": "8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession in PVE."
+            "text": "8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession in PVE"
           }
         ]
       },
@@ -2939,19 +2939,16 @@
         "className": "spacer"
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
-            "text": "5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession in PVP."
+            "text": "5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession in PVP"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Elemental Kills grant stacks of Recombination, increasing the damage of the next shot of the weapon:\n\n< table >\n|b Stacks|b Heritage|b Succession|b Both in PVP\n| 1x     | 8%       | 8%         | 5% <background/>\n| 2x     | 15%      | 17%        | 10%\n| 3x     | 24%      | 27%        | 15% <background/>\n| 4x     | 33%      | 38%        | 20%\n| 5x     | 42%      | 46%        | 25% <background/>\n| 6x     | 50%      | 57%        | 30%\n| 7x     | 59%      | 68%        | 35% <background/>\n| 8x     | 70%      | 80%        | 40%\n| 9x     | 80%      | 89%        | 45% <background/>\n| 10x    | 88%      | 100%       | 50%\n<$>\n\n",
-      "secondaryEditor": "Elemental Kills grant stacks of Recombination, increasing the damage of the next shot of the weapon:\r\n\r\n8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage in PVE.\r\n\r\n8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession in PVE.\r\n\r\n\r\n5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession in PVP."
+      "mainEditor": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon.\n\n< table >\n|b Stacks|b Heritage|b Succession|b Both in PVP\n| 1x     | 8%       | 8%         | 5% <background/>\n| 2x     | 15%      | 17%        | 10%\n| 3x     | 24%      | 27%        | 15% <background/>\n| 4x     | 33%      | 38%        | 20%\n| 5x     | 42%      | 46%        | 25% <background/>\n| 6x     | 50%      | 57%        | 30%\n| 7x     | 59%      | 68%        | 35% <background/>\n| 8x     | 70%      | 80%        | 40%\n| 9x     | 80%      | 89%        | 45% <background/>\n| 10x    | 88%      | 100%       | 50%\n<$>\n\n",
+      "secondaryEditor": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon, up to 10 stacks.\r\n\r\n8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage in PVE\r\n\r\n8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession in PVE\r\n\r\n5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession in PVP"
     },
     "inLiveDatabase": true
   },
