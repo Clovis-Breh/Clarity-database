@@ -8249,7 +8249,7 @@
   "1250481499": {
     "id": 1250481499,
     "name": "Extrovert",
-    "lastUpdate": 1654186158584,
+    "lastUpdate": 1655409911386,
     "updatedBy": "Fading-Shadow",
     "type": "weaponOriginTrait",
     "description": [
@@ -8263,7 +8263,7 @@
       {
         "lineText": [
           {
-            "text": "Kills grant [?]HP"
+            "text": "Kills restore [?]HP"
           }
         ]
       }
@@ -8279,14 +8279,14 @@
       {
         "lineText": [
           {
-            "text": "Kills grant [?]HP"
+            "text": "Kills restore [?]HP"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills grant [?]HP",
-      "secondaryEditor": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills grant [?]HP"
+      "mainEditor": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills restore [?]HP",
+      "secondaryEditor": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills restore [?]HP"
     },
     "inLiveDatabase": true
   },
