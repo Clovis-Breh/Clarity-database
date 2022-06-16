@@ -18382,14 +18382,24 @@
   "2888557110": {
     "id": 2888557110,
     "name": "Full Court",
-    "lastUpdate": 1650802980670,
+    "lastUpdate": 1655403348939,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Increases Explosive Damage by 0.63% for every meter after 10 meters, up to 25% at 50 meters."
+            "text": "Increases Explosive Damage by 0.63% for every meter after 10 meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "25% Increased Explosive Damage at 50 meters."
           }
         ]
       }
@@ -18398,14 +18408,24 @@
       {
         "lineText": [
           {
-            "text": "Increases Explosive Damage by 0.63% for every meter after 10 meters, up to 25% at 50 meters."
+            "text": "Increases Explosive Damage by 0.63% for every meter after 10 meters."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "25% Increased Explosive Damage at 50 meters."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Increases Explosive Damage by 0.63% for every meter after 10 meters, up to 25% at 50 meters.",
-      "secondaryEditor": "Increases Explosive Damage by 0.63% for every meter after 10 meters, up to 25% at 50 meters."
+      "mainEditor": "Increases Explosive Damage by 0.63% for every meter after 10 meters.\r\n\r\n25% Increased Explosive Damage at 50 meters.",
+      "secondaryEditor": "Increases Explosive Damage by 0.63% for every meter after 10 meters.\r\n\r\n25% Increased Explosive Damage at 50 meters."
     },
     "inLiveDatabase": true
   },
