@@ -12149,14 +12149,21 @@
   "1774574192": {
     "id": "1774574192",
     "name": "Osmosis",
-    "lastUpdate": 1650803601688,
+    "lastUpdate": 1655404218056,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. "
+            "text": "On Grenade Ability Usage:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Changes Weapon Element to match your selected Subclass until stowed. "
           }
         ]
       },
@@ -12175,7 +12182,14 @@
       {
         "lineText": [
           {
-            "text": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. "
+            "text": "On Grenade Ability Usage:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Changes Weapon Element to match your selected Subclass until stowed. "
           }
         ]
       },
@@ -12191,8 +12205,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 5 Handling.",
-      "secondaryEditor": "Using your Grenade Ability changes the Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 5 Handling."
+      "mainEditor": "On Grenade Ability Usage:\r\nChanges Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 5 Handling.",
+      "secondaryEditor": "On Grenade Ability Usage:\r\nChanges Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 5 Handling."
     },
     "inLiveDatabase": true
   },
