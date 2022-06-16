@@ -8640,21 +8640,30 @@
   "1359896290": {
     "id": "1359896290",
     "name": "Dynamic Sway Reduction",
-    "lastUpdate": 1650454761005,
+    "lastUpdate": 1655401625780,
     "updatedBy": "Fading-Shadow",
+    "stats": {
+      "stability": {
+        "active": {
+          "stat": [
+            10
+          ]
+        }
+      }
+    },
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:"
+            "text": "During Sustained Fire:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Greatly increases Accuracy, and adds up to 10 Stability."
+            "text": "Gradually greatly increases Accuracy, and adds up to +10 Stability. Takes 0.6 seconds to maximize effect."
           }
         ]
       },
@@ -8664,14 +8673,24 @@
       {
         "lineText": [
           {
-            "text": "Accuracy improvement is greater than initial accuracy, but isn't perfectly accurate while Airborne."
+            "text": "The accuracy improvement is greater than initial accuracy."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Accuracy increase is gradual, almost completely negating the effects of bloom."
+            "text": "The accuracy increase is gradual, almost completely negating the effects of bloom."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Effect reaches full effect sooner."
           }
         ]
       }
@@ -8680,21 +8699,48 @@
       {
         "lineText": [
           {
-            "text": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:"
+            "text": "During Sustained Fire:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Greatly increases Accuracy, and adds up to 10 Stability."
+            "text": "Gradually greatly increases Accuracy, and adds up to +10 Stability. Takes 0.6 seconds to maximize effect."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "The accuracy improvement is greater than initial accuracy."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "The accuracy increase is gradual, almost completely negating the effects of bloom."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Enhanced: Effect reaches full effect sooner."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:\nGreatly increases Accuracy, and adds up to 10 Stability.\n\nAccuracy improvement is greater than initial accuracy, but isn't perfectly accurate while Airborne.\nAccuracy increase is gradual, almost completely negating the effects of bloom.\n",
-      "secondaryEditor": "Gradually during Sustained Fire, maxing its effect after 0.6 seconds:\r\nGreatly increases Accuracy, and adds up to 10 Stability."
+      "mainEditor": "During Sustained Fire:\nGradually greatly increases Accuracy, and adds up to +10 Stability. Takes 0.6 seconds to maximize effect.\n\nThe accuracy improvement is greater than initial accuracy.\nThe accuracy increase is gradual, almost completely negating the effects of bloom.\n\nEnhanced: Effect reaches full effect sooner.",
+      "secondaryEditor": "During Sustained Fire:\r\nGradually greatly increases Accuracy, and adds up to +10 Stability. Takes 0.6 seconds to maximize effect.\r\n\r\nThe accuracy improvement is greater than initial accuracy.\r\nThe accuracy increase is gradual, almost completely negating the effects of bloom.\r\n\r\nEnhanced: Effect reaches full effect sooner."
     },
     "inLiveDatabase": true
   },
