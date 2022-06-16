@@ -3194,7 +3194,7 @@
   "509074078": {
     "id": 509074078,
     "name": "Steady Hands",
-    "lastUpdate": 1654453991996,
+    "lastUpdate": 1655408305241,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -3228,7 +3228,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased to [?] and [?] seconds respectively."
+            "text": "Enhanced: Buff Duration is increased."
           }
         ]
       }
@@ -3264,14 +3264,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased to [?] and [?] seconds respectively."
+            "text": "Enhanced: Buff Duration is increased."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\r\nX (a lot of) Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased to [?] and [?] seconds respectively.",
-      "secondaryEditor": "On Weapon Kill:\r\nX (a lot of) Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased to [?] and [?] seconds respectively."
+      "mainEditor": "On Weapon Kill:\r\nX (a lot of) Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased.",
+      "secondaryEditor": "On Weapon Kill:\r\nX (a lot of) Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
     },
     "inLiveDatabase": true
   },
