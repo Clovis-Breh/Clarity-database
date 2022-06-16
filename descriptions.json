@@ -6420,13 +6420,13 @@
   "951095735": {
     "id": "951095735",
     "name": "Impulse Amplifier",
-    "lastUpdate": 1655403696662,
+    "lastUpdate": 1655403703404,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "passive": {
           "stat": [
-            9
+            10
           ],
           "multiplier": [
             0.8
