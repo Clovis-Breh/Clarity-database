@@ -22682,7 +22682,7 @@
   "3592538738": {
     "id": "3592538738",
     "name": "Wellspring",
-    "lastUpdate": 1655409666958,
+    "lastUpdate": 1655409669261,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -22699,6 +22699,9 @@
             "text": "Grants 8% Ability Energy split equally amongst all uncharged abilities."
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -22756,7 +22759,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n<highlight_3 If you have more than 3 ability charges in total, the perk stops functioning. />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities.",
+      "mainEditor": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n\n<highlight_3 If you have more than 3 ability charges in total, the perk stops functioning. />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities.",
       "secondaryEditor": "On Weapon Kill:\r\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\r\n\r\nIf you have more than 3 ability charges in total, the perk stops functioning.\r\n\r\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities."
     },
     "inLiveDatabase": true
