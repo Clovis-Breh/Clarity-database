@@ -23901,7 +23901,7 @@
   "3721627275": {
     "id": "3721627275",
     "name": "Swap Mag",
-    "lastUpdate": 1650804358139,
+    "lastUpdate": 1655408599692,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "draw": {
@@ -23924,7 +23924,7 @@
       {
         "lineText": [
           {
-            "text": "0.9x Ready/Stow Animation Scalar"
+            "text": "Passice 0.9x Ready/Stow Duration Multiplier"
           }
         ]
       },
@@ -23954,14 +23954,14 @@
       {
         "lineText": [
           {
-            "text": "0.9x Ready/Stow Animation Scalar"
+            "text": "Passice 0.9x Ready/Stow Duration Multiplier"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "0.9x Ready/Stow Animation Scalar\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />",
-      "secondaryEditor": "0.9x Ready/Stow Animation Scalar"
+      "mainEditor": "Passice 0.9x Ready/Stow Duration Multiplier\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />",
+      "secondaryEditor": "Passice 0.9x Ready/Stow Duration Multiplier"
     },
     "inLiveDatabase": true
   },
