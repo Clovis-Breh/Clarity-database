@@ -4232,7 +4232,7 @@
   "671806388": {
     "id": 671806388,
     "name": "Compulsive Reloader",
-    "lastUpdate": 1650802118840,
+    "lastUpdate": 1655401403345,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "chargeDrawTime": {
@@ -4265,7 +4265,7 @@
       {
         "lineText": [
           {
-            "text": "50 Reload Speed (w/ 0.95x Duration Scale)"
+            "text": "50 Reload Speed with a 0.95x Duration Scale"
           }
         ]
       },
@@ -4303,7 +4303,7 @@
       {
         "lineText": [
           {
-            "text": "50 Reload Speed (w/ 0.95x Duration Scale)"
+            "text": "50 Reload Speed with a 0.95x Duration Scale"
           }
         ]
       },
@@ -4319,8 +4319,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "While above 70% Magazine:\r\n50 Reload Speed (w/ 0.95x Duration Scale)\r\n\r\n<formula Reload Time: reload_0 />\r\n\r\nEnhanced: Reload increased to [55 maybe?]",
-      "secondaryEditor": "While above 70% Magazine:\r\n50 Reload Speed (w/ 0.95x Duration Scale)\r\n\r\nEnhanced: Reload increased to [55 maybe?]"
+      "mainEditor": "While above 70% Magazine:\r\n50 Reload Speed with a 0.95x Duration Scale\r\n\r\n<formula Reload Time: reload_0 />\r\n\r\nEnhanced: Reload increased to [55 maybe?]",
+      "secondaryEditor": "While above 70% Magazine:\r\n50 Reload Speed with a 0.95x Duration Scale\r\n\r\nEnhanced: Reload increased to [55 maybe?]"
     },
     "inLiveDatabase": true
   },
