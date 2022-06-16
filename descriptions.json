@@ -26712,14 +26712,14 @@
   "4152709778": {
     "id": "4152709778",
     "name": "Iron Gaze",
-    "lastUpdate": 1650803390374,
+    "lastUpdate": 1655403873219,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "20 Aim Assist and -30 Range."
+            "text": "Passively grants 20 Aim Assist and -30 Range."
           }
         ]
       }
@@ -26728,14 +26728,14 @@
       {
         "lineText": [
           {
-            "text": "20 Aim Assist and -30 Range."
+            "text": "Passively grants 20 Aim Assist and -30 Range."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "20 Aim Assist and -30 Range.",
-      "secondaryEditor": "20 Aim Assist and -30 Range."
+      "mainEditor": "Passively grants 20 Aim Assist and -30 Range.",
+      "secondaryEditor": "Passively grants 20 Aim Assist and -30 Range."
     },
     "inLiveDatabase": true
   },
