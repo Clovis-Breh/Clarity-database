@@ -12335,7 +12335,7 @@
   "1820235745": {
     "id": "1820235745",
     "name": "Subsistence",
-    "lastUpdate": 1652370487597,
+    "lastUpdate": 1655408342035,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12354,14 +12354,14 @@
             "className": "title"
           },
           {
-            "text": " a portion of Magazine."
+            "text": " 10% of Magazine."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Submachine Guns and Auto Rifles: 17% | Machine Guns: 10%"
+            "text": "Submachine Guns and Auto Rifles: 17%"
           }
         ]
       },
@@ -12387,14 +12387,14 @@
       {
         "lineText": [
           {
-            "text": "Refreshes a portion of Magazine."
+            "text": "Refreshes 10% of Magazine."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Submachine Guns and Auto Rifles: 17% | Machine Guns: 10%"
+            "text": "Submachine Guns and Auto Rifles: 17%"
           }
         ]
       },
@@ -12410,8 +12410,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> a portion of Magazine.\nSubmachine Guns and Auto Rifles: 17% | Machine Guns: 10%\n\nEnhanced: Magazine Refresh increased to 25%",
-      "secondaryEditor": "On Weapon Kill:\r\nRefreshes a portion of Magazine.\r\nSubmachine Guns and Auto Rifles: 17% | Machine Guns: 10%\r\n\r\nEnhanced: Magazine Refresh increased to 25%"
+      "mainEditor": "On Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> 10% of Magazine.\nSubmachine Guns and Auto Rifles: 17%\n\nEnhanced: Magazine Refresh increased to 25%",
+      "secondaryEditor": "On Weapon Kill:\r\nRefreshes 10% of Magazine.\r\nSubmachine Guns and Auto Rifles: 17%\r\n\r\nEnhanced: Magazine Refresh increased to 25%"
     },
     "inLiveDatabase": true
   },
