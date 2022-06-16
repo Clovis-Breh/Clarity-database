@@ -21128,7 +21128,7 @@
   "3350417888": {
     "id": "3350417888",
     "name": "Sympathetic Arsenal",
-    "lastUpdate": 1652036578709,
+    "lastUpdate": 1655408712032,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -21188,7 +21188,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Reload Timer is increased."
+            "text": "Enhanced: Reload Timer is increased to 7 seconds."
           }
         ]
       }
@@ -21224,14 +21224,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Reload Timer is increased."
+            "text": "Enhanced: Reload Timer is increased to 7 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Reload within 6 seconds of a Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> stowed weapons.\n\nPassively grants 20 Reload Speed.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Reload Timer is increased.",
-      "secondaryEditor": "On Reload within 6 seconds of a Weapon Kill:\r\nRefreshes stowed weapons.\r\n\r\nPassively grants 20 Reload Speed.\r\n\r\nEnhanced: Reload Timer is increased."
+      "mainEditor": "On Reload within 6 seconds of a Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> stowed weapons.\n\nPassively grants 20 Reload Speed.\n\n<formula Reload Time: reload_0 />\n\nEnhanced: Reload Timer is increased to 7 seconds.",
+      "secondaryEditor": "On Reload within 6 seconds of a Weapon Kill:\r\nRefreshes stowed weapons.\r\n\r\nPassively grants 20 Reload Speed.\r\n\r\nEnhanced: Reload Timer is increased to 7 seconds."
     },
     "inLiveDatabase": true
   },
