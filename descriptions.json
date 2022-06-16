@@ -1523,7 +1523,7 @@
   "247725512": {
     "id": "247725512",
     "name": "Rapid Hit",
-    "lastUpdate": 1650804082682,
+    "lastUpdate": 1655407273852,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -1561,7 +1561,7 @@
       {
         "lineText": [
           {
-            "text": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds."
+            "text": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds."
           }
         ]
       },
@@ -1719,9 +1719,12 @@
       {
         "lineText": [
           {
-            "text": "Precision Hits give Rapid Hit Stacks, granting:"
+            "text": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds."
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -1740,7 +1743,7 @@
       {
         "lineText": [
           {
-            "text": "> 2 | 12 | 14 | 18 | 25 Stability for 2 seconds."
+            "text": "> 2 | 12 | 14 | 18 | 25 Stability"
           }
         ]
       },
@@ -1756,8 +1759,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Precision Hits give Rapid Hit Stacks, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n| Stack| Stability| Reload Stat| <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] />| Reload Time <bold/>\n|b 1x    | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n|b 2x    | 12        | 30          | 0.970x              | <formula reload_1 />\n|b 3x    | 14        | 35          | 0.955x              | <formula reload_2 /><background/>\n|b 4x    | 18        | 45          | 0.940x              | <formula reload_3 />\n|b 5x    | 25        | 60          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect.",
-      "secondaryEditor": "Precision Hits give Rapid Hit Stacks, granting:\r\n> 5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n> 2 | 12 | 14 | 18 | 25 Stability for 2 seconds.\r\n\r\nEnhanced: Stronger Effect."
+      "mainEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n| Stack| Stability| Reload Stat| <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] />| Reload Time <bold/>\n|b 1x    | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n|b 2x    | 12        | 30          | 0.970x              | <formula reload_1 />\n|b 3x    | 14        | 35          | 0.955x              | <formula reload_2 /><background/>\n|b 4x    | 18        | 45          | 0.940x              | <formula reload_3 />\n|b 5x    | 25        | 60          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect.",
+      "secondaryEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n> 5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n> 2 | 12 | 14 | 18 | 25 Stability\r\n\r\nEnhanced: Stronger Effect."
     },
     "inLiveDatabase": true
   },
