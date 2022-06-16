@@ -13713,14 +13713,14 @@
   "2030760728": {
     "id": "2030760728",
     "name": "Energy Transfer",
-    "lastUpdate": 1650458964564,
+    "lastUpdate": 1655402190206,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "While Blocking:"
+            "text": "While Blocking with a Sword:"
           }
         ]
       },
@@ -13746,7 +13746,7 @@
       {
         "lineText": [
           {
-            "text": "While Blocking:"
+            "text": "While Blocking with a Sword:"
           }
         ]
       },
@@ -13769,8 +13769,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "While Blocking:\nGrants Class Ability Energy based on the amount of damage taken.\n\nEnhanced: Increased Class Ability Energy Gain.",
-      "secondaryEditor": "While Blocking:\r\nGrants Class Ability Energy based on the amount of damage taken.\r\n\r\nEnhanced: Increased Class Ability Energy Gain."
+      "mainEditor": "While Blocking with a Sword:\nGrants Class Ability Energy based on the amount of damage taken.\n\nEnhanced: Increased Class Ability Energy Gain.",
+      "secondaryEditor": "While Blocking with a Sword:\r\nGrants Class Ability Energy based on the amount of damage taken.\r\n\r\nEnhanced: Increased Class Ability Energy Gain."
     },
     "inLiveDatabase": true
   },
