@@ -7861,7 +7861,7 @@
   "1195158366": {
     "id": "1195158366",
     "name": "Encore",
-    "lastUpdate": 1650802516890,
+    "lastUpdate": 1655402168224,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -7910,7 +7910,7 @@
           {
             "lineText": [
               {
-                "text": "1",
+                "text": "1x",
                 "className": "bold"
               },
               {
@@ -7922,7 +7922,7 @@
           {
             "lineText": [
               {
-                "text": "2",
+                "text": "2x",
                 "className": "bold"
               },
               {
@@ -7934,7 +7934,7 @@
           {
             "lineText": [
               {
-                "text": "3",
+                "text": "3x",
                 "className": "bold"
               },
               {
@@ -7953,7 +7953,7 @@
       {
         "lineText": [
           {
-            "text": "On Non-Precision Kill: Removes a Stack and grants -X% "
+            "text": "On Non-Precision Kill: Removes 1 Stack. If at zero stacks, it grants -X% "
           },
           {
             "title": "How Fast Your Accuracy Cone Expands. The less the better.",
@@ -7961,7 +7961,7 @@
             "className": "title"
           },
           {
-            "text": ", -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left."
+            "text": ", -Y% Accuracy Cone Size, and 30 Stability."
           }
         ]
       },
@@ -8000,7 +8000,7 @@
       {
         "lineText": [
           {
-            "text": "On Non-Precision Kill: Removes a Stack. Improves Accuracy and grants 30 Stability if there are no active Range Stacks left."
+            "text": "On Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability."
           }
         ]
       },
@@ -8026,8 +8026,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\n\n< table >\n|b Stacks|b In-Game Range\n|b 1     | <formula range_0 />\n|b 2     | <formula range_1 />\n|b 3     | <formula range_2 />\n<$>\n\nOn Non-Precision Kill: Removes a Stack and grants -X% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, -Y% Accuracy Cone Size, and 30 Stability if there are no active Range Stacks left.\n\nLasts 7 seconds. Refreshed on Kill.\n\nEnhanced: Buff Duration is increased.",
-      "secondaryEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\r\n\r\nOn Non-Precision Kill: Removes a Stack. Improves Accuracy and grants 30 Stability if there are no active Range Stacks left.\r\n\r\nLasts 7 seconds. Refreshed on Kill.\r\n\r\nEnhanced: Buff Duration is increased."
+      "mainEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\n\n< table >\n|b Stacks|b In-Game Range\n|b 1x     | <formula range_0 />\n|b 2x     | <formula range_1 />\n|b 3x     | <formula range_2 />\n<$>\n\nOn Non-Precision Kill: Removes 1 Stack. If at zero stacks, it grants -X% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, -Y% Accuracy Cone Size, and 30 Stability.\n\nLasts 7 seconds. Refreshed on Kill.\n\nEnhanced: Buff Duration is increased.",
+      "secondaryEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\r\n\r\nOn Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability.\r\n\r\nLasts 7 seconds. Refreshed on Kill.\r\n\r\nEnhanced: Buff Duration is increased."
     },
     "inLiveDatabase": true
   },
