@@ -972,7 +972,7 @@
   "205890336": {
     "id": "205890336",
     "name": "Underdog",
-    "lastUpdate": 1650804577215,
+    "lastUpdate": 1655409256094,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -1000,7 +1000,19 @@
       {
         "lineText": [
           {
-            "text": "Increased Reload Speed. Effect increases linearly as health decreases, up to 100 Reload Speed with 0.9x Duration Scalar."
+            "text": "Up to +100 Reload Speed with 0.9x "
+          },
+          {
+            "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
+            "text": "RDS",
+            "className": "title"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Effect increases linearly as health decreases"
           }
         ]
       },
@@ -1037,14 +1049,21 @@
       {
         "lineText": [
           {
-            "text": "Increased Reload Speed. Effect increases linearly as health decreases, up to 100 Reload Speed with 0.9x Duration Scalar."
+            "text": "Up to +100 Reload Speed with 0.9x Duration Multiplier "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Effect increases linearly as health decreases"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "While below 113 HP:\nIncreased Reload Speed. Effect increases linearly as health decreases, up to 100 Reload Speed with 0.9x Duration Scalar.\n\n<formula Half Strength Reload Time: reload_0 />\n<formula Maximum Strength Reload Time: reload_1 />",
-      "secondaryEditor": "While below 113 HP:\r\nIncreased Reload Speed. Effect increases linearly as health decreases, up to 100 Reload Speed with 0.9x Duration Scalar."
+      "mainEditor": "While below 113 HP:\nUp to +100 Reload Speed with 0.9x <title RDS [Reload Duration Scalar (Multiplies Reload Animation Duration by that number)] />\nEffect increases linearly as health decreases\n\n<formula Half Strength Reload Time: reload_0 />\n<formula Maximum Strength Reload Time: reload_1 />",
+      "secondaryEditor": "While below 113 HP:\r\nUp to +100 Reload Speed with 0.9x Duration Multiplier \r\nEffect increases linearly as health decreases"
     },
     "inLiveDatabase": true
   },
