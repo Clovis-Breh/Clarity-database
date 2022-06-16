@@ -18584,7 +18584,7 @@
   "2946784966": {
     "id": "2946784966",
     "name": "Tunnel Vision",
-    "lastUpdate": 1650461705709,
+    "lastUpdate": 1655409119250,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "aimAssist": {
@@ -18607,7 +18607,14 @@
       {
         "lineText": [
           {
-            "text": "20 Aim Assist, -20% Accuracy Cone Size, and [?] to ADS Handling (ADS only, [?] Multiplier) for 5 seconds."
+            "text": "20 Aim Assist, -20% Accuracy Cone Size, and [?] Handling (ADS only, [?] Multiplier) for 5 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff cannot be refreshed."
           }
         ]
       },
@@ -18633,7 +18640,14 @@
       {
         "lineText": [
           {
-            "text": "20 Aim Assist, -20% Accuracy Cone Size, and [?] to ADS Handling (ADS only, [?] Multiplier) for 5 seconds."
+            "text": "20 Aim Assist, -20% Accuracy Cone Size, and [?] Handling (ADS only, [?] Multiplier) for 5 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Buff cannot be refreshed."
           }
         ]
       },
@@ -18649,8 +18663,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "After Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and [?] to ADS Handling (ADS only, [?] Multiplier) for 5 seconds.\n\nEnhanced: Buff Duration is increased.",
-      "secondaryEditor": "After Reloading within 6 seconds of a Weapon Kill:\r\n20 Aim Assist, -20% Accuracy Cone Size, and [?] to ADS Handling (ADS only, [?] Multiplier) for 5 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
+      "mainEditor": "After Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and [?] Handling (ADS only, [?] Multiplier) for 5 seconds.\nBuff cannot be refreshed.\n\nEnhanced: Buff Duration is increased.",
+      "secondaryEditor": "After Reloading within 6 seconds of a Weapon Kill:\r\n20 Aim Assist, -20% Accuracy Cone Size, and [?] Handling (ADS only, [?] Multiplier) for 5 seconds.\r\nBuff cannot be refreshed.\r\n\r\nEnhanced: Buff Duration is increased."
     },
     "inLiveDatabase": true
   },
