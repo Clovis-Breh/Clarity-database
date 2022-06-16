@@ -16079,7 +16079,7 @@
   "2610012052": {
     "id": "2610012052",
     "name": "Golden Tricorn",
-    "lastUpdate": 1653171970072,
+    "lastUpdate": 1655403398889,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -16113,7 +16113,14 @@
       {
         "lineText": [
           {
-            "text": "Matching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds. Can be refreshed by getting another Matching Ability Kill."
+            "text": "Matching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Can be refreshed by getting another Matching Ability Kill."
           }
         ]
       },
@@ -16123,7 +16130,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: 15% Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active."
+            "text": "Enhanced: Base Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active."
           }
         ]
       }
@@ -16149,7 +16156,14 @@
       {
         "lineText": [
           {
-            "text": "Matching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds. Can be refreshed by getting another Matching Ability Kill."
+            "text": "Matching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds."
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Can be refreshed by getting another Matching Ability Kill."
           }
         ]
       },
@@ -16159,14 +16173,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: 15% Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active."
+            "text": "Enhanced: Base Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\n\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds. Can be refreshed by getting another Matching Ability Kill.\n\nEnhanced: 15% Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active.",
-      "secondaryEditor": "On Weapon Kill:\r\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\r\n\r\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds. Can be refreshed by getting another Matching Ability Kill.\r\n\r\nEnhanced: 15% Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active."
+      "mainEditor": "On Weapon Kill:\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\n\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds.\nCan be refreshed by getting another Matching Ability Kill.\n\nEnhanced: Base Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active.",
+      "secondaryEditor": "On Weapon Kill:\r\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\r\n\r\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds.\r\nCan be refreshed by getting another Matching Ability Kill.\r\n\r\nEnhanced: Base Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active."
     },
     "inLiveDatabase": true
   },
