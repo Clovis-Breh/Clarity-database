@@ -14817,7 +14817,7 @@
   "2284787283": {
     "id": 2284787283,
     "name": "Clown Cartridge",
-    "lastUpdate": 1650802065841,
+    "lastUpdate": 1655401352163,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -14831,7 +14831,7 @@
       {
         "lineText": [
           {
-            "text": "Overflows Magazine Capacity between 10% to 50%."
+            "text": "Overflows Magazine Capacity by 10% to 50%."
           }
         ]
       },
@@ -14864,7 +14864,7 @@
       {
         "lineText": [
           {
-            "text": "Overflows Magazine Capacity between 10% to 50%."
+            "text": "Overflows Magazine Capacity by 10% to 50%."
           }
         ]
       },
@@ -14887,8 +14887,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Reload:\r\nOverflows Magazine Capacity between 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Improves the average overflow amount.",
-      "secondaryEditor": "On Reload:\r\nOverflows Magazine Capacity between 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Improves the average overflow amount."
+      "mainEditor": "On Reload:\r\nOverflows Magazine Capacity by 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Improves the average overflow amount.",
+      "secondaryEditor": "On Reload:\r\nOverflows Magazine Capacity by 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Improves the average overflow amount."
     },
     "inLiveDatabase": true
   },
