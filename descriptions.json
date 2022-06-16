@@ -15472,7 +15472,7 @@
   "2451262963": {
     "id": 2451262963,
     "name": "Fragile Focus",
-    "lastUpdate": 1654185612799,
+    "lastUpdate": 1655403284224,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -15488,7 +15488,7 @@
       {
         "lineText": [
           {
-            "text": "Passively grants 20 Range, but has a 5 second cooldown if you take damage."
+            "text": "Passively grants 20 Range, but has a 5 second cooldown if you take any damage."
           }
         ]
       },
@@ -15519,7 +15519,7 @@
       {
         "lineText": [
           {
-            "text": "Passively grants 20 Range, but has a 5 second cooldown if you take damage."
+            "text": "Passively grants 20 Range, but has a 5 second cooldown if you take any damage."
           }
         ]
       },
@@ -15535,8 +15535,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Passively grants 20 Range, but has a 5 second cooldown if you take damage.\r\n\r\n<formula In-Game Range: range_0 />\r\n\r\nEnhanced: Timer after not taking damage is reduced to [?] seconds.",
-      "secondaryEditor": "Passively grants 20 Range, but has a 5 second cooldown if you take damage.\r\n\r\nEnhanced: Timer after not taking damage is reduced to [?] seconds."
+      "mainEditor": "Passively grants 20 Range, but has a 5 second cooldown if you take any damage.\r\n\r\n<formula In-Game Range: range_0 />\r\n\r\nEnhanced: Timer after not taking damage is reduced to [?] seconds.",
+      "secondaryEditor": "Passively grants 20 Range, but has a 5 second cooldown if you take any damage.\r\n\r\nEnhanced: Timer after not taking damage is reduced to [?] seconds."
     },
     "inLiveDatabase": true
   },
