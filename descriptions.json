@@ -17896,14 +17896,24 @@
   "2839173408": {
     "id": 2839173408,
     "name": "Omolon Fluid Dynamics",
-    "lastUpdate": 1655409994599,
+    "lastUpdate": 1655410016023,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "active": {
           "stat": [
             30,
-            15
+            15,
+            0
+          ]
+        }
+      },
+      "stability": {
+        "active": {
+          "stat": [
+            20,
+            10,
+            0
           ]
         }
       }
