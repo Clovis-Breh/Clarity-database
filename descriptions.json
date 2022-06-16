@@ -25586,14 +25586,24 @@
   "3988215619": {
     "id": 3988215619,
     "name": "Veist Stinger",
-    "lastUpdate": 1650463269828,
+    "lastUpdate": 1655410155243,
     "updatedBy": "Fading-Shadow",
     "type": "weaponOriginTrait",
     "description": [
       {
         "lineText": [
           {
-            "text": "Hits have a [?]% chance to refresh [?]% of your magazine."
+            "text": "Hits have a chance to refresh your magazine."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate."
           }
         ]
       }
@@ -25602,14 +25612,24 @@
       {
         "lineText": [
           {
-            "text": "Hits have a [?]% chance to refresh [?]% of your magazine."
+            "text": "Hits have a chance to refresh your magazine."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Bows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Hits have a [?]% chance to refresh [?]% of your magazine.",
-      "secondaryEditor": "Hits have a [?]% chance to refresh [?]% of your magazine."
+      "mainEditor": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate.",
+      "secondaryEditor": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate."
     },
     "inLiveDatabase": true
   },
