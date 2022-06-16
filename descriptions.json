@@ -22374,7 +22374,7 @@
   "3526486541": {
     "id": 3526486541,
     "name": "Tilting at Windmills",
-    "lastUpdate": 1650461446824,
+    "lastUpdate": 1655408878935,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -22391,7 +22391,7 @@
       {
         "lineText": [
           {
-            "text": "Increases Mobility[?] by [?] for [?] seconds, or until you stop blocking."
+            "text": "Increases Mobility[?] for [?] seconds, or until you stop blocking."
           }
         ]
       },
@@ -22420,7 +22420,7 @@
       {
         "lineText": [
           {
-            "text": "Increases Mobility[?] by [?] for [?] seconds, or until you stop blocking."
+            "text": "Increases Mobility[?] for [?] seconds, or until you stop blocking."
           }
         ]
       },
@@ -22436,8 +22436,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\nIncreases Mobility[?] by [?] for [?] seconds, or until you stop blocking.\r\n\r\nEnhanced: Buff Duration is increased.",
-      "secondaryEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\nIncreases Mobility[?] by [?] for [?] seconds, or until you stop blocking.\r\n\r\nEnhanced: Buff Duration is increased."
+      "mainEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\nIncreases Mobility[?] for [?] seconds, or until you stop blocking.\r\n\r\nEnhanced: Buff Duration is increased.",
+      "secondaryEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\nIncreases Mobility[?] for [?] seconds, or until you stop blocking.\r\n\r\nEnhanced: Buff Duration is increased."
     },
     "inLiveDatabase": true
   },
