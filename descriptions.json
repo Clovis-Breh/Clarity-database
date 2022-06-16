@@ -10328,7 +10328,7 @@
   "1570042021": {
     "id": "1570042021",
     "name": "Heating Up",
-    "lastUpdate": 1650803328541,
+    "lastUpdate": 1655403597477,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "stability": {
@@ -10345,17 +10345,14 @@
       {
         "lineText": [
           {
-            "text": "Kills increase Accuracy and Stability while improving recoil for 5.5 seconds."
+            "text": "On Weapon Kill:"
           }
         ]
       },
       {
-        "className": "spacer"
-      },
-      {
         "lineText": [
           {
-            "text": "1x: -15% "
+            "text": "-15% "
           },
           {
             "title": "How Fast Your Accuracy Cone Expands. The less the better.",
@@ -10373,15 +10370,7 @@
       {
         "lineText": [
           {
-            "text": "2x: -30% "
-          },
-          {
-            "title": "How Fast Your Accuracy Cone Expands. The less the better.",
-            "text": "Accuracy Cone Growth",
-            "className": "title"
-          },
-          {
-            "text": ", 30 Stability, and ~40 Recoil Direction."
+            "text": "Stacks up to 2x."
           }
         ]
       },
@@ -10400,7 +10389,14 @@
       {
         "lineText": [
           {
-            "text": "Kills increase Accuracy and Stability while improving recoil for 5.5 seconds."
+            "text": "On Weapon Kill:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "-15% Accuracy Cone Growth, 15 Stability, and ~20 Recoil Direction."
           }
         ]
       },
@@ -10410,17 +10406,7 @@
       {
         "lineText": [
           {
-            "text": "1x: -15% Accuracy Cone Growth, 15 Stability, and ~20 Recoil Direction."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "2x: -30% Accuracy Cone Growth 30 Stability, and ~40 Recoil Direction."
+            "text": "Stacks up to 2x."
           }
         ]
       },
@@ -10436,8 +10422,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Kills increase Accuracy and Stability while improving recoil for 5.5 seconds.\n\n1x: -15% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, 15 Stability, and ~20 Recoil Direction.\n\n2x: -30% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, 30 Stability, and ~40 Recoil Direction.\n\nEnhanced: Buff Duration is increased.",
-      "secondaryEditor": "Kills increase Accuracy and Stability while improving recoil for 5.5 seconds.\r\n\r\n1x: -15% Accuracy Cone Growth, 15 Stability, and ~20 Recoil Direction.\r\n\r\n2x: -30% Accuracy Cone Growth 30 Stability, and ~40 Recoil Direction.\r\n\r\nEnhanced: Buff Duration is increased."
+      "mainEditor": "On Weapon Kill:\n-15% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, 15 Stability, and ~20 Recoil Direction.\n\nStacks up to 2x.\n\nEnhanced: Buff Duration is increased.",
+      "secondaryEditor": "On Weapon Kill:\r\n-15% Accuracy Cone Growth, 15 Stability, and ~20 Recoil Direction.\r\n\r\nStacks up to 2x.\r\n\r\nEnhanced: Buff Duration is increased."
     },
     "inLiveDatabase": true
   },
