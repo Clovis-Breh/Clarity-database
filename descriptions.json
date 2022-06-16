@@ -6420,7 +6420,7 @@
   "951095735": {
     "id": "951095735",
     "name": "Impulse Amplifier",
-    "lastUpdate": 1650458715580,
+    "lastUpdate": 1655403696662,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -6439,14 +6439,21 @@
       {
         "lineText": [
           {
-            "text": "35% Faster Projectile Velocity "
+            "text": "Passively grants:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "9 Reload Speed with 0.8x Multiplier."
+            "text": "- 35% Faster Projectile Velocity "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "- 10 Reload Speed with 0.8x Duration Multiplier"
           }
         ]
       },
@@ -6465,14 +6472,21 @@
       {
         "lineText": [
           {
-            "text": "35% Faster Projectile Velocity "
+            "text": "Passively grants:"
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "9 Reload Speed with 0.8x Multiplier."
+            "text": "- 35% Faster Projectile Velocity "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "- 10 Reload Speed with 0.8x Duration Multiplier"
           }
         ]
       },
@@ -6488,8 +6502,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "35% Faster Projectile Velocity \n9 Reload Speed with 0.8x Multiplier.\n\nEnhanced: Increases Reload Speed.",
-      "secondaryEditor": "35% Faster Projectile Velocity \r\n9 Reload Speed with 0.8x Multiplier.\r\n\r\nEnhanced: Increases Reload Speed."
+      "mainEditor": "Passively grants:\n- 35% Faster Projectile Velocity \n- 10 Reload Speed with 0.8x Duration Multiplier\n\nEnhanced: Increases Reload Speed.",
+      "secondaryEditor": "Passively grants:\r\n- 35% Faster Projectile Velocity \r\n- 10 Reload Speed with 0.8x Duration Multiplier\r\n\r\nEnhanced: Increases Reload Speed."
     },
     "inLiveDatabase": true
   },
