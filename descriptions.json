@@ -13825,7 +13825,7 @@
   "2039302152": {
     "id": "2039302152",
     "name": "Slideways",
-    "lastUpdate": 1650460119669,
+    "lastUpdate": 1655408082353,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "handling": {
@@ -13857,14 +13857,7 @@
       {
         "lineText": [
           {
-            "text": "15% Magazine Refreshed, 20 Stability and Handling. "
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Lasts 3 seconds."
+            "text": "15% Magazine Refresh, 20 Stability and Handling for 3 seconds."
           }
         ]
       },
@@ -13898,27 +13891,6 @@
             "text": "Enhanced: Buff Effect increased to 25 Stability and Handling."
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "formulaText": "Ready Speed:",
-            "formula": "ready_1",
-            "className": "formula"
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "formulaText": "Stow Speed:",
-            "formula": "stow_1",
-            "className": "formula"
-          }
-        ]
       }
     ],
     "simpleDescription": [
@@ -13932,14 +13904,7 @@
       {
         "lineText": [
           {
-            "text": "15% Magazine Refreshed, 20 Stability and Handling. "
-          }
-        ]
-      },
-      {
-        "lineText": [
-          {
-            "text": "Lasts 3 seconds."
+            "text": "15% Magazine Refresh, 20 Stability and Handling for 3 seconds."
           }
         ]
       },
@@ -13955,8 +13920,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Upon Sliding:\n15% Magazine Refreshed, 20 Stability and Handling. \nLasts 3 seconds.\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Buff Effect increased to 25 Stability and Handling.\n\n<formula Ready Speed: ready_1 />\n<formula Stow Speed: stow_1 />",
-      "secondaryEditor": "Upon Sliding:\r\n15% Magazine Refreshed, 20 Stability and Handling. \r\nLasts 3 seconds.\r\n\r\nEnhanced: Buff Effect increased to 25 Stability and Handling."
+      "mainEditor": "Upon Sliding:\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Buff Effect increased to 25 Stability and Handling.",
+      "secondaryEditor": "Upon Sliding:\r\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.\r\n\r\nEnhanced: Buff Effect increased to 25 Stability and Handling."
     },
     "inLiveDatabase": true
   },
