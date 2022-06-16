@@ -19725,7 +19725,7 @@
   "3201496230": {
     "id": "3201496230",
     "name": "Redirection",
-    "lastUpdate": 1650459830712,
+    "lastUpdate": 1655407490090,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -19745,7 +19745,24 @@
       {
         "lineText": [
           {
-            "text": "Grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5."
+            "text": "On Low-Tier Minor Combatant Hit:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 1 Stack of Redirection, up to 20 Stacks"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks."
           }
         ]
       },
@@ -19773,7 +19790,7 @@
             "className": "link"
           },
           {
-            "text": " for Combatant Classifications!"
+            "text": " for Combatant Classifications."
           }
         ]
       }
@@ -19782,7 +19799,24 @@
       {
         "lineText": [
           {
-            "text": "Grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5."
+            "text": "On Low-Tier Minor Combatant Hit:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 1 Stack of Redirection, up to 20 Stacks"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks."
           }
         ]
       },
@@ -19798,8 +19832,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5.\n\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks.\n\nCheck out <link https://d2clarity.page.link/combatant this sheet/> for Combatant Classifications!",
-      "secondaryEditor": "Grants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5.\r\n\r\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks."
+      "mainEditor": "On Low-Tier Minor Combatant Hit:\nGrants 1 Stack of Redirection, up to 20 Stacks\n\nGrants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks.\n\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks.\n\nCheck out <link https://d2clarity.page.link/combatant this sheet/> for Combatant Classifications.",
+      "secondaryEditor": "On Low-Tier Minor Combatant Hit:\r\nGrants 1 Stack of Redirection, up to 20 Stacks\r\n\r\nGrants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks.\r\n\r\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks."
     },
     "inLiveDatabase": true
   },
