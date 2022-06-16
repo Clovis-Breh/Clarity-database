@@ -24772,7 +24772,7 @@
   "3927722942": {
     "id": "3927722942",
     "name": "Lasting Impression",
-    "lastUpdate": 1650803491619,
+    "lastUpdate": 1655404014892,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -24788,14 +24788,24 @@
       {
         "lineText": [
           {
-            "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage. Effectively 20% increased damage."
+            "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "+50 Blast Radius"
+            "text": "20% effective damage increase."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 50 Blast Radius."
           }
         ]
       },
@@ -24814,14 +24824,24 @@
       {
         "lineText": [
           {
-            "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage. Effectively 20% increased damage."
+            "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "+50 Blast Radius"
+            "text": "20% effective damage increase."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Passively grants 50 Blast Radius."
           }
         ]
       },
@@ -24837,8 +24857,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage. Effectively 20% increased damage.\n+50 Blast Radius\n\nEnhanced: Passively grants 5 Blast Radius.",
-      "secondaryEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage. Effectively 20% increased damage.\r\n+50 Blast Radius\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
+      "mainEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\n20% effective damage increase.\n\nPassively grants 50 Blast Radius.\n\nEnhanced: Passively grants 5 Blast Radius.",
+      "secondaryEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\r\n20% effective damage increase.\r\n\r\nPassively grants 50 Blast Radius.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
     },
     "inLiveDatabase": true
   },
