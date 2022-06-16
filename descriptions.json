@@ -9918,24 +9918,28 @@
   "1536798515": {
     "id": 1536798515,
     "name": "Land Tank",
-    "lastUpdate": 1650462964978,
+    "lastUpdate": 1655409953730,
     "updatedBy": "Fading-Shadow",
     "type": "weaponOriginTrait",
     "description": [
       {
         "lineText": [
           {
-            "text": "Kills grant 10 Resilience and 5% Damage Resist against Combatants."
+            "text": "On Weapon Kill:"
           }
         ]
       },
       {
-        "className": "spacer"
+        "lineText": [
+          {
+            "text": "10 Resilience and 5% Damage Resist against Combatants for 5 seconds."
+          }
+        ]
       },
       {
         "lineText": [
           {
-            "text": "5 second duration. Stacks up to 3 times."
+            "text": "Stacks up to 3 times."
           }
         ]
       }
@@ -9944,24 +9948,28 @@
       {
         "lineText": [
           {
-            "text": "Kills grant 10 Resilience and 5% Damage Resist against Combatants."
+            "text": "On Weapon Kill:"
           }
         ]
       },
       {
-        "className": "spacer"
+        "lineText": [
+          {
+            "text": "10 Resilience and 5% Damage Resist against Combatants for 5 seconds."
+          }
+        ]
       },
       {
         "lineText": [
           {
-            "text": "5 second duration. Stacks up to 3 times."
+            "text": "Stacks up to 3 times."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Kills grant 10 Resilience and 5% Damage Resist against Combatants.\r\n\r\n5 second duration. Stacks up to 3 times.",
-      "secondaryEditor": "Kills grant 10 Resilience and 5% Damage Resist against Combatants.\r\n\r\n5 second duration. Stacks up to 3 times."
+      "mainEditor": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times.",
+      "secondaryEditor": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times."
     },
     "inLiveDatabase": true
   },
