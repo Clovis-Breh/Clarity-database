@@ -9706,7 +9706,7 @@
   "1523832109": {
     "id": "1523832109",
     "name": "Reconstruction",
-    "lastUpdate": 1650459719929,
+    "lastUpdate": 1655407364014,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -9721,16 +9721,6 @@
         "lineText": [
           {
             "text": "Refreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))"
           }
         ]
       }
@@ -9749,21 +9739,11 @@
             "text": "Refreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity."
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "[Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1)]"
-          }
-        ]
       }
     ],
     "editor": {
-      "mainEditor": "After not shooting for 4 seconds:\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity.\n\n(Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1))\n",
-      "secondaryEditor": "After not shooting for 4 seconds:\r\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity.\r\n\r\n[Can go above double magazine, equal to (2x Magazine Size + Ammo Gain - 1)]"
+      "mainEditor": "After not shooting for 4 seconds:\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity.",
+      "secondaryEditor": "After not shooting for 4 seconds:\r\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity."
     },
     "inLiveDatabase": true
   },
