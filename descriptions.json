@@ -24772,7 +24772,7 @@
   "3927722942": {
     "id": "3927722942",
     "name": "Lasting Impression",
-    "lastUpdate": 1655404014892,
+    "lastUpdate": 1655404062084,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -24815,7 +24815,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 5 Blast Radius."
+            "text": "Enhanced: Passively grants 55 Blast Radius."
           }
         ]
       }
@@ -24851,14 +24851,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Passively grants 5 Blast Radius."
+            "text": "Enhanced: Passively grants 55 Blast Radius."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\n20% effective damage increase.\n\nPassively grants 50 Blast Radius.\n\nEnhanced: Passively grants 5 Blast Radius.",
-      "secondaryEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\r\n20% effective damage increase.\r\n\r\nPassively grants 50 Blast Radius.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
+      "mainEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\n20% effective damage increase.\n\nPassively grants 50 Blast Radius.\n\nEnhanced: Passively grants 55 Blast Radius.",
+      "secondaryEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\r\n20% effective damage increase.\r\n\r\nPassively grants 50 Blast Radius.\r\n\r\nEnhanced: Passively grants 55 Blast Radius."
     },
     "inLiveDatabase": true
   },
