@@ -17896,7 +17896,7 @@
   "2839173408": {
     "id": 2839173408,
     "name": "Omolon Fluid Dynamics",
-    "lastUpdate": 1650463048494,
+    "lastUpdate": 1655409994599,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
@@ -17913,7 +17913,7 @@
       {
         "lineText": [
           {
-            "text": "The top half of the magazine has increased reload speed and stability."
+            "text": "The top half of the magazine has up to 20 Stability and 30 Reload Speed."
           }
         ]
       },
@@ -17923,7 +17923,7 @@
       {
         "lineText": [
           {
-            "text": "Up to 20 Stability and 30 Reload, the bonus decreases as the magazine gets lower."
+            "text": "Stat Bonus decreases as the magazine gets lower, and disappears at 50%."
           }
         ]
       },
@@ -17953,7 +17953,7 @@
       {
         "lineText": [
           {
-            "text": "The top half of the magazine has increased reload speed and stability."
+            "text": "The top half of the magazine has up to 20 Stability and 30 Reload Speed."
           }
         ]
       },
@@ -17963,14 +17963,14 @@
       {
         "lineText": [
           {
-            "text": "Up to 20 Stability and 30 Reload, the bonus decreases as the magazine gets lower."
+            "text": "Stat Bonus decreases as the magazine gets lower, and disappears at 50%."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "The top half of the magazine has increased reload speed and stability.\r\n\r\nUp to 20 Stability and 30 Reload, the bonus decreases as the magazine gets lower.\r\n\r\n<formula Maximum Effect Reload Time: reload_0 />\r\n<formula Half Effect Reload Time: reload_1 />",
-      "secondaryEditor": "The top half of the magazine has increased reload speed and stability.\r\n\r\nUp to 20 Stability and 30 Reload, the bonus decreases as the magazine gets lower."
+      "mainEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%.\r\n\r\n<formula Maximum Effect Reload Time: reload_0 />\r\n<formula Half Effect Reload Time: reload_1 />",
+      "secondaryEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
     },
     "inLiveDatabase": true
   },
