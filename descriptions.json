@@ -11948,14 +11948,21 @@
   "1749209109": {
     "id": 1749209109,
     "name": "Relentless Strikes",
-    "lastUpdate": 1650459840535,
+    "lastUpdate": 1655407521450,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Powered Swords gain 1 Ammo after 3 Hits within 2[?] seconds of each."
+            "text": "After 3 Powered Hits within [2?] seconds of each:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Gain +1 Ammo."
           }
         ]
       }
@@ -11964,14 +11971,21 @@
       {
         "lineText": [
           {
-            "text": "Powered Swords gain 1 Ammo after 3 Hits within 2[?] seconds of each."
+            "text": "After 3 Powered Hits within [2?] seconds of each:"
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Gain +1 Ammo."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Powered Swords gain 1 Ammo after 3 Hits within 2[?] seconds of each.",
-      "secondaryEditor": "Powered Swords gain 1 Ammo after 3 Hits within 2[?] seconds of each."
+      "mainEditor": "After 3 Powered Hits within [2?] seconds of each:\r\nGain +1 Ammo.",
+      "secondaryEditor": "After 3 Powered Hits within [2?] seconds of each:\r\nGain +1 Ammo."
     },
     "inLiveDatabase": true
   },
