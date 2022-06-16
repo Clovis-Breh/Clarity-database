@@ -19561,7 +19561,7 @@
   "3161816588": {
     "id": "3161816588",
     "name": "Slideshot",
-    "lastUpdate": 1650460099100,
+    "lastUpdate": 1655407986141,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "range": {
@@ -19591,7 +19591,7 @@
       {
         "lineText": [
           {
-            "text": "15% Magazine Refreshed, 20 Range, and 30 Stability. "
+            "text": "15% Magazine Refresh, 20 Range, and 30 Stability for 3 seconds. "
           },
           {
             "title": "Even in the case of burst weapons. Only the first bullet of the burst is affected.",
@@ -19606,7 +19606,7 @@
       {
         "lineText": [
           {
-            "text": "Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
+            "text": "Can activate multiple times per slide. 0.3 second cooldown between activation."
           }
         ]
       },
@@ -19634,21 +19634,21 @@
       {
         "lineText": [
           {
-            "text": "15% Magazine Refreshed, 20 Range, and 30 Stability. Only buffs first shot."
+            "text": "15% Magazine Refresh, 20 Range, and 30 Stability for 3 seconds. Only buffs first shot."
           }
         ]
       },
       {
         "lineText": [
           {
-            "text": "Lasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
+            "text": "Can activate multiple times per slide. 0.3 second cooldown between activation."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Upon Sliding:\n15% Magazine Refreshed, 20 Range, and 30 Stability. <title Only buffs first shot [Even in the case of burst weapons. Only the first bullet of the burst is affected.] />.\nLasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide.\n\n<formula In-Game Range: range_0 />\n",
-      "secondaryEditor": "Upon Sliding:\r\n15% Magazine Refreshed, 20 Range, and 30 Stability. Only buffs first shot.\r\nLasts ~3 seconds. 0.3 Second Cooldown. Can activate multiple times per slide."
+      "mainEditor": "Upon Sliding:\n15% Magazine Refresh, 20 Range, and 30 Stability for 3 seconds. <title Only buffs first shot [Even in the case of burst weapons. Only the first bullet of the burst is affected.] />.\nCan activate multiple times per slide. 0.3 second cooldown between activation.\n\n<formula In-Game Range: range_0 />",
+      "secondaryEditor": "Upon Sliding:\r\n15% Magazine Refresh, 20 Range, and 30 Stability for 3 seconds. Only buffs first shot.\r\nCan activate multiple times per slide. 0.3 second cooldown between activation."
     },
     "inLiveDatabase": true
   },
