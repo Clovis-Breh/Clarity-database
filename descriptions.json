@@ -12903,14 +12903,14 @@
   "1885400500": {
     "id": 1885400500,
     "name": "Ricochet Rounds",
-    "lastUpdate": 1650804166534,
+    "lastUpdate": 1655407646092,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Bullets have a 100% chance to Ricochet off of Surfaces."
+            "text": "Bullets are guaranteed to ricochet off of surfaces."
           }
         ]
       }
@@ -12919,14 +12919,14 @@
       {
         "lineText": [
           {
-            "text": "Bullets have a 100% chance to Ricochet off of Surfaces."
+            "text": "Bullets are guaranteed to ricochet off of surfaces."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Bullets have a 100% chance to Ricochet off of Surfaces.",
-      "secondaryEditor": "Bullets have a 100% chance to Ricochet off of Surfaces."
+      "mainEditor": "Bullets are guaranteed to ricochet off of surfaces.",
+      "secondaryEditor": "Bullets are guaranteed to ricochet off of surfaces."
     },
     "inLiveDatabase": true
   },
