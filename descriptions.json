@@ -5311,14 +5311,14 @@
   "776531651": {
     "id": 776531651,
     "name": "Repulsor Brace",
-    "lastUpdate": 1654185890505,
+    "lastUpdate": 1655407560360,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
       {
         "lineText": [
           {
-            "text": "Upon killing an enemy affected by a Void Debuff:"
+            "text": "On Weapon Kill against an enemy affected by a Void Debuff:"
           }
         ]
       },
@@ -5338,7 +5338,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased to [?] seconds."
+            "text": "Enhanced: Buff Duration is increased to 9 seconds."
           }
         ]
       }
@@ -5367,14 +5367,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Buff Duration is increased to [?] seconds."
+            "text": "Enhanced: Buff Duration is increased to 9 seconds."
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "Upon killing an enemy affected by a Void Debuff:\r\n\r\n45[?]HP Overshield for 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased to [?] seconds.",
-      "secondaryEditor": "Upon killing an enemy affected by a Void Debuff:\r\n\r\n45[?]HP Overshield for 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased to [?] seconds."
+      "mainEditor": "On Weapon Kill against an enemy affected by a Void Debuff:\r\n\r\n45[?]HP Overshield for 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 9 seconds.\r\n",
+      "secondaryEditor": "Upon killing an enemy affected by a Void Debuff:\r\n\r\n45[?]HP Overshield for 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 9 seconds."
     },
     "inLiveDatabase": true
   },
