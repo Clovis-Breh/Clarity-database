@@ -2592,7 +2592,7 @@
   "460017080": {
     "id": "460017080",
     "name": "Headseeker",
-    "lastUpdate": 1655403462319,
+    "lastUpdate": 1655403467245,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "damage": {
@@ -2615,7 +2615,7 @@
       {
         "lineText": [
           {
-            "text": "8% Increased Precision Damage for 0.3 seconds."
+            "text": "8% Increased Precision Damage for 0.3 seconds"
           }
         ]
       },
@@ -2641,7 +2641,7 @@
       {
         "lineText": [
           {
-            "text": "8% Increased Precision Damage for 0.3 seconds."
+            "text": "8% Increased Precision Damage for 0.3 seconds"
           }
         ]
       },
@@ -2657,8 +2657,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "After dealing non-Precision Weapon Damage:\r\n8% Increased Precision Damage for 0.3 seconds.\r\n\r\nEnhanced: Passively grants 5 Stability.",
-      "secondaryEditor": "After dealing non-Precision Weapon Damage:\r\n8% Increased Precision Damage for 0.3 seconds.\r\n\r\nEnhanced: Passively grants 5 Stability."
+      "mainEditor": "After dealing non-Precision Weapon Damage:\r\n8% Increased Precision Damage for 0.3 seconds\r\n\r\nEnhanced: Passively grants 5 Stability.",
+      "secondaryEditor": "After dealing non-Precision Weapon Damage:\r\n8% Increased Precision Damage for 0.3 seconds\r\n\r\nEnhanced: Passively grants 5 Stability."
     },
     "inLiveDatabase": true
   },
