@@ -10754,19 +10754,14 @@
   "1607056502": {
     "id": 1607056502,
     "name": "Hakke Breach Armaments",
-    "lastUpdate": 1655461528629,
+    "lastUpdate": 1655461583266,
     "updatedBy": "Fading-Shadow",
     "type": "weaponOriginTrait",
     "description": [
       {
         "lineText": [
           {
-            "text": "15% Increased Damage against "
-          },
-          {
-            "linkUrl": "https://d2clarity.page.link/combatant",
-            "linkText": "Vehicles and Constructs",
-            "className": "link"
+            "text": "15% Increased Damage against Vehicles and Constructs"
           }
         ]
       },
@@ -10774,6 +10769,24 @@
         "lineText": [
           {
             "text": "30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "text": "Check out "
+          },
+          {
+            "linkUrl": "https://d2clarity.page.link/combatant",
+            "linkText": "Court's Spreadsheet",
+            "className": "link"
+          },
+          {
+            "text": " for Combatant Classifications."
           }
         ]
       }
@@ -10795,7 +10808,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "15% Increased Damage against <link https://d2clarity.page.link/combatant Vehicles and Constructs/>\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals",
+      "mainEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals\r\n\r\nCheck out <link https://d2clarity.page.link/combatant Court's Spreadsheet/> for Combatant Classifications.",
       "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
     },
     "inLiveDatabase": true
