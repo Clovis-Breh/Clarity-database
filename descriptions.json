@@ -26975,7 +26975,7 @@
   "4154828211": {
     "id": 4154828211,
     "name": "Bitterspite",
-    "lastUpdate": 1655461602757,
+    "lastUpdate": 1655461606495,
     "updatedBy": "Fading-Shadow",
     "type": "weaponOriginTrait",
     "description": [
@@ -26985,6 +26985,9 @@
             "text": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks."
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -27003,6 +27006,9 @@
         ]
       },
       {
+        "className": "spacer"
+      },
+      {
         "lineText": [
           {
             "text": "Bitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing."
@@ -27011,8 +27017,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing.",
-      "secondaryEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing."
+      "mainEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing.",
+      "secondaryEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing."
     },
     "inLiveDatabase": true
   },
