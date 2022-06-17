@@ -5007,7 +5007,7 @@
     "name": "Freehand Grip",
     "itemId": "2563444729",
     "itemName": "Freehand Grip",
-    "lastUpdate": 1654189588730,
+    "lastUpdate": 1655465929886,
     "updatedBy": "Fading-Shadow",
     "stats": {
       "draw": {
@@ -5023,7 +5023,7 @@
       {
         "lineText": [
           {
-            "text": "X% increased Hipfire Accuracy and 0.95x Ready Animation Duration Scalar."
+            "text": "-X% Hipfire Accuracy Cone Growth and 0.95x Ready Animation Duration Multiplier"
           }
         ]
       }
@@ -5032,14 +5032,14 @@
       {
         "lineText": [
           {
-            "text": "X% increased Hipfire Accuracy and 0.95x Ready Animation Duration Scalar."
+            "text": "-X% Hipfire Accuracy Cone Growth and 0.95x Ready Animation Duration Multiplier"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "X% increased Hipfire Accuracy and 0.95x Ready Animation Duration Scalar.",
-      "secondaryEditor": "X% increased Hipfire Accuracy and 0.95x Ready Animation Duration Scalar."
+      "mainEditor": "-X% Hipfire Accuracy Cone Growth and 0.95x Ready Animation Duration Multiplier",
+      "secondaryEditor": "-X% Hipfire Accuracy Cone Growth and 0.95x Ready Animation Duration Multiplier"
     },
     "inLiveDatabase": true
   },
