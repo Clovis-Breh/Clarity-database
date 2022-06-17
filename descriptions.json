@@ -22336,7 +22336,7 @@
   "3523296417": {
     "id": "3523296417",
     "name": "Demolitionist",
-    "lastUpdate": 1650454442910,
+    "lastUpdate": 1655459309540,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -22355,7 +22355,12 @@
             "className": "heavy"
           },
           {
-            "text": "Power Weapons grant 10% Grenade Ability Energy. [MOST] "
+            "text": "Power Weapons grant 10% Grenade Ability Energy. "
+          },
+          {
+            "title": "Trace Rifles and Grenade Launchers grant half of what other Special Weapons give.",
+            "text": "MOST",
+            "className": "title"
           },
           {
             "className": "special"
@@ -22408,6 +22413,16 @@
       {
         "lineText": [
           {
+            "text": "Trace Rifles and Grenade Launchers grant half of what other Special Weapons give."
+          }
+        ]
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
             "text": "Using your Grenade Ability refreshes Magazine. 3 Second Cooldown."
           }
         ]
@@ -22424,8 +22439,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Grenade Ability Energy. [MOST] <special/>Special Weapons grant 20%.\n\nUsing your Grenade Ability <title refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> Magazine. 3 Second Cooldown.\n\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively.",
-      "secondaryEditor": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. [MOST] Special Weapons grant 20%.\r\n\r\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\r\n\r\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
+      "mainEditor": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Grenade Ability Energy. <title MOST [Trace Rifles and Grenade Launchers grant half of what other Special Weapons give.] /> <special/>Special Weapons grant 20%.\n\nUsing your Grenade Ability <title refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> Magazine. 3 Second Cooldown.\n\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively.",
+      "secondaryEditor": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. [MOST] Special Weapons grant 20%.\r\n\r\nTrace Rifles and Grenade Launchers grant half of what other Special Weapons give.\r\n\r\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\r\n\r\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
     },
     "inLiveDatabase": true
   },
