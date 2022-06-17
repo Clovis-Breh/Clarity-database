@@ -20867,14 +20867,21 @@
     "name": "Backup Mag",
     "itemId": "2563444729",
     "itemName": "Backup Mag",
-    "lastUpdate": 1654189581641,
+    "lastUpdate": 1655465880417,
     "updatedBy": "Fading-Shadow",
     "type": "weaponMod",
     "description": [
       {
         "lineText": [
           {
-            "text": "+30 Magazine Stat"
+            "text": "+30 Magazine Stat "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Complicated stat, equivalent of Extended Mag"
           }
         ]
       }
@@ -20883,14 +20890,21 @@
       {
         "lineText": [
           {
-            "text": "+30 Magazine Stat"
+            "text": "+30 Magazine Stat "
+          }
+        ]
+      },
+      {
+        "lineText": [
+          {
+            "text": "Complicated stat, equivalent of Extended Mag"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "+30 Magazine Stat",
-      "secondaryEditor": "+30 Magazine Stat"
+      "mainEditor": "+30 Magazine Stat \r\nComplicated stat, equivalent of Extended Mag",
+      "secondaryEditor": "+30 Magazine Stat \r\nComplicated stat, equivalent of Extended Mag"
     },
     "inLiveDatabase": true
   },
