@@ -12369,7 +12369,7 @@
   "1820235745": {
     "id": "1820235745",
     "name": "Subsistence",
-    "lastUpdate": 1655408347229,
+    "lastUpdate": 1655459521897,
     "updatedBy": "Fading-Shadow",
     "type": "weaponPerk",
     "description": [
@@ -12405,7 +12405,7 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Magazine Refresh increased to 25%"
+            "text": "Enhanced: Magazine Refresh increased to 20%"
           }
         ]
       }
@@ -12438,14 +12438,14 @@
       {
         "lineText": [
           {
-            "text": "Enhanced: Magazine Refresh increased to 25%"
+            "text": "Enhanced: Magazine Refresh increased to 20%"
           }
         ]
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> 10% of Magazine.\nSubmachine Guns and Auto Rifles: 17%\n\nEnhanced: Magazine Refresh increased to 25%",
-      "secondaryEditor": "On Weapon Kill:\r\nRefreshes 10% of Magazine.\r\nSubmachine Guns and Auto Rifles: 17%\r\n\r\nEnhanced: Magazine Refresh increased to 25%"
+      "mainEditor": "On Weapon Kill:\n<title Refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> 10% of Magazine.\nSubmachine Guns and Auto Rifles: 17%\n\nEnhanced: Magazine Refresh increased to 20%",
+      "secondaryEditor": "On Weapon Kill:\r\nRefreshes 10% of Magazine.\r\nSubmachine Guns and Auto Rifles: 17%\r\n\r\nEnhanced: Magazine Refresh increased to 20%"
     },
     "inLiveDatabase": true
   },
