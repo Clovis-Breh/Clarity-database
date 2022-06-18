@@ -143,7 +143,7 @@
   "11612903": {
     "id": "11612903",
     "name": "Adrenaline Junkie",
-    "lastUpdate": 1655542888306,
+    "lastUpdate": 1655542905215,
     "updatedBy": "Icemourne",
     "stats": {
       "damage": {
@@ -902,7 +902,7 @@
   "201365942": {
     "id": "201365942",
     "name": "Archer's Tempo",
-    "lastUpdate": 1655542888306,
+    "lastUpdate": 1655542905215,
     "updatedBy": "Icemourne",
     "stats": {
       "chargeDrawTime": {
@@ -7012,7 +7012,7 @@
   "1048183818": {
     "id": 1048183818,
     "name": "Adaptive Munitions",
-    "lastUpdate": 1655542888306,
+    "lastUpdate": 1655542905215,
     "updatedBy": "Icemourne",
     "type": "weaponPerk",
     "description": [
@@ -9299,7 +9299,7 @@
   "1431678320": {
     "id": "1431678320",
     "name": "Alloy Magazine",
-    "lastUpdate": 1655542888306,
+    "lastUpdate": 1655542905215,
     "updatedBy": "Icemourne",
     "stats": {
       "reload": {
@@ -13586,7 +13586,7 @@
   "1968497646": {
     "id": "1968497646",
     "name": "Armor-Piercing Rounds",
-    "lastUpdate": 1655542888306,
+    "lastUpdate": 1655542905215,
     "updatedBy": "Icemourne",
     "stats": {
       "damage": {
@@ -13783,7 +13783,7 @@
   "2010801679": {
     "id": 2010801679,
     "name": "Ambitious Assassin",
-    "lastUpdate": 1655542888306,
+    "lastUpdate": 1655542905215,
     "updatedBy": "Icemourne",
     "stats": {
       "chargeDrawTime": {
@@ -23435,7 +23435,7 @@
   "3673922083": {
     "id": "3673922083",
     "name": "Adagio",
-    "lastUpdate": 1655542888306,
+    "lastUpdate": 1655542905215,
     "updatedBy": "Icemourne",
     "stats": {
       "range": {
@@ -24127,7 +24127,7 @@
   "3722653512": {
     "id": 3722653512,
     "name": "Air Assault",
-    "lastUpdate": 1655542888306,
+    "lastUpdate": 1655542905215,
     "updatedBy": "Icemourne",
     "type": "weaponPerk",
     "description": [
