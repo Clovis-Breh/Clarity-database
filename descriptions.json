@@ -143,7 +143,7 @@
   "11612903": {
     "id": "11612903",
     "name": "Adrenaline Junkie",
-    "lastUpdate": 1655542905215,
+    "lastUpdate": 1655543234895,
     "updatedBy": "Icemourne",
     "stats": {
       "damage": {
@@ -282,13 +282,6 @@
       },
       {
         "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "test"
-          }
-        ]
       }
     ],
     "simpleDescription": [
@@ -328,7 +321,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Weapon or Grenade Kill:\n20 Handling and a Stacking Damage Increase for 4.5 seconds.\nBuff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks         |b 1x  |b 2x   |b 3x |b 4x   |b 5x\n|b Damage Increase| 6.6% | 13.2% | 20% | 26.6% | 33% <background/>\n<$>\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5 seconds.\n\ntest",
+      "mainEditor": "On Weapon or Grenade Kill:\n20 Handling and a Stacking Damage Increase for 4.5 seconds.\nBuff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks         |b 1x  |b 2x   |b 3x |b 4x   |b 5x\n|b Damage Increase| 6.6% | 13.2% | 20% | 26.6% | 33% <background/>\n<$>\n\n<formula Ready Speed: ready_0 />\n<formula Stow Speed: stow_0 />\n\nEnhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5 seconds.\n\n",
       "secondaryEditor": "On Weapon or Grenade Kill:\r\n6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage and 20 Handling for 4.5 seconds.\r\n\r\nBuff Refreshed on Kill. Grenade Kills grant all 5 stacks instantly.\r\n\r\nEnhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5 seconds."
     },
     "inLiveDatabase": false
@@ -902,7 +895,7 @@
   "201365942": {
     "id": "201365942",
     "name": "Archer's Tempo",
-    "lastUpdate": 1655542905215,
+    "lastUpdate": 1655543234895,
     "updatedBy": "Icemourne",
     "stats": {
       "chargeDrawTime": {
@@ -945,16 +938,6 @@
             "text": "Enhanced: Budd duration increased to 4 seconds."
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "test"
-          }
-        ]
       }
     ],
     "simpleDescription": [
@@ -984,7 +967,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Precision Hit:\nDecreases Draw Time by 25% for 3 seconds.\n\nEnhanced: Budd duration increased to 4 seconds.\n\ntest",
+      "mainEditor": "On Precision Hit:\nDecreases Draw Time by 25% for 3 seconds.\n\nEnhanced: Budd duration increased to 4 seconds.",
       "secondaryEditor": "On Precision Hit:\r\nDecreases Draw Time by 25% for 3 seconds.\r\n\r\nEnhanced: Budd duration increased to 4 seconds."
     },
     "inLiveDatabase": false
@@ -7012,7 +6995,7 @@
   "1048183818": {
     "id": 1048183818,
     "name": "Adaptive Munitions",
-    "lastUpdate": 1655542905215,
+    "lastUpdate": 1655543234895,
     "updatedBy": "Icemourne",
     "type": "weaponPerk",
     "description": [
@@ -7087,16 +7070,6 @@
         "lineText": [
           {
             "text": "Eg: 500% -> 600%"
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "test"
           }
         ]
       }
@@ -7176,7 +7149,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per hit, up to 435%: Fusion Rifles\r\n33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles <background/>\r\n150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] \r\n166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles <background/>\r\n\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%\r\nEg: 500% -> 600%\r\n\r\ntest",
+      "mainEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per hit, up to 435%: Fusion Rifles\r\n33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles <background/>\r\n150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] \r\n166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles <background/>\r\n\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%\r\nEg: 500% -> 600%\r\n",
       "secondaryEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields, up to 500% increased damage.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per hit, up to 435%: Fusion Rifles\r\n33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\r\n150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] \r\n166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles\r\n\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%\r\nEg: 500% -> 600%"
     },
     "inLiveDatabase": false
@@ -9299,7 +9272,7 @@
   "1431678320": {
     "id": "1431678320",
     "name": "Alloy Magazine",
-    "lastUpdate": 1655542905215,
+    "lastUpdate": 1655543234895,
     "updatedBy": "Icemourne",
     "stats": {
       "reload": {
@@ -9337,16 +9310,6 @@
             "className": "formula"
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "test"
-          }
-        ]
       }
     ],
     "simpleDescription": [
@@ -9366,7 +9329,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\n<formula Reload Time: reload_0 />\n\ntest",
+      "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\n<formula Reload Time: reload_0 />\n",
       "secondaryEditor": "Upon reloading with an empty magazine:\r\n15% Faster Reload Animation"
     },
     "inLiveDatabase": false
@@ -13586,7 +13549,7 @@
   "1968497646": {
     "id": "1968497646",
     "name": "Armor-Piercing Rounds",
-    "lastUpdate": 1655542905215,
+    "lastUpdate": 1655543234895,
     "updatedBy": "Icemourne",
     "stats": {
       "damage": {
@@ -13615,16 +13578,6 @@
             "text": "Bullets are able to overpenetrate enemies once."
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "test"
-          }
-        ]
       }
     ],
     "simpleDescription": [
@@ -13647,7 +13600,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "5% Increased damage against Combatant Shields.\n\nBullets are able to overpenetrate enemies once.\n\ntest",
+      "mainEditor": "5% Increased damage against Combatant Shields.\n\nBullets are able to overpenetrate enemies once.",
       "secondaryEditor": "5% Increased damage against Combatant Shields.\r\n\r\nBullets are able to overpenetrate enemies once."
     },
     "inLiveDatabase": false
@@ -13783,7 +13736,7 @@
   "2010801679": {
     "id": 2010801679,
     "name": "Ambitious Assassin",
-    "lastUpdate": 1655542905215,
+    "lastUpdate": 1655543234895,
     "updatedBy": "Icemourne",
     "stats": {
       "chargeDrawTime": {
@@ -13829,16 +13782,6 @@
             "text": "Enhanced: Passively grants 5 Reload Speed."
           }
         ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "test"
-          }
-        ]
       }
     ],
     "simpleDescription": [
@@ -13878,7 +13821,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "After Reloading within X seconds of Weapon Kills:\r\n10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity.\r\n\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Passively grants 5 Reload Speed.\r\n\r\ntest",
+      "mainEditor": "After Reloading within X seconds of Weapon Kills:\r\n10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity.\r\n\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Passively grants 5 Reload Speed.\r\n",
       "secondaryEditor": "After Reloading within X seconds of Weapon Kills:\r\n10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity.\r\n\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
     },
     "inLiveDatabase": false
@@ -23435,7 +23378,7 @@
   "3673922083": {
     "id": "3673922083",
     "name": "Adagio",
-    "lastUpdate": 1655542905215,
+    "lastUpdate": 1655543234895,
     "updatedBy": "Icemourne",
     "stats": {
       "range": {
@@ -24127,7 +24070,7 @@
   "3722653512": {
     "id": 3722653512,
     "name": "Air Assault",
-    "lastUpdate": 1655542905215,
+    "lastUpdate": 1655543234895,
     "updatedBy": "Icemourne",
     "type": "weaponPerk",
     "description": [
@@ -24159,16 +24102,6 @@
         "lineText": [
           {
             "text": "Enhanced: Grants up to 66[?] Airborne Effectiveness."
-          }
-        ]
-      },
-      {
-        "className": "spacer"
-      },
-      {
-        "lineText": [
-          {
-            "text": "test"
           }
         ]
       }
@@ -24207,7 +24140,7 @@
       }
     ],
     "editor": {
-      "mainEditor": "While at Low Health:\r\nUp to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness.\r\n\r\ntest",
+      "mainEditor": "While at Low Health:\r\nUp to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness.\r\n",
       "secondaryEditor": "While at Low Health:\r\nGrants up to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness."
     },
     "inLiveDatabase": false
