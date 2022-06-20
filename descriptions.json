@@ -26856,13 +26856,13 @@
   "4134353779": {
     "id": 4134353779,
     "name": "Drop Mag",
-    "lastUpdate": 1655747712559,
-    "updatedBy": "Icemourne",
+    "lastUpdate": 1655752037754,
+    "updatedBy": "Fading-Shadow",
     "stats": {
       "reload": {
         "passive": {
           "stat": [
-            27
+            30
           ],
           "multiplier": [
             0.9
@@ -26875,7 +26875,7 @@
       {
         "lineText": [
           {
-            "text": "27 Reload Stat with a 0.9x "
+            "text": "30 Reload Stat with a 0.9x "
           },
           {
             "title": "Reload Duration Scalar - multiplies Reload Animation Length by the number",
@@ -26908,7 +26908,7 @@
       {
         "lineText": [
           {
-            "text": "27 Reload Stat with a 0.9x Reload Duration Scalar."
+            "text": "30 Reload Stat with a 0.9x Reload Duration Scalar."
           }
         ]
       },
@@ -26924,10 +26924,10 @@
       }
     ],
     "editor": {
-      "mainEditor": "27 Reload Stat with a 0.9x <title RDS [Reload Duration Scalar - multiplies Reload Animation Length by the number] />\nDecreases magazing size. (Only visible in-game.)\n\n<formula Reload Time: reload_0 />",
-      "secondaryEditor": "27 Reload Stat with a 0.9x Reload Duration Scalar.\r\n\r\nDecreases magazing size. (Only visible in-game.)"
+      "mainEditor": "30 Reload Stat with a 0.9x <title RDS [Reload Duration Scalar - multiplies Reload Animation Length by the number] />\nDecreases magazing size. (Only visible in-game.)\n\n<formula Reload Time: reload_0 />",
+      "secondaryEditor": "30 Reload Stat with a 0.9x Reload Duration Scalar.\r\n\r\nDecreases magazing size. (Only visible in-game.)"
     },
-    "inLiveDatabase": false
+    "inLiveDatabase": true
   },
   "4152709778": {
     "id": 4152709778,
