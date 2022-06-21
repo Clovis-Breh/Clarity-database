@@ -18650,6 +18650,14 @@
     },
     "inLiveDatabase": true
   },
+  "2912509910": {
+    "lastUpdate": 1655809203615,
+    "id": 2912509910,
+    "name": "Aggressive Frame",
+    "type": "weaponPerk",
+    "inLiveDatabase": false,
+    "updatedBy": "Icemourne"
+  },
   "2946784966": {
     "id": 2946784966,
     "name": "Tunnel Vision",
