@@ -11690,7 +11690,7 @@
     "name": "Hydraulic Boosters",
     "itemId": 193869520,
     "itemName": "St0mp-EE5",
-    "lastUpdate": 1655807887654,
+    "lastUpdate": 1655807922101,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -11733,11 +11733,17 @@
         ]
       },
       {
+        "className": "spacer"
+      },
+      {
         "lineText": [
           {
             "text": "Strafe Jump = 8 meters -> 9 meters (10% higher)"
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -11794,11 +11800,17 @@
         ]
       },
       {
+        "className": "spacer"
+      },
+      {
         "lineText": [
           {
             "text": "Strafe Jump = 8 meters -> 9 meters (10% higher)"
           }
         ]
+      },
+      {
+        "className": "spacer"
       },
       {
         "lineText": [
@@ -11816,8 +11828,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "Passively grants -50 Airborne Effectiveness\nIncreases Sprint Speed by 6.25%.\nIncreases Slide Distance by 33%.\n\nIncreased Jump Height:\nHigh Jump = 9 meters -> 12 meters (33% higher)\nStrafe Jump = 8 meters -> 9 meters (10% higher)\nTriple Jump = 6 meters -> 7 meters for First Jump (16% higher)\n9 meters -> 11 meters for Second Jump (22% higher)",
-      "secondaryEditor": "Passively grants -50 Airborne Effectiveness\r\nIncreases Sprint Speed by 6.25%.\r\nIncreases Slide Distance by 33%.\r\n\r\nIncreased Jump Height:\r\nHigh Jump = 9 meters -> 12 meters (33% higher)\r\nStrafe Jump = 8 meters -> 9 meters (10% higher)\r\nTriple Jump = 6 meters -> 7 meters for First Jump (16% higher)\r\n9 meters -> 11 meters for Second Jump (22% higher)"
+      "mainEditor": "Passively grants -50 Airborne Effectiveness\nIncreases Sprint Speed by 6.25%.\nIncreases Slide Distance by 33%.\n\nIncreased Jump Height:\nHigh Jump = 9 meters -> 12 meters (33% higher)\n\nStrafe Jump = 8 meters -> 9 meters (10% higher)\n\nTriple Jump = 6 meters -> 7 meters for First Jump (16% higher)\n9 meters -> 11 meters for Second Jump (22% higher)",
+      "secondaryEditor": "Passively grants -50 Airborne Effectiveness\r\nIncreases Sprint Speed by 6.25%.\r\nIncreases Slide Distance by 33%.\r\n\r\nIncreased Jump Height:\r\nHigh Jump = 9 meters -> 12 meters (33% higher)\r\n\r\nStrafe Jump = 8 meters -> 9 meters (10% higher)\r\n\r\nTriple Jump = 6 meters -> 7 meters for First Jump (16% higher)\r\n9 meters -> 11 meters for Second Jump (22% higher)"
     },
     "inLiveDatabase": true
   },
