@@ -25838,7 +25838,7 @@
     "name": "Misdirection",
     "itemId": 1163283805,
     "itemName": "Gemini Jester",
-    "lastUpdate": 1650806952538,
+    "lastUpdate": 1655808070584,
     "updatedBy": "Fading-Shadow",
     "type": "armorExotic",
     "description": [
@@ -25868,9 +25868,12 @@
         ]
       },
       {
+        "className": "spacer"
+      },
+      {
         "lineText": [
           {
-            "text": " Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding. ",
+            "text": " Misdirection warps audio, removes radar for 5 seconds, and applies a brief blinding effect. ",
             "className": "pvp"
           }
         ]
@@ -25912,9 +25915,12 @@
         ]
       },
       {
+        "className": "spacer"
+      },
+      {
         "lineText": [
           {
-            "text": "PVP: Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding."
+            "text": "PVP: Misdirection warps audio, removes radar for 5 seconds, and applies a brief blinding effect."
           }
         ]
       },
@@ -25930,8 +25936,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "On Dodge:\nApplies Misdirection to enemies within 22 meters.\n\n<pve Misdirection disorients minors and elites for 5 seconds. />\n<pvp Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding. />\n\nMisdirection also deals 1 damage.",
-      "secondaryEditor": "On Dodge:\r\nApplies Misdirection to enemies within 22 meters.\r\n\r\nPVE: Misdirection disorients minors and elites for 5 seconds.\r\nPVP: Misdirection warps audio and removes radar for 5 seconds, as well as briefly blinding.\r\n\r\nMisdirection also deals 1 damage."
+      "mainEditor": "On Dodge:\nApplies Misdirection to enemies within 22 meters.\n\n<pve Misdirection disorients minors and elites for 5 seconds. />\n\n<pvp Misdirection warps audio, removes radar for 5 seconds, and applies a brief blinding effect. />\n\nMisdirection also deals 1 damage.",
+      "secondaryEditor": "On Dodge:\r\nApplies Misdirection to enemies within 22 meters.\r\n\r\nPVE: Misdirection disorients minors and elites for 5 seconds.\r\n\r\nPVP: Misdirection warps audio, removes radar for 5 seconds, and applies a brief blinding effect.\r\n\r\nMisdirection also deals 1 damage."
     },
     "inLiveDatabase": true
   },
