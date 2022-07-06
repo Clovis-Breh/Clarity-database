@@ -162,7 +162,7 @@
   "11612903": {
     "id": 11612903,
     "name": "Adrenaline Junkie",
-    "lastUpdate": 1657095180114,
+    "lastUpdate": 1657095202830,
     "updatedBy": "Icemourne",
     "stats": {
       "damage": {
@@ -7011,7 +7011,7 @@
   "1048183818": {
     "id": 1048183818,
     "name": "Adaptive Munitions",
-    "lastUpdate": 1657095180114,
+    "lastUpdate": 1657095202830,
     "updatedBy": "Icemourne",
     "type": "weaponPerk",
     "description": [
@@ -23443,7 +23443,7 @@
   "3673922083": {
     "id": 3673922083,
     "name": "Adagio",
-    "lastUpdate": 1657095180114,
+    "lastUpdate": 1657095202830,
     "updatedBy": "Icemourne",
     "stats": {
       "range": {
@@ -24115,7 +24115,7 @@
   "3722653512": {
     "id": 3722653512,
     "name": "Air Assault",
-    "lastUpdate": 1657095180114,
+    "lastUpdate": 1657095202830,
     "updatedBy": "Icemourne",
     "type": "weaponPerk",
     "description": [
