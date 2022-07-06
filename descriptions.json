@@ -1,23 +1,4 @@
 {
-  "0": {
-    "id": 0,
-    "type": "none",
-    "description": [
-      {
-        "classNames": [
-          "spacer"
-        ]
-      }
-    ],
-    "lastUpdate": 0,
-    "simpleDescription": [
-      {
-        "classNames": [
-          "spacer"
-        ]
-      }
-    ]
-  },
   "8507332": {
     "id": 8507332,
     "name": "Chaotic Exchanger",
@@ -162,7 +143,7 @@
   "11612903": {
     "id": 11612903,
     "name": "Adrenaline Junkie",
-    "lastUpdate": 1657095202830,
+    "lastUpdate": 1655747712559,
     "updatedBy": "Icemourne",
     "stats": {
       "damage": {
@@ -187,149 +168,152 @@
     "type": "weaponPerk",
     "description": [
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "On Weapon or Grenade Kill:"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "20 Handling and a Stacking Damage Increase for 4.5 seconds."
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Buff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "classNames": [
-          "table",
-          null,
-          null,
-          null,
-          null
-        ],
         "table": [
           {
-            "linesContent": [
+            "lineText": [
               {
-                "text": "|b Stacks         |b 1x  |b 2x   |b 3x |b 4x   |b 5x"
+                "text": "Stacks",
+                "className": "bold"
+              },
+              {
+                "text": "1x",
+                "className": "bold"
+              },
+              {
+                "text": "2x",
+                "className": "bold"
+              },
+              {
+                "text": "3x",
+                "className": "bold"
+              },
+              {
+                "text": "4x",
+                "className": "bold"
+              },
+              {
+                "text": "5x",
+                "className": "bold"
               }
             ]
           },
           {
-            "linesContent": [
+            "lineText": [
               {
-                "text": "|b Damage Increase| 6.6% | 13.2% | 20% | 26.6% | 33% "
+                "text": "Damage Increase",
+                "className": "bold"
               },
               {
-                "text": "<background/>",
-                "classNames": [
-                  "background"
-                ]
+                "text": "6.6%"
               },
-              null
-            ]
+              {
+                "text": "13.2%"
+              },
+              {
+                "text": "20%"
+              },
+              {
+                "text": "26.6%"
+              },
+              {
+                "text": "33%"
+              }
+            ],
+            "className": "background"
+          }
+        ],
+        "className": "table",
+        "formula": false
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
+          {
+            "formulaText": "Ready Speed:",
+            "formula": "ready_0",
+            "className": "formula"
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
-      },
-      {
-        "linesContent": [
-          null,
+        "lineText": [
           {
-            "text": "Ready Speed: ready_0",
-            "classNames": [
-              "formula"
-            ]
-          },
-          null
+            "formulaText": "Stow Speed:",
+            "formula": "stow_0",
+            "className": "formula"
+          }
         ]
       },
       {
-        "linesContent": [
-          null,
-          {
-            "text": "Stow Speed: stow_0",
-            "classNames": [
-              "formula"
-            ]
-          },
-          null
-        ]
+        "className": "spacer"
       },
       {
-        "classNames": [
-          "spacer"
-        ]
-      },
-      {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Enhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5 seconds."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
-      },
-      {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       }
     ],
     "simpleDescription": [
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "On Weapon or Grenade Kill:"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage and 20 Handling for 4.5 seconds."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Buff Refreshed on Kill. Grenade Kills grant all 5 stacks instantly."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Enhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5 seconds."
           }
@@ -7011,178 +6995,153 @@
   "1048183818": {
     "id": 1048183818,
     "name": "Adaptive Munitions",
-    "lastUpdate": 1657095202830,
+    "lastUpdate": 1655543234895,
     "updatedBy": "Icemourne",
     "type": "weaponPerk",
     "description": [
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Hits deal increasingly higher damage against Combatant Shields, up to 500% increased damage."
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Buff is removed upon hitting a matching shield or an unshielded enemy."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "29% per hit, up to 435%: Fusion Rifles"
           }
         ]
       },
       {
-        "classNames": [
-          null,
-          null,
-          "background"
-        ],
-        "linesContent": [
+        "lineText": [
           {
             "text": "33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles "
           }
-        ]
+        ],
+        "className": "background"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] "
           }
         ]
       },
       {
-        "classNames": [
-          null,
-          null,
-          "background"
-        ],
-        "linesContent": [
+        "lineText": [
           {
             "text": "166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles "
           }
-        ]
+        ],
+        "className": "background"
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Enhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Eg: 500% -> 600%"
           }
-        ]
-      },
-      {
-        "classNames": [
-          "spacer"
         ]
       }
     ],
     "simpleDescription": [
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Hits deal increasingly higher damage against Combatant Shields, up to 500% increased damage."
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Buff is removed upon hitting a matching shield or an unshielded enemy."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "29% per hit, up to 435%: Fusion Rifles"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "33.3% per hit, up to 500%: Auto Rifles, Machine Guns, Pulse Rifles, Trace Rifles"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "150% per hit, up to 450%: Linear Fusion Rifles [Maxes at 450%] "
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "166.6% per hit, up to 500%: Bows, Glaives, Hand Cannons, and Scout Rifles"
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Enhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Eg: 500% -> 600%"
           }
@@ -23443,7 +23402,7 @@
   "3673922083": {
     "id": 3673922083,
     "name": "Adagio",
-    "lastUpdate": 1657095202830,
+    "lastUpdate": 1655747712559,
     "updatedBy": "Icemourne",
     "stats": {
       "range": {
@@ -23474,171 +23433,199 @@
     "type": "weaponPerk",
     "description": [
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "On Weapon Kill:"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Increased damage, slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
-          null,
+        "lineText": [
           {
-            "text": "In-Game Range: range_0",
-            "classNames": [
-              "formula"
-            ]
-          },
-          null
-        ]
-      },
-      {
-        "classNames": [
-          "spacer"
-        ]
-      },
-      {
-        "classNames": [
-          "table",
-          null,
-          null,
-          null,
-          null
-        ],
-        "table": [
-          {
-            "linesContent": [
-              {
-                "text": "|b Weapon |b Damage |b Fire/Charge Rate"
-              }
-            ]
-          },
-          {
-            "linesContent": [
-              {
-                "text": "| Hand Cannon | 30% | -15%"
-              },
-              {
-                "text": "<background/>",
-                "classNames": [
-                  "background"
-                ]
-              },
-              null
-            ]
-          },
-          {
-            "linesContent": [
-              {
-                "text": "| Scout Rifle | 30% | -15%"
-              }
-            ]
-          },
-          {
-            "linesContent": [
-              {
-                "text": "| Rapid-Fire Auto | 30% | -15%"
-              },
-              {
-                "text": "<background/>",
-                "classNames": [
-                  "background"
-                ]
-              },
-              null
-            ]
-          },
-          {
-            "linesContent": [
-              {
-                "text": "| Adaptive Auto | 30%| -20% "
-              }
-            ]
-          },
-          {
-            "linesContent": [
-              {
-                "text": "| Sidearm | 30%| -20%"
-              },
-              {
-                "text": "<background/>",
-                "classNames": [
-                  "background"
-                ]
-              },
-              null
-            ]
-          },
-          {
-            "linesContent": [
-              {
-                "text": "| Grenade Launcher | 30%| -20% "
-              }
-            ]
-          },
-          {
-            "linesContent": [
-              {
-                "text": "| Linear Fusion | 30% | -15%"
-              },
-              {
-                "text": "<background/>",
-                "classNames": [
-                  "background"
-                ]
-              },
-              null
-            ]
-          },
-          {
-            "linesContent": [
-              {
-                "text": "| Fusion Rifle |b 27% | -15% "
-              }
-            ]
-          },
-          {
-            "linesContent": [
-              {
-                "text": "| Bow |b 20%| -20% "
-              },
-              {
-                "text": "<background/>",
-                "classNames": [
-                  "background"
-                ]
-              },
-              null
-            ]
-          },
-          {
-            "linesContent": [
-              {
-                "text": "| Shotgun |b 20%| -20% "
-              }
-            ]
+            "formulaText": "In-Game Range:",
+            "formula": "range_0",
+            "className": "formula"
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "table": [
+          {
+            "lineText": [
+              {
+                "text": "Weapon",
+                "className": "bold"
+              },
+              {
+                "text": "Damage",
+                "className": "bold"
+              },
+              {
+                "text": "Fire/Charge Rate",
+                "className": "bold"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Hand Cannon"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-15%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "Scout Rifle"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-15%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Rapid-Fire Auto"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-15%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "Adaptive Auto"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-20%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Sidearm"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-20%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "Grenade Launcher"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-20%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Linear Fusion"
+              },
+              {
+                "text": "30%"
+              },
+              {
+                "text": "-15%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "Fusion Rifle"
+              },
+              {
+                "text": "27%",
+                "className": "bold"
+              },
+              {
+                "text": "-15%"
+              }
+            ]
+          },
+          {
+            "lineText": [
+              {
+                "text": "Bow"
+              },
+              {
+                "text": "20%",
+                "className": "bold"
+              },
+              {
+                "text": "-20%"
+              }
+            ],
+            "className": "background"
+          },
+          {
+            "lineText": [
+              {
+                "text": "Shotgun"
+              },
+              {
+                "text": "20%",
+                "className": "bold"
+              },
+              {
+                "text": "-20%"
+              }
+            ]
+          }
+        ],
+        "className": "table",
+        "formula": false
+      },
+      {
+        "className": "spacer"
+      },
+      {
+        "lineText": [
           {
             "text": "Enhanced: Buff Duration is increased to 8 seconds."
           }
@@ -23647,76 +23634,68 @@
     ],
     "simpleDescription": [
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "On Weapon Kill:"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "30% increased damage, variably slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Bows and Shotguns receive 20% increased damage. Fusion Rifles receive 27% increased damage."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "-15% Rate of Fire/Charge Rate:"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Hand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles, Rapid-Fire Auto Rifles"
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "-20% Rate of Fire/Charge Rate:"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Adaptive Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns"
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Enhanced: Buff Duration is increased to 8 seconds."
           }
@@ -24115,38 +24094,36 @@
   "3722653512": {
     "id": 3722653512,
     "name": "Air Assault",
-    "lastUpdate": 1657095202830,
+    "lastUpdate": 1655543234895,
     "updatedBy": "Icemourne",
     "type": "weaponPerk",
     "description": [
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "While at Low Health:"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Up to 60 Airborne Effectiveness."
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Enhanced: Grants up to 66[?] Airborne Effectiveness."
           }
@@ -24155,33 +24132,31 @@
     ],
     "simpleDescription": [
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "While at Low Health:"
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
-            "text": "Up to 60 Airborne Effectiveness."
+            "text": "Grants up to 60 Airborne Effectiveness."
           }
         ]
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
           }
         ]
       },
       {
-        "classNames": [
-          "spacer"
-        ]
+        "className": "spacer"
       },
       {
-        "linesContent": [
+        "lineText": [
           {
             "text": "Enhanced: Grants up to 66[?] Airborne Effectiveness."
           }
@@ -24189,8 +24164,8 @@
       }
     ],
     "editor": {
-      "mainEditor": "export description (\r\nWhile at Low Health:\r\nUp to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness.\r\n)",
-      "secondaryEditor": "import description from 3722653512"
+      "mainEditor": "While at Low Health:\r\nUp to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness.\r\n",
+      "secondaryEditor": "While at Low Health:\r\nGrants up to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness."
     },
     "inLiveDatabase": false
   },
