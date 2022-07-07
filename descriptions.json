@@ -3,6 +3,13 @@
     "0": {
       "id": 0,
       "type": "none",
+      "description": [
+        {
+          "classNames": [
+            "spacer"
+          ]
+        }
+      ],
       "lastUpdate": 0
     },
     "8507332": {
@@ -164,7 +171,7 @@
     "11612903": {
       "id": 11612903,
       "name": "Adrenaline Junkie",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "damage": {
@@ -415,7 +422,7 @@
     "47981717": {
       "id": 47981717,
       "name": "Opening Shot",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "range": {
@@ -821,7 +828,7 @@
       "name": "Glacial Guard",
       "itemId": 1467044898,
       "itemName": "Icefall Mantle",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -1056,7 +1063,7 @@
     "205890336": {
       "id": 205890336,
       "name": "Underdog",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -1199,7 +1206,7 @@
       "name": "Peregrine Strike",
       "itemId": 2255796155,
       "itemName": "Peregrine Greaves",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -1730,7 +1737,7 @@
     "247725512": {
       "id": 247725512,
       "name": "Rapid Hit",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -1972,7 +1979,7 @@
     "280464955": {
       "id": 280464955,
       "name": "Firmly Planted",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "handling": {
@@ -2630,7 +2637,7 @@
     "438098033": {
       "id": 438098033,
       "name": "Harmony",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "damage": {
@@ -2753,7 +2760,7 @@
     "454085387": {
       "id": 454085387,
       "name": "Blunt Execution Rounds",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "handling": {
@@ -3002,7 +3009,7 @@
     "469285294": {
       "id": 469285294,
       "name": "Recombination",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -3353,7 +3360,7 @@
       "name": "Spring-Loaded Mounting",
       "itemId": 1734144409,
       "itemName": "Mechaneer's Tricksleeves",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "handling": {
@@ -3623,7 +3630,7 @@
       "name": "Beyond The Veil",
       "itemId": 1935198785,
       "itemName": "Omnioculus",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -4653,7 +4660,7 @@
     "671806388": {
       "id": 671806388,
       "name": "Compulsive Reloader",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "chargeDrawTime": {
@@ -4812,7 +4819,7 @@
       "name": "Light Shift",
       "itemId": 1619425569,
       "itemName": "Mask of Bakris",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -4948,7 +4955,7 @@
     "699525795": {
       "id": 699525795,
       "name": "Eye of the Storm",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "handling": {
@@ -5168,7 +5175,7 @@
     "706527188": {
       "id": 706527188,
       "name": "Quickdraw",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "draw": {
@@ -5289,7 +5296,7 @@
       "name": "Dearly Departed",
       "itemId": 2177524718,
       "itemName": "The Stag",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -5527,7 +5534,7 @@
     "744594675": {
       "id": 744594675,
       "name": "Well-Rounded",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "range": {
@@ -5893,7 +5900,7 @@
     "806159697": {
       "id": 806159697,
       "name": "Trench Barrel",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "damage": {
@@ -6275,7 +6282,7 @@
       "name": "Rapid Cooldown",
       "itemId": 609852545,
       "itemName": "Fr0st-EE5",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -7298,7 +7305,7 @@
     "972757866": {
       "id": 972757866,
       "name": "Pulse Monitor",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "handling": {
@@ -7636,7 +7643,7 @@
     "1048183818": {
       "id": 1048183818,
       "name": "Adaptive Munitions",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -8200,7 +8207,7 @@
       "name": "Biotic Enhancements",
       "itemId": 241462142,
       "itemName": "Synthoceps",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -8352,7 +8359,7 @@
       "name": "Fury Conductors",
       "itemId": 2563444729,
       "itemName": "ACD/0 Feedback Fence",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -8650,7 +8657,7 @@
     "1168162263": {
       "id": 1168162263,
       "name": "Outlaw",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -8757,7 +8764,7 @@
     "1195158366": {
       "id": 1195158366,
       "name": "Encore",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "range": {
@@ -9132,7 +9139,7 @@
     "1264398905": {
       "id": 1264398905,
       "name": "Celerity",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -9907,7 +9914,7 @@
     "1428297954": {
       "id": 1428297954,
       "name": "Perpetual Motion",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -10157,7 +10164,7 @@
     "1431678320": {
       "id": 1431678320,
       "name": "Alloy Magazine",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -10449,7 +10456,7 @@
       "name": "Depths of Duskfield",
       "itemId": 2169905051,
       "itemName": "Renewal Grasps",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -10759,7 +10766,7 @@
     "1528281896": {
       "id": 1528281896,
       "name": "Outlaw",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -10924,7 +10931,7 @@
     "1546637391": {
       "id": 1546637391,
       "name": "Vorpal Weapon",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -11180,7 +11187,7 @@
     "1561002382": {
       "id": 1561002382,
       "name": "High-Caliber Rounds",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -11278,7 +11285,7 @@
     "1561789734": {
       "id": 1561789734,
       "name": "Firefly",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -11503,7 +11510,7 @@
     "1583705720": {
       "id": 1583705720,
       "name": "Stats for All",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -11716,7 +11723,7 @@
     "1600092898": {
       "id": 1600092898,
       "name": "Backup Plan",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "damage": {
@@ -12506,7 +12513,7 @@
       "name": "Illegally Modded Holster",
       "itemId": 193869522,
       "itemName": "Lucky Pants",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "draw": {
@@ -13570,7 +13577,7 @@
     "1820235745": {
       "id": 1820235745,
       "name": "Subsistence",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -13662,7 +13669,7 @@
       "name": "Assault Barricade",
       "itemId": 1190497097,
       "itemName": "Citan's Ramparts",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -13816,7 +13823,7 @@
       "name": "Parting Gift",
       "itemId": 1219761634,
       "itemName": "The Bombardiers",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -14253,7 +14260,7 @@
     "1890422124": {
       "id": 1890422124,
       "name": "Tap the Trigger",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "stability": {
@@ -14437,7 +14444,7 @@
       "name": "Overflowing Light",
       "itemId": 1341951177,
       "itemName": "Heart of Inmost Light",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -14820,7 +14827,7 @@
     "1954620775": {
       "id": 1954620775,
       "name": "Timed Payload",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -15287,7 +15294,7 @@
     "2039302152": {
       "id": 2039302152,
       "name": "Slideways",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "handling": {
@@ -15521,7 +15528,7 @@
       "name": "Vanishing Shadow",
       "itemId": 2773056939,
       "itemName": "Graviton Forfeit",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -15838,7 +15845,7 @@
       "name": "Roving Assassin",
       "itemId": 1474735276,
       "itemName": "Gwisin Vest",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -15983,7 +15990,7 @@
       "name": "Crystalline Transistor",
       "itemId": 4057299718,
       "itemName": "Chromatic Fire",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -16253,7 +16260,7 @@
     "2213355989": {
       "id": 2213355989,
       "name": "High-Impact Reserves",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -16616,7 +16623,7 @@
       "name": "Solar Rampart",
       "itemId": 2384488862,
       "itemName": "Khepri's Horn",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -16713,7 +16720,7 @@
     "2360754333": {
       "id": 2360754333,
       "name": "Trench Barrel",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "damage": {
@@ -16986,7 +16993,7 @@
     "2450788523": {
       "id": 2450788523,
       "name": "Killing Wind",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "range": {
@@ -17138,7 +17145,7 @@
     "2451262963": {
       "id": 2451262963,
       "name": "Fragile Focus",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "range": {
@@ -17407,7 +17414,7 @@
       "name": "Firewalker",
       "itemId": 1453120846,
       "itemName": "The Path of Burning Steps",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -17574,7 +17581,7 @@
     "2551157718": {
       "id": 2551157718,
       "name": "Box Breathing",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "damage": {
@@ -17898,7 +17905,7 @@
       "name": "Absorption Cells",
       "itemId": 3301944824,
       "itemName": "Mantle of Battle Harmony",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -18125,7 +18132,7 @@
     "2621346526": {
       "id": 2621346526,
       "name": "Ensemble",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -18829,7 +18836,7 @@
     "2726471870": {
       "id": 2726471870,
       "name": "Thresh",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -19164,7 +19171,7 @@
     "2779035018": {
       "id": 2779035018,
       "name": "Feeding Frenzy",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -19455,7 +19462,7 @@
       "name": "Rites of Ember",
       "itemId": 2316914168,
       "itemName": "Dawn Chorus",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -19733,7 +19740,7 @@
     "2839173408": {
       "id": 2839173408,
       "name": "Omolon Fluid Dynamics",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -19836,7 +19843,7 @@
     "2846385770": {
       "id": 2846385770,
       "name": "Rangefinder",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "zoom": {
@@ -19921,7 +19928,7 @@
     "2848615171": {
       "id": 2848615171,
       "name": "Dragonfly",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -20224,7 +20231,7 @@
     "2869569095": {
       "id": 2869569095,
       "name": "Field Prep",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -20856,7 +20863,7 @@
     "2988596335": {
       "id": 2988596335,
       "name": "Alacrity",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -21108,7 +21115,7 @@
     "3038247973": {
       "id": 3038247973,
       "name": "Explosive Payload",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -21379,7 +21386,7 @@
     "3096702027": {
       "id": 3096702027,
       "name": "Genesis",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -21479,7 +21486,7 @@
     "3108830275": {
       "id": 3108830275,
       "name": "Unrelenting",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -21642,7 +21649,7 @@
     "3161816588": {
       "id": 3161816588,
       "name": "Slideshot",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "range": {
@@ -22336,7 +22343,7 @@
       "name": "Linear Actuators",
       "itemId": 1160559849,
       "itemName": "Dunemarchers",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -22855,7 +22862,7 @@
     "3300816228": {
       "id": 3300816228,
       "name": "Auto-Loading Holster",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -23241,7 +23248,7 @@
       "name": "Strange Protractor",
       "itemId": 138282166,
       "itemName": "Transversive Steps",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -23341,7 +23348,7 @@
     "3350417888": {
       "id": 3350417888,
       "name": "Sympathetic Arsenal",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -23521,7 +23528,7 @@
     "3365897133": {
       "id": 3365897133,
       "name": "Explosive Head",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -23755,7 +23762,7 @@
     "3418782618": {
       "id": 3418782618,
       "name": "Rewind Rounds",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -23962,7 +23969,7 @@
     "3436462433": {
       "id": 3436462433,
       "name": "Surplus",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -24273,7 +24280,7 @@
       "name": "Spheromatik Trigger",
       "itemId": 2326396534,
       "itemName": "Severance Enclosure",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -24435,7 +24442,7 @@
     "3511092054": {
       "id": 3511092054,
       "name": "Elemental Capacitor",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -24791,7 +24798,7 @@
     "3551326236": {
       "id": 3551326236,
       "name": "Rampage",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "damage": {
@@ -24995,7 +25002,7 @@
     "3592538738": {
       "id": 3592538738,
       "name": "Wellspring",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -25420,7 +25427,7 @@
       "name": "Transfusion Matrix",
       "itemId": 3216110440,
       "itemName": "An Insurmountable Skullfort",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -25714,7 +25721,7 @@
     "3673922083": {
       "id": 3673922083,
       "name": "Adagio",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "range": {
@@ -26460,7 +26467,7 @@
     "3721627275": {
       "id": 3721627275,
       "name": "Swap Mag",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "draw": {
@@ -26858,7 +26865,7 @@
     "3824105627": {
       "id": 3824105627,
       "name": "Firefly",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -26973,7 +26980,7 @@
       "name": "Grasp of the Devourer",
       "itemId": 2780717641,
       "itemName": "Necrotic Grip",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -27124,7 +27131,7 @@
     "3865257976": {
       "id": 3865257976,
       "name": "Dragonfly",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -27942,7 +27949,7 @@
       "name": "Conduction Tines",
       "itemId": 3381022969,
       "itemName": "Crown of Tempests",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -28143,7 +28150,7 @@
     "3977735242": {
       "id": 3977735242,
       "name": "Tracking Module",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
@@ -28383,7 +28390,7 @@
     "4008116374": {
       "id": 4008116374,
       "name": "Suros Synergy",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "handling": {
@@ -28467,7 +28474,7 @@
       "name": "Misdirection",
       "itemId": 1163283805,
       "itemName": "Gemini Jester",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -28848,7 +28855,7 @@
     "4071163871": {
       "id": 4071163871,
       "name": "Threat Detector",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -29079,7 +29086,7 @@
     "4082225868": {
       "id": 4082225868,
       "name": "Swashbuckler",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "damage": {
@@ -29250,7 +29257,7 @@
     "4091460919": {
       "id": 4091460919,
       "name": "One Quiet Moment",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -29386,7 +29393,7 @@
     "4104185692": {
       "id": 4104185692,
       "name": "Frenzy",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -29556,7 +29563,7 @@
     "4134353779": {
       "id": 4134353779,
       "name": "Drop Mag",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "stats": {
         "reload": {
@@ -29798,7 +29805,7 @@
       "name": "Ursine Guard",
       "itemId": 1848640623,
       "itemName": "Ursa Furiosa",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "armorExotic",
       "description": [
@@ -30294,7 +30301,7 @@
     "4293542123": {
       "id": 4293542123,
       "name": "Incandescent",
-      "lastUpdate": 1657190114912,
+      "lastUpdate": 1657190360592,
       "updatedBy": "Icemourne",
       "type": "weaponPerk",
       "description": [
