@@ -10169,14 +10169,13 @@
         },
         {
           "linesContent": [
-            null,
             {
-              "text": "Reload Time: reload_0",
+              "text": "Reload Time: ",
+              "formula": "reload_0",
               "classNames": [
                 "formula"
               ]
-            },
-            null
+            }
           ]
         },
         {
@@ -10202,11 +10201,11 @@
         }
       ],
       "editor": {
-        "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\n<formula Reload Time: reload_0 />\n",
+        "mainEditor": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\n<formula Reload Time: [reload_0] />\n",
         "secondaryEditor": "Upon reloading with an empty magazine:\r\n15% Faster Reload Animation"
       },
       "inLiveDatabase": false,
-      "lastUpdate": 1657193179993
+      "lastUpdate": 1657193718086
     },
     "1437147326": {
       "id": 1437147326,
@@ -30282,6 +30281,7 @@
       "3722653512": {
         "description": "While at Low Health:\nUp to 60 Airborne Effectiveness.\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\nEnhanced: Grants up to 66[?] Airborne Effectiveness."
       }
-    }
+    },
+    "variables": {}
   }
 }
