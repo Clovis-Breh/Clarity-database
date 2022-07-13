@@ -4977,6 +4977,31 @@
           ]
         }
       ],
+      "editor": {
+        "mainEditor": "Decreases charge time by 40, and damage by 2%",
+        "secondaryEditor": "Decreases charge time by 40, and damage by 2%"
+      },
+      "inLiveDatabase": false
+    },
+      "type": "weaponPerk",
+      "description": [
+        {
+          "linesContent": [
+            {
+              "text": "Decreases charge time by 40, and damage by 2%"
+            }
+          ]
+        }
+      ],
+      "simpleDescription": [
+        {
+          "linesContent": [
+            {
+              "text": "Decreases charge time by 40, and damage by 2%"
+            }
+          ]
+        }
+      ],
       "lastUpdate": 1657364188064,
       "inLiveDatabase": true
     },
