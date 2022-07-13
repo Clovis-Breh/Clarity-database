@@ -4983,28 +4983,6 @@
       },
       "inLiveDatabase": false
     },
-      "type": "weaponPerk",
-      "description": [
-        {
-          "linesContent": [
-            {
-              "text": "Decreases charge time by 40, and damage by 2%"
-            }
-          ]
-        }
-      ],
-      "simpleDescription": [
-        {
-          "linesContent": [
-            {
-              "text": "Decreases charge time by 40, and damage by 2%"
-            }
-          ]
-        }
-      ],
-      "lastUpdate": 1657364188064,
-      "inLiveDatabase": true
-    },
     "692285813": {
       "id": 692285813,
       "name": "Light Shift",
