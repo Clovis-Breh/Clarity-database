@@ -9179,20 +9179,20 @@
       "name": "Adept Mag",
       "itemId": 2563444729,
       "itemName": "Adept Mag",
-      "updatedBy": "Icemourne",
+      "updatedBy": "Fading-Shadow",
       "type": "weaponMod",
       "description": [
         {
           "linesContent": [
             {
-              "text": "+35 Recoil Direction"
+              "text": "+40 Magazine Stat"
             }
           ]
         },
         {
           "linesContent": [
             {
-              "text": "-10 Range"
+              "text": "-15 Handling"
             }
           ]
         }
@@ -9201,24 +9201,24 @@
         {
           "linesContent": [
             {
-              "text": "+35 Recoil Direction"
+              "text": "+40 Magazine Stat"
             }
           ]
         },
         {
           "linesContent": [
             {
-              "text": "-10 Range"
+              "text": "-15 Handling"
             }
           ]
         }
       ],
       "editor": {
-        "mainEditor": "+35 Recoil Direction\r\n-10 Range",
-        "secondaryEditor": "+35 Recoil Direction\r\n-10 Range"
+        "mainEditor": "+40 Magazine Stat\r\n-15 Handling",
+        "secondaryEditor": "+40 Magazine Stat\r\n-15 Handling"
       },
-      "inLiveDatabase": true,
-      "lastUpdate": 1657364188064
+      "inLiveDatabase": false,
+      "lastUpdate": 1657811970304
     },
     "1250481499": {
       "id": 1250481499,
