@@ -2,8 +2,16 @@
   "descriptions": {
     "0": {
       "id": 0,
+      "name": "",
       "type": "none",
-      "lastUpdate": 0
+      "description": [],
+      "lastUpdate": 0,
+      "updatedBy": "",
+      "editor": {
+        "mainEditor": "",
+        "secondaryEditor": ""
+      },
+      "uploadToLive": false
     },
     "8507332": {
       "id": 8507332,
