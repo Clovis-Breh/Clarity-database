@@ -1249,7 +1249,7 @@
       "name": "Peregrine Strike",
       "itemId": 2255796155,
       "itemName": "Peregrine Greaves",
-      "updatedBy": "Icemourne",
+      "updatedBy": "Fading-Shadow",
       "type": "armorExotic",
       "description": [
         {
@@ -1309,7 +1309,7 @@
               ]
             },
             {
-              "text": " 155% |"
+              "text": "155%"
             },
             {
               "classNames": [
@@ -1317,7 +1317,7 @@
               ]
             },
             {
-              "text": "190% | "
+              "text": "190%"
             },
             {
               "classNames": [
@@ -1348,14 +1348,13 @@
             null
           ],
           "linesContent": [
-            null,
             {
               "classNames": [
                 "arc"
               ]
             },
             {
-              "text": "200% |"
+              "text": "200%"
             },
             {
               "classNames": [
@@ -1363,7 +1362,7 @@
               ]
             },
             {
-              "text": "? | "
+              "text": "?"
             },
             {
               "classNames": [
@@ -1394,14 +1393,13 @@
             null
           ],
           "linesContent": [
-            null,
             {
               "classNames": [
                 "arc"
               ]
             },
             {
-              "text": "310% |"
+              "text": "310%"
             },
             {
               "classNames": [
@@ -1409,7 +1407,7 @@
               ]
             },
             {
-              "text": "? | "
+              "text": "?"
             },
             {
               "classNames": [
@@ -1440,14 +1438,13 @@
             null
           ],
           "linesContent": [
-            null,
             {
               "classNames": [
                 "arc"
               ]
             },
             {
-              "text": "360% |"
+              "text": "360%"
             },
             {
               "classNames": [
@@ -1455,7 +1452,7 @@
               ]
             },
             {
-              "text": "157% | "
+              "text": "157%"
             },
             {
               "classNames": [
@@ -1483,7 +1480,8 @@
               "text": "For Combatant Classifications, check out "
             },
             {
-              "text": "https://d2claritypagelink/combatant this sheet/>",
+              "text": " this sheet",
+              "link": "https://d2clarity.page.link/combatant",
               "classNames": [
                 "link"
               ]
@@ -1524,38 +1522,38 @@
         {
           "linesContent": [
             {
-              "text": "Minor: 155% | 190% | 310%"
+              "text": "Minor: 155%  190%  310%"
             }
           ]
         },
         {
           "linesContent": [
             {
-              "text": "Elite: 200% | ? | ?"
+              "text": "Elite: 200%  ?  ?"
             }
           ]
         },
         {
           "linesContent": [
             {
-              "text": "Miniboss: 310% | ? | ?"
+              "text": "Miniboss: 310%  ?  ?"
             }
           ]
         },
         {
           "linesContent": [
             {
-              "text": "Boss: 360% | 157% | 165%"
+              "text": "Boss: 360%  157%  165%"
             }
           ]
         }
       ],
       "editor": {
-        "mainEditor": "<center/>Passively grants 20 Airborne Effectiveness\n<center/>Shoulder Charges deal increased damage if used midair\n\n<center/>Minor\n<center/> <arc/> 155% |<solar/>190% | <void/>310%\n<center/>Elite\n<center/><arc/>200% |<solar/>? | <void/>?\n<center/>Miniboss\n<center/><arc/>310% |<solar/>? | <void/>?\n<center/>Boss\n<center/><arc/>360% |<solar/>157% | <void/>165%\n\n<center/>For Combatant Classifications, check out <link https://d2clarity.page.link/combatant this sheet/>!",
+        "mainEditor": "<center/>Passively grants 20 Airborne Effectiveness\n<center/>Shoulder Charges deal increased damage if used midair\n\n<center/>Minor\n<center/> <arc/> 155% |<solar/>190% | <void/>310%\n<center/>Elite\n<center/><arc/>200% |<solar/>? | <void/>?\n<center/>Miniboss\n<center/><arc/>310% |<solar/>? | <void/>?\n<center/>Boss\n<center/><arc/>360% |<solar/>157% | <void/>165%\n\n<center/>For Combatant Classifications, check out <link [https://d2clarity.page.link/combatant] this sheet />!",
         "secondaryEditor": "Passively grants 20 Airborne Effectiveness\r\nShoulder Charges deal increased damage if used midair\r\n\r\n(Arc/Solar/void)\r\nMinor: 155% | 190% | 310%\r\nElite: 200% | ? | ?\r\nMiniboss: 310% | ? | ?\r\nBoss: 360% | 157% | 165%"
       },
-      "inLiveDatabase": true,
-      "lastUpdate": 1657364188064
+      "inLiveDatabase": false,
+      "lastUpdate": 1657802244725
     },
     "236605015": {
       "id": 236605015,
