@@ -17444,7 +17444,8 @@
       },
       "inLiveDatabase": true,
       "lastUpdate": 1657364188064,
-      "visible": true
+      "visible": true,
+      "uploadToLive": true
     },
     "2119325971": {
       "id": 2119325971,
@@ -34114,7 +34115,7 @@
           ],
           "linesContent": [
             {
-              "text": "Automatically queues up the next shot after firing if you hold the trigger."
+              "text": "Automatically queues up the next shot after firing if you hold the trigger.\r"
             }
           ]
         },
@@ -34137,12 +34138,12 @@
         }
       ],
       "editor": {
-        "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n\n10% Faster Rate of Fire on Shotguns exclusively.",
-        "secondaryEditor": "Automatically queues up the next shot after firing if you hold the trigger.\r\n\r\n10% Faster Rate of Fire on Shotguns exclusively."
+        "mainEditor": "import main from 2117683199",
+        "secondaryEditor": "import secondary from 2117683199"
       },
       "inLiveDatabase": true,
       "lastUpdate": 1657364188065,
-      "visible": true
+      "visible": false
     },
     "4278960718": {
       "id": 4278960718,
