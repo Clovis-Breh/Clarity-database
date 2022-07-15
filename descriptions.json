@@ -155,6 +155,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 20 Stability and -30 Reload Speed."
@@ -164,6 +169,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 20 Stability and -30 Reload Speed."
@@ -480,6 +490,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Loads 2 Ammo at a time."
@@ -487,6 +502,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reduces Reload Speed by 35."
@@ -499,6 +519,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Loads 3 Ammo instead of 2."
@@ -508,6 +533,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Loads 2 Ammo at a time."
@@ -515,6 +545,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reduces Reload Speed by 35."
@@ -527,6 +562,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Loads 3 Ammo instead of 2."
@@ -841,6 +881,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill:"
@@ -848,6 +893,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Spawns a Large "
@@ -863,6 +913,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Rank-and-File Combatants spawn a Medium Stasis Crystal."
@@ -875,6 +930,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Having 5 crystals active at once incurs in a 5 second cooldown."
@@ -887,6 +947,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Stability"
@@ -896,6 +961,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill:"
@@ -903,6 +973,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Spawns a Large Stasis Crystal on Enemy Death Location. "
@@ -910,6 +985,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Rank-and-File Combatants spawn a Medium Stasis Crystal."
@@ -922,6 +1002,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Having 5 crystals active at once incurs in a 5 second cooldown."
@@ -934,6 +1019,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Stability"
@@ -1126,6 +1216,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Hit:"
@@ -1133,6 +1228,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Decreases Draw Time by 25% for 3 seconds."
@@ -1145,6 +1245,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Budd duration increased to 4 seconds."
@@ -1154,6 +1259,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Hit:"
@@ -1161,6 +1271,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Decreases Draw Time by 25% for 3 seconds."
@@ -1173,6 +1288,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Budd duration increased to 4 seconds."
@@ -2188,6 +2308,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While Crouched:"
@@ -2195,6 +2320,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% "
@@ -2217,6 +2347,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Effects are halved on Fusion Rifles.",
@@ -2242,8 +2377,15 @@
           "isFormula": true,
           "table": [
             {
-              "linesContent": [
+              "classNames": [
                 null,
+                null,
+                null
+              ],
+              "linesContent": [
+                {
+                  "text": ""
+                },
                 {
                   "text": "Most Weapons",
                   "classNames": [
@@ -2273,16 +2415,49 @@
                     null,
                     "bold"
                   ]
+                },
+                {
+                  "text": "",
+                  "formula": "ready_0",
+                  "classNames": [
+                    "formula"
+                  ]
+                },
+                {
+                  "text": "",
+                  "formula": "ready_1",
+                  "classNames": [
+                    "formula"
+                  ]
                 }
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Stow Speed:",
                   "classNames": [
                     null,
                     "bold"
+                  ]
+                },
+                {
+                  "text": "",
+                  "formula": "stow_0",
+                  "classNames": [
+                    "formula"
+                  ]
+                },
+                {
+                  "text": "",
+                  "formula": "stow_1",
+                  "classNames": [
+                    "formula"
                   ]
                 }
               ]
@@ -2295,6 +2470,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Stronger effect."
@@ -2304,6 +2484,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While Crouched:"
@@ -2311,6 +2496,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
@@ -2323,6 +2513,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Effects are halved on Fusion Rifles."
@@ -2335,6 +2530,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Stronger effect."
@@ -2399,6 +2599,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Sword Kill:"
@@ -2406,6 +2611,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "15% Increased Damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)"
@@ -2413,6 +2623,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Increases Sword Lunge Distance."
@@ -2425,6 +2640,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Remains active even if stowed."
@@ -2434,6 +2654,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Sword Kill:"
@@ -2441,6 +2666,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "15% Increased Damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)"
@@ -2448,6 +2678,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Increases Sword Lunge Distance."
@@ -2460,6 +2695,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Remains active even if stowed."
@@ -2837,6 +3077,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:"
@@ -2849,6 +3094,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% Increased Damage and 15 Handling for 7 seconds."
@@ -2861,6 +3111,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ready Speed: ",
@@ -2872,6 +3127,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stow Speed: ",
@@ -2888,6 +3148,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased to 8 seconds."
@@ -2897,6 +3162,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:"
@@ -2909,6 +3179,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% Increased Damage and 15 Handling for 7 seconds."
@@ -2921,6 +3196,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased to 8 seconds."
@@ -2960,6 +3240,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon dealing Melee Damage while an Enemy is within 15 meters:"
@@ -2967,6 +3252,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "500%/>",
@@ -2975,7 +3265,10 @@
               ]
             },
             {
-              "text": "<pvp [100%]/>"
+              "text": "[100%]/>",
+              "classNames": [
+                "pvp"
+              ]
             },
             {
               "text": " increased damage for one burst and 100 Handling for 10 seconds or until firing."
@@ -2983,6 +3276,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "4 second cooldown. Can be activated while stowed."
@@ -2995,6 +3293,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Any Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds."
@@ -3007,6 +3310,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ready Speed: ",
@@ -3018,6 +3326,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stow Speed: ",
@@ -3031,6 +3344,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon dealing Melee Damage while an Enemy is within 15 meters:"
@@ -3038,6 +3356,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "500% [PVP: 100%] increased damage for one burst and 100 Handling for 10 seconds or until firing."
@@ -3045,6 +3368,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "4 second cooldown. Can be activated while stowed."
@@ -3057,6 +3385,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Any Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds."
@@ -3088,6 +3421,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After dealing non-Precision Weapon Damage:"
@@ -3095,6 +3433,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "8% Increased Precision Damage for 0.3 seconds"
@@ -3107,6 +3450,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Stability."
@@ -3116,6 +3464,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After dealing non-Precision Weapon Damage:"
@@ -3123,6 +3476,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "8% Increased Precision Damage for 0.3 seconds"
@@ -3135,6 +3493,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Stability."
@@ -4044,6 +4407,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill:"
@@ -4051,6 +4419,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "10%  20%  30% increased damage until stow or reload."
@@ -4063,6 +4436,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 10 Magazine Stat (Identical to Tactical Mag)."
@@ -4072,6 +4450,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill:"
@@ -4079,6 +4462,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "10%  20%  30% increased damage until stow or reload."
@@ -4091,6 +4479,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 10 Magazine Stat (Identical to Tactical Mag)."
@@ -4231,6 +4624,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing."
@@ -4243,6 +4641,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Aim Assist bonus is increased marginally."
@@ -4252,6 +4655,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing."
@@ -4264,6 +4672,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Aim Assist bonus is increased marginally."
@@ -4286,6 +4699,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 20 Range and -30 Stability"
@@ -4295,6 +4713,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 20 Range and -30 Stability"
@@ -4970,6 +5393,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While above 70% Magazine:"
@@ -4977,6 +5405,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "50 Reload Speed with a 0.95x Duration Scale"
@@ -4989,6 +5422,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reload Time: ",
@@ -5005,6 +5443,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Reload increased to [55 maybe?]"
@@ -5014,6 +5457,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While above 70% Magazine:"
@@ -5021,6 +5469,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "50 Reload Speed with a 0.95x Duration Scale"
@@ -5033,6 +5486,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Reload increased to [55 maybe?]"
@@ -5266,6 +5724,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While at Low Health:"
@@ -5273,6 +5736,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Up to 30 Handling, -40% Accuracy Cone Size, and -17% "
@@ -5295,6 +5763,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
@@ -5307,6 +5780,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ready Speed at Maximized Strength: ",
@@ -5318,6 +5796,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stow Speed at Maximized Strength: ",
@@ -5334,6 +5817,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Stability."
@@ -5343,6 +5831,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While at Low Health:"
@@ -5350,6 +5843,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth."
@@ -5362,6 +5860,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
@@ -5374,6 +5877,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Stability."
@@ -7349,6 +7857,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants:"
@@ -7356,6 +7869,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "- 35% Faster Projectile Velocity "
@@ -7363,6 +7881,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "- 10 Reload Speed with 0.8x Duration Multiplier"
@@ -7375,6 +7898,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Increases Reload Speed."
@@ -7384,6 +7912,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants:"
@@ -7391,6 +7924,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "- 35% Faster Projectile Velocity "
@@ -7398,6 +7936,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "- 10 Reload Speed with 0.8x Duration Multiplier"
@@ -7410,6 +7953,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Increases Reload Speed."
@@ -7501,6 +8049,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While within 15 meters of 3 enemies:"
@@ -7508,6 +8061,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Sets Blast Radius to 100[?] and reduces "
@@ -7525,6 +8083,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lingers for 4(?) seconds."
@@ -7537,6 +8100,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Blast Radius."
@@ -7546,6 +8114,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While within 15 meters of 3 enemies:"
@@ -7553,6 +8126,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Sets Blast Radius to 100[?] and reduces Self Damage by 40%."
@@ -7560,6 +8138,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lingers for 4(?) seconds."
@@ -7572,6 +8155,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Blast Radius."
@@ -7795,6 +8383,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Reload, within 3.8 seconds of a Weapon Kill:"
@@ -7802,6 +8395,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "33% Increased damage for 5 seconds."
@@ -7809,6 +8407,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Buff can't be refreshed. Persists through stow."
@@ -7821,6 +8424,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased to 5.5 seconds."
@@ -7830,6 +8438,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Reload, within 3.8 seconds of a Weapon Kill:"
@@ -7837,6 +8450,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "33% Increased damage for 5 seconds."
@@ -7844,6 +8462,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Buff can't be refreshed. Persists through stow."
@@ -7856,6 +8479,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased to 5.5 seconds."
@@ -7878,6 +8506,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Decreases Shotgun Pellet Spread by 3.75"
@@ -7890,6 +8523,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reduces Precision Damage Multiplier"
@@ -7899,6 +8537,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Decreases Shotgun Pellet Spread by 3.75"
@@ -7911,6 +8554,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reduces Precision Damage Multiplier"
@@ -9161,6 +9809,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks."
@@ -9183,6 +9836,11 @@
           "isFormula": true,
           "table": [
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Stacks",
@@ -9201,6 +9859,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "1x",
@@ -9208,10 +9871,22 @@
                     null,
                     "bold"
                   ]
+                },
+                {
+                  "text": "",
+                  "formula": "range_0",
+                  "classNames": [
+                    "formula"
+                  ]
                 }
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "2x",
@@ -9219,16 +9894,35 @@
                     null,
                     "bold"
                   ]
+                },
+                {
+                  "text": "",
+                  "formula": "range_1",
+                  "classNames": [
+                    "formula"
+                  ]
                 }
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "3x",
                   "classNames": [
                     null,
                     "bold"
+                  ]
+                },
+                {
+                  "text": "",
+                  "formula": "range_2",
+                  "classNames": [
+                    "formula"
                   ]
                 }
               ]
@@ -9241,6 +9935,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Non-Precision Kill: Removes 1 Stack. If at zero stacks, it grants -X% "
@@ -9263,6 +9962,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lasts 7 seconds. Refreshed on Kill."
@@ -9275,6 +9979,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased."
@@ -9284,6 +9993,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks."
@@ -9296,6 +10010,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability."
@@ -9308,6 +10027,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lasts 7 seconds. Refreshed on Kill."
@@ -9320,6 +10044,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased."
@@ -9548,6 +10277,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While Last Guardian Standing:"
@@ -9555,6 +10289,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS."
@@ -9562,6 +10301,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 20 Handling and 20 Reload Speed"
@@ -9574,6 +10318,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reload Time: ",
@@ -9585,6 +10334,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ready Speed: ",
@@ -9596,6 +10350,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stow Speed: ",
@@ -9609,6 +10368,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While Last Guardian Standing:"
@@ -9616,6 +10380,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS."
@@ -9628,6 +10397,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 20 Handling and 20 Reload Speed"
@@ -9650,6 +10424,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Explosion releases 8 Cluster Bombs."
@@ -9657,6 +10436,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Each Cluster Bomb deals an additional 3% damage."
@@ -9666,6 +10450,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Explosion releases 8 Cluster Bombs."
@@ -9673,6 +10462,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Each Cluster Bomb deals an additional 3% damage."
@@ -9935,6 +10729,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Scoring 4 Precision Hits generates 2 Ammo to Magazine."
@@ -9942,6 +10741,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Precision Hit counter is reset if no precision hits are scored within 2 seconds."
@@ -9954,6 +10758,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Timer between Precision Hits is increased."
@@ -9963,6 +10772,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Scoring 4 Precision Hits generates 2 Ammo to Magazine."
@@ -9970,6 +10784,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Precision Hit counter is reset if no precision hits are scored within 2 seconds."
@@ -9982,6 +10801,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Timer between Precision Hits is increased."
@@ -10013,6 +10837,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "During Sustained Fire:"
@@ -10020,6 +10849,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Gradually greatly increases Accuracy, and adds up to +10 Stability. Takes 0.6 seconds to maximize effect."
@@ -10032,6 +10866,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "The accuracy improvement is greater than initial accuracy."
@@ -10039,6 +10878,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "The accuracy increase is gradual, almost completely negating the effects of bloom."
@@ -10051,6 +10895,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Effect reaches full effect sooner."
@@ -10060,6 +10909,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "During Sustained Fire:"
@@ -10067,6 +10921,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Gradually greatly increases Accuracy, and adds up to +10 Stability. Takes 0.6 seconds to maximize effect."
@@ -10079,6 +10938,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "The accuracy improvement is greater than initial accuracy."
@@ -10086,6 +10950,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "The accuracy increase is gradual, almost completely negating the effects of bloom."
@@ -10098,6 +10967,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Effect reaches full effect sooner."
@@ -10591,6 +11465,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon reloading with an empty magazine:"
@@ -10598,6 +11477,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "0.85x Reload Duration Scale"
@@ -10610,6 +11494,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reload Time: ",
@@ -10628,6 +11517,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon reloading with an empty magazine:"
@@ -10635,6 +11529,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "15% Faster Reload Animation"
@@ -11535,6 +12434,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Power Ammo Pickup:"
@@ -11542,6 +12446,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grants (almost) the equivalent of 1 Special Ammo Pickup."
@@ -11554,6 +12463,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Increases the amount of Special Ammo received."
@@ -11563,6 +12477,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Power Ammo Pickup:"
@@ -11570,6 +12489,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grants (almost) the equivalent of 1 Special Ammo Pickup."
@@ -11582,6 +12506,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Increases the amount of Special Ammo received."
@@ -11738,6 +12667,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill:"
@@ -11745,6 +12679,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Target explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage."
@@ -11752,6 +12691,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "50 Reload Speed for 6 seconds."
@@ -11764,6 +12708,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "<highlight_4 Not affected by Dragonfly Spec. />"
@@ -11776,6 +12725,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reload Time: ",
@@ -11789,6 +12743,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill:"
@@ -11796,6 +12755,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Target explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage."
@@ -11803,6 +12767,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "50 Reload Speed for 6 seconds."
@@ -11815,6 +12784,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Not affected by Dragonfly Spec."
@@ -11847,6 +12821,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill:"
@@ -11854,6 +12833,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "-15% "
@@ -11876,6 +12860,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stacks up to 2x."
@@ -11888,6 +12877,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased."
@@ -11897,6 +12891,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill:"
@@ -11904,6 +12903,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "-15% Accuracy Cone Growth, 15 Stability, and ~20 Recoil Direction."
@@ -11916,6 +12920,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stacks up to 2x."
@@ -11928,6 +12937,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased."
@@ -12191,6 +13205,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "For 4 seconds after readying a Fusion Rifle:"
@@ -12198,6 +13217,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30% Faster Charge Rate, 20% decreased damage, and 100 Handling"
@@ -12210,6 +13234,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ready Speed: ",
@@ -12221,6 +13250,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stow Speed: ",
@@ -12234,6 +13268,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "For 4 seconds after readying a Fusion Rifle:"
@@ -12241,6 +13280,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30% Faster Charge Rate, 20% decreased damage, and 100 Handling"
@@ -12329,6 +13373,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Melee Kill:"
@@ -12336,6 +13385,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Weapons get "
@@ -12358,6 +13412,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Reload Speed."
@@ -12367,6 +13426,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Melee Kill:"
@@ -12374,6 +13438,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Weapons get refreshed."
@@ -12386,6 +13455,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Reload Speed."
@@ -12888,6 +13962,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon readying a Sword:"
@@ -12895,6 +13974,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30% Increased damage for 1.5 seconds."
@@ -12909,6 +13993,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon readying a Sword:"
@@ -12916,6 +14005,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30% Increased damage for 1.5 seconds."
@@ -12966,6 +14060,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Increases charge time by 40, and damage by 2%"
@@ -12975,6 +14074,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Increases charge time by 40, and damage by 2%"
@@ -13562,6 +14666,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grenades fired from this weapon emit a blast that staggers enemies."
@@ -13571,6 +14680,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grenades fired from this weapon emit a blast that staggers enemies."
@@ -13760,6 +14874,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "During Slide, after Sprinting for 1.5 seconds:"
@@ -13767,6 +14886,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% Increased damage and 100ms increased Charge Rate for [?] seconds. "
@@ -13779,6 +14903,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased."
@@ -13788,6 +14917,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "During Slide, after Sprinting for 1.5 seconds:"
@@ -13795,6 +14929,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% Increased damage and 100ms increased Charge Rate for [?] seconds. "
@@ -13807,6 +14946,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased."
@@ -13838,6 +14982,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While within X meters of 2+ Allies:"
@@ -13845,6 +14994,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% Increased Precision Damage"
@@ -13857,6 +15011,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Range."
@@ -13866,6 +15025,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While within X meters of 2+ Allies:"
@@ -13873,6 +15037,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% Increased Precision Damage"
@@ -13885,6 +15054,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Range."
@@ -13992,6 +15166,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While within 15[?] meters of 2 enemies:"
@@ -13999,6 +15178,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Charge/Draw Time is reduced by 100 miliseconds."
@@ -14006,6 +15190,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lingers for 1.5 seconds."
@@ -14018,6 +15207,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Stability."
@@ -14027,6 +15221,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While within 15[?] meters of 2 enemies:"
@@ -14034,6 +15233,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Charge/Draw Time is reduced by 100 miliseconds."
@@ -14041,6 +15245,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lingers for 1.5 seconds."
@@ -14053,6 +15262,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Stability."
@@ -14565,6 +15779,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "If hipfiring:"
@@ -14572,6 +15791,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% Increased: Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance"
@@ -14579,6 +15803,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "15 Aim Assist"
@@ -14586,6 +15815,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "+2.7 degrees Precision Angle Threshold"
@@ -14593,6 +15827,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "-30% Accuracy Cone Size and ~30 Stability."
@@ -14605,6 +15844,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Damage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles."
@@ -14617,6 +15861,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Stronger Effect."
@@ -14626,6 +15875,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "If hipfiring:"
@@ -14633,6 +15887,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% Increased: Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance"
@@ -14640,6 +15899,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "15 Aim Assist"
@@ -14647,6 +15911,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "+2.7 degrees Precision Angle Threshold"
@@ -14654,6 +15923,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "-30% Accuracy Cone Size and ~30 Stability."
@@ -14666,6 +15940,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Damage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles."
@@ -14678,6 +15957,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Stronger Effect."
@@ -15423,6 +16707,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "5% Increased damage against Combatant Shields."
@@ -15435,6 +16724,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Bullets are able to overpenetrate enemies once."
@@ -15444,6 +16738,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "5% Increased damage against Combatant Shields."
@@ -15456,6 +16755,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Bullets are able to overpenetrate enemies once."
@@ -15762,6 +17066,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While Blocking with a Sword:"
@@ -15769,6 +17078,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grants Class Ability Energy based on the amount of damage taken."
@@ -15781,6 +17095,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Increased Class Ability Energy Gain."
@@ -15790,6 +17109,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While Blocking with a Sword:"
@@ -15797,6 +17121,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grants Class Ability Energy based on the amount of damage taken."
@@ -15809,6 +17138,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Increased Class Ability Energy Gain."
@@ -15945,6 +17279,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon readying a Sword:"
@@ -15952,6 +17291,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "100% Increased Lunge Range for 1 second. (Enough to execute 2 light attacks.)"
@@ -15959,6 +17303,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "4 second cooldown."
@@ -15973,6 +17322,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon readying a Sword:"
@@ -15980,6 +17334,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "100% Increased Lunge Range for 1 second. (Enough to execute 2 light attacks.)"
@@ -15987,6 +17346,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "4 second cooldown."
@@ -16014,22 +17378,11 @@
       "type": "weaponPerk",
       "description": [
         {
-          "linesContent": [
-            {
-              "text": "Automatically queues up the next shot after firing if you hold the trigger."
-            }
-          ]
-        },
-        {
-          "linesContent": [
-            {
-              "text": "10% Faster Rate of Fire on Shotguns exclusively."
-            }
-          ]
-        }
-      ],
-      "simpleDescription": [
-        {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Automatically queues up the next shot after firing if you hold the trigger."
@@ -16042,6 +17395,42 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
+          "linesContent": [
+            {
+              "text": "10% Faster Rate of Fire on Shotguns exclusively."
+            }
+          ]
+        }
+      ],
+      "simpleDescription": [
+        {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
+          "linesContent": [
+            {
+              "text": "Automatically queues up the next shot after firing if you hold the trigger."
+            }
+          ]
+        },
+        {
+          "classNames": [
+            "spacer"
+          ]
+        },
+        {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "10% Faster Rate of Fire on Shotguns exclusively."
@@ -16050,7 +17439,7 @@
         }
       ],
       "editor": {
-        "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n10% Faster Rate of Fire on Shotguns exclusively.",
+        "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n\n10% Faster Rate of Fire on Shotguns exclusively.",
         "secondaryEditor": "Automatically queues up the next shot after firing if you hold the trigger.\r\n\r\n10% Faster Rate of Fire on Shotguns exclusively."
       },
       "inLiveDatabase": true,
@@ -16806,6 +18195,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "As Magazine goes below 50%, until empty: "
@@ -16813,6 +18207,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVE] 12.1% to 25.6% Increased damage.",
@@ -16823,6 +18222,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVP] 3% to 6% Increased damage.",
@@ -16838,6 +18242,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Activates at the 75% Magazine Threshold."
@@ -16847,6 +18256,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "As Magazine goes below 50%, until empty: "
@@ -16854,6 +18268,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVE] 12.1% to 25.6% Increased damage."
@@ -16861,6 +18280,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVP] 3% to 6% Increased damage."
@@ -16873,6 +18297,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Activates at the 75% Magazine Threshold."
@@ -16983,6 +18412,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:"
@@ -16990,6 +18424,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Suppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds."
@@ -17002,6 +18441,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants increased Ammo Reserves."
@@ -17011,6 +18455,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:"
@@ -17018,6 +18467,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Suppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds."
@@ -17030,6 +18484,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants increased Ammo Reserves."
@@ -17052,6 +18511,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Reload:"
@@ -17059,6 +18523,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Overflows Magazine Capacity by 10% to 50%."
@@ -17066,6 +18535,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Always rounds magazine up."
@@ -17078,6 +18552,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Improves the average overflow amount."
@@ -17087,6 +18566,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Reload:"
@@ -17094,6 +18578,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Overflows Magazine Capacity by 10% to 50%."
@@ -17101,6 +18590,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Always rounds magazine up."
@@ -17113,6 +18607,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Improves the average overflow amount."
@@ -17474,6 +18973,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Weapon Kills create an Elemental Explosion."
@@ -17481,6 +18985,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Not affected by Dragonfly Spec."
@@ -17493,6 +19002,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Improves Ammo Reserves."
@@ -17502,6 +19016,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Weapon Kills create an Elemental Explosion."
@@ -17509,6 +19028,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Not affected by Dragonfly Spec."
@@ -17521,6 +19045,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Improves Ammo Reserves."
@@ -17562,6 +19091,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill:"
@@ -17569,6 +19103,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20 Range, 50 Mobility, 40 Handling, and a 5% Increased Damage Falloff Distance"
@@ -17581,6 +19120,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "In-Game Range: ",
@@ -17592,6 +19136,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ready Speed: ",
@@ -17603,6 +19152,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stow Speed: ",
@@ -17619,6 +19173,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds."
@@ -17631,6 +19190,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased"
@@ -17640,6 +19204,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill:"
@@ -17647,6 +19216,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20 Range, 50 Mobility, 40 Handling, and a 5% Increased Damage Falloff Distance."
@@ -17659,6 +19233,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds."
@@ -17671,6 +19250,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased."
@@ -17702,6 +19286,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 20 Range, but has a 5 second cooldown if you take any damage."
@@ -17714,6 +19303,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "In-Game Range: ",
@@ -17730,6 +19324,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Timer after not taking damage is reduced."
@@ -17739,6 +19338,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 20 Range, but has a 5 second cooldown if you take any damage."
@@ -17751,6 +19355,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Timer after not taking damage is reduced."
@@ -17784,6 +19393,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Reload, within 3.8 seconds of a Weapon Kill:"
@@ -17791,6 +19405,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "17%  33%  50% Increased damage for 5 seconds, depending on the amount of enemies killed within X seconds of each."
@@ -17798,6 +19417,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Buff is overwritten every time you refresh it."
@@ -17810,6 +19434,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased to 5.5 seconds."
@@ -17819,6 +19448,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Reload, within 3.8 seconds of a Weapon Kill:"
@@ -17826,6 +19460,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "17%  33%  50% Increased damage for 5 seconds, depending on the amount of enemies killed."
@@ -17833,6 +19472,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Buff is overwritten every time you refresh it."
@@ -17845,6 +19489,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased to 5.5 seconds."
@@ -18144,6 +19793,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After being scoped-in for 1.5 seconds without firing:"
@@ -18151,6 +19805,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[?] Range, [?]% Accuracy Cone Size/"
@@ -18180,8 +19839,14 @@
             null,
             null
           ],
+          "isFormula": null,
           "table": [
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Weapon Frame",
@@ -18215,6 +19880,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Adaptive Sniper"
@@ -18240,6 +19910,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Linear Fusion"
@@ -18272,6 +19947,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
@@ -18281,6 +19961,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After being scoped-in for 1.5 seconds without firing:"
@@ -18288,6 +19973,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Increased Range, improved Accuracy Cone Size/Growth, and variably increased Precision Damage for one shot."
@@ -18295,6 +19985,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Rapid Fire & Adaptive Sniper = 31%  Linear Fusion = 33%  Aggressive Sniper = 37%  Scout Rifle = 66%"
@@ -18307,6 +20002,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
@@ -18370,6 +20070,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill:"
@@ -18377,6 +20082,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill."
@@ -18389,6 +20099,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Matching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds."
@@ -18396,6 +20111,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Can be refreshed by getting another Matching Ability Kill."
@@ -18408,6 +20128,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Base Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active."
@@ -18417,6 +20142,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill:"
@@ -18424,6 +20154,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill."
@@ -18436,6 +20171,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Matching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds."
@@ -18443,6 +20183,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Can be refreshed by getting another Matching Ability Kill."
@@ -18455,6 +20200,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Base Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active."
@@ -18725,6 +20475,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While within 15 meters of 1 or more allies:"
@@ -18732,6 +20487,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30 Handling and 40 Reload Speed."
@@ -18744,6 +20504,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lingers for 1.5 seconds."
@@ -18756,6 +20521,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reload Time: ",
@@ -18767,6 +20537,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ready Speed: ",
@@ -18778,6 +20553,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stow Speed: ",
@@ -18794,6 +20574,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: [35?] Handling and [45?] Reload Speed"
@@ -18803,6 +20588,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While within 15 meters of 1 or more allies:"
@@ -18810,6 +20600,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30 Handling and 40 Reload Speed."
@@ -18822,6 +20617,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lingers for 1.5 seconds."
@@ -18834,6 +20634,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: [35?] Handling and [45?] Reload Speed"
@@ -19772,6 +21577,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill: Increased Reload Speed."
@@ -19791,6 +21601,7 @@
             null,
             null
           ],
+          "isFormula": null,
           "table": [
             {
               "classNames": [
@@ -19842,6 +21653,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "2x"
@@ -19885,6 +21701,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "4x"
@@ -19935,6 +21756,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lasts 3.5 seconds. Max of 5 Stacks."
@@ -19947,6 +21773,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Stronger Effect."
@@ -19956,6 +21787,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill:"
@@ -19968,6 +21804,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "10  45  55  70  100 Reload Speed Stat."
@@ -19975,6 +21816,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "1x  0.9x  0.875x  0.85x  0.8x Reload Duration Multiplier."
@@ -19987,6 +21833,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lasts 3.5 seconds. Max of 5 Stacks."
@@ -19999,6 +21850,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Stronger Effect."
@@ -20949,6 +22805,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While Crouched:"
@@ -20956,6 +22817,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "50 Reload Speed with 0.8x "
@@ -20978,6 +22844,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants increased Ammo Reserves."
@@ -20990,6 +22861,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reload Time: ",
@@ -21001,6 +22877,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ready Speed: ",
@@ -21012,6 +22893,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stow Speed: ",
@@ -21028,6 +22914,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Stronger effect. Greatly increased Ammo Reserves.\t\t"
@@ -21037,6 +22928,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While Crouched:"
@@ -21044,6 +22940,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "50 Reload Speed with 0.8x Reload Duration Scalar and 0.8x Ready/Stow Duration Scalar."
@@ -21056,6 +22957,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants increased Ammo Reserves."
@@ -21068,6 +22974,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Stronger effect. Greatly increased Ammo Reserves.\t"
@@ -21174,6 +23085,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After scoring 50% of Magazine Size as Precision Hits:"
@@ -21181,6 +23097,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% increased damage for 11 seconds."
@@ -21188,6 +23109,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stowing or Reloading resets the precision counter. Can be refreshed."
@@ -21200,6 +23126,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased to 12 seconds."
@@ -21209,6 +23140,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After scoring 50% of Magazine Size as Precision Hits:"
@@ -21216,6 +23152,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% increased damage for 11 seconds."
@@ -21223,6 +23164,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stowing or Reloading resets the precision counter. Can be refreshed."
@@ -21235,6 +23181,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased to 12 seconds."
@@ -21411,6 +23362,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While above 50% Magazine:"
@@ -21418,6 +23374,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Direct Hits create a Stasis burst which applies 50 Slow to enemies within [?] meters."
@@ -21425,6 +23386,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Weapons with multiple projectiles activate the perk once per enemy."
@@ -21437,6 +23403,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Stability."
@@ -21446,6 +23417,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While above 50% Magazine:"
@@ -21453,6 +23429,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Direct Hits create a Stasis burst which applies 50 Slow to enemies within [?] meters."
@@ -21460,6 +23441,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Weapons with multiple projectiles activate the perk once per enemy."
@@ -21472,6 +23458,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Stability."
@@ -21728,6 +23719,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Immediately after blocking an attack within 0.5 seconds of starting to Block:"
@@ -21735,6 +23731,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "50% Increased damage for 2 seconds."
@@ -21747,6 +23748,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased."
@@ -21756,6 +23762,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Immediately after blocking an attack within 0.5 seconds of starting to Block:"
@@ -21763,6 +23774,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "50% Increased damage for 2 seconds."
@@ -21775,6 +23791,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased."
@@ -21830,6 +23851,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grenade detonation has a brief blinding effect."
@@ -21839,6 +23865,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grenade detonation has a brief blinding effect."
@@ -21861,6 +23892,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage and has no damage falloff."
@@ -21873,6 +23909,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Precision Multiplier.",
@@ -21888,6 +23929,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVP] Total damage remains the same.",
@@ -21903,6 +23949,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Range."
@@ -21912,6 +23963,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage and has no damage falloff."
@@ -21924,6 +23980,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Precision Multiplier."
@@ -21936,6 +23997,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVP] Total damage remains the same."
@@ -21948,6 +24014,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Range."
@@ -21970,6 +24041,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After Reloading within 6 seconds of a Precision Kill:"
@@ -21977,6 +24053,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Delay after shooting is reduced by 30%, increasing Rate of Fire for 6 seconds."
@@ -21984,6 +24065,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Can be refreshed."
@@ -21996,6 +24082,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Increased duration."
@@ -22005,6 +24096,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After Reloading within 6 seconds of a Precision Kill:"
@@ -22012,6 +24108,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Delay after shooting is reduced by 30%, increasing Rate of Fire for 6 seconds."
@@ -22019,6 +24120,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Can be refreshed."
@@ -22031,6 +24137,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Increased duration."
@@ -22062,6 +24173,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After dealing damage with all your weapons within [?] seconds of each:"
@@ -22069,6 +24185,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "35% increased damage for 10 seconds."
@@ -22081,6 +24202,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased to 11 seconds"
@@ -22090,6 +24216,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After dealing damage with all your weapons within [?] seconds of each:"
@@ -22097,6 +24228,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "35% increased damage for 10 seconds."
@@ -22109,6 +24245,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased to 11 seconds"
@@ -22131,6 +24272,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Elemental or Barrier Champion Shield Break:"
@@ -22138,6 +24284,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Refreshes ",
@@ -22157,6 +24308,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Energy Weapons are refunded 1 Ammo upon hitting Matching Elemental Shields."
@@ -22169,6 +24325,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
@@ -22178,6 +24339,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Elemental or Barrier Champion Shield Break:"
@@ -22185,6 +24351,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Refreshes magazine. (Refresh: Reload, but does not need animation and doesn't proc on-reload perks.)"
@@ -22197,6 +24368,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Energy Weapons are refunded 1 Ammo upon hitting Matching Elemental Shields."
@@ -22209,6 +24385,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
@@ -22496,6 +24677,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and 100 Blast Radius."
@@ -22503,6 +24689,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Max of 6 Stacks. Consumes 1 Stack per Shot."
@@ -22515,6 +24706,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grenade Launchers: 44% Increased damage"
@@ -22522,6 +24718,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Rocket Launchers: 25% Increased damage."
@@ -22534,6 +24735,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Velocity."
@@ -22543,6 +24749,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and 100 Blast Radius."
@@ -22550,6 +24761,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Max of 6 Stacks. Consumes 1 Stack per Shot."
@@ -22562,6 +24778,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grenade Launchers: 44% Increased damage"
@@ -22569,6 +24790,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Rocket Launchers: 25% Increased damage."
@@ -22581,6 +24807,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Velocity."
@@ -23619,6 +25850,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Refreshes ",
@@ -23638,6 +25874,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Activation timer is reduced to 2.3 seconds."
@@ -23647,6 +25888,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Refreshes stowed weapon from reserves after 2.5 seconds."
@@ -23659,6 +25905,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Activation timer is reduced to 2.3 seconds."
@@ -23773,6 +26024,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Miss:"
@@ -23780,6 +26036,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Primary Weapons have a 35% chance to refund ammo."
@@ -23787,6 +26048,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Special Weapons and Heavy Weapons have a 20% chance to refund ammo."
@@ -23799,6 +26065,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced:"
@@ -23806,6 +26077,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Primary Weapons have a [40% maybe] chance to refund ammo. "
@@ -23813,6 +26089,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Special Weapons and Heavy Weapons have a [25% maybe] chance to refund ammo."
@@ -23822,6 +26103,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Miss:"
@@ -23829,6 +26115,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Primary Weapons have a 35% chance to refund ammo."
@@ -23836,6 +26127,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Special Weapons and Heavy Weapons have a 20% chance to refund ammo."
@@ -23848,6 +26144,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced:"
@@ -23855,6 +26156,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Primary Weapons have a [40% maybe] chance to refund ammo. "
@@ -23862,6 +26168,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Special Weapons and Heavy Weapons have a [25% maybe] chance to refund ammo."
@@ -24290,6 +26601,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage."
@@ -24297,6 +26613,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Detonation timer varies on draw and distance."
@@ -24309,6 +26630,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on the Precision Multiplier.",
@@ -24324,6 +26650,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVP] Total damage remains the same.",
@@ -24339,6 +26670,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Accuracy."
@@ -24348,6 +26684,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage."
@@ -24355,6 +26696,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Detonation timer varies on draw and distance."
@@ -24367,6 +26713,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on the Precision Multiplier."
@@ -24379,6 +26730,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[PVP] Total damage remains the same."
@@ -24391,6 +26747,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Accuracy."
@@ -25230,6 +27591,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grants different Stat Bonuses based on your selected Subclass."
@@ -25242,6 +27608,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "classNames": [
@@ -25254,6 +27625,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "classNames": [
@@ -25266,6 +27642,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "classNames": [
@@ -25278,6 +27659,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "classNames": [
@@ -25295,6 +27681,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Adds an additional 5 to the Stat Bonus currently in effect. Unknown for Stasis."
@@ -25304,6 +27695,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Grants different Stat Bonuses based on your selected Subclass."
@@ -25316,6 +27712,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Solar: 50 Reload Speed"
@@ -25323,6 +27724,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Arc: 50 Handling"
@@ -25330,6 +27736,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Void: 20 Stability"
@@ -25337,6 +27748,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stasis: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty"
@@ -25349,6 +27765,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Adds an additional 5 to the Stat Bonus currently in effect. Unknown for Stasis."
@@ -25371,6 +27792,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Kills with "
@@ -25399,7 +27825,12 @@
               ]
             },
             {
-              "text": "<special/>"
+              "text": " "
+            },
+            {
+              "classNames": [
+                "special"
+              ]
             },
             {
               "text": "Special Weapons grant 20%."
@@ -25412,6 +27843,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Using your Grenade Ability "
@@ -25434,6 +27870,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
@@ -25443,6 +27884,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. [MOST] Special Weapons grant 20%."
@@ -25455,6 +27901,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Trace Rifles and Grenade Launchers grant half of what other Special Weapons give."
@@ -25467,6 +27918,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Using your Grenade Ability refreshes Magazine. 3 Second Cooldown."
@@ -25479,6 +27935,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
@@ -25957,6 +28418,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Powered Sword Hits apply Slow Stacks."
@@ -25969,6 +28435,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Light Attacks apply 40 Slow Stacks."
@@ -25976,6 +28447,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Heavy Attacks apply 60 Slow Stacks."
@@ -25985,6 +28461,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Powered Sword Hits apply Slow Stacks."
@@ -25997,6 +28478,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Light Attacks apply 40 Slow Stacks."
@@ -26004,6 +28490,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Heavy Attacks apply 60 Slow Stacks."
@@ -27181,6 +29672,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Sword Kill:"
@@ -27188,6 +29684,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Increased Charge Rate, Endurance, Efficiency, and Defense."
@@ -27195,6 +29696,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lasts until stowed."
@@ -27204,6 +29710,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Sword Kill:"
@@ -27211,6 +29722,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Increased Charge Rate, Endurance, Efficiency, and Defense."
@@ -27218,6 +29734,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lasts until stowed."
@@ -27686,6 +30207,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base."
@@ -27695,6 +30221,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base."
@@ -27717,6 +30248,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While blocking and stationary:"
@@ -27724,6 +30260,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[50%?] Additional Weapon Energy on Hit."
@@ -27736,6 +30277,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Increases Energy Bonus on Hit."
@@ -27745,6 +30291,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While blocking and stationary:"
@@ -27752,6 +30303,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "[50%?] Additional Weapon Energy on Hit."
@@ -27764,6 +30320,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Increases Energy Bonus on Hit."
@@ -27795,6 +30356,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill:"
@@ -27802,6 +30368,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Target explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage."
@@ -27809,6 +30380,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "50 Reload Speed for 6 seconds."
@@ -27821,6 +30397,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "<highlight_4 Not affected by Dragonfly Spec. />"
@@ -27833,6 +30414,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reload Time: ",
@@ -27846,6 +30432,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill:"
@@ -27853,6 +30444,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Target explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage."
@@ -27860,6 +30456,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "50 Reload Speed for 6 seconds."
@@ -27872,6 +30473,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Not affected by Dragonfly Spec."
@@ -28539,6 +31145,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage."
@@ -28546,6 +31157,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% effective damage increase."
@@ -28558,6 +31174,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 50 Blast Radius."
@@ -28570,6 +31191,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 55 Blast Radius."
@@ -28579,6 +31205,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage."
@@ -28586,6 +31217,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20% effective damage increase."
@@ -28598,6 +31234,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 50 Blast Radius."
@@ -28610,6 +31251,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 55 Blast Radius."
@@ -30510,6 +33156,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After being "
@@ -30527,6 +33178,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "15% Increased Damage, 50 Handling, and 50 Reload Speed."
@@ -30534,6 +33190,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lasts until you're out of combat and works while stowed."
@@ -30546,6 +33207,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reload Time: ",
@@ -30557,6 +33223,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ready Speed: ",
@@ -30568,6 +33239,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stow Speed: ",
@@ -30575,6 +33251,9 @@
               "classNames": [
                 "formula"
               ]
+            },
+            {
+              "text": " "
             }
           ]
         },
@@ -30584,6 +33263,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: In Combat Timer is increased to 5.5 seconds"
@@ -30593,6 +33277,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "After being in Combat for 12 seconds:"
@@ -30600,6 +33289,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "15% Increased Damage, 50 Handling, and 50 Reload Speed."
@@ -30607,6 +33301,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Lasts until you're out of combat and works while stowed."
@@ -30619,6 +33318,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Being in Combat is defined as having either dealt or received damage within 5 seconds."
@@ -30631,6 +33335,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: In Combat Timer is increased to 5.5 seconds"
@@ -30665,6 +33374,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30 Reload Stat with a 0.9x "
@@ -30679,6 +33393,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Decreases magazing size. (Only visible in-game.)"
@@ -30691,6 +33410,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Reload Time: ",
@@ -30704,6 +33428,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "30 Reload Stat with a 0.9x Reload Duration Scalar."
@@ -30716,6 +33445,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Decreases magazing size. (Only visible in-game.)"
@@ -30738,6 +33472,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 20 Aim Assist and -30 Range."
@@ -30747,6 +33486,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Passively grants 20 Aim Assist and -30 Range."
@@ -31257,6 +34001,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While Last Guardian Standing:"
@@ -31264,6 +34013,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Kills fully "
@@ -31283,6 +34037,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While Last Guardian Standing:"
@@ -31290,6 +34049,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Kills fully refresh Magazine."
@@ -31312,6 +34076,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Automatically queues up the next shot after firing if you hold the trigger."
@@ -31324,6 +34093,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "10% Faster Rate of Fire on Shotguns exclusively."
@@ -31333,6 +34107,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Automatically queues up the next shot after firing if you hold the trigger."
@@ -31345,6 +34124,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "10% Faster Rate of Fire on Shotguns exclusively."
@@ -31400,6 +34184,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon Kill:"
@@ -31407,6 +34196,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Apply 30 Scorch to enemies within [?] meters."
@@ -31414,6 +34208,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ember of Ashes increases this to 40 Scorch."
@@ -31426,6 +34225,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Killing Powerful Combatants and Players increases the range to 8 meters."
@@ -31438,6 +34242,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced:"
@@ -31445,6 +34254,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped",
@@ -31455,6 +34269,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped",
@@ -31467,6 +34286,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Kills apply 30 Scorch to enemies within [?] meters."
@@ -31474,6 +34298,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ember of Ashes increases this to 40 Scorch."
@@ -31486,6 +34315,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Killing Powerful Combatants and Players increases the range to 8 meters."
@@ -31503,6 +34337,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced:"
@@ -31510,6 +34349,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "PVE: Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped"
@@ -31522,6 +34366,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "PVP: Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped"
