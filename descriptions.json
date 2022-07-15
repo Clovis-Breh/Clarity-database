@@ -1,53 +1,5 @@
 {
-  "descriptions": {
-    "0": {
-      "id": 0,
-      "name": "",
-      "type": "none",
-      "description": [
-        {
-          "classNames": [
-            "spacer"
-          ]
-        }
-      ],
-      "lastUpdate": 0,
-      "updatedBy": "",
-      "editor": {
-        "mainEditor": "",
-        "secondaryEditor": ""
-      },
-      "uploadToLive": false,
-      "visible": true,
-      "investmentStatOnly": true
-    },
-    "3999527219": {
-      "id": 3999527219,
-      "name": "Remote Detonation",
-      "updatedBy": "Icemourne",
-      "type": "weaponPerk",
-      "description": [
-        {
-          "classNames": [
-            "spacer"
-          ]
-        }
-      ],
-      "simpleDescription": [
-        {
-          "classNames": [
-            "spacer"
-          ]
-        }
-      ],
-      "editor": {
-        "mainEditor": "",
-        "secondaryEditor": ""
-      },
-      "inLiveDatabase": true,
-      "lastUpdate": 1657364188065,
-      "visible": true
-    },
+
     "descriptions": {
       "0": {
         "id": 0,
@@ -34449,7 +34401,7 @@
         "inLiveDatabase": true,
         "lastUpdate": 1657364188065,
         "visible": true
-      }
+      
     },
     "saved": {
       "perks": {
