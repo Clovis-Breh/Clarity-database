@@ -4,7 +4,13 @@
       "id": 0,
       "name": "",
       "type": "none",
-      "description": [],
+      "description": [
+        {
+          "classNames": [
+            "spacer"
+          ]
+        }
+      ],
       "lastUpdate": 0,
       "updatedBy": "",
       "editor": {
@@ -12,7 +18,8 @@
         "secondaryEditor": ""
       },
       "uploadToLive": false,
-      "visible": false
+      "visible": true,
+      "investmentStatOnly": false
     },
     "8507332": {
       "id": 8507332,
@@ -12749,6 +12756,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Elemental/Barrier Champion or Guardian Shield Break:"
@@ -12756,6 +12768,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Debuffs the enemy, increasing Kinetic Damage by 50% for 5.5 seconds."
@@ -12763,6 +12780,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stacks with other Debuffs, as it is a Weapon Perk."
@@ -12775,6 +12797,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Debuff Duration is increased."
@@ -12784,6 +12811,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Elemental/Barrier Champion or Guardian Shield Break:"
@@ -12791,6 +12823,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Debuffs the enemy, increasing Kinetic Damage by 50% for 5.5 seconds."
@@ -12798,6 +12835,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stacks with other Debuffs, as it is a Weapon Perk."
@@ -12810,6 +12852,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Debuff Duration is increased."
@@ -20488,6 +20535,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill:"
@@ -20495,6 +20547,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Target explodes, dealing the Weapon's Elemental Damage in a 3 meter radius."
@@ -20502,6 +20559,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Damage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%."
@@ -20521,8 +20583,14 @@
             null,
             null
           ],
+          "isFormula": null,
           "table": [
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Weapon Type",
@@ -20556,6 +20624,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Snipers"
@@ -20581,6 +20654,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Hand Cannons"
@@ -20606,6 +20684,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Scout Rifles"
@@ -20631,6 +20714,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Submachine Guns"
@@ -20656,6 +20744,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Pulse Rifles ",
@@ -20677,6 +20770,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Reload Speed."
@@ -20686,6 +20784,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill:"
@@ -20693,6 +20796,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Target explodes, dealing the Weapon's Elemental Damage in a 3 meter radius. Damage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%."
@@ -20705,6 +20813,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Reload Speed."
@@ -27935,6 +28048,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Precision Kill:"
@@ -27942,6 +28060,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Target explodes, dealing the Weapon's Elemental Damage in a 3 meter radius."
@@ -27949,6 +28072,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Damage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%."
@@ -27968,8 +28096,14 @@
             null,
             null
           ],
+          "isFormula": null,
           "table": [
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Weapon Type",
@@ -28003,6 +28137,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Snipers"
@@ -28028,6 +28167,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Hand Cannons"
@@ -28053,6 +28197,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Scout Rifles"
@@ -28078,6 +28227,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Submachine Guns"
@@ -28103,6 +28257,11 @@
               ]
             },
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Pulse Rifles ",
@@ -28124,6 +28283,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Reload Speed."
@@ -28133,16 +28297,26 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
-              "text": "On Precision Kill:"
+              "text": "On Precision Kill:\r"
             }
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
-              "text": "Target explodes, dealing the Weapon's Elemental Damage in a 3 meter radius. Damage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%."
+              "text": "Target explodes, dealing the Weapon's Elemental Damage in a 3 meter radius. Damage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\r"
             }
           ]
         },
@@ -28152,6 +28326,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Passively grants 5 Reload Speed."
@@ -28160,8 +28339,8 @@
         }
       ],
       "editor": {
-        "mainEditor": "On Precision Kill:\nTarget explodes, dealing the Weapon's Elemental Damage in a 3 meter radius.\nDamage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\n\n< table >\n|b Weapon Type                      | <title Damage Multiplier [Damage Multipliers are in comparison to bodyshot damage.] />\n| Linear Fusions                    | 0.5x <background/>\n| Snipers                           | 0.6x\n| Bows                              | 0.9x <background/>\n| Hand Cannons                      | 2x\n| Sidearms                          | 2x <background/>\n| Scout Rifles                      | 2.5x\n| Machine Guns                      | 2.5x <background/>\n| Submachine Guns                   | 5x \n| Auto Rifles                       | 5x <background/>\n| <title Pulse Rifles [Individual bullets] /> | 6x \n<$>\n\nEnhanced: Passively grants 5 Reload Speed.",
-        "secondaryEditor": "On Precision Kill:\r\nTarget explodes, dealing the Weapon's Elemental Damage in a 3 meter radius. Damage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
+        "mainEditor": "import main from 2848615171",
+        "secondaryEditor": "import secondary from 2848615171"
       },
       "inLiveDatabase": true,
       "lastUpdate": 1657364188065,
