@@ -18,8 +18,15 @@
         "secondaryEditor": ""
       },
       "uploadToLive": false,
-      "visible": true,
-      "investmentStatOnly": false
+      "visible": false,
+      "investmentStatOnly": false,
+      "simpleDescription": [
+        {
+          "classNames": [
+            "spacer"
+          ]
+        }
+      ]
     },
     "8507332": {
       "id": 8507332,
