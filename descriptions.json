@@ -33505,7 +33505,9 @@
       },
       "inLiveDatabase": true,
       "lastUpdate": 1657364188065,
-      "visible": true
+      "visible": true,
+      "investmentStatOnly": true,
+      "uploadToLive": true
     },
     "4154828211": {
       "id": 4154828211,
@@ -34143,7 +34145,8 @@
       },
       "inLiveDatabase": true,
       "lastUpdate": 1657364188065,
-      "visible": false
+      "visible": false,
+      "uploadToLive": true
     },
     "4278960718": {
       "id": 4278960718,
