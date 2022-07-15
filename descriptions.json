@@ -199,6 +199,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon or Grenade Kill:"
@@ -206,6 +211,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "20 Handling and a Stacking Damage Increase for 4.5 seconds."
@@ -213,6 +223,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Buff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly."
@@ -232,8 +247,14 @@
             null,
             null
           ],
+          "isFormula": null,
           "table": [
             {
+              "classNames": [
+                null,
+                null,
+                null
+              ],
               "linesContent": [
                 {
                   "text": "Stacks",
@@ -318,6 +339,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Ready Speed: ",
@@ -329,6 +355,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Stow Speed: ",
@@ -345,6 +376,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5 seconds."
@@ -364,6 +400,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "On Weapon or Grenade Kill:"
@@ -371,6 +412,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "6.6%  13.2%  20%  26.4%  33% Increased Damage and 20 Handling for 4.5 seconds."
@@ -383,6 +429,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Buff Refreshed on Kill. Grenade Kills grant all 5 stacks instantly."
@@ -395,6 +446,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Buff Duration is increased by 0.5 seconds, to a maximum of 5 seconds."
@@ -5046,7 +5102,7 @@
         "secondaryEditor": "Decreases charge time by 40, and damage by 2%"
       },
       "inLiveDatabase": false,
-      "visible": false
+      "visible": true
     },
     "692285813": {
       "id": 692285813,
@@ -27248,6 +27304,11 @@
       "type": "weaponPerk",
       "description": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While at Low Health:"
@@ -27255,6 +27316,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Up to 60 Airborne Effectiveness."
@@ -27262,6 +27328,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
@@ -27274,6 +27345,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Grants up to 66[?] Airborne Effectiveness."
@@ -27283,6 +27359,11 @@
       ],
       "simpleDescription": [
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "While at Low Health:"
@@ -27290,6 +27371,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Up to 60 Airborne Effectiveness."
@@ -27297,6 +27383,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
@@ -27309,6 +27400,11 @@
           ]
         },
         {
+          "classNames": [
+            null,
+            null,
+            null
+          ],
           "linesContent": [
             {
               "text": "Enhanced: Grants up to 66[?] Airborne Effectiveness."
