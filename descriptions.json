@@ -4733,7 +4733,9 @@
       },
       "inLiveDatabase": true,
       "lastUpdate": 1657364188064,
-      "visible": true
+      "visible": true,
+      "investmentStatOnly": true,
+      "uploadToLive": true
     },
     "593361144": {
       "id": 593361144,
