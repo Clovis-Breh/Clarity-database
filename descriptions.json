@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1658070919855,
+   "lastUpdate": 1658077497517,
    "updatedBy": "Icemourne",
    "editor": {
     "mainEditor": "",
@@ -13,7 +13,7 @@
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": true
+   "inLiveDatabase": false
   },
   "8507332": {
    "id": 8507332,
@@ -9906,6 +9906,11 @@
    "type": "armorExotic",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Melee Hits grant Stacks of Fury Conductors."
@@ -9913,6 +9918,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Receiving melee damage unleashes an "
@@ -9928,8 +9938,12 @@
      ]
     },
     {
-     "linesContent": [
+     "classNames": [
       null,
+      null,
+      null
+     ],
+     "linesContent": [
       {
        "classNames": [
         "arc"
@@ -9946,6 +9960,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Fury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks."
@@ -9958,6 +9977,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "All Stacks disappear upon receiving melee damage or after 10 seconds of not dealing melee damage."
@@ -9967,6 +9991,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Melee Hits grant Stacks of Fury Conductors."
@@ -9974,6 +10003,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Receiving melee damage unleashes an Arc Explosion with a radius of 5 metres."
@@ -9981,6 +10015,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Arc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors."
@@ -9993,6 +10032,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Fury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks."
@@ -10005,6 +10049,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "All Stacks disappear upon receiving melee damage or after 10 seconds of not dealing melee damage."
@@ -10016,8 +10065,8 @@
     "mainEditor": "Melee Hits grant Stacks of Fury Conductors.\nReceiving melee damage unleashes an <arc/>Arc Explosion with a radius of 5 metres.\n<arc/>Arc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\n\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\n\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not dealing melee damage.",
     "secondaryEditor": "Melee Hits grant Stacks of Fury Conductors.\r\nReceiving melee damage unleashes an Arc Explosion with a radius of 5 metres.\r\nArc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\r\n\r\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\r\n\r\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not dealing melee damage."
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "inLiveDatabase": false,
+   "lastUpdate": 1658077497517,
    "visible": true
   },
   "1155472387": {
@@ -18897,6 +18946,11 @@
    "type": "armorExotic",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "During Spectral Blade"
@@ -18904,6 +18958,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Restores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills."
@@ -18916,6 +18975,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Super Energy % gains based on kills"
@@ -18923,37 +18987,126 @@
      ]
     },
     {
-     "linesContent": [
-      null,
-      {
-       "text": "11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1",
-       "classNames": [
-        "pve"
-       ]
-      },
-      null
-     ]
-    },
-    {
-     "linesContent": [
-      null,
-      {
-       "text": "8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7",
-       "classNames": [
-        "pvp"
-       ]
-      },
-      null
-     ]
-    },
-    {
      "classNames": [
-      "spacer"
+      "table",
+      null,
+      null,
+      null,
+      null
+     ],
+     "table": [
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "linesContent": [
+        {
+         "text": "11.1",
+         "classNames": [
+          "pve"
+         ]
+        },
+        {
+         "text": "🠚"
+        },
+        {
+         "text": "14.3",
+         "classNames": [
+          "pve"
+         ]
+        },
+        {
+         "text": "🠚"
+        },
+        {
+         "text": "16.5",
+         "classNames": [
+          "pve"
+         ]
+        },
+        {
+         "text": "🠚"
+        },
+        {
+         "text": "16.9",
+         "classNames": [
+          "pve"
+         ]
+        },
+        {
+         "text": "🠚"
+        },
+        {
+         "text": "17.1",
+         "classNames": [
+          "pve"
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "linesContent": [
+        {
+         "text": "8.3",
+         "classNames": [
+          "pvp"
+         ]
+        },
+        {
+         "text": "🠚"
+        },
+        {
+         "text": "12.5",
+         "classNames": [
+          "pvp"
+         ]
+        },
+        {
+         "text": "🠚"
+        },
+        {
+         "text": "14.2",
+         "classNames": [
+          "pvp"
+         ]
+        },
+        {
+         "text": "🠚"
+        },
+        {
+         "text": "15.8",
+         "classNames": [
+          "pvp"
+         ]
+        },
+        {
+         "text": "🠚"
+        },
+        {
+         "text": "16.7",
+         "classNames": [
+          "pvp"
+         ]
+        }
+       ]
+      }
      ]
     }
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "During Spectral Blade"
@@ -18961,6 +19114,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Restores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills."
@@ -18973,6 +19131,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Super Energy % gains based on kills"
@@ -18980,6 +19143,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "PVE: 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1"
@@ -18987,6 +19155,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "PVP: 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
@@ -18995,11 +19168,11 @@
     }
    ],
    "editor": {
-    "mainEditor": "During Spectral Blade\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\n\nSuper Energy % gains based on kills\n<pve 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1 />\n<pvp 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7 />\n",
+    "mainEditor": "During Spectral Blade\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\n\nSuper Energy % gains based on kills\n< table >\n| <pve 11.1 /> | 🠚 | <pve 14.3 /> | 🠚 | <pve 16.5 /> | 🠚 | <pve 16.9 /> | 🠚 | <pve 17.1 />\n| <pvp 8.3 />  | 🠚 | <pvp 12.5 /> | 🠚 | <pvp 14.2 /> | 🠚 | <pvp 15.8 /> | 🠚 | <pvp 16.7 />\n<$>",
     "secondaryEditor": "During Spectral Blade\r\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\r\n\r\nSuper Energy % gains based on kills\r\nPVE: 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1\r\nPVP: 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "inLiveDatabase": false,
+   "lastUpdate": 1658077497517,
    "visible": true
   },
   "2192678015": {
