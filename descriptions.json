@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658069993945,
    "updatedBy": "Icemourne",
    "editor": {
     "mainEditor": "",
@@ -13,7 +13,7 @@
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "8507332": {
    "id": 8507332,
@@ -36885,6 +36885,9 @@
   "perks": {
    "3673922083": {
     "description": "On Weapon Kill:\nIncreased damage, slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
+   },
+   "3722653512": {
+    "description": "While at Low Health:\nUp to 60 Airborne Effectiveness.\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\nEnhanced: Grants up to 66[?] Airborne Effectiveness."
    }
   },
   "variables": {}
