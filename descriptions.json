@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1658147384292,
+   "lastUpdate": 1658147398635,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -1671,7 +1671,7 @@
     "secondaryEditor": "While below 113 HP:\r\nUp to +100 Reload Speed with 0.9x Duration Multiplier \r\nEffect increases linearly as health decreases"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147384292,
+   "lastUpdate": 1658147398635,
    "visible": true
   },
   "229003538": {
@@ -6765,7 +6765,7 @@
    },
    "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1658147384292
+   "lastUpdate": 1658147398635
   },
   "692285813": {
    "id": 692285813,
@@ -16562,7 +16562,7 @@
     "secondaryEditor": "As Magazine goes below 50% until empty:\r\nUp to -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, and 30[?] Stability.\r\n\r\nEnhanced: Stronger effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147384292,
+   "lastUpdate": 1658147398635,
    "visible": true,
    "uploadToLive": true
   },
@@ -22486,7 +22486,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147384292,
+   "lastUpdate": 1658147398635,
    "visible": true
   },
   "2213355989": {
@@ -28522,7 +28522,7 @@
     "secondaryEditor": "After Reloading within 6 seconds of a Weapon Kill:\r\n20 Aim Assist, -20% Accuracy Cone Size, and [?] Handling (ADS only) for 5 seconds.\r\nBuff cannot be refreshed.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147384292,
+   "lastUpdate": 1658147398635,
    "visible": true
   },
   "2951499542": {
@@ -32888,7 +32888,7 @@
     "secondaryEditor": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147384292,
+   "lastUpdate": 1658147398635,
    "visible": true
   },
   "3418782618": {
@@ -33186,7 +33186,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n10% | 21% | 33.1% increased damage for 3.5 seconds.\r\nBuff Refreshed on Kill. \r\n\r\nEnhanced: Buff Duration is increased to 4 seconds.\r\n\r\nRampage Spec adds an additional 1 second to both regular and enhanced."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147384292,
+   "lastUpdate": 1658147398635,
    "visible": true
   },
   "3436462433": {
@@ -34502,7 +34502,7 @@
     "secondaryEditor": "Huckleberry specific:\r\n[PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds.\r\n[PVP] 10% | 21% | 33.1% increased damage for 3.5 seconds.\r\nBuff Refreshed on Kill."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147384292,
+   "lastUpdate": 1658147398635,
    "visible": true
   },
   "3556461530": {
