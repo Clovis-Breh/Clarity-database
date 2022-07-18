@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1658167787853,
+   "lastUpdate": 1658167925663,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -6751,7 +6751,7 @@
    },
    "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1658167787853
+   "lastUpdate": 1658167925663
   },
   "692285813": {
    "id": 692285813,
@@ -11019,7 +11019,7 @@
     "secondaryEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per hit, up to 435%: Fusion Rifles\r\n\r\n33.3% per hit, up to 500%:\r\nAuto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\r\n\r\n150% per hit, up to 450%: Linear Fusion Rifles\r\n\r\n166.6% per hit, up to 500%:\r\nBows, Glaives, Hand Cannons, Scout Rifles\r\n\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%\r\nEg: 500% -> 600%"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658167787853,
+   "lastUpdate": 1658167925663,
    "visible": true,
    "uploadToLive": true
   },
@@ -28393,7 +28393,7 @@
     "mainEditor": "import stats from 3673922083\r\nimport main from 3673922083",
     "secondaryEditor": "import secondary from 3673922083"
    },
-   "lastUpdate": 1658167787853,
+   "lastUpdate": 1658167925663,
    "updatedBy": "Fading-Shadow",
    "type": "weaponPerkEnhanced",
    "description": [
@@ -29625,7 +29625,7 @@
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658167787853,
+   "lastUpdate": 1658167925663,
    "visible": true
   },
   "3016987351": {
@@ -33831,10 +33831,10 @@
    "id": 3431277734,
    "name": "Adaptive Munitions",
    "editor": {
-    "mainEditor": "import main from 1048183818",
+    "mainEditor": "import stats from none\r\nimport main from 1048183818",
     "secondaryEditor": "import secondary from 1048183818"
    },
-   "lastUpdate": 1658167787853,
+   "lastUpdate": 1658167925663,
    "updatedBy": "Fading-Shadow",
    "type": "weaponPerkEnhanced",
    "description": [
@@ -34226,16 +34226,6 @@
      ]
     }
    ],
-   "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       10,
-       15
-      ]
-     }
-    }
-   },
    "inLiveDatabase": false
   },
   "3436462433": {
@@ -37115,8 +37105,9 @@
     "secondaryEditor": "import description from 3673922083\r\n\r\nBows and Shotguns receive 20% increased damage. Fusion Rifles receive 27% increased damage.\r\n\r\n-15% Rate of Fire/Charge Rate:\r\nHand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles, Rapid-Fire Auto Rifles\r\n\r\n-20% Rate of Fire/Charge Rate:\r\nAdaptive Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns\r\n\r\nEnhanced: Buff Duration is increased to 8 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658167787853,
-   "visible": true
+   "lastUpdate": 1658167925663,
+   "visible": true,
+   "uploadToLive": true
   },
   "3683811620": {
    "id": 3683811620,
