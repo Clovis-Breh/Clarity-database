@@ -5,15 +5,29 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1658146531522,
-   "updatedBy": "Icemourne",
+   "lastUpdate": 1658147384292,
+   "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
     "secondaryEditor": ""
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": true
+   "stats": {
+    "damage": {
+     "active": {
+      "multiplier": [
+       1.1,
+       1.21,
+       1.331,
+       1.2,
+       1.41,
+       1.66
+      ]
+     }
+    }
+   },
+   "inLiveDatabase": false
   },
   "8507332": {
    "id": 8507332,
@@ -1516,7 +1530,7 @@
   "205890336": {
    "id": 205890336,
    "name": "Underdog",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "active": {
@@ -1556,7 +1570,7 @@
        "text": "Up to +100 Reload Speed with 0.9x "
       },
       {
-       "text": "RDS ",
+       "text": "RDS",
        "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
        "classNames": [
         "title"
@@ -1589,7 +1603,7 @@
      ],
      "linesContent": [
       {
-       "text": "Half Strength Reload Time: ",
+       "text": "Half Strength Reload Time:",
        "formula": "reload_0",
        "classNames": [
         "formula"
@@ -1605,7 +1619,7 @@
      ],
      "linesContent": [
       {
-       "text": "Maximum Strength Reload Time: ",
+       "text": "Maximum Strength Reload Time:",
        "formula": "reload_1",
        "classNames": [
         "formula"
@@ -1657,7 +1671,7 @@
     "secondaryEditor": "While below 113 HP:\r\nUp to +100 Reload Speed with 0.9x Duration Multiplier \r\nEffect increases linearly as health decreases"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658147384292,
    "visible": true
   },
   "229003538": {
@@ -6692,7 +6706,7 @@
   "689005463": {
    "id": 689005463,
    "name": "Accelerated Coils",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "passive": {
@@ -6749,9 +6763,9 @@
     "mainEditor": "Decreases charge time by 40, and damage by 2%",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
+   "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1658146325998
+   "lastUpdate": 1658147384292
   },
   "692285813": {
    "id": 692285813,
@@ -16548,8 +16562,9 @@
     "secondaryEditor": "As Magazine goes below 50% until empty:\r\nUp to -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, and 30[?] Stability.\r\n\r\nEnhanced: Stronger effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658144343810,
-   "visible": true
+   "lastUpdate": 1658147384292,
+   "visible": true,
+   "uploadToLive": true
   },
   "1667892708": {
    "id": 1667892708,
@@ -22378,7 +22393,7 @@
   "2209918983": {
    "id": 2209918983,
    "name": "Turnabout",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -22471,7 +22486,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658147384292,
    "visible": true
   },
   "2213355989": {
@@ -28381,7 +28396,7 @@
   "2946784966": {
    "id": 2946784966,
    "name": "Tunnel Vision",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "aimAssist": {
      "active": {
@@ -28507,7 +28522,7 @@
     "secondaryEditor": "After Reloading within 6 seconds of a Weapon Kill:\r\n20 Aim Assist, -20% Accuracy Cone Size, and [?] Handling (ADS only) for 5 seconds.\r\nBuff cannot be refreshed.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658147384292,
    "visible": true
   },
   "2951499542": {
@@ -32780,7 +32795,7 @@
   "3400784728": {
    "id": 3400784728,
    "name": "Triple Tap",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -32873,7 +32888,7 @@
     "secondaryEditor": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658147384292,
    "visible": true
   },
   "3418782618": {
@@ -33009,7 +33024,7 @@
   "3425386926": {
    "id": 3425386926,
    "name": "Rampage",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -33043,7 +33058,7 @@
      ],
      "linesContent": [
       {
-       "text": "10%  21%  33.1% increased damage for 3.5 seconds."
+       "text": "10% | 21% | 33.1% increased damage for 3.5 seconds."
       }
      ]
     },
@@ -33115,7 +33130,7 @@
      ],
      "linesContent": [
       {
-       "text": "10%  21%  33.1% increased damage for 3.5 seconds."
+       "text": "10% | 21% | 33.1% increased damage for 3.5 seconds."
       }
      ]
     },
@@ -33171,7 +33186,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n10% | 21% | 33.1% increased damage for 3.5 seconds.\r\nBuff Refreshed on Kill. \r\n\r\nEnhanced: Buff Duration is increased to 4 seconds.\r\n\r\nRampage Spec adds an additional 1 second to both regular and enhanced."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658147384292,
    "visible": true
   },
   "3436462433": {
@@ -34360,7 +34375,7 @@
   "3551326236": {
    "id": 3551326236,
    "name": "Rampage",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -34385,47 +34400,6 @@
      ],
      "linesContent": [
       {
-       "text": "On Weapon Kill:"
-      }
-     ]
-    },
-    {
-     "classNames": [
-      null,
-      null,
-      null
-     ],
-     "linesContent": [
-      {
-       "text": "10%  21%  33.1% increased damage for 3.5 seconds."
-      }
-     ]
-    },
-    {
-     "classNames": [
-      null,
-      null,
-      null
-     ],
-     "linesContent": [
-      {
-       "text": "Buff Refreshed on Kill. "
-      }
-     ]
-    },
-    {
-     "classNames": [
-      "spacer"
-     ]
-    },
-    {
-     "classNames": [
-      null,
-      null,
-      null
-     ],
-     "linesContent": [
-      {
        "text": "Huckleberry specific:"
       }
      ]
@@ -34438,38 +34412,12 @@
      ],
      "linesContent": [
       {
-       "text": "<pve [PVE] 20%  41%  66% Damage Increase for 3.5 seconds. />"
-      }
-     ]
-    },
-    {
-     "classNames": [
-      null,
-      null,
-      null
-     ],
-     "linesContent": [
-      {
-       "text": "PVP values stay the same.",
+       "text": "20% | 41% | 66% Damage Increase for 3.5 seconds.",
        "classNames": [
-        "pvp"
+        "pve"
        ]
       }
      ]
-    }
-   ],
-   "simpleDescription": [
-    {
-     "classNames": [
-      null,
-      null,
-      null
-     ],
-     "linesContent": [
-      {
-       "text": "On Weapon Kill:"
-      }
-     ]
     },
     {
      "classNames": [
@@ -34479,7 +34427,10 @@
      ],
      "linesContent": [
       {
-       "text": "10%  21%  33.1% Increased damage for 3.5 seconds."
+       "text": "10% | 21% | 33.1% increased damage for 3.5 seconds.",
+       "classNames": [
+        "pvp"
+       ]
       }
      ]
     },
@@ -34494,12 +34445,9 @@
        "text": "Buff Refreshed on Kill."
       }
      ]
-    },
-    {
-     "classNames": [
-      "spacer"
-     ]
-    },
+    }
+   ],
+   "simpleDescription": [
     {
      "classNames": [
       null,
@@ -34520,7 +34468,7 @@
      ],
      "linesContent": [
       {
-       "text": "[PVE] 20%  41%  66% Damage Increase for 3.5 seconds."
+       "text": "[PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds."
       }
      ]
     },
@@ -34532,17 +34480,29 @@
      ],
      "linesContent": [
       {
-       "text": "PVP values stay the same."
+       "text": "[PVP] 10% | 21% | 33.1% increased damage for 3.5 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Buff Refreshed on Kill."
       }
      ]
     }
    ],
    "editor": {
-    "mainEditor": "On Weapon Kill:\n10% | 21% | 33.1% increased damage for 3.5 seconds.\nBuff Refreshed on Kill. \n\nHuckleberry specific:\n<pve [PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds. />\n<pvp PVP values stay the same. />",
-    "secondaryEditor": "On Weapon Kill:\r\n10% | 21% | 33.1% Increased damage for 3.5 seconds.\r\nBuff Refreshed on Kill.\r\n\r\nHuckleberry specific:\r\n[PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds.\r\nPVP values stay the same."
+    "mainEditor": "Huckleberry specific:\n<pve 20% | 41% | 66% Damage Increase for 3.5 seconds. />\n<pvp 10% | 21% | 33.1% increased damage for 3.5 seconds. />\nBuff Refreshed on Kill. ",
+    "secondaryEditor": "Huckleberry specific:\r\n[PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds.\r\n[PVP] 10% | 21% | 33.1% increased damage for 3.5 seconds.\r\nBuff Refreshed on Kill."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658147384292,
    "visible": true
   },
   "3556461530": {
