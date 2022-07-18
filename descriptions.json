@@ -5,15 +5,15 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1658141469485,
-   "updatedBy": "Icemourne",
+   "lastUpdate": 1658144343810,
+   "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
     "secondaryEditor": ""
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": true
+   "inLiveDatabase": false
   },
   "8507332": {
    "id": 8507332,
@@ -6692,7 +6692,7 @@
   "689005463": {
    "id": 689005463,
    "name": "Accelerated Coils",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "passive": {
@@ -6751,7 +6751,7 @@
    },
    "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1658080990968
+   "lastUpdate": 1658144343810
   },
   "692285813": {
    "id": 692285813,
@@ -16445,7 +16445,7 @@
   "1645158859": {
    "id": 1645158859,
    "name": "Under Pressure",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -16468,10 +16468,10 @@
      ],
      "linesContent": [
       {
-       "text": "Up to -% Accuracy Cone Size, -% "
+       "text": "Up to -[?]% Accuracy Cone Size, -[?]% "
       },
       {
-       "text": "Accuracy Cone Growth ",
+       "text": "Accuracy Cone Growth",
        "title": "How Fast Your Accuracy Cone Expands. The less the better.",
        "classNames": [
         "title"
@@ -16521,7 +16521,7 @@
      ],
      "linesContent": [
       {
-       "text": "Up to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability."
+       "text": "Up to -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, and 30[?] Stability."
       }
      ]
     },
@@ -16544,11 +16544,11 @@
     }
    ],
    "editor": {
-    "mainEditor": "As Magazine goes below 50% until empty:\nUp to -% Accuracy Cone Size, -% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, and 30[?] Stability.\n\nEnhanced: Stronger effect.",
-    "secondaryEditor": "As Magazine goes below 50% until empty:\r\nUp to -% Accuracy Cone Size, -% Accuracy Cone Growth, and 30[?] Stability.\r\n\r\nEnhanced: Stronger effect."
+    "mainEditor": "As Magazine goes below 50% until empty:\nUp to -[?]% Accuracy Cone Size, -[?]% <title Accuracy Cone Growth [How Fast Your Accuracy Cone Expands. The less the better.] />, and 30[?] Stability.\n\nEnhanced: Stronger effect.",
+    "secondaryEditor": "As Magazine goes below 50% until empty:\r\nUp to -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, and 30[?] Stability.\r\n\r\nEnhanced: Stronger effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658144343810,
    "visible": true
   },
   "1667892708": {
