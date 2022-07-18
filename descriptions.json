@@ -5,30 +5,14 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1658148663107,
-   "updatedBy": "Fading-Shadow",
+   "lastUpdate": 1658149206995,
+   "updatedBy": "Icemourne",
    "editor": {
     "mainEditor": "",
     "secondaryEditor": ""
    },
    "uploadToLive": false,
    "visible": false,
-   "stats": {
-    "chargeDraw": {
-     "passive": {
-      "stat": [
-       -40
-      ]
-     }
-    },
-    "damage": {
-     "passive": {
-      "multiplier": [
-       0.98
-      ]
-     }
-    }
-   },
    "inLiveDatabase": false
   },
   "8507332": {
@@ -6708,7 +6692,7 @@
   "689005463": {
    "id": 689005463,
    "name": "Accelerated Coils",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "type": "weaponPerk",
    "description": [
     {
@@ -6744,7 +6728,7 @@
    },
    "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1658148663107
+   "lastUpdate": 1658149206995
   },
   "692285813": {
    "id": 692285813,
