@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1658080990968,
+   "lastUpdate": 1658141469485,
    "updatedBy": "Icemourne",
    "editor": {
     "mainEditor": "",
@@ -13,7 +13,7 @@
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "8507332": {
    "id": 8507332,
@@ -975,6 +975,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Accuracy"
@@ -984,6 +989,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Accuracy"
@@ -996,8 +1006,9 @@
     "secondaryEditor": "+10 Accuracy"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "124408337": {
    "id": 124408337,
@@ -1658,6 +1669,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Blast Radius"
@@ -1667,6 +1683,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Blast Radius"
@@ -1679,8 +1700,9 @@
     "secondaryEditor": "+10 Blast Radius"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "235075862": {
    "id": 235075862,
@@ -3020,6 +3042,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Range"
@@ -3029,6 +3056,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Range"
@@ -3041,8 +3073,9 @@
     "secondaryEditor": "+10 Range"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "354401740": {
    "id": 354401740,
@@ -3185,6 +3218,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Radar immediately returns after stopping ADS. (Normally takes 1.5s)"
@@ -3194,6 +3232,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Radar immediately returns after stopping ADS. (Normally takes 1.5s)"
@@ -3206,7 +3249,7 @@
     "secondaryEditor": "Radar immediately returns after stopping ADS. (Normally takes 1.5s)"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "384759954": {
@@ -5022,6 +5065,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "X Handling for Y seconds after sprinting for Z seconds."
@@ -5031,6 +5079,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "X Handling for Y seconds after sprinting for Z seconds."
@@ -5043,7 +5096,7 @@
     "secondaryEditor": "X Handling for Y seconds after sprinting for Z seconds."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "553093017": {
@@ -6419,6 +6472,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Reload"
@@ -6428,6 +6486,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Reload"
@@ -6440,8 +6503,9 @@
     "secondaryEditor": "+10 Reload"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "666440382": {
    "id": 666440382,
@@ -6452,6 +6516,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Rampage lasts 1 second longer (3.5s -> 4.5s)"
@@ -6461,6 +6530,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Rampage lasts 1 second longer (3.5s -> 4.5s)"
@@ -6473,7 +6547,7 @@
     "secondaryEditor": "Rampage lasts 1 second longer (3.5s -> 4.5s)"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "671806388": {
@@ -7559,12 +7633,17 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-X% Hipfire "
       },
       {
-       "text": "Accuracy Cone Growth [How Fast Your Accuracy Cone Expands The less the better]",
+       "text": "Accuracy Cone Growth",
        "title": "How Fast Your Accuracy Cone Expands. The less the better.",
        "classNames": [
         "title"
@@ -7578,6 +7657,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-X% Hipfire Accuracy Cone Growth and 0.95x Ready Animation Duration Multiplier"
@@ -7590,7 +7674,7 @@
     "secondaryEditor": "-X% Hipfire Accuracy Cone Growth and 0.95x Ready Animation Duration Multiplier"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "744217850": {
@@ -7912,6 +7996,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-40ms Charge Time"
@@ -7919,6 +8008,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Does not reduce damage, unlike Charge Time MW."
@@ -7926,6 +8020,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Does not display in the stats."
@@ -7935,6 +8034,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-40ms Charge Time"
@@ -7942,6 +8046,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Does not reduce damage, unlike Charge Time MW."
@@ -7949,6 +8058,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Does not display in the stats."
@@ -7961,7 +8075,7 @@
     "secondaryEditor": "-40ms Charge Time\r\nDoes not reduce damage, unlike Charge Time MW.\r\nDoes not display in the stats."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "776531651": {
@@ -9646,6 +9760,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Grants 15 Airborne Effectiveness"
@@ -9655,6 +9774,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Grants 15 Airborne Effectiveness"
@@ -9667,8 +9791,9 @@
     "secondaryEditor": "Grants 15 Airborne Effectiveness"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "951095735": {
    "id": 951095735,
@@ -10255,6 +10380,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "7.77% Damage Increase against Elites and Minibosses"
@@ -10264,6 +10394,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "7.77% Damage Increase against Elites and Minibosses"
@@ -10276,7 +10411,7 @@
     "secondaryEditor": "7.77% Damage Increase against Elites and Minibosses"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1015611457": {
@@ -12377,10 +12512,15 @@
    "name": "Adept Mag",
    "itemId": 2563444729,
    "itemName": "Adept Mag",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+40 Magazine Stat"
@@ -12388,6 +12528,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-15 Handling"
@@ -12397,6 +12542,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+40 Magazine Stat"
@@ -12404,6 +12554,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-15 Handling"
@@ -12415,9 +12570,10 @@
     "mainEditor": "+40 Magazine Stat\r\n-15 Handling",
     "secondaryEditor": "+40 Magazine Stat\r\n-15 Handling"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1657811970304,
-   "visible": true
+   "inLiveDatabase": true,
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "1250481499": {
    "id": 1250481499,
@@ -12860,6 +13016,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "0.9x Ready/Stow Animation Duration Multiplier"
@@ -12869,6 +13030,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "0.9x Ready/Stow Animation Duration Multiplier"
@@ -12881,7 +13047,7 @@
     "secondaryEditor": "0.9x Ready/Stow Animation Duration Multiplier"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1341199512": {
@@ -14501,6 +14667,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Additive 10% Increased Surrounded Damage Increase, and lingers for 1.5s"
@@ -14510,6 +14681,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Additive 10% Increased Surrounded Damage Increase, and lingers for 1.5s"
@@ -14522,7 +14698,7 @@
     "secondaryEditor": "Additive 10% Increased Surrounded Damage Increase, and lingers for 1.5s"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1513326571": {
@@ -14543,6 +14719,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "10% Damage Increase against Taken Combatants."
@@ -14552,6 +14733,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "10% Damage Increase against Taken Combatants."
@@ -14564,7 +14750,7 @@
     "secondaryEditor": "10% Damage Increase against Taken Combatants."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1523832109": {
@@ -14641,6 +14827,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+35 Recoil Direction"
@@ -14648,6 +14839,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-10 Range"
@@ -14657,6 +14853,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+35 Recoil Direction"
@@ -14664,6 +14865,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-10 Range"
@@ -14676,8 +14882,9 @@
     "secondaryEditor": "+35 Recoil Direction\r\n-10 Range"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "1528281896": {
    "id": 1528281896,
@@ -15893,6 +16100,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+15 Recoil Direction"
@@ -15902,6 +16114,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+15 Recoil Direction"
@@ -15914,8 +16131,9 @@
     "secondaryEditor": "+15 Recoil Direction"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "1600092898": {
    "id": 1600092898,
@@ -17759,6 +17977,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Aim Assist"
@@ -17766,6 +17989,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-15 Stability"
@@ -17775,6 +18003,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Aim Assist"
@@ -17782,6 +18015,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-15 Stability"
@@ -17794,8 +18032,9 @@
     "secondaryEditor": "+10 Aim Assist\r\n-15 Stability"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "1716000303": {
    "id": 1716000303,
@@ -18830,6 +19069,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "50% Increased Damage and Radius for Dragonfly explosions"
@@ -18839,6 +19083,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "50% Increased Damage and Radius for Dragonfly explosions"
@@ -18851,7 +19100,7 @@
     "secondaryEditor": "50% Increased Damage and Radius for Dragonfly explosions"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1844314558": {
@@ -19375,6 +19624,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-40ms Draw Time"
@@ -19384,6 +19638,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "-40ms Draw Time"
@@ -19396,7 +19655,7 @@
     "secondaryEditor": "-40ms Draw Time"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188064,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "1885400500": {
@@ -22693,6 +22952,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Velocity"
@@ -22702,6 +22966,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Velocity"
@@ -22714,8 +22983,9 @@
     "secondaryEditor": "+10 Velocity"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "2355041704": {
    "id": 2355041704,
@@ -26632,6 +26902,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "7.77% Damage Increase against Bosses and Vehicles."
@@ -26641,6 +26916,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "7.77% Damage Increase against Bosses and Vehicles."
@@ -26653,7 +26933,7 @@
     "secondaryEditor": "7.77% Damage Increase against Bosses and Vehicles."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "2799418574": {
@@ -28812,6 +29092,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "7.77% Damage Increase against Elites, Minibosses, and Bosses"
@@ -28821,6 +29106,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "7.77% Damage Increase against Elites, Minibosses, and Bosses"
@@ -28833,7 +29123,7 @@
     "secondaryEditor": "7.77% Damage Increase against Elites, Minibosses, and Bosses"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "3032599245": {
@@ -30111,6 +30401,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+5 Impact"
@@ -30120,6 +30415,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+5 Impact"
@@ -30132,8 +30432,9 @@
     "secondaryEditor": "+5 Impact"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "3228611386": {
    "id": 3228611386,
@@ -30144,6 +30445,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+5 Aim Assist"
@@ -30153,6 +30459,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+5 Aim Assist"
@@ -30165,8 +30476,9 @@
     "secondaryEditor": "+5 Aim Assist"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "3241194940": {
    "id": 3241194940,
@@ -31502,6 +31814,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+30 Magazine Stat "
@@ -31509,6 +31826,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Complicated stat, equivalent of Extended Mag"
@@ -31518,6 +31840,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+30 Magazine Stat "
@@ -31525,6 +31852,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Complicated stat, equivalent of Extended Mag"
@@ -31537,7 +31869,7 @@
     "secondaryEditor": "+30 Magazine Stat \r\nComplicated stat, equivalent of Extended Mag"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "3337692349": {
@@ -36519,6 +36851,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Maximum Radar Distance increased by 8 metres."
@@ -36528,6 +36865,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "Maximum Radar Distance increased by 8 metres."
@@ -36540,7 +36882,7 @@
     "secondaryEditor": "Maximum Radar Distance increased by 8 metres."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "3789184904": {
@@ -36552,6 +36894,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+15 Airborne Effectiveness"
@@ -36559,6 +36906,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+5 Handling"
@@ -36568,6 +36920,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+15 Airborne Effectiveness"
@@ -36575,6 +36932,11 @@
      ]
     },
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+5 Handling"
@@ -36587,8 +36949,9 @@
     "secondaryEditor": "+15 Airborne Effectiveness\r\n+5 Handling"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "3796465595": {
    "id": 3796465595,
@@ -38786,6 +39149,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Stability"
@@ -38795,6 +39163,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Stability"
@@ -38807,8 +39180,9 @@
     "secondaryEditor": "+10 Stability"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "4008116374": {
    "id": 4008116374,
@@ -40029,6 +40403,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "7.77% Damage Increase against Rank-And-File"
@@ -40038,6 +40417,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "7.77% Damage Increase against Rank-And-File"
@@ -40050,7 +40434,7 @@
     "secondaryEditor": "7.77% Damage Increase against Rank-And-File"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
+   "lastUpdate": 1658141469485,
    "visible": true
   },
   "4091460919": {
@@ -41391,6 +41775,11 @@
    "type": "weaponMod",
    "description": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Handling"
@@ -41400,6 +41789,11 @@
    ],
    "simpleDescription": [
     {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
      "linesContent": [
       {
        "text": "+10 Handling"
@@ -41412,8 +41806,9 @@
     "secondaryEditor": "+10 Handling"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1657364188065,
-   "visible": true
+   "lastUpdate": 1658141469485,
+   "visible": true,
+   "investmentStatOnly": true
   },
   "4293542123": {
    "id": 4293542123,
