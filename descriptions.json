@@ -11,7 +11,7 @@
      ]
     }
    ],
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -243,7 +243,7 @@
     "secondaryEditor": "Passively grants 20 Stability and -30 Reload Speed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "investmentStatOnly": true,
    "uploadToLive": true
@@ -590,7 +590,7 @@
     "secondaryEditor": "On Weapon or Grenade Kill:\r\n6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage and 20 Handling for 4.5 seconds.\r\n\r\nBuff Refreshed on Kill. Grenade Kills grant all 5 stacks instantly.\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "uploadToLive": true
   },
@@ -690,7 +690,7 @@
     "secondaryEditor": "Loads 2 Ammo at a time.\r\nReduces Reload Speed by 35.\r\n\r\nEnhanced: Loads 3 Ammo instead of 2."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "47981717": {
@@ -846,7 +846,7 @@
     "secondaryEditor": "For one bullet only:\r\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\r\n\r\n3.1 seconds cooldown, resets if the weapon is shot."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "117669763": {
@@ -1248,7 +1248,7 @@
     "secondaryEditor": "On Precision Kill:\r\nSpawns a Large Stasis Crystal on Enemy Death Location. \r\nRank-and-File Combatants spawn a Medium Stasis Crystal.\r\n\r\nHaving 5 crystals active at once incurs in a 5 second cooldown.\r\n\r\nEnhanced: Passively grants 5 Stability"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "185514250": {
@@ -1586,7 +1586,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "uploadToLive": true
   },
@@ -1734,7 +1734,7 @@
     "secondaryEditor": "While below 113 HP:\r\nUp to +100 Reload Speed with 0.9x Duration Multiplier \r\nEffect increases linearly as health decreases"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147398635,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "229003538": {
@@ -2500,7 +2500,7 @@
   "247725512": {
    "id": 247725512,
    "name": "Rapid Hit",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "active": {
@@ -2566,25 +2566,45 @@
         "bold",
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Stack"
-        },
-        {
-         "text": "Stability"
-        },
-        {
-         "text": "Reload Stat"
-        },
-        {
-         "text": "RDS ",
-         "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
-         "classNames": [
-          "title"
+         "cellContent": [
+          {
+           "text": "Stack"
+          }
          ]
         },
         {
-         "text": "Reload Time"
+         "cellContent": [
+          {
+           "text": "Stability"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Reload Stat"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "RDS",
+           "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
+           "classNames": [
+            "title"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Reload Time"
+          }
+         ]
         }
        ]
       },
@@ -2594,27 +2614,49 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "1x",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "1x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "2"
+         "cellContent": [
+          {
+           "text": "2"
+          }
+         ]
         },
         {
-         "text": "5"
+         "cellContent": [
+          {
+           "text": "5"
+          }
+         ]
         },
         {
-         "text": "0.985x"
+         "cellContent": [
+          {
+           "text": "0.985x"
+          }
+         ]
         },
         {
-         "text": "reload_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "reload_0",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -2625,27 +2667,49 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "2x",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "2x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "12"
+         "cellContent": [
+          {
+           "text": "12"
+          }
+         ]
         },
         {
-         "text": "30"
+         "cellContent": [
+          {
+           "text": "30"
+          }
+         ]
         },
         {
-         "text": "0.970x"
+         "cellContent": [
+          {
+           "text": "0.970x"
+          }
+         ]
         },
         {
-         "text": "reload_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "reload_1",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -2656,27 +2720,49 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "3x",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "3x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "14"
+         "cellContent": [
+          {
+           "text": "14"
+          }
+         ]
         },
         {
-         "text": "35"
+         "cellContent": [
+          {
+           "text": "35"
+          }
+         ]
         },
         {
-         "text": "0.955x"
+         "cellContent": [
+          {
+           "text": "0.955x"
+          }
+         ]
         },
         {
-         "text": "reload_2",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "reload_2",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -2687,27 +2773,49 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "4x",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "4x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "18"
+         "cellContent": [
+          {
+           "text": "18"
+          }
+         ]
         },
         {
-         "text": "45"
+         "cellContent": [
+          {
+           "text": "45"
+          }
+         ]
         },
         {
-         "text": "0.940x"
+         "cellContent": [
+          {
+           "text": "0.940x"
+          }
+         ]
         },
         {
-         "text": "reload_3",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "reload_3",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -2718,27 +2826,49 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "5x",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "5x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "25"
+         "cellContent": [
+          {
+           "text": "25"
+          }
+         ]
         },
         {
-         "text": "60"
+         "cellContent": [
+          {
+           "text": "60"
+          }
+         ]
         },
         {
-         "text": "0.925x"
+         "cellContent": [
+          {
+           "text": "0.925x"
+          }
+         ]
         },
         {
-         "text": "reload_4",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "reload_4",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -2789,7 +2919,7 @@
      ],
      "linesContent": [
       {
-       "text": "> 5  30  35  45  60 Reload Speed Stat"
+       "text": "> 5 | 30 | 35 | 45 | 60 Reload Speed Stat"
       }
      ]
     },
@@ -2801,7 +2931,7 @@
      ],
      "linesContent": [
       {
-       "text": "> 0.99x  0.97x  0.96x  0.94x  0.93x Reload Duration Scalar"
+       "text": "> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar"
       }
      ]
     },
@@ -2813,7 +2943,7 @@
      ],
      "linesContent": [
       {
-       "text": "> 2  12  14  18  25 Stability"
+       "text": "> 2 | 12 | 14 | 18 | 25 Stability"
       }
      ]
     },
@@ -2840,7 +2970,7 @@
     "secondaryEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n> 5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n> 2 | 12 | 14 | 18 | 25 Stability\r\n\r\nEnhanced: Stronger Effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "280464955": {
@@ -3147,7 +3277,7 @@
     "secondaryEditor": "While Crouched:\r\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\r\n\r\nEffects are halved on Fusion Rifles.\r\n\r\nEnhanced: Stronger effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "299264772": {
@@ -3323,7 +3453,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "371216963": {
@@ -3757,7 +3887,7 @@
   "409831596": {
    "id": 409831596,
    "name": "Proximity Grenades",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -3792,7 +3922,7 @@
     "secondaryEditor": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius.\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "438098033": {
@@ -3954,7 +4084,7 @@
     "secondaryEditor": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:\r\n\r\n20% Increased Damage and 15 Handling for 7 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 8 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "454085387": {
@@ -4146,7 +4276,7 @@
     "secondaryEditor": "Upon dealing Melee Damage while an Enemy is within 15 meters:\r\n500% [PVP: 100%] increased damage for one burst and 100 Handling for 10 seconds or until firing.\r\n4 second cooldown. Can be activated while stowed.\r\n\r\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "460017080": {
@@ -4254,13 +4384,13 @@
     "secondaryEditor": "After dealing non-Precision Weapon Damage:\r\n8% Increased Precision Damage for 0.3 seconds\r\n\r\nEnhanced: Passively grants 5 Stability."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "466087222": {
    "id": 466087222,
    "name": "Smoothbore",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -4295,13 +4425,13 @@
     "secondaryEditor": "Increases Shotgun Pellet Spread by 7.5%"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "469285294": {
    "id": 469285294,
    "name": "Recombination",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -4336,18 +4466,34 @@
         "bold",
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Stacks"
+         "cellContent": [
+          {
+           "text": "Stacks"
+          }
+         ]
         },
         {
-         "text": "Heritage"
+         "cellContent": [
+          {
+           "text": "Heritage"
+          }
+         ]
         },
         {
-         "text": "Succession"
+         "cellContent": [
+          {
+           "text": "Succession"
+          }
+         ]
         },
         {
-         "text": "Both in PVP"
+         "cellContent": [
+          {
+           "text": "Both in PVP"
+          }
+         ]
         }
        ]
       },
@@ -4357,18 +4503,34 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "1x"
+         "cellContent": [
+          {
+           "text": "1x"
+          }
+         ]
         },
         {
-         "text": "8%"
+         "cellContent": [
+          {
+           "text": "8%"
+          }
+         ]
         },
         {
-         "text": "8%"
+         "cellContent": [
+          {
+           "text": "8%"
+          }
+         ]
         },
         {
-         "text": "5%"
+         "cellContent": [
+          {
+           "text": "5%"
+          }
+         ]
         }
        ]
       },
@@ -4378,18 +4540,34 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "2x"
+         "cellContent": [
+          {
+           "text": "2x"
+          }
+         ]
         },
         {
-         "text": "15%"
+         "cellContent": [
+          {
+           "text": "15%"
+          }
+         ]
         },
         {
-         "text": "17%"
+         "cellContent": [
+          {
+           "text": "17%"
+          }
+         ]
         },
         {
-         "text": "10%"
+         "cellContent": [
+          {
+           "text": "10%"
+          }
+         ]
         }
        ]
       },
@@ -4399,18 +4577,34 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "3x"
+         "cellContent": [
+          {
+           "text": "3x"
+          }
+         ]
         },
         {
-         "text": "24%"
+         "cellContent": [
+          {
+           "text": "24%"
+          }
+         ]
         },
         {
-         "text": "27%"
+         "cellContent": [
+          {
+           "text": "27%"
+          }
+         ]
         },
         {
-         "text": "15%"
+         "cellContent": [
+          {
+           "text": "15%"
+          }
+         ]
         }
        ]
       },
@@ -4420,18 +4614,34 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "4x"
+         "cellContent": [
+          {
+           "text": "4x"
+          }
+         ]
         },
         {
-         "text": "33%"
+         "cellContent": [
+          {
+           "text": "33%"
+          }
+         ]
         },
         {
-         "text": "38%"
+         "cellContent": [
+          {
+           "text": "38%"
+          }
+         ]
         },
         {
-         "text": "20%"
+         "cellContent": [
+          {
+           "text": "20%"
+          }
+         ]
         }
        ]
       },
@@ -4441,18 +4651,34 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "5x"
+         "cellContent": [
+          {
+           "text": "5x"
+          }
+         ]
         },
         {
-         "text": "42%"
+         "cellContent": [
+          {
+           "text": "42%"
+          }
+         ]
         },
         {
-         "text": "46%"
+         "cellContent": [
+          {
+           "text": "46%"
+          }
+         ]
         },
         {
-         "text": "25%"
+         "cellContent": [
+          {
+           "text": "25%"
+          }
+         ]
         }
        ]
       },
@@ -4462,18 +4688,34 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "6x"
+         "cellContent": [
+          {
+           "text": "6x"
+          }
+         ]
         },
         {
-         "text": "50%"
+         "cellContent": [
+          {
+           "text": "50%"
+          }
+         ]
         },
         {
-         "text": "57%"
+         "cellContent": [
+          {
+           "text": "57%"
+          }
+         ]
         },
         {
-         "text": "30%"
+         "cellContent": [
+          {
+           "text": "30%"
+          }
+         ]
         }
        ]
       },
@@ -4483,18 +4725,34 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "7x"
+         "cellContent": [
+          {
+           "text": "7x"
+          }
+         ]
         },
         {
-         "text": "59%"
+         "cellContent": [
+          {
+           "text": "59%"
+          }
+         ]
         },
         {
-         "text": "68%"
+         "cellContent": [
+          {
+           "text": "68%"
+          }
+         ]
         },
         {
-         "text": "35%"
+         "cellContent": [
+          {
+           "text": "35%"
+          }
+         ]
         }
        ]
       },
@@ -4504,18 +4762,34 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "8x"
+         "cellContent": [
+          {
+           "text": "8x"
+          }
+         ]
         },
         {
-         "text": "70%"
+         "cellContent": [
+          {
+           "text": "70%"
+          }
+         ]
         },
         {
-         "text": "80%"
+         "cellContent": [
+          {
+           "text": "80%"
+          }
+         ]
         },
         {
-         "text": "40%"
+         "cellContent": [
+          {
+           "text": "40%"
+          }
+         ]
         }
        ]
       },
@@ -4525,18 +4799,34 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "9x"
+         "cellContent": [
+          {
+           "text": "9x"
+          }
+         ]
         },
         {
-         "text": "80%"
+         "cellContent": [
+          {
+           "text": "80%"
+          }
+         ]
         },
         {
-         "text": "89%"
+         "cellContent": [
+          {
+           "text": "89%"
+          }
+         ]
         },
         {
-         "text": "45%"
+         "cellContent": [
+          {
+           "text": "45%"
+          }
+         ]
         }
        ]
       },
@@ -4546,18 +4836,34 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "10x"
+         "cellContent": [
+          {
+           "text": "10x"
+          }
+         ]
         },
         {
-         "text": "88%"
+         "cellContent": [
+          {
+           "text": "88%"
+          }
+         ]
         },
         {
-         "text": "100%"
+         "cellContent": [
+          {
+           "text": "100%"
+          }
+         ]
         },
         {
-         "text": "50%"
+         "cellContent": [
+          {
+           "text": "50%"
+          }
+         ]
         }
        ]
       }
@@ -4590,7 +4896,7 @@
      ],
      "linesContent": [
       {
-       "text": "8%  15%  24%  33%  42%  50%  59%  70%  80%  88% for Heritage in PVE"
+       "text": "8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage in PVE"
       }
      ]
     },
@@ -4607,7 +4913,7 @@
      ],
      "linesContent": [
       {
-       "text": "8%  17%  27%  38%  46%  57%  68%  80%  89%  100% for Succession in PVE"
+       "text": "8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession in PVE"
       }
      ]
     },
@@ -4624,7 +4930,7 @@
      ],
      "linesContent": [
       {
-       "text": "5%  10%  15%  20%  25%  30%  35%  40%  45%  50% for Heritage and Succession in PVP"
+       "text": "5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession in PVP"
       }
      ]
     }
@@ -4634,7 +4940,7 @@
     "secondaryEditor": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon, up to 10 stacks.\r\n\r\n8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage in PVE\r\n\r\n8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession in PVE\r\n\r\n5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession in PVP"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "481860150": {
@@ -5012,7 +5318,7 @@
   "509074078": {
    "id": 509074078,
    "name": "Steady Hands",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -5139,7 +5445,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "515704826": {
@@ -5483,7 +5789,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n10% | 20% | 30% increased damage until stow or reload.\r\n\r\nEnhanced: Passively grants 10 Magazine Stat (Identical to Tactical Mag)."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "569260333": {
@@ -5726,7 +6032,7 @@
     "secondaryEditor": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing.\r\n\r\nEnhanced: Aim Assist bonus is increased marginally."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "591790007": {
@@ -5767,7 +6073,7 @@
     "secondaryEditor": "Passively grants 20 Range and -30 Stability"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "investmentStatOnly": true,
    "uploadToLive": true
@@ -6803,7 +7109,7 @@
     "secondaryEditor": "While above 70% Magazine:\r\n50 Reload Speed with a 0.95x Duration Scale\r\n\r\nEnhanced: Reload increased to [55 maybe?]"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "689005463": {
@@ -6868,7 +7174,7 @@
    },
    "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1658496244214
+   "lastUpdate": 1658498749570
   },
   "692285813": {
    "id": 692285813,
@@ -7247,7 +7553,7 @@
     "secondaryEditor": "While at Low Health:\r\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\r\n\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Passively grants 5 Stability."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "699693452": {
@@ -7439,7 +7745,7 @@
   "706527188": {
    "id": 706527188,
    "name": "Quickdraw",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "draw": {
      "active": {
@@ -7501,7 +7807,7 @@
      ],
      "linesContent": [
       {
-       "text": "Ready Speed: ",
+       "text": "Ready Speed:",
        "formula": "ready_0",
        "classNames": [
         "formula"
@@ -7517,7 +7823,7 @@
      ],
      "linesContent": [
       {
-       "text": "Stow Speed: ",
+       "text": "Stow Speed:",
        "formula": "stow_0",
        "classNames": [
         "formula"
@@ -7591,7 +7897,7 @@
     "secondaryEditor": "On Ready:\r\n100 Ready/Stow Handling with a 0.95x Duration Multiplier for 1 second, or until ADS.\r\n\r\nEnhanced: Passively grants 5 Handling."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "722862450": {
@@ -7903,7 +8209,7 @@
   "744594675": {
    "id": 744594675,
    "name": "Well-Rounded",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "range": {
      "active": {
@@ -7993,18 +8299,34 @@
         "bold",
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Stacks"
+         "cellContent": [
+          {
+           "text": "Stacks"
+          }
+         ]
         },
         {
-         "text": "In-Game Range"
+         "cellContent": [
+          {
+           "text": "In-Game Range"
+          }
+         ]
         },
         {
-         "text": "Ready Speed"
+         "cellContent": [
+          {
+           "text": "Ready Speed"
+          }
+         ]
         },
         {
-         "text": "Stow Speed"
+         "cellContent": [
+          {
+           "text": "Stow Speed"
+          }
+         ]
         }
        ]
       },
@@ -8014,33 +8336,51 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "1x",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "1x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "",
-         "formula": "range_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "range_0",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         },
         {
-         "text": "",
-         "formula": "ready_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "ready_0",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         },
         {
-         "text": "",
-         "formula": "stow_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "stow_0",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -8051,33 +8391,51 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "2x",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "2x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "",
-         "formula": "range_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "range_1",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         },
         {
-         "text": "",
-         "formula": "ready_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "ready_1",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         },
         {
-         "text": "",
-         "formula": "stow_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "stow_1",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -8167,7 +8525,7 @@
     "secondaryEditor": "Using your Grenade or hitting an enemy with a Charged Melee Attack grants a stack of Well-Rounded. Using your Super Ability grants two stacks.\r\n\r\n10 Range, 10 Stability, and 10 Handling per stack.\r\nLasts 10 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "744770875": {
@@ -8273,7 +8631,7 @@
   "776531651": {
    "id": 776531651,
    "name": "Repulsor Brace",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -8376,13 +8734,13 @@
     "secondaryEditor": "Upon killing an enemy affected by a Void Debuff:\r\n\r\n45[?]HP Overshield for 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 9 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "806159697": {
    "id": 806159697,
    "name": "Trench Barrel",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -8438,7 +8796,7 @@
      ],
      "linesContent": [
       {
-       "text": "Ready Speed: ",
+       "text": "Ready Speed:",
        "formula": "ready_0",
        "classNames": [
         "formula"
@@ -8454,7 +8812,7 @@
      ],
      "linesContent": [
       {
-       "text": "Stow Speed: ",
+       "text": "Stow Speed:",
        "formula": "stow_0",
        "classNames": [
         "formula"
@@ -8528,13 +8886,13 @@
     "secondaryEditor": "After dealing non-ranged Melee Damage:\r\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\r\n\r\nEnhanced: Buff Effect is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "818211479": {
    "id": 818211479,
    "name": "Shattering Blade",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -8602,7 +8960,7 @@
     "secondaryEditor": "If Heavy Attack consumes the last Ammo:\r\n67% Increased damage to Grounded Heavy Attack."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "824488952": {
@@ -8880,7 +9238,7 @@
   "830282363": {
    "id": 830282363,
    "name": "Phase Magazine",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -8915,7 +9273,7 @@
     "secondaryEditor": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's.\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "883550427": {
@@ -9386,7 +9744,7 @@
   "908147344": {
    "id": 908147344,
    "name": "Sneak Bow",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -9445,7 +9803,7 @@
     "secondaryEditor": "While Crouched:\r\nPrevents Radar Ping from shooting, increased Reload Speed, and increases hold time by 25%"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "921817150": {
@@ -10222,13 +10580,13 @@
     "secondaryEditor": "Passively grants:\r\n- 35% Faster Projectile Velocity \r\n- 10 Reload Speed with 0.8x Duration Multiplier\r\n\r\nEnhanced: Increases Reload Speed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "957782887": {
    "id": 957782887,
    "name": "Snapshot Sights",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -10321,7 +10679,7 @@
     "secondaryEditor": "0.5x Aim Down Sights Animation Scalar for Primary Weapons\r\n0.75x Aim Down Sights Animation Scalar for Special Weapons\r\n\r\nEnhanced: Passively grants 4 Stability."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "960810156": {
@@ -10454,13 +10812,13 @@
     "secondaryEditor": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "972757866": {
    "id": 972757866,
    "name": "Pulse Monitor",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "handling": {
      "active": {
@@ -10506,7 +10864,7 @@
      ],
      "linesContent": [
       {
-       "text": "Refreshes ",
+       "text": "Refreshes",
        "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
        "classNames": [
         "title"
@@ -10547,7 +10905,7 @@
      ],
      "linesContent": [
       {
-       "text": "Ready Speed: ",
+       "text": "Ready Speed:",
        "formula": "ready_0",
        "classNames": [
         "formula"
@@ -10563,7 +10921,7 @@
      ],
      "linesContent": [
       {
-       "text": "Stow Speed: ",
+       "text": "Stow Speed:",
        "formula": "stow_0",
        "classNames": [
         "formula"
@@ -10654,7 +11012,7 @@
     "secondaryEditor": "Immediately upon being reduced below 110 HP:\r\nRefreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\r\n\r\nWorks while stowed.\r\n\r\nEnhanced: Health Requirement reduced."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "984527513": {
@@ -10838,7 +11196,7 @@
     "secondaryEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\r\n33% Increased damage for 5 seconds.\r\nBuff can't be refreshed. Persists through stow.\r\n\r\nEnhanced: Buff Duration is increased to 5.5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1047830412": {
@@ -10913,7 +11271,7 @@
     "secondaryEditor": "Decreases Shotgun Pellet Spread by 3.75\r\n\r\nReduces Precision Damage Multiplier"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1048183818": {
@@ -11314,7 +11672,7 @@
     "secondaryEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per hit, up to 435%: Fusion Rifles\r\n\r\n33.3% per hit, up to 500%:\r\nAuto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\r\n\r\n150% per hit, up to 450%: Linear Fusion Rifles\r\n\r\n166.6% per hit, up to 500%:\r\nBows, Glaives, Hand Cannons, Scout Rifles\r\n\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%\r\nEg: 500% -> 600%"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "uploadToLive": true
   },
@@ -11480,7 +11838,7 @@
   "1140096971": {
    "id": 1140096971,
    "name": "Seraph Rounds",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "range": {
      "passive": {
@@ -11558,7 +11916,7 @@
     "secondaryEditor": "Combines the penetration from Armor-Piercing Rounds, the guaranteed ricochets from Ricochet Rounds, and the flinch increase from High-Caliber Rounds.\r\n\r\nIncreases Damage Falloff Distance by 10%"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1142806944": {
@@ -12175,7 +12533,7 @@
     "secondaryEditor": "Melee Hits grant Stacks of Fury Conductors.\r\nReceiving melee damage unleashes an Arc Explosion with a radius of 5 metres.\r\nArc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\r\n\r\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\r\n\r\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not dealing melee damage."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1155472387": {
@@ -12547,7 +12905,7 @@
     "secondaryEditor": "On Precision Kill:\r\n70 Reload Speed with a 0.9x Duration Multiplier for 6 seconds.\r\n\r\nEnhanced: Duration increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1195158366": {
@@ -12869,7 +13227,7 @@
     "secondaryEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\r\n\r\nOn Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability.\r\n\r\nLasts 7 seconds. Refreshed on Kill.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1211775759": {
@@ -13263,7 +13621,7 @@
     "secondaryEditor": "While Last Guardian Standing:\r\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\r\n\r\nPassively grants 20 Handling and 20 Reload Speed"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1275731761": {
@@ -13328,7 +13686,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1281216113": {
@@ -13747,7 +14105,7 @@
     "secondaryEditor": "Scoring 4 Precision Hits generates 2 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1359896290": {
@@ -13913,7 +14271,7 @@
     "secondaryEditor": "During Sustained Fire:\r\nGradually greatly increases Accuracy, and adds up to +10 Stability. Takes 0.6 seconds to maximize effect.\r\n\r\nThe accuracy improvement is greater than initial accuracy.\r\nThe accuracy increase is gradual, almost completely negating the effects of bloom.\r\n\r\nEnhanced: Effect reaches full effect sooner."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1420473289": {
@@ -14044,7 +14402,7 @@
   "1427256713": {
    "id": 1427256713,
    "name": "Reservoir Burst",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -14180,13 +14538,13 @@
     "secondaryEditor": "If Magazine is Full:\r\n25% Increased damage and causes enemies to explode on death.\r\n\r\nPassively grants 30 Magazine Size\r\n\r\nEnhanced: Passively grants 5 Stability."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1428297954": {
    "id": 1428297954,
    "name": "Perpetual Motion",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "active": {
@@ -14259,96 +14617,33 @@
         "bold",
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Stacks"
-        },
-        {
-         "text": "Stability"
-        },
-        {
-         "text": "Reload"
-        },
-        {
-         "text": "Handling"
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        "background"
-       ],
-       "linesContent": [
-        {
-         "text": "x1",
-         "classNames": [
-          null,
-          "bold"
+         "cellContent": [
+          {
+           "text": "Stacks"
+          }
          ]
         },
         {
-         "text": "5"
-        },
-        {
-         "text": "5"
-        },
-        {
-         "text": "5"
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        null
-       ],
-       "linesContent": [
-        {
-         "text": "In-game:"
-        },
-        {
-         "text": ""
-        },
-        {
-         "text": "",
-         "formula": "reload_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "Stability"
+          }
          ]
         },
         {
-         "text": "Ready: ",
-         "formula": "ready_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "Reload"
+          }
          ]
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        null
-       ],
-       "linesContent": [
-        {
-         "text": "values"
         },
         {
-         "text": ""
-        },
-        {
-         "text": ""
-        },
-        {
-         "text": "Stow: ",
-         "formula": "stow_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "Handling"
+          }
          ]
         }
        ]
@@ -14359,50 +14654,39 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "x2",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "x1",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "15"
-        },
-        {
-         "text": "15"
-        },
-        {
-         "text": "15"
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        null
-       ],
-       "linesContent": [
-        {
-         "text": "In-game:"
-        },
-        {
-         "text": ""
-        },
-        {
-         "text": "",
-         "formula": "reload_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "5"
+          }
          ]
         },
         {
-         "text": "Ready: ",
-         "formula": "ready_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "5"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "5"
+          }
          ]
         }
        ]
@@ -14413,21 +14697,187 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "values"
+         "cellContent": [
+          {
+           "text": "In-game:"
+          }
+         ]
         },
         {
-         "text": ""
+         "cellContent": []
         },
         {
-         "text": ""
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "reload_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
         },
         {
-         "text": "Stow: ",
-         "formula": "stow_1",
+         "cellContent": [
+          {
+           "text": "Ready:",
+           "formula": "ready_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "values"
+          }
+         ]
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Stow:",
+           "formula": "stow_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background"
+       ],
+       "rowContent": [
+        {
          "classNames": [
-          "formula"
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "x2",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "15"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "15"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "15"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "In-game:"
+          }
+         ]
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "reload_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Ready:",
+           "formula": "ready_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "values"
+          }
+         ]
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Stow:",
+           "formula": "stow_1",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -14546,7 +14996,7 @@
     "secondaryEditor": "While continuously moving:\r\nAfter 2 seconds: 5 Stability, 5 Handling, and 5 Reload at x1 Stack.\r\nAfter 10 seconds: 15 Stability, 15 Handling and 15 Reload at x2 Stacks.\r\n\r\nBeing still for 0.5 seconds removes all stacks. Works while stowed.\r\n\r\nEnhanced: Stacks remain for up to 1 second after being still."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1431678320": {
@@ -14641,7 +15091,7 @@
     "secondaryEditor": "Upon reloading with an empty magazine:\r\n15% Faster Reload Animation"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1437147326": {
@@ -15232,7 +15682,7 @@
   "1523832109": {
    "id": 1523832109,
    "name": "Reconstruction",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -15291,7 +15741,7 @@
     "secondaryEditor": "After not shooting for 4 seconds:\r\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1525622117": {
@@ -15501,7 +15951,7 @@
     "secondaryEditor": "On Precision Kill:\r\n70 Reload Speed with a 0.9x Duration Multiplier for 6 seconds.\r\n\r\nEnhanced: Duration increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1536798515": {
@@ -15566,7 +16016,7 @@
   "1546637391": {
    "id": 1546637391,
    "name": "Vorpal Weapon",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -15589,7 +16039,10 @@
      ],
      "linesContent": [
       {
-       "text": "<pve Primary: 20%  Special: 15%  Heavy: 10% />"
+       "text": "Primary: 20% | Special: 15% | Heavy: 10%",
+       "classNames": [
+        "pve"
+       ]
       }
      ]
     },
@@ -15733,7 +16186,7 @@
      ],
      "linesContent": [
       {
-       "text": "Primary: 20%  Special: 15%  Heavy: 10%"
+       "text": "Primary: 20% | Special: 15% | Heavy: 10%"
       }
      ]
     },
@@ -15762,7 +16215,7 @@
      ],
      "linesContent": [
       {
-       "text": "Primary: 40% to 50%  Special: 10% to 20%  Heavy: 5% to 10%"
+       "text": "Primary: 40% to 50% | Special: 10% to 20% | Heavy: 5% to 10%"
       }
      ]
     },
@@ -15806,7 +16259,7 @@
     "secondaryEditor": "Damage Increase against Bosses, Minibosses, and Vehicles.\r\nPrimary: 20% | Special: 15% | Heavy: 10%\r\n\r\nAgainst Player Supers Only:\r\nPrimary: 40% to 50% | Special: 10% to 20% | Heavy: 5% to 10%\r\n\r\nThe lower Damage Increase is against supers with no extra Damage Resistance.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1556840489": {
@@ -15905,7 +16358,7 @@
     "secondaryEditor": "On Power Ammo Pickup:\r\nGrants (almost) the equivalent of 1 Special Ammo Pickup.\r\n\r\nEnhanced: Increases the amount of Special Ammo received."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1561002382": {
@@ -16020,7 +16473,7 @@
     "secondaryEditor": "Increased Flinch on Enemies.\r\n\r\n[PVE] Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors.\r\n\r\n[PVP] Flinch amount against Guardians varies between Weapon Archetypes, from 6% to 11% Increased Flinch received.\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1561789734": {
@@ -16176,7 +16629,7 @@
     "secondaryEditor": "On Precision Kill:\r\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\r\n50 Reload Speed for 6 seconds.\r\n\r\nNot affected by Dragonfly Spec."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "uploadToLive": true
   },
@@ -16330,13 +16783,13 @@
     "secondaryEditor": "On Weapon Kill:\r\n-15% Accuracy Cone Growth, 15 Stability, and ~20 Recoil Direction.\r\n\r\nStacks up to 2x.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1583705720": {
    "id": 1583705720,
    "name": "Stats for All",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "active": {
@@ -16398,7 +16851,7 @@
        "text": "10 Range with 5% Increased Falloff Distance, 10 Stability, 35 Handling, and 35 Reload Speed with 0.95x "
       },
       {
-       "text": "RDS ",
+       "text": "RDS",
        "title": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)",
        "classNames": [
         "title"
@@ -16434,7 +16887,7 @@
      ],
      "linesContent": [
       {
-       "text": "In-Game Range: ",
+       "text": "In-Game Range:",
        "formula": "range_0",
        "classNames": [
         "formula"
@@ -16450,7 +16903,7 @@
      ],
      "linesContent": [
       {
-       "text": "Reload Time: ",
+       "text": "Reload Time:",
        "formula": "reload_0",
        "classNames": [
         "formula"
@@ -16466,7 +16919,7 @@
      ],
      "linesContent": [
       {
-       "text": "Ready Speed: ",
+       "text": "Ready Speed:",
        "formula": "ready_0",
        "classNames": [
         "formula"
@@ -16482,7 +16935,7 @@
      ],
      "linesContent": [
       {
-       "text": "Stow Speed: ",
+       "text": "Stow Speed:",
        "formula": "stow_0",
        "classNames": [
         "formula"
@@ -16568,7 +17021,7 @@
     "secondaryEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n10 Range with 5% Increased Falloff Distance, 10 Stability, 35 Handling, and 35 Reload Speed with 0.95x Duration Multiplier for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1588595445": {
@@ -16744,7 +17197,7 @@
     "secondaryEditor": "For 4 seconds after readying a Fusion Rifle:\r\n30% Faster Charge Rate, 20% decreased damage, and 100 Handling"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1607056502": {
@@ -16919,7 +17372,7 @@
     "secondaryEditor": "On Melee Kill:\r\nWeapons get refreshed.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1645158859": {
@@ -17028,7 +17481,7 @@
     "secondaryEditor": "As Magazine goes below 50% until empty:\r\nUp to -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, and 30[?] Stability.\r\n\r\nEnhanced: Stronger effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147398635,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "uploadToLive": true
   },
@@ -17516,7 +17969,7 @@
     "secondaryEditor": "On Elemental/Barrier Champion or Guardian Shield Break:\r\nDebuffs the enemy, increasing Kinetic Damage by 50% for 5.5 seconds.\r\nStacks with other Debuffs, as it is a Weapon Perk.\r\n\r\nEnhanced: Debuff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1685431615": {
@@ -17590,7 +18043,7 @@
     "secondaryEditor": "Upon readying a Sword:\r\n30% Increased damage for 1.5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1687452232": {
@@ -17654,7 +18107,7 @@
     "secondaryEditor": "Increases charge time by 40, and damage by 2%"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1694242448": {
@@ -18555,7 +19008,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": false,
    "uploadToLive": true
   },
@@ -18711,7 +19164,7 @@
   "1749209109": {
    "id": 1749209109,
    "name": "Relentless Strikes",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -18770,7 +19223,7 @@
     "secondaryEditor": "After 3 Powered Hits within [2?] seconds of each:\r\nGain +1 Ammo."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1754714824": {
@@ -18892,7 +19345,7 @@
     "secondaryEditor": "During Slide, after Sprinting for 1.5 seconds:\r\n20% Increased damage and 100ms increased Charge Rate for [?] seconds. \r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1771339417": {
@@ -19000,7 +19453,7 @@
     "secondaryEditor": "While within X meters of 2+ Allies:\r\n20% Increased Precision Damage\r\n\r\nEnhanced: Passively grants 5 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1774574192": {
@@ -19099,7 +19552,7 @@
     "secondaryEditor": "On Grenade Ability Usage:\r\nChanges Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 5 Handling."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1799762209": {
@@ -19238,13 +19691,13 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1820235745": {
    "id": 1820235745,
    "name": "Subsistence",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -19267,7 +19720,7 @@
      ],
      "linesContent": [
       {
-       "text": "Refreshes ",
+       "text": "Refreshes",
        "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
        "classNames": [
         "title"
@@ -19368,7 +19821,7 @@
     "secondaryEditor": "On Weapon Kill:\r\nRefreshes 10% of Magazine.\r\nSubmachine Guns and Auto Rifles: 17%\r\n\r\nEnhanced: Magazine Refresh increased to 20%"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1828251441": {
@@ -20094,7 +20547,7 @@
     "secondaryEditor": "If hipfiring:\r\n20% Increased: Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance\r\n15 Aim Assist\r\n+2.7 degrees Precision Angle Threshold\r\n-30% Accuracy Cone Size and ~30 Stability.\r\n\r\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\r\n\r\nEnhanced: Stronger Effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1885045197": {
@@ -20143,7 +20596,7 @@
   "1885400500": {
    "id": 1885400500,
    "name": "Ricochet Rounds",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -20178,13 +20631,13 @@
     "secondaryEditor": "Bullets are guaranteed to ricochet off of surfaces."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1890422124": {
    "id": 1890422124,
    "name": "Tap the Trigger",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "stability": {
      "active": {
@@ -20234,7 +20687,33 @@
      ],
      "linesContent": [
       {
-       "text": "<highlight_3 Fusion Rifles Only Receive 25% of the benefits />"
+       "text": "Fusion Rifles Only Receive 25% of the benefits",
+       "classNames": [
+        "blue"
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "[Controller-Only]",
+       "classNames": [
+        "green"
+       ]
+      },
+      {
+       "text": " Weapon fires the instant trigger pressure is applied."
       }
      ]
     },
@@ -20252,23 +20731,6 @@
      "linesContent": [
       {
        "text": "Enhanced: Stronger Effect, duration increased to 0.76 seconds."
-      }
-     ]
-    },
-    {
-     "classNames": [
-      "spacer"
-     ]
-    },
-    {
-     "classNames": [
-      null,
-      null,
-      null
-     ],
-     "linesContent": [
-      {
-       "text": "<highlight_1 [Controller-Only] /> Weapon fires the instant trigger pressure is applied."
       }
      ]
     }
@@ -20328,7 +20790,7 @@
      ],
      "linesContent": [
       {
-       "text": "Enhanced: Stronger Effect, duration increased to 0.76 seconds."
+       "text": "[Controller-Only] Weapon fires the instant trigger pressure is applied."
       }
      ]
     },
@@ -20345,18 +20807,19 @@
      ],
      "linesContent": [
       {
-       "text": "[Controller-Only] Weapon fires the instant trigger pressure is applied."
+       "text": "Enhanced: Stronger Effect, duration increased to 0.76 seconds."
       }
      ]
     }
    ],
    "editor": {
-    "mainEditor": "Immediately upon firing:\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\n\n<highlight_3 Fusion Rifles Only Receive 25% of the benefits />\n\nEnhanced: Stronger Effect, duration increased to 0.76 seconds.\n\n<highlight_1 [Controller-Only] /> Weapon fires the instant trigger pressure is applied.",
-    "secondaryEditor": "Immediately upon firing:\r\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\r\n\r\n[Fusion Rifles Only Receive 25% of the benefits]\r\n\r\nEnhanced: Stronger Effect, duration increased to 0.76 seconds.\r\n\r\n[Controller-Only] Weapon fires the instant trigger pressure is applied."
+    "mainEditor": "Immediately upon firing:\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\n\n<blue Fusion Rifles Only Receive 25% of the benefits />\n\n<green [Controller-Only] /> Weapon fires the instant trigger pressure is applied.\n\nEnhanced: Stronger Effect, duration increased to 0.76 seconds.",
+    "secondaryEditor": "Immediately upon firing:\r\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\r\n\r\n[Fusion Rifles Only Receive 25% of the benefits]\r\n\r\n[Controller-Only] Weapon fires the instant trigger pressure is applied.\r\n\r\nEnhanced: Stronger Effect, duration increased to 0.76 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
-   "visible": true
+   "lastUpdate": 1658498749570,
+   "visible": true,
+   "uploadToLive": true
   },
   "1905044254": {
    "id": 1905044254,
@@ -20886,7 +21349,7 @@
   "1954620775": {
    "id": 1954620775,
    "name": "Timed Payload",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -21006,7 +21469,7 @@
     "secondaryEditor": "Splits 55% of Damage into an Explosive Damage portion that deals 30% Increased Damage in PVE and has no damage falloff.\r\nDetonates after 0.6 seconds.\r\n\r\n[PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Precision Multiplier.\r\n[PVP] Total damage remains the same."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1968497646": {
@@ -21090,7 +21553,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "1971489086": {
@@ -21439,7 +21902,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2030760728": {
@@ -21538,13 +22001,13 @@
     "secondaryEditor": "While Blocking with a Sword:\r\nGrants Class Ability Energy based on the amount of damage taken.\r\n\r\nEnhanced: Increased Class Ability Energy Gain."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2039302152": {
    "id": 2039302152,
    "name": "Slideways",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "handling": {
      "active": {
@@ -21602,7 +22065,7 @@
      ],
      "linesContent": [
       {
-       "text": "Ready Speed: ",
+       "text": "Ready Speed:",
        "formula": "ready_0",
        "classNames": [
         "formula"
@@ -21618,7 +22081,7 @@
      ],
      "linesContent": [
       {
-       "text": "Stow Speed: ",
+       "text": "Stow Speed:",
        "formula": "stow_0",
        "classNames": [
         "formula"
@@ -21692,7 +22155,7 @@
     "secondaryEditor": "Upon Sliding:\r\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.\r\n\r\nEnhanced: Buff Effect increased to 25 Stability and Handling."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2077819806": {
@@ -21781,7 +22244,7 @@
     "secondaryEditor": "Upon readying a Sword:\r\n100% Increased Lunge Range for 1 second. (Enough to execute 2 light attacks.)\r\n4 second cooldown."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2117683199": {
@@ -21856,7 +22319,7 @@
     "secondaryEditor": "Automatically queues up the next shot after firing if you hold the trigger.\r\n\r\n10% Faster Rate of Fire on Shotguns exclusively."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "uploadToLive": true
   },
@@ -22082,7 +22545,7 @@
   "2172504645": {
    "id": 2172504645,
    "name": "Sleight of Hand",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -22209,7 +22672,7 @@
     "secondaryEditor": "Upon readying the weapon after getting kills with other Weapons or Abilities:\r\n\r\nEach stack of Sleight of Hand grants Handling, Reload Speed, and Stability.\r\nStacks up to 3 times.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2179827240": {
@@ -22953,7 +23416,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147398635,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2213355989": {
@@ -23082,13 +23545,13 @@
     "secondaryEditor": "As Magazine goes below 50%, until empty: \r\n[PVE] 12.1% to 25.6% Increased damage.\r\n[PVP] 3% to 6% Increased damage.\r\n\r\nEnhanced: Activates at the 75% Magazine Threshold."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2224838837": {
    "id": 2224838837,
    "name": "Unstoppable Force",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -23200,7 +23663,7 @@
     "secondaryEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\n30% increased projectile damage for 4 seconds or until you stop blocking. Blocking any hit refreshes the duration.\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2244851822": {
@@ -23299,7 +23762,7 @@
     "secondaryEditor": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:\r\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\r\n\r\nEnhanced: Passively grants increased Ammo Reserves."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2284787283": {
@@ -23422,7 +23885,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2299766748": {
@@ -23600,7 +24063,7 @@
   "2360754333": {
    "id": 2360754333,
    "name": "Trench Barrel",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -23656,7 +24119,7 @@
      ],
      "linesContent": [
       {
-       "text": "Ready Speed: ",
+       "text": "Ready Speed:",
        "formula": "ready_0",
        "classNames": [
         "formula"
@@ -23672,7 +24135,7 @@
      ],
      "linesContent": [
       {
-       "text": "Stow Speed: ",
+       "text": "Stow Speed:",
        "formula": "stow_0",
        "classNames": [
         "formula"
@@ -23746,7 +24209,7 @@
     "secondaryEditor": "After dealing non-ranged Melee Damage:\r\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\r\n\r\nEnhanced: Buff Effect is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2387244414": {
@@ -23968,7 +24431,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2422968039": {
@@ -24457,7 +24920,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n20 Range, 50 Mobility, 40 Handling, and a 5% Increased Damage Falloff Distance.\r\n\r\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2451262963": {
@@ -24562,7 +25025,7 @@
     "secondaryEditor": "Passively grants 20 Range, but has a 5 second cooldown if you take any damage.\r\n\r\nEnhanced: Timer after not taking damage is reduced."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2458213969": {
@@ -24696,7 +25159,7 @@
     "secondaryEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\r\n17% | 33% | 50% Increased damage for 5 seconds, depending on the amount of enemies killed.\r\nBuff is overwritten every time you refresh it.\r\n\r\nEnhanced: Buff Duration is increased to 5.5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2471523345": {
@@ -25573,13 +26036,13 @@
     "secondaryEditor": "After being scoped-in for 1.5 seconds without firing:\r\nIncreased Range, improved Accuracy Cone Size/Growth, and variably increased Precision Damage for one shot.\r\nRapid Fire & Adaptive Sniper = 31% | Linear Fusion = 33% | Aggressive Sniper = 37% | Scout Rifle = 66%\r\n\r\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2590710093": {
    "id": 2590710093,
    "name": "Tireless Blade",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -25614,7 +26077,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2610012052": {
@@ -25781,7 +26244,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\r\n\r\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds.\r\nCan be refreshed by getting another Matching Ability Kill.\r\n\r\nEnhanced: Base Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2618534366": {
@@ -26286,7 +26749,7 @@
     "secondaryEditor": "While within 15 meters of 1 or more allies:\r\n30 Handling and 40 Reload Speed.\r\n\r\nLingers for 1.5 seconds.\r\n\r\nEnhanced: [35?] Handling and [45?] Reload Speed"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2637025676": {
@@ -26335,7 +26798,7 @@
   "2652708987": {
    "id": 2652708987,
    "name": "Successful Warm-Up",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "chargeDraw": {
      "active": {
@@ -26461,7 +26924,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n37.5% Increased Charge Rate/Draw Speed for 6 seconds.\r\nEach kill while the perk is active adds an additional 4 seconds up to 20 seconds.\r\n\r\nEnhanced: Added time from additional kills is increased to 5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2663272109": {
@@ -27085,13 +27548,13 @@
     "secondaryEditor": "If All 12 Pellets from a Shotgun Hit:\r\n200% Increased melee damage for 1.22 seconds.\r\n350% Increased melee damage against Bosses and Vehicles.\r\n80% Increased melee damage if combined with Liar's Handshake.\r\n\r\nEnhanced: Pellet Activation Requirement reduced from 12 to 10."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2726471870": {
    "id": 2726471870,
    "name": "Thresh",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -27211,7 +27674,7 @@
     "secondaryEditor": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\r\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\r\n[PVP] Weapon Kills grant an additional 1% Super Energy.\r\n\r\nEnhanced: Bonus Super Gains on Kill increased by 33%: 1% -> 1.33% and 1.5% -> 2%"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2731901709": {
@@ -27987,7 +28450,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n\r\n10 | 45 | 55 | 70 | 100 Reload Speed Stat.\r\n1x | 0.9x | 0.875x | 0.85x | 0.8x Reload Duration Multiplier.\r\n\r\nLasts 3.5 seconds. Max of 5 Stacks.\r\n\r\nEnhanced: Stronger Effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2788909693": {
@@ -28516,7 +28979,7 @@
   "2846385770": {
    "id": 2846385770,
    "name": "Rangefinder",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "zoom": {
      "passive": {
@@ -28548,7 +29011,7 @@
      ],
      "linesContent": [
       {
-       "text": "10% Increased Zoom ",
+       "text": "10% Increased Zoom",
        "title": "Zoom acts as a multiplier to hipfire range and maximum falloff distance while ADS",
        "classNames": [
         "title"
@@ -28625,7 +29088,7 @@
     "secondaryEditor": "While Aiming-Down-Sights:\r\n10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed when ADS.\r\n\r\nEnhanced: Passively grants 5 Handling"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2848615171": {
@@ -29019,7 +29482,7 @@
     "secondaryEditor": "On Precision Kill:\r\nTarget explodes, dealing the Weapon's Elemental Damage in a 3 meter radius. Damage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2866798147": {
@@ -29142,7 +29605,7 @@
     "secondaryEditor": "After being scoped-in for 1 second without firing:\r\n35% Flinch Reduction.\r\nTimer starts as soon as the ADS input is pressed.\r\n\r\nEnhanced: Aiming-Down-Sights timer is reduced."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2869569095": {
@@ -29364,7 +29827,7 @@
     "secondaryEditor": "While Crouched:\r\n50 Reload Speed with 0.8x Reload Duration Scalar and 0.8x Ready/Stow Duration Scalar.\r\n\r\nPassively grants increased Ammo Reserves.\r\n\r\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.\t"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2888557110": {
@@ -29439,7 +29902,7 @@
     "secondaryEditor": "Increases Explosive Damage by 0.63% for every meter after 10 meters.\r\n\r\n25% Increased Explosive Damage at 50 meters."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2889515627": {
@@ -30085,7 +30548,7 @@
     "secondaryEditor": "After scoring 50% of Magazine Size as Precision Hits:\r\n20% increased damage for 11 seconds.\r\nStowing or Reloading resets the precision counter. Can be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 12 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2898218424": {
@@ -30300,7 +30763,7 @@
     "secondaryEditor": "After Reloading within 6 seconds of a Weapon Kill:\r\n20 Aim Assist, -20% Accuracy Cone Size, and [?] Handling (ADS only) for 5 seconds.\r\nBuff cannot be refreshed.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147398635,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2951499542": {
@@ -30500,7 +30963,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "2979726427": {
@@ -30873,7 +31336,7 @@
     "secondaryEditor": "Immediately after blocking an attack within 0.5 seconds of starting to Block:\r\n50% Increased damage for 2 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3018373291": {
@@ -30957,7 +31420,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3038247973": {
@@ -31106,7 +31569,7 @@
     "secondaryEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage and has no damage falloff.\r\n\r\n[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Precision Multiplier.\r\n\r\n[PVP] Total damage remains the same.\r\n\r\nEnhanced: Passively grants 5 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3047969693": {
@@ -31229,7 +31692,7 @@
     "secondaryEditor": "After Reloading within 6 seconds of a Precision Kill:\r\nDelay after shooting is reduced by 30%, increasing Rate of Fire for 6 seconds.\r\nCan be refreshed.\r\n\r\nEnhanced: Increased duration."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3078487919": {
@@ -31337,7 +31800,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3096702027": {
@@ -31477,13 +31940,13 @@
     "secondaryEditor": "On Elemental or Barrier Champion Shield Break:\r\nRefreshes magazine. (Refresh: Reload, but does not need animation and doesn't proc on-reload perks.)\r\n\r\nEnergy Weapons are refunded 1 Ammo upon hitting Matching Elemental Shields.\r\n\r\nEnhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3108830275": {
    "id": 3108830275,
    "name": "Unrelenting",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -31567,7 +32030,7 @@
        "text": "For Combatant Classifications, check out "
       },
       {
-       "text": "this link ",
+       "text": "this link",
        "link": "https://d2clarity.page.link/combatant",
        "classNames": [
         "link"
@@ -31716,13 +32179,13 @@
     "secondaryEditor": "Upon reaching 3 points with Weapon Kills:\r\nStarts Health Regeneration and heals for ~80 HP\r\n\r\nRank-And-File give 1 point.\r\nGuardians give 2 points.\r\nElites/Minibosses/Bosses give 3 points.\r\n\r\nWeapon Kills must be within 5 seconds of each.\r\n\r\nEnhanced: Passively grants 5 Handling."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3161816588": {
    "id": 3161816588,
    "name": "Slideshot",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "range": {
      "active": {
@@ -31764,7 +32227,7 @@
        "text": "15% Magazine Refresh, 20 Range, and 30 Stability for 3 seconds. "
       },
       {
-       "text": "Only buffs first shot ",
+       "text": "Only buffs first shot",
        "title": "Even in the case of burst weapons. Only the first bullet of the burst is affected.",
        "classNames": [
         "title"
@@ -31800,7 +32263,7 @@
      ],
      "linesContent": [
       {
-       "text": "In-Game Range: ",
+       "text": "In-Game Range:",
        "formula": "range_0",
        "classNames": [
         "formula"
@@ -31852,7 +32315,7 @@
     "secondaryEditor": "Upon Sliding:\r\n15% Magazine Refresh, 20 Range, and 30 Stability for 3 seconds. Only buffs first shot.\r\nCan activate multiple times per slide. 0.3 second cooldown between activation."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3194351027": {
@@ -32009,13 +32472,13 @@
     "secondaryEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and 100 Blast Radius.\r\nMax of 6 Stacks. Consumes 1 Stack per Shot.\r\n\r\nGrenade Launchers: 44% Increased damage\r\nRocket Launchers: 25% Increased damage.\r\n\r\nEnhanced: Passively grants 5 Velocity."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3201496230": {
    "id": 3201496230,
    "name": "Redirection",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -32105,7 +32568,7 @@
        "text": "Check out "
       },
       {
-       "text": "this sheet ",
+       "text": "this sheet",
        "link": "https://d2clarity.page.link/combatant",
        "classNames": [
         "link"
@@ -32182,7 +32645,7 @@
     "secondaryEditor": "On Low-Tier Minor Combatant Hit:\r\nGrants 1 Stack of Redirection, up to 20 Stacks\r\n\r\nGrants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks.\r\n\r\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3208647503": {
@@ -33139,7 +33602,7 @@
   "3275789089": {
    "id": 3275789089,
    "name": "Shield Disorient",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -33198,7 +33661,7 @@
     "secondaryEditor": "On Matching Elemental Shield Break:\r\nExplosion disorients enemies within 7 meters for 5 seconds"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3295796664": {
@@ -33530,13 +33993,13 @@
     "secondaryEditor": "Refreshes stowed weapon from reserves after 2.5 seconds.\r\n\r\nEnhanced: Activation timer is reduced to 2.3 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3301904089": {
    "id": 3301904089,
    "name": "Spike Grenades",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -33595,7 +34058,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3336648220": {
@@ -33833,7 +34296,7 @@
     "secondaryEditor": "On Miss:\r\nPrimary Weapons have a 35% chance to refund ammo.\r\nSpecial Weapons and Heavy Weapons have a 20% chance to refund ammo.\r\n\r\nEnhanced:\r\nPrimary Weapons have a [40% maybe] chance to refund ammo. \r\nSpecial Weapons and Heavy Weapons have a [25% maybe] chance to refund ammo."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3347978672": {
@@ -34134,7 +34597,7 @@
   "3350417888": {
    "id": 3350417888,
    "name": "Sympathetic Arsenal",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "passive": {
@@ -34166,7 +34629,7 @@
      ],
      "linesContent": [
       {
-       "text": "Refreshes ",
+       "text": "Refreshes",
        "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
        "classNames": [
         "title"
@@ -34207,7 +34670,7 @@
      ],
      "linesContent": [
       {
-       "text": "Reload Time: ",
+       "text": "Reload Time:",
        "formula": "reload_0",
        "classNames": [
         "formula"
@@ -34298,7 +34761,7 @@
     "secondaryEditor": "On Reload within 6 seconds of a Weapon Kill:\r\nRefreshes stowed weapons.\r\n\r\nPassively grants 20 Reload Speed.\r\n\r\nEnhanced: Reload Timer is increased to 7 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3363267119": {
@@ -34526,13 +34989,13 @@
     "secondaryEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage.\r\nDetonation timer varies on draw and distance.\r\n\r\n[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on the Precision Multiplier.\r\n\r\n[PVP] Total damage remains the same.\r\n\r\nEnhanced: Passively grants 5 Accuracy."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3373736292": {
    "id": 3373736292,
    "name": "Sticky Grenades",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -34567,7 +35030,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3400784728": {
@@ -34666,13 +35129,13 @@
     "secondaryEditor": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147398635,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3418782618": {
    "id": 3418782618,
    "name": "Rewind Rounds",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -34695,7 +35158,7 @@
      ],
      "linesContent": [
       {
-       "text": "Refreshes ",
+       "text": "Refreshes",
        "title": "Reload, but does not need animation and doesn't proc on-reload perks.",
        "classNames": [
         "title"
@@ -34731,7 +35194,7 @@
      ],
      "linesContent": [
       {
-       "text": "50-60% for Primaries  30-40% for Special"
+       "text": "50-60% for Primaries | 30-40% for Special"
       }
      ]
     }
@@ -34786,7 +35249,7 @@
      ],
      "linesContent": [
       {
-       "text": "50-60% for Primaries  30-40% for Special"
+       "text": "50-60% for Primaries | 30-40% for Special"
       }
      ]
     }
@@ -34796,7 +35259,7 @@
     "secondaryEditor": "Upon emptying the Magazine:\r\nRefreshes Magazine based on the Number of Hits.\r\n\r\nHits to Returned Ammo Ratio:\r\n50-60% for Primaries | 30-40% for Special"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3425386926": {
@@ -34964,7 +35427,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n10% | 21% | 33.1% increased damage for 3.5 seconds.\r\nBuff Refreshed on Kill. \r\n\r\nEnhanced: Buff Duration is increased to 4 seconds.\r\n\r\nRampage Spec adds an additional 1 second to both regular and enhanced."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658147398635,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3431277734": {
@@ -35372,7 +35835,7 @@
   "3436462433": {
    "id": 3436462433,
    "name": "Surplus",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "active": {
@@ -35453,96 +35916,33 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Abilities"
-        },
-        {
-         "text": "Stability"
-        },
-        {
-         "text": "Reload"
-        },
-        {
-         "text": "Handling"
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        "background"
-       ],
-       "linesContent": [
-        {
-         "text": "1x",
-         "classNames": [
-          null,
-          "bold"
+         "cellContent": [
+          {
+           "text": "Abilities"
+          }
          ]
         },
         {
-         "text": "5"
-        },
-        {
-         "text": "5"
-        },
-        {
-         "text": "10"
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        null
-       ],
-       "linesContent": [
-        {
-         "text": "In-Game"
-        },
-        {
-         "text": ""
-        },
-        {
-         "text": "",
-         "formula": "reload_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "Stability"
+          }
          ]
         },
         {
-         "text": "Ready: ",
-         "formula": "ready_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "Reload"
+          }
          ]
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        null
-       ],
-       "linesContent": [
-        {
-         "text": "Values:"
         },
         {
-         "text": ""
-        },
-        {
-         "text": ""
-        },
-        {
-         "text": "Stow: ",
-         "formula": "stow_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "Handling"
+          }
          ]
         }
        ]
@@ -35553,50 +35953,39 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "2x",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "1x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "15"
-        },
-        {
-         "text": "25"
-        },
-        {
-         "text": "25"
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        null
-       ],
-       "linesContent": [
-        {
-         "text": "In-Game"
-        },
-        {
-         "text": ""
-        },
-        {
-         "text": "",
-         "formula": "reload_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "5"
+          }
          ]
         },
         {
-         "text": "Ready: ",
-         "formula": "ready_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "5"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "10"
+          }
          ]
         }
        ]
@@ -35607,21 +35996,70 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Values:"
+         "cellContent": [
+          {
+           "text": "In-Game"
+          }
+         ]
         },
         {
-         "text": ""
+         "cellContent": []
         },
         {
-         "text": ""
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "reload_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
         },
         {
-         "text": "Stow: ",
-         "formula": "stow_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "Ready:",
+           "formula": "ready_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Values:"
+          }
+         ]
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Stow:",
+           "formula": "stow_0",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -35632,50 +36070,39 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "3x",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "2x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "25"
-        },
-        {
-         "text": "50"
-        },
-        {
-         "text": "50"
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        null
-       ],
-       "linesContent": [
-        {
-         "text": "In-Game"
-        },
-        {
-         "text": ""
-        },
-        {
-         "text": "",
-         "formula": "reload_2",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "15"
+          }
          ]
         },
         {
-         "text": "Ready: ",
-         "formula": "ready_2",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "25"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "25"
+          }
          ]
         }
        ]
@@ -35686,21 +36113,187 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Values:"
+         "cellContent": [
+          {
+           "text": "In-Game"
+          }
+         ]
         },
         {
-         "text": ""
+         "cellContent": []
         },
         {
-         "text": ""
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "reload_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
         },
         {
-         "text": "Stow: ",
-         "formula": "stow_2",
+         "cellContent": [
+          {
+           "text": "Ready:",
+           "formula": "ready_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Values:"
+          }
+         ]
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Stow:",
+           "formula": "stow_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background"
+       ],
+       "rowContent": [
+        {
          "classNames": [
-          "formula"
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "3x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "25"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "50"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "50"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "In-Game"
+          }
+         ]
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "reload_2",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Ready:",
+           "formula": "ready_2",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Values:"
+          }
+         ]
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Stow:",
+           "formula": "stow_2",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -35751,7 +36344,7 @@
      ],
      "linesContent": [
       {
-       "text": "> 5  25  50 Reload Speed"
+       "text": "> 5 | 25 | 50 Reload Speed"
       }
      ]
     },
@@ -35763,7 +36356,7 @@
      ],
      "linesContent": [
       {
-       "text": "> 5  15  25 Stability"
+       "text": "> 5 | 15 | 25 Stability"
       }
      ]
     },
@@ -35775,7 +36368,7 @@
      ],
      "linesContent": [
       {
-       "text": "> 10  25  50 Handling"
+       "text": "> 10 | 25 | 50 Handling"
       }
      ]
     },
@@ -35819,7 +36412,7 @@
     "secondaryEditor": "Grants Stat Bonuses depending on the amount of Charged Abilities:\r\n\r\n> 5 | 25 | 50 Reload Speed\r\n> 5 | 15 | 25 Stability\r\n> 10 | 25 | 50 Handling\r\n\r\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\r\n\r\nEnhanced: Stronger Effect"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3449001998": {
@@ -36270,7 +36863,7 @@
     "secondaryEditor": "Grants different Stat Bonuses based on your selected Subclass.\r\n\r\nSolar: 50 Reload Speed\r\nArc: 50 Handling\r\nVoid: 20 Stability\r\nStasis: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\r\n\r\nEnhanced: Adds an additional 5 to the Stat Bonus currently in effect. Unknown for Stasis."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3523296417": {
@@ -36440,7 +37033,7 @@
     "secondaryEditor": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. [MOST] Special Weapons grant 20%.\r\n\r\nTrace Rifles and Grenade Launchers grant half of what other Special Weapons give.\r\n\r\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\r\n\r\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3523746922": {
@@ -36517,7 +37110,7 @@
   "3526486541": {
    "id": 3526486541,
    "name": "Tilting at Windmills",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -36620,7 +37213,7 @@
     "secondaryEditor": "Upon blocking damage with your Glaive Shield:\r\n\r\nIncreases Mobility[?] for [?] seconds, or until you stop blocking.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3528046508": {
@@ -36836,7 +37429,7 @@
     "secondaryEditor": "Huckleberry specific:\r\n[PVE] 20% | 41% | 66% Damage Increase for 3.5 seconds.\r\n[PVP] 10% | 21% | 33.1% increased damage for 3.5 seconds.\r\nBuff Refreshed on Kill."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658148663107,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "investmentStatOnly": false
   },
@@ -36944,7 +37537,7 @@
   "3592538738": {
    "id": 3592538738,
    "name": "Wellspring",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -36984,7 +37577,10 @@
      ],
      "linesContent": [
       {
-       "text": "<highlight_3 If you have more than 3 ability charges in total, the perk stops functioning. />"
+       "text": "If you have more than 3 ability charges in total, the perk stops functioning.",
+       "classNames": [
+        "blue"
+       ]
       }
      ]
     },
@@ -37067,17 +37663,18 @@
     }
    ],
    "editor": {
-    "mainEditor": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n\n<highlight_3 If you have more than 3 ability charges in total, the perk stops functioning. />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities.",
+    "mainEditor": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n\n<blue If you have more than 3 ability charges in total, the perk stops functioning. />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities.",
     "secondaryEditor": "On Weapon Kill:\r\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\r\n\r\nIf you have more than 3 ability charges in total, the perk stops functioning.\r\n\r\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
-   "visible": true
+   "lastUpdate": 1658498749570,
+   "visible": true,
+   "uploadToLive": true
   },
   "3643424744": {
    "id": 3643424744,
    "name": "Overflow",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -37186,7 +37783,7 @@
     "secondaryEditor": "On Special or Power Ammo Pickup:\r\nMagazine gets overflowed to 200% of its regular capacity.\r\n\r\nEnhanced: Magazine refill gets increased to 205-222% of its regular capacity."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3650930298": {
@@ -37285,7 +37882,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3651607301": {
@@ -38538,7 +39135,7 @@
     "secondaryEditor": "import description from 3673922083\r\n\r\nBows and Shotguns receive 20% increased damage. Fusion Rifles receive 27% increased damage.\r\n\r\n-15% Rate of Fire/Charge Rate:\r\nHand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles, Rapid-Fire Auto Rifles\r\n\r\n-20% Rate of Fire/Charge Rate:\r\nAdaptive Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns\r\n\r\nEnhanced: Buff Duration is increased to 8 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "uploadToLive": true
   },
@@ -38723,7 +39320,7 @@
   "3700496672": {
    "id": 3700496672,
    "name": "Shoot to Loot",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -38840,7 +39437,7 @@
     "secondaryEditor": "After Shooting an Ammo Pickup:\r\nPicks up the Ammo and Refreshes all your Weapons.\r\nTriggers Ammo Pickup effects. Only activates if you are not full on Ammo.\r\n\r\nEnhanced: Passively grants 5 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3705817207": {
@@ -38929,13 +39526,13 @@
     "secondaryEditor": "On Sword Kill:\r\nIncreased Charge Rate, Endurance, Efficiency, and Defense.\r\nLasts until stowed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3708227201": {
    "id": 3708227201,
    "name": "Surrounded",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -39072,13 +39669,13 @@
     "secondaryEditor": "While within 8 metres of 3+ Enemies:\r\n30% Increased Damage. (Swords receive a 25% Damage Increase)\r\n\r\nSurrounded Spec increases Damage by an additive 10% and adds a linger effect for 1.5 seconds \r\n\r\nEnhanced: Surrounded's damage buff is increased by a multiplicative 5%."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3721627275": {
    "id": 3721627275,
    "name": "Swap Mag",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "draw": {
      "active": {
@@ -39122,7 +39719,7 @@
      ],
      "linesContent": [
       {
-       "text": "Ready Speed: ",
+       "text": "Ready Speed:",
        "formula": "ready_0",
        "classNames": [
         "formula"
@@ -39138,7 +39735,7 @@
      ],
      "linesContent": [
       {
-       "text": "Stow Speed: ",
+       "text": "Stow Speed:",
        "formula": "stow_0",
        "classNames": [
         "formula"
@@ -39166,7 +39763,7 @@
     "secondaryEditor": "Passice 0.9x Ready/Stow Duration Multiplier"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3722653512": {
@@ -39289,7 +39886,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3723531833": {
@@ -39596,7 +40193,7 @@
     "secondaryEditor": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3797647183": {
@@ -39783,7 +40380,7 @@
     "secondaryEditor": "While blocking and stationary:\r\n[50%?] Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3824105627": {
@@ -39939,8 +40536,8 @@
     "secondaryEditor": "import secondary from 1561789734"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
-   "visible": true,
+   "lastUpdate": 1658498749570,
+   "visible": false,
    "uploadToLive": true
   },
   "3824622015": {
@@ -40557,7 +41154,7 @@
     "secondaryEditor": "import secondary from 2848615171"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": false,
    "uploadToLive": true
   },
@@ -40693,7 +41290,7 @@
   "3913600130": {
    "id": 3913600130,
    "name": "Whirlwind Blade",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -40734,7 +41331,7 @@
      ],
      "linesContent": [
       {
-       "text": "3%  6%  9%  12%  15%  18%  21%  24%  27%  30% Increased damage for 3.5(?) seconds."
+       "text": "3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. "
       }
      ]
     },
@@ -40772,7 +41369,7 @@
      ],
      "linesContent": [
       {
-       "text": "3%  6%  9%  12%  15%  18%  21%  24%  27%  30% Increased damage for 3.5(?) seconds."
+       "text": "3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. "
       }
      ]
     },
@@ -40794,7 +41391,7 @@
     "secondaryEditor": "On Hit:\r\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. \r\nBlocking removes all Stacks."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3927722942": {
@@ -40936,7 +41533,7 @@
     "secondaryEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\r\n20% effective damage increase.\r\n\r\nPassively grants 50 Blast Radius.\r\n\r\nEnhanced: Passively grants 55 Blast Radius."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3927963100": {
@@ -41664,7 +42261,7 @@
   "3977735242": {
    "id": 3977735242,
    "name": "Tracking Module",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -41787,7 +42384,7 @@
     "secondaryEditor": "While aiming-down-sights at an Enemy:\r\nRockets track enemies [with diminshed effectiveness in PVP]\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "3988215619": {
@@ -41879,7 +42476,7 @@
   "3999527219": {
    "id": 3999527219,
    "name": "Remote Detonation",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponPerk",
    "description": [
     {
@@ -41914,7 +42511,7 @@
     "secondaryEditor": "Fires a grenade projectile that bounces and detonates on trigger release."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "4003264426": {
@@ -42603,13 +43200,13 @@
     "secondaryEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n35% Increased Damage for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "4071163871": {
    "id": 4071163871,
    "name": "Threat Detector",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "active": {
@@ -42670,33 +43267,57 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Enemy Count",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Enemy Count",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "Stability",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Stability",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "Reload",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Reload",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "Handling Animation Duration",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Handling Animation Duration",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         }
        ]
@@ -42707,50 +43328,39 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "1",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "1",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "~15"
-        },
-        {
-         "text": "15"
-        },
-        {
-         "text": "0.75x"
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        null
-       ],
-       "linesContent": [
-        {
-         "text": "In-Game"
-        },
-        {
-         "text": ""
-        },
-        {
-         "text": "",
-         "formula": "reload_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "~15"
+          }
          ]
         },
         {
-         "text": "Ready: ",
-         "formula": "ready_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "15"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "0.75x"
+          }
          ]
         }
        ]
@@ -42761,21 +43371,70 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Values:"
+         "cellContent": [
+          {
+           "text": "In-Game"
+          }
+         ]
         },
         {
-         "text": ""
+         "cellContent": []
         },
         {
-         "text": ""
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "reload_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
         },
         {
-         "text": "Stow: ",
-         "formula": "stow_0",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "Ready:",
+           "formula": "ready_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Values:"
+          }
+         ]
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Stow:",
+           "formula": "stow_0",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -42786,50 +43445,39 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "2+",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "2+",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "~40"
-        },
-        {
-         "text": "55"
-        },
-        {
-         "text": "0.56x"
-        }
-       ]
-      },
-      {
-       "classNames": [
-        null,
-        null,
-        null
-       ],
-       "linesContent": [
-        {
-         "text": "In-Game"
-        },
-        {
-         "text": ""
-        },
-        {
-         "text": "",
-         "formula": "reload_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "~40"
+          }
          ]
         },
         {
-         "text": "Ready: ",
-         "formula": "ready_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "55"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "0.56x"
+          }
          ]
         }
        ]
@@ -42840,21 +43488,70 @@
         null,
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Values:"
+         "cellContent": [
+          {
+           "text": "In-Game"
+          }
+         ]
         },
         {
-         "text": ""
+         "cellContent": []
         },
         {
-         "text": ""
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "reload_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
         },
         {
-         "text": "Stow: ",
-         "formula": "stow_1",
-         "classNames": [
-          "formula"
+         "cellContent": [
+          {
+           "text": "Ready:",
+           "formula": "ready_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Values:"
+          }
+         ]
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": []
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Stow:",
+           "formula": "stow_1",
+           "classNames": [
+            "formula"
+           ]
+          }
          ]
         }
        ]
@@ -42956,13 +43653,13 @@
     "secondaryEditor": "While within 15 metres of an enemy:\r\n~15 Stability, 15 Reload, and 0.75x Handling Animation Duration Scalar.\r\n\r\nWhile within 15 metres of 2+ enemies:\r\n~40 Stability, 55 Reload, and 0.56x Handling Animation Duration Scalar.\r\n\r\nEnhanced: Buff Effect is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "4082225868": {
    "id": 4082225868,
    "name": "Swashbuckler",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "active": {
@@ -43022,24 +43719,48 @@
         "bold",
         null
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Stacks"
+         "cellContent": [
+          {
+           "text": "Stacks"
+          }
+         ]
         },
         {
-         "text": "1x"
+         "cellContent": [
+          {
+           "text": "1x"
+          }
+         ]
         },
         {
-         "text": "2x"
+         "cellContent": [
+          {
+           "text": "2x"
+          }
+         ]
         },
         {
-         "text": "3x"
+         "cellContent": [
+          {
+           "text": "3x"
+          }
+         ]
         },
         {
-         "text": "4x"
+         "cellContent": [
+          {
+           "text": "4x"
+          }
+         ]
         },
         {
-         "text": "5x"
+         "cellContent": [
+          {
+           "text": "5x"
+          }
+         ]
         }
        ]
       },
@@ -43049,28 +43770,54 @@
         null,
         "background"
        ],
-       "linesContent": [
+       "rowContent": [
         {
-         "text": "Damage Increase",
          "classNames": [
-          null,
           "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Damage Increase",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
          ]
         },
         {
-         "text": "6.6%"
+         "cellContent": [
+          {
+           "text": "6.6%"
+          }
+         ]
         },
         {
-         "text": "13.2%"
+         "cellContent": [
+          {
+           "text": "13.2%"
+          }
+         ]
         },
         {
-         "text": "20%"
+         "cellContent": [
+          {
+           "text": "20%"
+          }
+         ]
         },
         {
-         "text": "26.4%"
+         "cellContent": [
+          {
+           "text": "26.4%"
+          }
+         ]
         },
         {
-         "text": "33%"
+         "cellContent": [
+          {
+           "text": "33%"
+          }
+         ]
         }
        ]
       }
@@ -43115,7 +43862,7 @@
      ],
      "linesContent": [
       {
-       "text": "6.6%  13.2%  20%  26.4%  33% Increased Damage for 4.5 seconds."
+       "text": "6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage for 4.5 seconds."
       }
      ]
     },
@@ -43159,7 +43906,7 @@
     "secondaryEditor": "On Weapon or Melee Kill:\r\n6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage for 4.5 seconds.\r\n\r\nBuff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\r\n\r\nEnhanced: Buff Duration is increased to 6.5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658069760329,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "4091000557": {
@@ -43598,7 +44345,7 @@
     "secondaryEditor": "After being in Combat for 12 seconds:\r\n15% Increased Damage, 50 Handling, and 50 Reload Speed.\r\nLasts until you're out of combat and works while stowed.\r\n\r\nBeing in Combat is defined as having either dealt or received damage within 5 seconds.\r\n\r\nEnhanced: In Combat Timer is increased to 5.5 seconds"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "4134353779": {
@@ -43708,7 +44455,7 @@
     "secondaryEditor": "30 Reload Stat with a 0.9x Reload Duration Scalar.\r\n\r\nDecreases magazing size. (Only visible in-game.)"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "4152709778": {
@@ -43749,7 +44496,7 @@
     "secondaryEditor": "Passively grants 20 Aim Assist and -30 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true,
    "investmentStatOnly": true,
    "uploadToLive": true
@@ -44498,7 +45245,7 @@
     "secondaryEditor": "While Last Guardian Standing:\r\nKills fully refresh Magazine.\r\n\r\nPassively grants +30 Magazine stat."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   },
   "4267945040": {
@@ -44573,7 +45320,7 @@
     "secondaryEditor": "import secondary from 2117683199"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": false,
    "uploadToLive": true
   },
@@ -44827,7 +45574,7 @@
     "secondaryEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nEmber of Ashes increases this to 40 Scorch.\r\n\r\nKilling Powerful Combatants and Players increases the range to 8 meters.\r\n\r\n\r\nEnhanced:\r\nPVE: Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped\r\n\r\nPVP: Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496244214,
+   "lastUpdate": 1658498749570,
    "visible": true
   }
  },
