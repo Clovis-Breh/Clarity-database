@@ -11,7 +11,7 @@
      ]
     }
    ],
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -243,7 +243,7 @@
     "secondaryEditor": "Passively grants 20 Stability and -30 Reload Speed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true,
    "investmentStatOnly": true,
    "uploadToLive": true
@@ -590,7 +590,7 @@
     "secondaryEditor": "On Weapon or Grenade Kill:\r\n6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage and 20 Handling for 4.5 seconds.\r\n\r\nBuff Refreshed on Kill. Grenade Kills grant all 5 stacks instantly.\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true,
    "uploadToLive": true
   },
@@ -690,7 +690,7 @@
     "secondaryEditor": "Loads 2 Ammo at a time.\r\nReduces Reload Speed by 35.\r\n\r\nEnhanced: Loads 3 Ammo instead of 2."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "47981717": {
@@ -846,7 +846,7 @@
     "secondaryEditor": "For one bullet only:\r\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\r\n\r\n3.1 seconds cooldown, resets if the weapon is shot."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "117669763": {
@@ -1248,7 +1248,7 @@
     "secondaryEditor": "On Precision Kill:\r\nSpawns a Large Stasis Crystal on Enemy Death Location. \r\nRank-and-File Combatants spawn a Medium Stasis Crystal.\r\n\r\nHaving 5 crystals active at once incurs in a 5 second cooldown.\r\n\r\nEnhanced: Passively grants 5 Stability"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "185514250": {
@@ -1586,7 +1586,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true,
    "uploadToLive": true
   },
@@ -3147,7 +3147,7 @@
     "secondaryEditor": "While Crouched:\r\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\r\n\r\nEffects are halved on Fusion Rifles.\r\n\r\nEnhanced: Stronger effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "299264772": {
@@ -3323,7 +3323,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "371216963": {
@@ -3954,7 +3954,7 @@
     "secondaryEditor": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:\r\n\r\n20% Increased Damage and 15 Handling for 7 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 8 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "454085387": {
@@ -4146,7 +4146,7 @@
     "secondaryEditor": "Upon dealing Melee Damage while an Enemy is within 15 meters:\r\n500% [PVP: 100%] increased damage for one burst and 100 Handling for 10 seconds or until firing.\r\n4 second cooldown. Can be activated while stowed.\r\n\r\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "460017080": {
@@ -4254,7 +4254,7 @@
     "secondaryEditor": "After dealing non-Precision Weapon Damage:\r\n8% Increased Precision Damage for 0.3 seconds\r\n\r\nEnhanced: Passively grants 5 Stability."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "466087222": {
@@ -5483,7 +5483,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n10% | 20% | 30% increased damage until stow or reload.\r\n\r\nEnhanced: Passively grants 10 Magazine Stat (Identical to Tactical Mag)."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "569260333": {
@@ -5726,7 +5726,7 @@
     "secondaryEditor": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing.\r\n\r\nEnhanced: Aim Assist bonus is increased marginally."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "591790007": {
@@ -5767,7 +5767,7 @@
     "secondaryEditor": "Passively grants 20 Range and -30 Stability"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true,
    "investmentStatOnly": true,
    "uploadToLive": true
@@ -6803,7 +6803,7 @@
     "secondaryEditor": "While above 70% Magazine:\r\n50 Reload Speed with a 0.95x Duration Scale\r\n\r\nEnhanced: Reload increased to [55 maybe?]"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "689005463": {
@@ -6868,7 +6868,7 @@
    },
    "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1658496210213
+   "lastUpdate": 1658496244214
   },
   "692285813": {
    "id": 692285813,
@@ -7247,7 +7247,7 @@
     "secondaryEditor": "While at Low Health:\r\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\r\n\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Passively grants 5 Stability."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "699693452": {
@@ -10222,7 +10222,7 @@
     "secondaryEditor": "Passively grants:\r\n- 35% Faster Projectile Velocity \r\n- 10 Reload Speed with 0.8x Duration Multiplier\r\n\r\nEnhanced: Increases Reload Speed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "957782887": {
@@ -10454,7 +10454,7 @@
     "secondaryEditor": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "972757866": {
@@ -10838,7 +10838,7 @@
     "secondaryEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\r\n33% Increased damage for 5 seconds.\r\nBuff can't be refreshed. Persists through stow.\r\n\r\nEnhanced: Buff Duration is increased to 5.5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1047830412": {
@@ -10913,7 +10913,7 @@
     "secondaryEditor": "Decreases Shotgun Pellet Spread by 3.75\r\n\r\nReduces Precision Damage Multiplier"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1048183818": {
@@ -11314,7 +11314,7 @@
     "secondaryEditor": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\r\nHits deal increasingly higher damage against Combatant Shields.\r\nBuff is removed upon hitting a matching shield or an unshielded enemy.\r\n\r\n29% per hit, up to 435%: Fusion Rifles\r\n\r\n33.3% per hit, up to 500%:\r\nAuto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\r\n\r\n150% per hit, up to 450%: Linear Fusion Rifles\r\n\r\n166.6% per hit, up to 500%:\r\nBows, Glaives, Hand Cannons, Scout Rifles\r\n\r\n\r\nEnhanced: Damage Increase per stack and Maximum Damage Increase are increased by a multiplicative 20%\r\nEg: 500% -> 600%"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true,
    "uploadToLive": true
   },
@@ -12175,7 +12175,7 @@
     "secondaryEditor": "Melee Hits grant Stacks of Fury Conductors.\r\nReceiving melee damage unleashes an Arc Explosion with a radius of 5 metres.\r\nArc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\r\n\r\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\r\n\r\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not dealing melee damage."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1155472387": {
@@ -12547,7 +12547,7 @@
     "secondaryEditor": "On Precision Kill:\r\n70 Reload Speed with a 0.9x Duration Multiplier for 6 seconds.\r\n\r\nEnhanced: Duration increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1195158366": {
@@ -12869,7 +12869,7 @@
     "secondaryEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\r\n\r\nOn Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability.\r\n\r\nLasts 7 seconds. Refreshed on Kill.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1211775759": {
@@ -13263,7 +13263,7 @@
     "secondaryEditor": "While Last Guardian Standing:\r\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\r\n\r\nPassively grants 20 Handling and 20 Reload Speed"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1275731761": {
@@ -13328,7 +13328,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1281216113": {
@@ -13747,7 +13747,7 @@
     "secondaryEditor": "Scoring 4 Precision Hits generates 2 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1359896290": {
@@ -13913,7 +13913,7 @@
     "secondaryEditor": "During Sustained Fire:\r\nGradually greatly increases Accuracy, and adds up to +10 Stability. Takes 0.6 seconds to maximize effect.\r\n\r\nThe accuracy improvement is greater than initial accuracy.\r\nThe accuracy increase is gradual, almost completely negating the effects of bloom.\r\n\r\nEnhanced: Effect reaches full effect sooner."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1420473289": {
@@ -14641,7 +14641,7 @@
     "secondaryEditor": "Upon reloading with an empty magazine:\r\n15% Faster Reload Animation"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1437147326": {
@@ -15501,7 +15501,7 @@
     "secondaryEditor": "On Precision Kill:\r\n70 Reload Speed with a 0.9x Duration Multiplier for 6 seconds.\r\n\r\nEnhanced: Duration increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1536798515": {
@@ -15905,7 +15905,7 @@
     "secondaryEditor": "On Power Ammo Pickup:\r\nGrants (almost) the equivalent of 1 Special Ammo Pickup.\r\n\r\nEnhanced: Increases the amount of Special Ammo received."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1561002382": {
@@ -16020,7 +16020,7 @@
     "secondaryEditor": "Increased Flinch on Enemies.\r\n\r\n[PVE] Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors.\r\n\r\n[PVP] Flinch amount against Guardians varies between Weapon Archetypes, from 6% to 11% Increased Flinch received.\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1561789734": {
@@ -16176,7 +16176,7 @@
     "secondaryEditor": "On Precision Kill:\r\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\r\n50 Reload Speed for 6 seconds.\r\n\r\nNot affected by Dragonfly Spec."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true,
    "uploadToLive": true
   },
@@ -16330,7 +16330,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n-15% Accuracy Cone Growth, 15 Stability, and ~20 Recoil Direction.\r\n\r\nStacks up to 2x.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1583705720": {
@@ -16744,7 +16744,7 @@
     "secondaryEditor": "For 4 seconds after readying a Fusion Rifle:\r\n30% Faster Charge Rate, 20% decreased damage, and 100 Handling"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1607056502": {
@@ -16919,7 +16919,7 @@
     "secondaryEditor": "On Melee Kill:\r\nWeapons get refreshed.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1645158859": {
@@ -17516,7 +17516,7 @@
     "secondaryEditor": "On Elemental/Barrier Champion or Guardian Shield Break:\r\nDebuffs the enemy, increasing Kinetic Damage by 50% for 5.5 seconds.\r\nStacks with other Debuffs, as it is a Weapon Perk.\r\n\r\nEnhanced: Debuff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1685431615": {
@@ -17590,7 +17590,7 @@
     "secondaryEditor": "Upon readying a Sword:\r\n30% Increased damage for 1.5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1687452232": {
@@ -17654,7 +17654,7 @@
     "secondaryEditor": "Increases charge time by 40, and damage by 2%"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1694242448": {
@@ -18555,7 +18555,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": false,
    "uploadToLive": true
   },
@@ -18892,7 +18892,7 @@
     "secondaryEditor": "During Slide, after Sprinting for 1.5 seconds:\r\n20% Increased damage and 100ms increased Charge Rate for [?] seconds. \r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1771339417": {
@@ -19000,7 +19000,7 @@
     "secondaryEditor": "While within X meters of 2+ Allies:\r\n20% Increased Precision Damage\r\n\r\nEnhanced: Passively grants 5 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1774574192": {
@@ -19099,7 +19099,7 @@
     "secondaryEditor": "On Grenade Ability Usage:\r\nChanges Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 5 Handling."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1799762209": {
@@ -19238,7 +19238,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1820235745": {
@@ -20094,7 +20094,7 @@
     "secondaryEditor": "If hipfiring:\r\n20% Increased: Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance\r\n15 Aim Assist\r\n+2.7 degrees Precision Angle Threshold\r\n-30% Accuracy Cone Size and ~30 Stability.\r\n\r\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\r\n\r\nEnhanced: Stronger Effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1885045197": {
@@ -21090,7 +21090,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "1971489086": {
@@ -21439,7 +21439,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2030760728": {
@@ -21538,7 +21538,7 @@
     "secondaryEditor": "While Blocking with a Sword:\r\nGrants Class Ability Energy based on the amount of damage taken.\r\n\r\nEnhanced: Increased Class Ability Energy Gain."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2039302152": {
@@ -21781,7 +21781,7 @@
     "secondaryEditor": "Upon readying a Sword:\r\n100% Increased Lunge Range for 1 second. (Enough to execute 2 light attacks.)\r\n4 second cooldown."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2117683199": {
@@ -21856,7 +21856,7 @@
     "secondaryEditor": "Automatically queues up the next shot after firing if you hold the trigger.\r\n\r\n10% Faster Rate of Fire on Shotguns exclusively."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true,
    "uploadToLive": true
   },
@@ -23082,7 +23082,7 @@
     "secondaryEditor": "As Magazine goes below 50%, until empty: \r\n[PVE] 12.1% to 25.6% Increased damage.\r\n[PVP] 3% to 6% Increased damage.\r\n\r\nEnhanced: Activates at the 75% Magazine Threshold."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2224838837": {
@@ -23299,7 +23299,7 @@
     "secondaryEditor": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:\r\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\r\n\r\nEnhanced: Passively grants increased Ammo Reserves."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2284787283": {
@@ -23422,7 +23422,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2299766748": {
@@ -23968,7 +23968,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2422968039": {
@@ -24457,7 +24457,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n20 Range, 50 Mobility, 40 Handling, and a 5% Increased Damage Falloff Distance.\r\n\r\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2451262963": {
@@ -24562,7 +24562,7 @@
     "secondaryEditor": "Passively grants 20 Range, but has a 5 second cooldown if you take any damage.\r\n\r\nEnhanced: Timer after not taking damage is reduced."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2458213969": {
@@ -24696,7 +24696,7 @@
     "secondaryEditor": "On Reload, within 3.8 seconds of a Weapon Kill:\r\n17% | 33% | 50% Increased damage for 5 seconds, depending on the amount of enemies killed.\r\nBuff is overwritten every time you refresh it.\r\n\r\nEnhanced: Buff Duration is increased to 5.5 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2471523345": {
@@ -25573,7 +25573,7 @@
     "secondaryEditor": "After being scoped-in for 1.5 seconds without firing:\r\nIncreased Range, improved Accuracy Cone Size/Growth, and variably increased Precision Damage for one shot.\r\nRapid Fire & Adaptive Sniper = 31% | Linear Fusion = 33% | Aggressive Sniper = 37% | Scout Rifle = 66%\r\n\r\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2590710093": {
@@ -25781,7 +25781,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\r\n\r\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds.\r\nCan be refreshed by getting another Matching Ability Kill.\r\n\r\nEnhanced: Base Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2618534366": {
@@ -26286,7 +26286,7 @@
     "secondaryEditor": "While within 15 meters of 1 or more allies:\r\n30 Handling and 40 Reload Speed.\r\n\r\nLingers for 1.5 seconds.\r\n\r\nEnhanced: [35?] Handling and [45?] Reload Speed"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2637025676": {
@@ -27085,7 +27085,7 @@
     "secondaryEditor": "If All 12 Pellets from a Shotgun Hit:\r\n200% Increased melee damage for 1.22 seconds.\r\n350% Increased melee damage against Bosses and Vehicles.\r\n80% Increased melee damage if combined with Liar's Handshake.\r\n\r\nEnhanced: Pellet Activation Requirement reduced from 12 to 10."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2726471870": {
@@ -27987,7 +27987,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n\r\n10 | 45 | 55 | 70 | 100 Reload Speed Stat.\r\n1x | 0.9x | 0.875x | 0.85x | 0.8x Reload Duration Multiplier.\r\n\r\nLasts 3.5 seconds. Max of 5 Stacks.\r\n\r\nEnhanced: Stronger Effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2788909693": {
@@ -29019,7 +29019,7 @@
     "secondaryEditor": "On Precision Kill:\r\nTarget explodes, dealing the Weapon's Elemental Damage in a 3 meter radius. Damage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2866798147": {
@@ -29142,7 +29142,7 @@
     "secondaryEditor": "After being scoped-in for 1 second without firing:\r\n35% Flinch Reduction.\r\nTimer starts as soon as the ADS input is pressed.\r\n\r\nEnhanced: Aiming-Down-Sights timer is reduced."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2869569095": {
@@ -29364,7 +29364,7 @@
     "secondaryEditor": "While Crouched:\r\n50 Reload Speed with 0.8x Reload Duration Scalar and 0.8x Ready/Stow Duration Scalar.\r\n\r\nPassively grants increased Ammo Reserves.\r\n\r\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.\t"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2888557110": {
@@ -29439,7 +29439,7 @@
     "secondaryEditor": "Increases Explosive Damage by 0.63% for every meter after 10 meters.\r\n\r\n25% Increased Explosive Damage at 50 meters."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2889515627": {
@@ -30085,7 +30085,7 @@
     "secondaryEditor": "After scoring 50% of Magazine Size as Precision Hits:\r\n20% increased damage for 11 seconds.\r\nStowing or Reloading resets the precision counter. Can be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 12 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2898218424": {
@@ -30500,7 +30500,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "2979726427": {
@@ -30873,7 +30873,7 @@
     "secondaryEditor": "Immediately after blocking an attack within 0.5 seconds of starting to Block:\r\n50% Increased damage for 2 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3018373291": {
@@ -30957,7 +30957,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3038247973": {
@@ -31106,7 +31106,7 @@
     "secondaryEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage and has no damage falloff.\r\n\r\n[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Precision Multiplier.\r\n\r\n[PVP] Total damage remains the same.\r\n\r\nEnhanced: Passively grants 5 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3047969693": {
@@ -31229,7 +31229,7 @@
     "secondaryEditor": "After Reloading within 6 seconds of a Precision Kill:\r\nDelay after shooting is reduced by 30%, increasing Rate of Fire for 6 seconds.\r\nCan be refreshed.\r\n\r\nEnhanced: Increased duration."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3078487919": {
@@ -31337,7 +31337,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3096702027": {
@@ -31477,7 +31477,7 @@
     "secondaryEditor": "On Elemental or Barrier Champion Shield Break:\r\nRefreshes magazine. (Refresh: Reload, but does not need animation and doesn't proc on-reload perks.)\r\n\r\nEnergy Weapons are refunded 1 Ammo upon hitting Matching Elemental Shields.\r\n\r\nEnhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3108830275": {
@@ -32009,7 +32009,7 @@
     "secondaryEditor": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and 100 Blast Radius.\r\nMax of 6 Stacks. Consumes 1 Stack per Shot.\r\n\r\nGrenade Launchers: 44% Increased damage\r\nRocket Launchers: 25% Increased damage.\r\n\r\nEnhanced: Passively grants 5 Velocity."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3201496230": {
@@ -33530,7 +33530,7 @@
     "secondaryEditor": "Refreshes stowed weapon from reserves after 2.5 seconds.\r\n\r\nEnhanced: Activation timer is reduced to 2.3 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3301904089": {
@@ -33833,7 +33833,7 @@
     "secondaryEditor": "On Miss:\r\nPrimary Weapons have a 35% chance to refund ammo.\r\nSpecial Weapons and Heavy Weapons have a 20% chance to refund ammo.\r\n\r\nEnhanced:\r\nPrimary Weapons have a [40% maybe] chance to refund ammo. \r\nSpecial Weapons and Heavy Weapons have a [25% maybe] chance to refund ammo."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3347978672": {
@@ -34526,7 +34526,7 @@
     "secondaryEditor": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage.\r\nDetonation timer varies on draw and distance.\r\n\r\n[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on the Precision Multiplier.\r\n\r\n[PVP] Total damage remains the same.\r\n\r\nEnhanced: Passively grants 5 Accuracy."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3373736292": {
@@ -36270,7 +36270,7 @@
     "secondaryEditor": "Grants different Stat Bonuses based on your selected Subclass.\r\n\r\nSolar: 50 Reload Speed\r\nArc: 50 Handling\r\nVoid: 20 Stability\r\nStasis: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\r\n\r\nEnhanced: Adds an additional 5 to the Stat Bonus currently in effect. Unknown for Stasis."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3523296417": {
@@ -36440,7 +36440,7 @@
     "secondaryEditor": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. [MOST] Special Weapons grant 20%.\r\n\r\nTrace Rifles and Grenade Launchers grant half of what other Special Weapons give.\r\n\r\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\r\n\r\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3523746922": {
@@ -37285,7 +37285,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3651607301": {
@@ -38538,7 +38538,7 @@
     "secondaryEditor": "import description from 3673922083\r\n\r\nBows and Shotguns receive 20% increased damage. Fusion Rifles receive 27% increased damage.\r\n\r\n-15% Rate of Fire/Charge Rate:\r\nHand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles, Rapid-Fire Auto Rifles\r\n\r\n-20% Rate of Fire/Charge Rate:\r\nAdaptive Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns\r\n\r\nEnhanced: Buff Duration is increased to 8 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true,
    "uploadToLive": true
   },
@@ -38929,7 +38929,7 @@
     "secondaryEditor": "On Sword Kill:\r\nIncreased Charge Rate, Endurance, Efficiency, and Defense.\r\nLasts until stowed."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3708227201": {
@@ -39289,7 +39289,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3723531833": {
@@ -39596,7 +39596,7 @@
     "secondaryEditor": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3797647183": {
@@ -39783,7 +39783,7 @@
     "secondaryEditor": "While blocking and stationary:\r\n[50%?] Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3824105627": {
@@ -39850,7 +39850,10 @@
      ],
      "linesContent": [
       {
-       "text": "<highlight_4 Not affected by Dragonfly Spec. />"
+       "text": "Not affected by Dragonfly Spec.",
+       "classNames": [
+        "purple"
+       ]
       }
      ]
     },
@@ -39885,7 +39888,7 @@
      ],
      "linesContent": [
       {
-       "text": "On Precision Kill:"
+       "text": "On Precision Kill:\r"
       }
      ]
     },
@@ -39897,7 +39900,7 @@
      ],
      "linesContent": [
       {
-       "text": "Target explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage."
+       "text": "Target explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\r"
       }
      ]
     },
@@ -39909,7 +39912,7 @@
      ],
      "linesContent": [
       {
-       "text": "50 Reload Speed for 6 seconds."
+       "text": "50 Reload Speed for 6 seconds.\r"
       }
      ]
     },
@@ -39932,12 +39935,13 @@
     }
    ],
    "editor": {
-    "mainEditor": "On Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\n50 Reload Speed for 6 seconds.\n\n<highlight_4 Not affected by Dragonfly Spec. />\n\n<formula Reload Time: [reload_0] />",
-    "secondaryEditor": "On Precision Kill:\r\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\r\n50 Reload Speed for 6 seconds.\r\n\r\nNot affected by Dragonfly Spec."
+    "mainEditor": "import stats from 1561789734\nimport main from 1561789734",
+    "secondaryEditor": "import secondary from 1561789734"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
-   "visible": true
+   "lastUpdate": 1658496244214,
+   "visible": true,
+   "uploadToLive": true
   },
   "3824622015": {
    "id": 3824622015,
@@ -40553,7 +40557,7 @@
     "secondaryEditor": "import secondary from 2848615171"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": false,
    "uploadToLive": true
   },
@@ -40932,7 +40936,7 @@
     "secondaryEditor": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\r\n20% effective damage increase.\r\n\r\nPassively grants 50 Blast Radius.\r\n\r\nEnhanced: Passively grants 55 Blast Radius."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "3927963100": {
@@ -42599,7 +42603,7 @@
     "secondaryEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n35% Increased Damage for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "4071163871": {
@@ -43594,7 +43598,7 @@
     "secondaryEditor": "After being in Combat for 12 seconds:\r\n15% Increased Damage, 50 Handling, and 50 Reload Speed.\r\nLasts until you're out of combat and works while stowed.\r\n\r\nBeing in Combat is defined as having either dealt or received damage within 5 seconds.\r\n\r\nEnhanced: In Combat Timer is increased to 5.5 seconds"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "4134353779": {
@@ -43704,7 +43708,7 @@
     "secondaryEditor": "30 Reload Stat with a 0.9x Reload Duration Scalar.\r\n\r\nDecreases magazing size. (Only visible in-game.)"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "4152709778": {
@@ -43745,7 +43749,7 @@
     "secondaryEditor": "Passively grants 20 Aim Assist and -30 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true,
    "investmentStatOnly": true,
    "uploadToLive": true
@@ -44494,7 +44498,7 @@
     "secondaryEditor": "While Last Guardian Standing:\r\nKills fully refresh Magazine.\r\n\r\nPassively grants +30 Magazine stat."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   },
   "4267945040": {
@@ -44569,7 +44573,7 @@
     "secondaryEditor": "import secondary from 2117683199"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": false,
    "uploadToLive": true
   },
@@ -44823,7 +44827,7 @@
     "secondaryEditor": "Kills apply 30 Scorch to enemies within [?] meters.\r\nEmber of Ashes increases this to 40 Scorch.\r\n\r\nKilling Powerful Combatants and Players increases the range to 8 meters.\r\n\r\n\r\nEnhanced:\r\nPVE: Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped\r\n\r\nPVP: Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1658496210213,
+   "lastUpdate": 1658496244214,
    "visible": true
   }
  },
