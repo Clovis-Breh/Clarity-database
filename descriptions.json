@@ -126,11 +126,11 @@
     }
    ],
    "editor": {
-    "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces <title Self Damage [self damage] /> by 40%.\nLingers for 4(?) seconds.\n\nEnhanced: Passively grants 5 Blast Radius.\n\ntitle self damage (\nSelf Damage normally deals 25% increased damage.\n)",
+    "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces <title Self Damage [self damage] /> by 40%.\nLingers for 4(?) seconds.\n\nEnhanced: Passively grants 5 Blast Radius.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntitle self damage (\nSelf Damage normally deals 25% increased damage.\n)",
     "secondaryEditor": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659456841141,
+   "lastUpdate": 1659456905568,
    "visible": true,
    "uploadToLive": true,
    "titles": {
