@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1659458749394,
+   "lastUpdate": 1659459175004,
    "updatedBy": "Icemourne",
    "editor": {
     "mainEditor": "",
@@ -683,7 +683,7 @@
   "47981717": {
    "id": 47981717,
    "name": "Opening Shot",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "stats": {
     "range": {
      "active": {
@@ -833,8 +833,9 @@
     "secondaryEditor": "For one bullet only:\r\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\r\n\r\n3.1 seconds cooldown, resets if the weapon is shot."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881742,
+   "lastUpdate": 1659459175004,
    "visible": true,
+   "uploadToLive": true,
    "titles": {
     "first bullet only": [
      {
@@ -864,8 +865,7 @@
       ]
      }
     ]
-   },
-   "uploadToLive": true
+   }
   },
   "117669763": {
    "id": 117669763,
@@ -1611,7 +1611,7 @@
   "205890336": {
    "id": 205890336,
    "name": "Underdog",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "stats": {
     "reload": {
      "active": {
@@ -1752,8 +1752,9 @@
     "secondaryEditor": "While below 113 HP:\r\nUp to +100 Reload Speed with 0.9x Duration Multiplier \r\nEffect increases linearly as health decreases"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881742,
+   "lastUpdate": 1659459175004,
    "visible": true,
+   "uploadToLive": true,
    "titles": {
     "rds": [
      {
@@ -1769,8 +1770,7 @@
       ]
      }
     ]
-   },
-   "uploadToLive": true
+   }
   },
   "229003538": {
    "id": 229003538,
@@ -2624,7 +2624,7 @@
   "247725512": {
    "id": 247725512,
    "name": "Rapid Hit",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "stats": {
     "reload": {
      "active": {
@@ -3094,8 +3094,9 @@
     "secondaryEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n> 5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n> 2 | 12 | 14 | 18 | 25 Stability\r\n\r\nEnhanced: Stronger Effect."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881742,
+   "lastUpdate": 1659459175004,
    "visible": true,
+   "uploadToLive": true,
    "titles": {
     "rds": [
      {
@@ -3111,13 +3112,12 @@
       ]
      }
     ]
-   },
-   "uploadToLive": true
+   }
   },
   "280464955": {
    "id": 280464955,
    "name": "Firmly Planted",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "stats": {
     "handling": {
      "active": {
@@ -3418,8 +3418,9 @@
     "secondaryEditor": "While Crouched:\r\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\r\n\r\nEffects are halved on Fusion Rifles.\r\n\r\nEnhanced: Stronger effect."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881742,
+   "lastUpdate": 1659459175004,
    "visible": true,
+   "uploadToLive": true,
    "titles": {
     "accuracy cone growth": [
      {
@@ -3435,8 +3436,7 @@
       ]
      }
     ]
-   },
-   "uploadToLive": true
+   }
   },
   "299264772": {
    "id": 299264772,
@@ -3936,7 +3936,7 @@
    "name": "Scatter Charge",
    "itemId": 300502917,
    "itemName": "Nothing Manacles",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "type": "armorExotic",
    "description": [
     {
@@ -4039,7 +4039,7 @@
     "secondaryEditor": "If on Scatter Grenades:\r\n\r\nGain an extra Grenade Charge\r\nScatter Grenades innately receive Chaos Accelerant's Tracking Bonus"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881742,
+   "lastUpdate": 1659459175004,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -7351,7 +7351,7 @@
    },
    "inLiveDatabase": true,
    "visible": true,
-   "lastUpdate": 1659458749394,
+   "lastUpdate": 1659459175004,
    "uploadToLive": true
   },
   "692285813": {
@@ -7548,7 +7548,7 @@
   "699525795": {
    "id": 699525795,
    "name": "Eye of the Storm",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "stats": {
     "handling": {
      "active": {
@@ -7731,8 +7731,9 @@
     "secondaryEditor": "While at Low Health:\r\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\r\n\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Passively grants 5 Stability."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881742,
+   "lastUpdate": 1659459175004,
    "visible": true,
+   "uploadToLive": true,
    "titles": {
     "accuracy cone growth": [
      {
@@ -7748,8 +7749,7 @@
       ]
      }
     ]
-   },
-   "uploadToLive": true
+   }
   },
   "699693452": {
    "id": 699693452,
@@ -10914,7 +10914,7 @@
   "960810156": {
    "id": 960810156,
    "name": "Danger Zone",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "type": "weaponPerk",
    "description": [
     {
@@ -11041,8 +11041,9 @@
     "secondaryEditor": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881743,
+   "lastUpdate": 1659459175004,
    "visible": true,
+   "uploadToLive": true,
    "titles": {
     "self damage": [
      {
@@ -11058,13 +11059,12 @@
       ]
      }
     ]
-   },
-   "uploadToLive": true
+   }
   },
   "972757866": {
    "id": 972757866,
    "name": "Pulse Monitor",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "stats": {
     "handling": {
      "active": {
@@ -11258,8 +11258,9 @@
     "secondaryEditor": "Immediately upon being reduced below 110 HP:\r\nRefreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\r\n\r\nWorks while stowed.\r\n\r\nEnhanced: Health Requirement reduced."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881743,
+   "lastUpdate": 1659459175004,
    "visible": true,
+   "uploadToLive": true,
    "titles": {
     "refreshes": [
      {
@@ -11275,8 +11276,7 @@
       ]
      }
     ]
-   },
-   "uploadToLive": true
+   }
   },
   "984527513": {
    "id": 984527513,
@@ -13033,7 +13033,7 @@
   "1168162263": {
    "id": 1168162263,
    "name": "Outlaw",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "stats": {
     "reload": {
      "active": {
@@ -13169,8 +13169,9 @@
     "secondaryEditor": "On Precision Kill:\r\n70 Reload Speed with a 0.9x Duration Multiplier for 6 seconds.\r\n\r\nEnhanced: Duration increased."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881743,
+   "lastUpdate": 1659459175004,
    "visible": true,
+   "uploadToLive": true,
    "titles": {
     "rds": [
      {
@@ -13186,13 +13187,12 @@
       ]
      }
     ]
-   },
-   "uploadToLive": true
+   }
   },
   "1195158366": {
    "id": 1195158366,
    "name": "Encore",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "stats": {
     "range": {
      "active": {
@@ -13508,8 +13508,9 @@
     "secondaryEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\r\n\r\nOn Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability.\r\n\r\nLasts 7 seconds. Refreshed on Kill.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881743,
+   "lastUpdate": 1659459175004,
    "visible": true,
+   "uploadToLive": true,
    "titles": {
     "accuracy cone growth": [
      {
@@ -13525,8 +13526,7 @@
       ]
      }
     ]
-   },
-   "uploadToLive": true
+   }
   },
   "1211775759": {
    "id": 1211775759,
