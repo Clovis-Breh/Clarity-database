@@ -11,7 +11,7 @@
      ]
     }
    ],
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779878,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -66,7 +66,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779878,
    "visible": true,
    "uploadToLive": true
   },
@@ -108,7 +108,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true,
    "uploadToLive": true
   },
@@ -126,7 +126,7 @@
      ],
      "linesContent": [
       {
-       "text": "While surrounded by [?] enemies or by a Nightmare within [?] meters:"
+       "text": "While surrounded by 3 enemies or by a Nightmare within [15?] meters:"
       }
      ]
     },
@@ -138,7 +138,7 @@
      ],
      "linesContent": [
       {
-       "text": "Kills restore [?]HP"
+       "text": "Kills restore 40HP."
       }
      ]
     }
@@ -170,11 +170,11 @@
     }
    ],
    "editor": {
-    "mainEditor": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills restore [?]HP",
+    "mainEditor": "While surrounded by 3 enemies or by a Nightmare within [15?] meters:\r\nKills restore 40HP.",
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true,
    "uploadToLive": true
   },
@@ -226,8 +226,98 @@
     "secondaryEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true
+  },
+  "1380061575": {
+   "id": 1380061575,
+   "name": "Dream Work",
+   "editor": {
+    "mainEditor": "Once per reload:\r\nAssists or Assisted Kills refresh 66% of Magazine.\r\nMagazine can be overflowed by the ammo refresh, and is always rounded up.",
+    "secondaryEditor": "import main from self"
+   },
+   "lastUpdate": 1659442779879,
+   "updatedBy": "Fading-Shadow",
+   "type": "weaponOriginTrait",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Once per reload:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Assists or Assisted Kills refresh 66% of Magazine."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Magazine can be overflowed by the ammo refresh, and is always rounded up."
+      }
+     ]
+    }
+   ],
+   "visible": true,
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Once per reload:\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Assists or Assisted Kills refresh 66% of Magazine.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Magazine can be overflowed by the ammo refresh, and is always rounded up."
+      }
+     ]
+    }
+   ],
+   "uploadToLive": true,
+   "inLiveDatabase": false
   },
   "1536798515": {
    "id": 1536798515,
@@ -315,7 +405,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true,
    "uploadToLive": true
   },
@@ -407,7 +497,7 @@
     "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true
   },
   "1702976605": {
@@ -450,7 +540,7 @@
     "secondaryEditor": "import main from self\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true,
    "uploadToLive": true
   },
@@ -516,7 +606,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true,
    "uploadToLive": true
   },
@@ -647,7 +737,7 @@
     "secondaryEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true
   },
   "2988596335": {
@@ -787,7 +877,7 @@
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true,
    "uploadToLive": true
   },
@@ -887,7 +977,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true,
    "uploadToLive": true
   },
@@ -922,7 +1012,7 @@
      ],
      "linesContent": [
       {
-       "text": "Bows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate."
+       "text": "Bows receive 16% Faster Draw Time. Swords receive [?] Faster Charge Rate."
       }
      ]
     }
@@ -959,11 +1049,11 @@
     }
    ],
    "editor": {
-    "mainEditor": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate.",
+    "mainEditor": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 16% Faster Draw Time. Swords receive [?] Faster Charge Rate.",
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true,
    "uploadToLive": true
   },
@@ -1005,7 +1095,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true,
    "uploadToLive": true
   },
@@ -1115,7 +1205,7 @@
     "secondaryEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true
   },
   "4091460919": {
@@ -1185,7 +1275,7 @@
     "secondaryEditor": "40 Reload Stat while Out-of-Combat"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true
   },
   "4154828211": {
@@ -1260,7 +1350,7 @@
     "secondaryEditor": "import main from self\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442626557,
+   "lastUpdate": 1659442779879,
    "visible": true,
    "uploadToLive": true
   }
