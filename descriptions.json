@@ -130,7 +130,7 @@
     "secondaryEditor": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659455692530,
+   "lastUpdate": 1659455697880,
    "visible": true,
    "uploadToLive": true,
    "titles": {
