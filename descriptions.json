@@ -11,7 +11,7 @@
      ]
     }
    ],
-   "lastUpdate": 1659442996709,
+   "lastUpdate": 1659443070984,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -26,7 +26,194 @@
      ]
     }
    ],
-   "inLiveDatabase": true
+   "inLiveDatabase": false
+  },
+  "47981717": {
+   "id": 47981717,
+   "name": "Opening Shot",
+   "updatedBy": "Fading-Shadow",
+   "stats": {
+    "range": {
+     "active": {
+      "stat": [
+       25
+      ]
+     }
+    },
+    "aimAssist": {
+     "active": {
+      "stat": [
+       20
+      ]
+     }
+    }
+   },
+   "type": "weaponPerk",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "For the "
+      },
+      {
+       "text": "first bullet only",
+       "title": "first bullet only",
+       "classNames": [
+        "title"
+       ]
+      },
+      {
+       "text": ":"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% "
+      },
+      {
+       "text": "Accuracy Cone Growth",
+       "title": "accuracy cone growth",
+       "classNames": [
+        "title"
+       ]
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "3.1 seconds cooldown, resets if the weapon is shot."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "In-Game Range:",
+       "formula": "range_0",
+       "classNames": [
+        "formula"
+       ]
+      }
+     ]
+    }
+   ],
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "For one bullet only:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "3.1 seconds cooldown, resets if the weapon is shot."
+      }
+     ]
+    }
+   ],
+   "editor": {
+    "mainEditor": "For the <title first bullet only [first bullet only] />:\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [accuracy cone growth] />.\n\n3.1 seconds cooldown, resets if the weapon is shot.\n\n<formula In-Game Range: [range_0] />\n\ntitle first bullet only (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
+    "secondaryEditor": "For one bullet only:\r\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\r\n\r\n3.1 seconds cooldown, resets if the weapon is shot."
+   },
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
+   "visible": true,
+   "uploadToLive": true,
+   "titles": {
+    "first bullet only": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "Even in the case of burst weapons. Only the first bullet of the burst is affected."
+       }
+      ]
+     }
+    ],
+    "accuracy cone growth": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "How Fast Your Accuracy Cone Expands. The less the better."
+       }
+      ]
+     }
+    ]
+   }
   },
   "79448657": {
    "id": 79448657,
@@ -35,7 +222,7 @@
     "mainEditor": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r\n\r\n<pve [?] Reduced Damage for [?] seconds. />\r\n<pvp 10% Reduced Damage for 3 seconds. />",
     "secondaryEditor": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r\n\r\nPVE: [?] Reduced Damage for [?] seconds.\r\nPVP: 10% Reduced Damage for 3 seconds."
    },
-   "lastUpdate": 1659442996709,
+   "lastUpdate": 1659443070984,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -132,7 +319,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": true
+   "inLiveDatabase": false
   },
   "82180537": {
    "id": 82180537,
@@ -141,7 +328,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659442996709,
+   "lastUpdate": 1659443070984,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -241,7 +428,1225 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": true
+   "inLiveDatabase": false
+  },
+  "205890336": {
+   "id": 205890336,
+   "name": "Underdog",
+   "updatedBy": "Fading-Shadow",
+   "stats": {
+    "reload": {
+     "active": {
+      "stat": [
+       50,
+       100
+      ],
+      "multiplier": [
+       0.95,
+       0.9
+      ]
+     }
+    }
+   },
+   "type": "weaponPerk",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "While below 113 HP:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Up to +100 Reload Speed with 0.9x "
+      },
+      {
+       "text": "RDS",
+       "title": "rds",
+       "classNames": [
+        "title"
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Effect increases linearly as health decreases"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Half Strength Reload Time:",
+       "formula": "reload_0",
+       "classNames": [
+        "formula"
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Maximum Strength Reload Time:",
+       "formula": "reload_1",
+       "classNames": [
+        "formula"
+       ]
+      }
+     ]
+    }
+   ],
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "While below 113 HP:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Up to +100 Reload Speed with 0.9x Duration Multiplier "
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Effect increases linearly as health decreases"
+      }
+     ]
+    }
+   ],
+   "editor": {
+    "mainEditor": "While below 113 HP:\nUp to +100 Reload Speed with 0.9x <title RDS [rds] />\nEffect increases linearly as health decreases\n\n<formula Half Strength Reload Time: [reload_0] />\n<formula Maximum Strength Reload Time: [reload_1] />\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
+    "secondaryEditor": "While below 113 HP:\r\nUp to +100 Reload Speed with 0.9x Duration Multiplier \r\nEffect increases linearly as health decreases"
+   },
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
+   "visible": true,
+   "uploadToLive": true,
+   "titles": {
+    "rds": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "247725512": {
+   "id": 247725512,
+   "name": "Rapid Hit",
+   "updatedBy": "Fading-Shadow",
+   "stats": {
+    "reload": {
+     "active": {
+      "stat": [
+       5,
+       30,
+       35,
+       45,
+       60
+      ],
+      "multiplier": [
+       0.985,
+       0.97,
+       0.955,
+       0.94,
+       0.925
+      ]
+     }
+    },
+    "stability": {
+     "active": {
+      "stat": [
+       2,
+       12,
+       14,
+       18,
+       25
+      ]
+     }
+    }
+   },
+   "type": "weaponPerk",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      "table",
+      null,
+      null,
+      null,
+      null
+     ],
+     "table": [
+      {
+       "classNames": [
+        null,
+        "bold",
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Stack"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Stability"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Reload Stat"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "RDS",
+           "title": "rds",
+           "classNames": [
+            "title"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "Reload Time"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background"
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "1x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "2"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "5"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "0.985x"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "reload_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "2x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "12"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "30"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "0.970x"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "reload_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background"
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "3x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "14"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "35"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "0.955x"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "reload_2",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "4x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "18"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "45"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "0.940x"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "reload_3",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background"
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "5x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "25"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "60"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "0.925x"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "reload_4",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Stronger Effect."
+      }
+     ]
+    }
+   ],
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "> 5 | 30 | 35 | 45 | 60 Reload Speed Stat"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "> 2 | 12 | 14 | 18 | 25 Stability"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Stronger Effect."
+      }
+     ]
+    }
+   ],
+   "editor": {
+    "mainEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|  Stack| Stability | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n|b 1x   | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n|b 2x   | 12        | 30          | 0.970x              | <formula reload_1 />\n|b 3x   | 14        | 35          | 0.955x              | <formula reload_2 /><background/>\n|b 4x   | 18        | 45          | 0.940x              | <formula reload_3 />\n|b 5x   | 25        | 60          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
+    "secondaryEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n> 5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n> 2 | 12 | 14 | 18 | 25 Stability\r\n\r\nEnhanced: Stronger Effect."
+   },
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
+   "visible": true,
+   "uploadToLive": true,
+   "titles": {
+    "rds": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "280464955": {
+   "id": 280464955,
+   "name": "Firmly Planted",
+   "updatedBy": "Fading-Shadow",
+   "stats": {
+    "handling": {
+     "active": {
+      "stat": [
+       30,
+       15
+      ]
+     }
+    },
+    "stability": {
+     "active": {
+      "stat": [
+       20,
+       10
+      ]
+     }
+    }
+   },
+   "type": "weaponPerk",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "While Crouched:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% "
+      },
+      {
+       "text": "Accuracy Cone Growth",
+       "title": "accuracy cone growth",
+       "classNames": [
+        "title"
+       ]
+      },
+      {
+       "text": ", -80% Recoil Yaw (Horizontal Recoil)"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Effects are halved on Fusion Rifles.",
+       "classNames": [
+        "bold"
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      "table",
+      null,
+      null,
+      null,
+      null
+     ],
+     "isFormula": true,
+     "table": [
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": []
+        },
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Most Weapons",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Fusion Rifles",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background"
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Ready Speed:",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "ready_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "ready_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Stow Speed:",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "stow_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "stow_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Stronger effect."
+      }
+     ]
+    }
+   ],
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "While Crouched:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Effects are halved on Fusion Rifles."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Stronger effect."
+      }
+     ]
+    }
+   ],
+   "editor": {
+    "mainEditor": "While Crouched:\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% <title Accuracy Cone Growth [accuracy cone growth] />, -80% Recoil Yaw (Horizontal Recoil)\n\n<bold Effects are halved on Fusion Rifles. />\n\n< table formula > \n|               |b Most Weapons          |b Fusion Rifles\n|b Ready Speed: |  <formula [ready_0] /> |  <formula [ready_1] /> <background/>\n|b Stow Speed:  |  <formula [stow_0] />  |  <formula [stow_1] />\n<$>\n\nEnhanced: Stronger effect.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
+    "secondaryEditor": "While Crouched:\r\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\r\n\r\nEffects are halved on Fusion Rifles.\r\n\r\nEnhanced: Stronger effect."
+   },
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
+   "visible": true,
+   "uploadToLive": true,
+   "titles": {
+    "accuracy cone growth": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "How Fast Your Accuracy Cone Expands. The less the better."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "357495645": {
+   "id": 357495645,
+   "name": "Psychohack",
+   "editor": {
+    "mainEditor": "import main from 79448657",
+    "secondaryEditor": "import secondary from 79448657"
+   },
+   "lastUpdate": 1659443070984,
+   "updatedBy": "Fading-Shadow",
+   "type": "weaponOriginTrait",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "[?] Reduced Damage for [?] seconds.",
+       "classNames": [
+        "pve"
+       ]
+      },
+      {
+       "text": "\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "10% Reduced Damage for 3 seconds.",
+       "classNames": [
+        "pvp"
+       ]
+      }
+     ]
+    }
+   ],
+   "visible": true,
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "PVE: [?] Reduced Damage for [?] seconds.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "PVP: 10% Reduced Damage for 3 seconds."
+      }
+     ]
+    }
+   ],
+   "uploadToLive": true,
+   "inLiveDatabase": false
+  },
+  "395373724": {
+   "id": 395373724,
+   "name": "Scatter Charge",
+   "itemId": 300502917,
+   "itemName": "Nothing Manacles",
+   "updatedBy": "Fading-Shadow",
+   "type": "armorExotic",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "If on Scatter Grenades:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Gain an extra Grenade Charge"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Scatter Grenades innately receive "
+      },
+      {
+       "text": "Chaos Accelerant's",
+       "title": "chaos accelerant",
+       "classNames": [
+        "title"
+       ]
+      },
+      {
+       "text": " Tracking Bonus"
+      }
+     ]
+    }
+   ],
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "If on Scatter Grenades:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Gain an extra Grenade Charge"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Scatter Grenades innately receive Chaos Accelerant's Tracking Bonus"
+      }
+     ]
+    }
+   ],
+   "editor": {
+    "mainEditor": "If on Scatter Grenades:\n\nGain an extra Grenade Charge\nScatter Grenades innately receive <title Chaos Accelerant's [chaos accelerant] /> Tracking Bonus\n\ntitle chaos accelerant (\nVoid Aspect that allows you to Overcharge your Grenade\n)",
+    "secondaryEditor": "If on Scatter Grenades:\r\n\r\nGain an extra Grenade Charge\r\nScatter Grenades innately receive Chaos Accelerant's Tracking Bonus"
+   },
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
+   "visible": true,
+   "uploadToLive": true,
+   "titles": {
+    "chaos accelerant": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "Void Aspect that allows you to Overcharge your Grenade"
+       }
+      ]
+     }
+    ]
+   }
   },
   "515704826": {
    "id": 515704826,
@@ -280,10 +1685,216 @@
     "mainEditor": "Damaging the Invader with this weapon marks them for allies.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
+  },
+  "699525795": {
+   "id": 699525795,
+   "name": "Eye of the Storm",
+   "updatedBy": "Fading-Shadow",
+   "stats": {
+    "handling": {
+     "active": {
+      "stat": [
+       30
+      ]
+     }
+    }
+   },
+   "type": "weaponPerk",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "While at Low Health:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Up to 30 Handling, -40% Accuracy Cone Size, and -17% "
+      },
+      {
+       "text": "Accuracy Cone Growth",
+       "title": "accuracy cone growth",
+       "classNames": [
+        "title"
+       ]
+      },
+      {
+       "text": "."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Ready Speed at Maximized Strength:",
+       "formula": "ready_0",
+       "classNames": [
+        "formula"
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Stow Speed at Maximized Strength:",
+       "formula": "stow_0",
+       "classNames": [
+        "formula"
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Passively grants 5 Stability."
+      }
+     ]
+    }
+   ],
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "While at Low Health:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Effect increases linearly as Health decreases. Maximized strength at Critical Health."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Passively grants 5 Stability."
+      }
+     ]
+    }
+   ],
+   "editor": {
+    "mainEditor": "While at Low Health:\nUp to 30 Handling, -40% Accuracy Cone Size, and -17% <title Accuracy Cone Growth [accuracy cone growth] />.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\n<formula Ready Speed at Maximized Strength: [ready_0] />\n<formula Stow Speed at Maximized Strength: [stow_0] />\n\nEnhanced: Passively grants 5 Stability.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
+    "secondaryEditor": "While at Low Health:\r\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\r\n\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Passively grants 5 Stability."
+   },
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
+   "visible": true,
+   "uploadToLive": true,
+   "titles": {
+    "accuracy cone growth": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "How Fast Your Accuracy Cone Expands. The less the better."
+       }
+      ]
+     }
+    ]
+   }
   },
   "744217850": {
    "id": 744217850,
@@ -322,10 +1933,875 @@
     "mainEditor": "Regain 7 Health on Kills",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
+  },
+  "960810156": {
+   "id": 960810156,
+   "name": "Danger Zone",
+   "updatedBy": "Fading-Shadow",
+   "type": "weaponPerk",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "While within 15 meters of 3 enemies:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Sets Blast Radius to 100[?] and reduces "
+      },
+      {
+       "text": "Self Damage",
+       "title": "self damage",
+       "classNames": [
+        "title"
+       ]
+      },
+      {
+       "text": " by 40%."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Lingers for 4(?) seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Passively grants 5 Blast Radius."
+      }
+     ]
+    }
+   ],
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "While within 15 meters of 3 enemies:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Sets Blast Radius to 100[?] and reduces Self Damage by 40%."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Lingers for 4(?) seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Passively grants 5 Blast Radius."
+      }
+     ]
+    }
+   ],
+   "editor": {
+    "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces <title Self Damage [self damage] /> by 40%.\nLingers for 4(?) seconds.\n\nEnhanced: Passively grants 5 Blast Radius.\n\ntitle self damage (\nSelf Damage normally deals 25% increased damage.\n)",
+    "secondaryEditor": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
+   },
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
+   "visible": true,
+   "uploadToLive": true,
+   "titles": {
+    "self damage": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "Self Damage normally deals 25% increased damage."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "972757866": {
+   "id": 972757866,
+   "name": "Pulse Monitor",
+   "updatedBy": "Fading-Shadow",
+   "stats": {
+    "handling": {
+     "active": {
+      "stat": [
+       50
+      ]
+     }
+    },
+    "stow": {
+     "active": {
+      "multiplier": [
+       0.95
+      ]
+     }
+    },
+    "draw": {
+     "active": {
+      "multiplier": [
+       0.95
+      ]
+     }
+    }
+   },
+   "type": "weaponPerk",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Immediately upon being reduced below 110 HP:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Refreshes",
+       "title": "refreshes",
+       "classNames": [
+        "title"
+       ]
+      },
+      {
+       "text": " weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Works while stowed."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Ready Speed:",
+       "formula": "ready_0",
+       "classNames": [
+        "formula"
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Stow Speed:",
+       "formula": "stow_0",
+       "classNames": [
+        "formula"
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Health Requirement reduced."
+      }
+     ]
+    }
+   ],
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Immediately upon being reduced below 110 HP:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Refreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Works while stowed."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Health Requirement reduced."
+      }
+     ]
+    }
+   ],
+   "editor": {
+    "mainEditor": "Immediately upon being reduced below 110 HP:\n<title Refreshes [refreshes] /> weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\n\nWorks while stowed.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Health Requirement reduced.\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
+    "secondaryEditor": "Immediately upon being reduced below 110 HP:\r\nRefreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\r\n\r\nWorks while stowed.\r\n\r\nEnhanced: Health Requirement reduced."
+   },
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
+   "visible": true,
+   "uploadToLive": true,
+   "titles": {
+    "refreshes": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "Reload, but does not need animation and doesn't proc on-reload perks."
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "1168162263": {
+   "id": 1168162263,
+   "name": "Outlaw",
+   "updatedBy": "Fading-Shadow",
+   "stats": {
+    "reload": {
+     "active": {
+      "stat": [
+       70
+      ],
+      "multiplier": [
+       0.9
+      ]
+     }
+    }
+   },
+   "type": "weaponPerk",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "On Precision Kill:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "70 Reload Speed with a 0.9x "
+      },
+      {
+       "text": "RDS",
+       "title": "rds",
+       "classNames": [
+        "title"
+       ]
+      },
+      {
+       "text": " for 6 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Reload Time:",
+       "formula": "reload_0",
+       "classNames": [
+        "formula"
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Duration increased."
+      }
+     ]
+    }
+   ],
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "On Precision Kill:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "70 Reload Speed with a 0.9x Duration Multiplier for 6 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Duration increased."
+      }
+     ]
+    }
+   ],
+   "editor": {
+    "mainEditor": "On Precision Kill:\n70 Reload Speed with a 0.9x <title RDS [rds] /> for 6 seconds.\n\n<formula Reload Time: [reload_0] />\n\nEnhanced: Duration increased.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
+    "secondaryEditor": "On Precision Kill:\r\n70 Reload Speed with a 0.9x Duration Multiplier for 6 seconds.\r\n\r\nEnhanced: Duration increased."
+   },
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
+   "visible": true,
+   "uploadToLive": true,
+   "titles": {
+    "rds": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "Reload Duration Scalar (Multiplies Reload Animation Duration by that number)"
+       }
+      ]
+     }
+    ]
+   }
+  },
+  "1195158366": {
+   "id": 1195158366,
+   "name": "Encore",
+   "updatedBy": "Fading-Shadow",
+   "stats": {
+    "range": {
+     "active": {
+      "stat": [
+       10,
+       20,
+       30
+      ]
+     }
+    },
+    "stability": {
+     "active": {
+      "stat": [
+       30
+      ]
+     }
+    }
+   },
+   "type": "weaponPerk",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      "table",
+      null,
+      null,
+      null,
+      null
+     ],
+     "isFormula": true,
+     "table": [
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Stacks",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "In-Game Range",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "1x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "range_0",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "2x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "range_1",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "3x",
+           "cellClassNames": [
+            "bold"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "",
+           "formula": "range_2",
+           "classNames": [
+            "formula"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "On Non-Precision Kill: Removes 1 Stack. If at zero stacks, it grants -X% "
+      },
+      {
+       "text": "Accuracy Cone Growth",
+       "title": "accuracy cone growth",
+       "classNames": [
+        "title"
+       ]
+      },
+      {
+       "text": ", -Y% Accuracy Cone Size, and 30 Stability."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Lasts 7 seconds. Refreshed on Kill."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Buff Duration is increased."
+      }
+     ]
+    }
+   ],
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "On Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Lasts 7 seconds. Refreshed on Kill."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Buff Duration is increased."
+      }
+     ]
+    }
+   ],
+   "editor": {
+    "mainEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\n\n< table formula >\n|b Stacks |b In-Game Range\n|b 1x     |  <formula [range_0] />\n|b 2x     |  <formula [range_1] />\n|b 3x     |  <formula [range_2] />\n<$>\n\nOn Non-Precision Kill: Removes 1 Stack. If at zero stacks, it grants -X% <title Accuracy Cone Growth [accuracy cone growth] />, -Y% Accuracy Cone Size, and 30 Stability.\n\nLasts 7 seconds. Refreshed on Kill.\n\nEnhanced: Buff Duration is increased.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
+    "secondaryEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\r\n\r\nOn Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability.\r\n\r\nLasts 7 seconds. Refreshed on Kill.\r\n\r\nEnhanced: Buff Duration is increased."
+   },
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
+   "visible": true,
+   "uploadToLive": true,
+   "titles": {
+    "accuracy cone growth": [
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "How Fast Your Accuracy Cone Expands. The less the better."
+       }
+      ]
+     }
+    ]
+   }
   },
   "1250481499": {
    "id": 1250481499,
@@ -388,8 +2864,8 @@
     "mainEditor": "While surrounded by 3 enemies or by a Nightmare within [15?] meters:\r\nKills restore 40HP.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
   },
@@ -440,8 +2916,8 @@
     "mainEditor": "Stunning a Champion <title refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds.",
     "secondaryEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true
   },
   "1380061575": {
@@ -451,7 +2927,7 @@
     "mainEditor": "Once per reload:\r\nAssists or Assisted Kills refresh 66% of Magazine.\r\nMagazine can be overflowed by the ammo refresh, and is always rounded up.",
     "secondaryEditor": "import main from self"
    },
-   "lastUpdate": 1659442996709,
+   "lastUpdate": 1659443070984,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -532,7 +3008,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": true
+   "inLiveDatabase": false
   },
   "1536798515": {
    "id": 1536798515,
@@ -619,8 +3095,8 @@
     "mainEditor": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
   },
@@ -711,8 +3187,8 @@
     "mainEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals\r\n\r\nCheck out <link https://d2clarity.page.link/combatant Court's Spreadsheet/> for Combatant Classifications.",
     "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true
   },
   "1702976605": {
@@ -754,8 +3230,8 @@
     "mainEditor": "Kills grant 5% Class Ability Energy.",
     "secondaryEditor": "import main from self\r\n"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
   },
@@ -820,8 +3296,8 @@
     "mainEditor": "On Weapon kill while your Super is charged:\r\n20 Discipline and 20 Strength for 12 seconds.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
   },
@@ -951,8 +3427,8 @@
     "mainEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%.\r\n\r\n<formula Maximum Effect Reload Time: reload_0 />\r\n<formula Half Effect Reload Time: reload_1 />",
     "secondaryEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true
   },
   "2889515627": {
@@ -962,7 +3438,7 @@
     "mainEditor": "import stats from 3673922083\r\nimport main from 3673922083",
     "secondaryEditor": "import secondary from 3673922083"
    },
-   "lastUpdate": 1659442996709,
+   "lastUpdate": 1659443070984,
    "updatedBy": "Fading-Shadow",
    "type": "weaponPerkEnhanced",
    "description": [
@@ -1628,7 +4104,7 @@
     }
    },
    "uploadToLive": true,
-   "inLiveDatabase": true
+   "inLiveDatabase": false
   },
   "2988596335": {
    "id": 2988596335,
@@ -1766,8 +4242,8 @@
     "mainEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range.\r\n\r\n<formula Reload Time: reload_0 />\r\n<formula Effective Range: range_0 />",
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
   },
@@ -1866,8 +4342,8 @@
     "mainEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\nHealth gain per hit varies between Weapon Types.\r\n\r\nRanges between 20 to 60 HP for a full magazine.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
   },
@@ -1942,8 +4418,8 @@
     "mainEditor": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 16% Faster Draw Time. Swords receive [?] Faster Charge Rate.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
   },
@@ -1984,8 +4460,8 @@
     "mainEditor": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
   },
@@ -2094,8 +4570,8 @@
     "mainEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons.\r\n\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />",
     "secondaryEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons."
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true
   },
   "4091460919": {
@@ -2164,8 +4640,8 @@
     "mainEditor": "40 Reload Stat while Out-of-Combat\r\n\r\n<formula Reload Time: reload_0 />",
     "secondaryEditor": "40 Reload Stat while Out-of-Combat"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true
   },
   "4154828211": {
@@ -2239,8 +4715,8 @@
     "mainEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing.",
     "secondaryEditor": "import main from self\r\n"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659442996709,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659443070984,
    "visible": true,
    "uploadToLive": true
   }
