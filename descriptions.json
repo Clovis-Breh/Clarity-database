@@ -11,7 +11,7 @@
      ]
     }
    ],
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317763,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -26,7 +26,7 @@
      ]
     }
    ],
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "47981717": {
    "id": 47981717,
@@ -180,8 +180,8 @@
     "mainEditor": "For the <title first bullet only [first bullet only] />:\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [accuracy cone growth] />.\n\n3.1 seconds cooldown, resets if the weapon is shot.\n\n<formula In-Game Range: [range_0] />\n\ntitle first bullet only (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
     "secondaryEditor": "For one bullet only:\r\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\r\n\r\n3.1 seconds cooldown, resets if the weapon is shot."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317763,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -222,7 +222,7 @@
     "mainEditor": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r\n\r\n<pve [?] Reduced Damage for [?] seconds. />\r\n<pvp 10% Reduced Damage for 3 seconds. />",
     "secondaryEditor": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r\n\r\nPVE: [?] Reduced Damage for [?] seconds.\r\nPVP: 10% Reduced Damage for 3 seconds."
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -319,7 +319,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "82180537": {
    "id": 82180537,
@@ -328,7 +328,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -428,7 +428,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "205890336": {
    "id": 205890336,
@@ -573,8 +573,8 @@
     "mainEditor": "While below 113 HP:\nUp to +100 Reload Speed with 0.9x <title RDS [rds] />\nEffect increases linearly as health decreases\n\n<formula Half Strength Reload Time: [reload_0] />\n<formula Maximum Strength Reload Time: [reload_1] />\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
     "secondaryEditor": "While below 113 HP:\r\nUp to +100 Reload Speed with 0.9x Duration Multiplier \r\nEffect increases linearly as health decreases"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -1066,8 +1066,8 @@
     "mainEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|  Stack| Stability | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n|b 1x   | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n|b 2x   | 12        | 30          | 0.970x              | <formula reload_1 />\n|b 3x   | 14        | 35          | 0.955x              | <formula reload_2 /><background/>\n|b 4x   | 18        | 45          | 0.940x              | <formula reload_3 />\n|b 5x   | 25        | 60          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
     "secondaryEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n> 5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n> 2 | 12 | 14 | 18 | 25 Stability\r\n\r\nEnhanced: Stronger Effect."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -1390,8 +1390,8 @@
     "mainEditor": "While Crouched:\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% <title Accuracy Cone Growth [accuracy cone growth] />, -80% Recoil Yaw (Horizontal Recoil)\n\n<bold Effects are halved on Fusion Rifles. />\n\n< table formula > \n|               |b Most Weapons          |b Fusion Rifles\n|b Ready Speed: |  <formula [ready_0] /> |  <formula [ready_1] /> <background/>\n|b Stow Speed:  |  <formula [stow_0] />  |  <formula [stow_1] />\n<$>\n\nEnhanced: Stronger effect.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
     "secondaryEditor": "While Crouched:\r\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\r\n\r\nEffects are halved on Fusion Rifles.\r\n\r\nEnhanced: Stronger effect."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -1418,7 +1418,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -1473,7 +1473,7 @@
      ]
     }
    ],
-   "visible": true,
+   "visible": false,
    "simpleDescription": [
     {
      "classNames": [
@@ -1518,7 +1518,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "395373724": {
    "id": 395373724,
@@ -1627,8 +1627,8 @@
     "mainEditor": "If on Scatter Grenades:\n\nGain an extra Grenade Charge\nScatter Grenades innately receive <title Chaos Accelerant's [chaos accelerant] /> Tracking Bonus\n\ntitle chaos accelerant (\nVoid Aspect that allows you to Overcharge your Grenade\n)",
     "secondaryEditor": "If on Scatter Grenades:\r\n\r\nGain an extra Grenade Charge\r\nScatter Grenades innately receive Chaos Accelerant's Tracking Bonus"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -1685,8 +1685,8 @@
     "mainEditor": "Damaging the Invader with this weapon marks them for allies.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   },
@@ -1697,7 +1697,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -1752,7 +1752,7 @@
      ]
     }
    ],
-   "visible": true,
+   "visible": false,
    "simpleDescription": [
     {
      "classNames": [
@@ -1797,7 +1797,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "699525795": {
    "id": 699525795,
@@ -1984,8 +1984,8 @@
     "mainEditor": "While at Low Health:\nUp to 30 Handling, -40% Accuracy Cone Size, and -17% <title Accuracy Cone Growth [accuracy cone growth] />.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\n<formula Ready Speed at Maximized Strength: [ready_0] />\n<formula Stow Speed at Maximized Strength: [stow_0] />\n\nEnhanced: Passively grants 5 Stability.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
     "secondaryEditor": "While at Low Health:\r\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\r\n\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Passively grants 5 Stability."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -2042,8 +2042,8 @@
     "mainEditor": "Regain 7 Health on Kills",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   },
@@ -2054,7 +2054,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -2109,7 +2109,7 @@
      ]
     }
    ],
-   "visible": true,
+   "visible": false,
    "simpleDescription": [
     {
      "classNames": [
@@ -2154,7 +2154,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "960810156": {
    "id": 960810156,
@@ -2285,8 +2285,8 @@
     "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces <title Self Damage [self damage] /> by 40%.\nLingers for 4(?) seconds.\n\nEnhanced: Passively grants 5 Blast Radius.\n\ntitle self damage (\nSelf Damage normally deals 25% increased damage.\n)",
     "secondaryEditor": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -2502,8 +2502,8 @@
     "mainEditor": "Immediately upon being reduced below 110 HP:\n<title Refreshes [refreshes] /> weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\n\nWorks while stowed.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Health Requirement reduced.\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
     "secondaryEditor": "Immediately upon being reduced below 110 HP:\r\nRefreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\r\n\r\nWorks while stowed.\r\n\r\nEnhanced: Health Requirement reduced."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -2661,8 +2661,8 @@
     "mainEditor": "On Precision Kill:\n70 Reload Speed with a 0.9x <title RDS [rds] /> for 6 seconds.\n\n<formula Reload Time: [reload_0] />\n\nEnhanced: Duration increased.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
     "secondaryEditor": "On Precision Kill:\r\n70 Reload Speed with a 0.9x Duration Multiplier for 6 seconds.\r\n\r\nEnhanced: Duration increased."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -3000,8 +3000,8 @@
     "mainEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\n\n< table formula >\n|b Stacks |b In-Game Range\n|b 1x     |  <formula [range_0] />\n|b 2x     |  <formula [range_1] />\n|b 3x     |  <formula [range_2] />\n<$>\n\nOn Non-Precision Kill: Removes 1 Stack. If at zero stacks, it grants -X% <title Accuracy Cone Growth [accuracy cone growth] />, -Y% Accuracy Cone Size, and 30 Stability.\n\nLasts 7 seconds. Refreshed on Kill.\n\nEnhanced: Buff Duration is increased.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
     "secondaryEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\r\n\r\nOn Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability.\r\n\r\nLasts 7 seconds. Refreshed on Kill.\r\n\r\nEnhanced: Buff Duration is increased."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -3082,8 +3082,8 @@
     "mainEditor": "While surrounded by 3 enemies or by a Nightmare within [15?] meters:\r\nKills restore 40HP.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   },
@@ -3134,8 +3134,8 @@
     "mainEditor": "Stunning a Champion <title refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds.",
     "secondaryEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true
   },
   "1380061575": {
@@ -3145,7 +3145,7 @@
     "mainEditor": "Once per reload:\r\nAssists or Assisted Kills refresh 66% of Magazine.\r\nMagazine can be overflowed by the ammo refresh, and is always rounded up.",
     "secondaryEditor": "import main from self"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -3226,7 +3226,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "1471995745": {
    "id": 1471995745,
@@ -3235,7 +3235,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -3290,7 +3290,7 @@
      ]
     }
    ],
-   "visible": true,
+   "visible": false,
    "simpleDescription": [
     {
      "classNames": [
@@ -3335,7 +3335,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "1536798515": {
    "id": 1536798515,
@@ -3422,8 +3422,8 @@
     "mainEditor": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   },
@@ -3434,7 +3434,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -3489,7 +3489,7 @@
      ]
     }
    ],
-   "visible": true,
+   "visible": false,
    "simpleDescription": [
     {
      "classNames": [
@@ -3534,7 +3534,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "1607056502": {
    "id": 1607056502,
@@ -3623,8 +3623,8 @@
     "mainEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals\r\n\r\nCheck out <link https://d2clarity.page.link/combatant Court's Spreadsheet/> for Combatant Classifications.",
     "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true
   },
   "1702976605": {
@@ -3666,8 +3666,8 @@
     "mainEditor": "Kills grant 5% Class Ability Energy.",
     "secondaryEditor": "import main from self\r\n"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   },
@@ -3732,8 +3732,8 @@
     "mainEditor": "On Weapon kill while your Super is charged:\r\n20 Discipline and 20 Strength for 12 seconds.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   },
@@ -3744,7 +3744,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -3799,7 +3799,7 @@
      ]
     }
    ],
-   "visible": true,
+   "visible": false,
    "simpleDescription": [
     {
      "classNames": [
@@ -3844,7 +3844,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "2839173408": {
    "id": 2839173408,
@@ -3972,8 +3972,8 @@
     "mainEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%.\r\n\r\n<formula Maximum Effect Reload Time: reload_0 />\r\n<formula Half Effect Reload Time: reload_1 />",
     "secondaryEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true
   },
   "2889515627": {
@@ -3983,7 +3983,7 @@
     "mainEditor": "import stats from 3673922083\r\nimport main from 3673922083",
     "secondaryEditor": "import secondary from 3673922083"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponPerkEnhanced",
    "description": [
@@ -4649,7 +4649,7 @@
     }
    },
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "2988596335": {
    "id": 2988596335,
@@ -4787,8 +4787,8 @@
     "mainEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range.\r\n\r\n<formula Reload Time: reload_0 />\r\n<formula Effective Range: range_0 />",
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   },
@@ -4887,8 +4887,8 @@
     "mainEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\nHealth gain per hit varies between Weapon Types.\r\n\r\nRanges between 20 to 60 HP for a full magazine.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   },
@@ -4899,7 +4899,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -4954,7 +4954,7 @@
      ]
     }
    ],
-   "visible": true,
+   "visible": false,
    "simpleDescription": [
     {
      "classNames": [
@@ -4999,7 +4999,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "3754350707": {
    "id": 3754350707,
@@ -5008,7 +5008,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443191570,
+   "lastUpdate": 1659443317764,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -5063,7 +5063,7 @@
      ]
     }
    ],
-   "visible": true,
+   "visible": false,
    "simpleDescription": [
     {
      "classNames": [
@@ -5108,7 +5108,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "3988215619": {
    "id": 3988215619,
@@ -5181,8 +5181,8 @@
     "mainEditor": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 16% Faster Draw Time. Swords receive [?] Faster Charge Rate.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   },
@@ -5223,8 +5223,8 @@
     "mainEditor": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   },
@@ -5333,8 +5333,8 @@
     "mainEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons.\r\n\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />",
     "secondaryEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true
   },
   "4091460919": {
@@ -5403,8 +5403,8 @@
     "mainEditor": "40 Reload Stat while Out-of-Combat\r\n\r\n<formula Reload Time: reload_0 />",
     "secondaryEditor": "40 Reload Stat while Out-of-Combat"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true
   },
   "4154828211": {
@@ -5478,8 +5478,8 @@
     "mainEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing.",
     "secondaryEditor": "import main from self\r\n"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659443191570,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659443317764,
    "visible": true,
    "uploadToLive": true
   }
