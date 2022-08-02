@@ -11,7 +11,7 @@
      ]
     }
    ],
-   "lastUpdate": 1659442992350,
+   "lastUpdate": 1659442996709,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -26,7 +26,7 @@
      ]
     }
    ],
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "79448657": {
    "id": 79448657,
@@ -35,7 +35,7 @@
     "mainEditor": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r\n\r\n<pve [?] Reduced Damage for [?] seconds. />\r\n<pvp 10% Reduced Damage for 3 seconds. />",
     "secondaryEditor": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r\n\r\nPVE: [?] Reduced Damage for [?] seconds.\r\nPVP: 10% Reduced Damage for 3 seconds."
    },
-   "lastUpdate": 1659442992351,
+   "lastUpdate": 1659442996709,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -132,7 +132,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "82180537": {
    "id": 82180537,
@@ -141,7 +141,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659442992351,
+   "lastUpdate": 1659442996709,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -196,7 +196,7 @@
      ]
     }
    ],
-   "visible": true,
+   "visible": false,
    "simpleDescription": [
     {
      "classNames": [
@@ -241,7 +241,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "515704826": {
    "id": 515704826,
@@ -280,8 +280,8 @@
     "mainEditor": "Damaging the Invader with this weapon marks them for allies.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   },
@@ -322,8 +322,8 @@
     "mainEditor": "Regain 7 Health on Kills",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   },
@@ -388,8 +388,8 @@
     "mainEditor": "While surrounded by 3 enemies or by a Nightmare within [15?] meters:\r\nKills restore 40HP.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   },
@@ -440,8 +440,8 @@
     "mainEditor": "Stunning a Champion <title refreshes [Reload, but does not need animation and doesn't proc on-reload perks.] /> X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds.",
     "secondaryEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true
   },
   "1380061575": {
@@ -451,7 +451,7 @@
     "mainEditor": "Once per reload:\r\nAssists or Assisted Kills refresh 66% of Magazine.\r\nMagazine can be overflowed by the ammo refresh, and is always rounded up.",
     "secondaryEditor": "import main from self"
    },
-   "lastUpdate": 1659442992351,
+   "lastUpdate": 1659442996709,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -532,7 +532,7 @@
     }
    ],
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "1536798515": {
    "id": 1536798515,
@@ -619,8 +619,8 @@
     "mainEditor": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   },
@@ -711,8 +711,8 @@
     "mainEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals\r\n\r\nCheck out <link https://d2clarity.page.link/combatant Court's Spreadsheet/> for Combatant Classifications.",
     "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true
   },
   "1702976605": {
@@ -754,8 +754,8 @@
     "mainEditor": "Kills grant 5% Class Ability Energy.",
     "secondaryEditor": "import main from self\r\n"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   },
@@ -820,8 +820,8 @@
     "mainEditor": "On Weapon kill while your Super is charged:\r\n20 Discipline and 20 Strength for 12 seconds.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   },
@@ -951,8 +951,8 @@
     "mainEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%.\r\n\r\n<formula Maximum Effect Reload Time: reload_0 />\r\n<formula Half Effect Reload Time: reload_1 />",
     "secondaryEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true
   },
   "2889515627": {
@@ -962,7 +962,7 @@
     "mainEditor": "import stats from 3673922083\r\nimport main from 3673922083",
     "secondaryEditor": "import secondary from 3673922083"
    },
-   "lastUpdate": 1659442992350,
+   "lastUpdate": 1659442996709,
    "updatedBy": "Fading-Shadow",
    "type": "weaponPerkEnhanced",
    "description": [
@@ -1628,7 +1628,7 @@
     }
    },
    "uploadToLive": true,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "2988596335": {
    "id": 2988596335,
@@ -1766,8 +1766,8 @@
     "mainEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range.\r\n\r\n<formula Reload Time: reload_0 />\r\n<formula Effective Range: range_0 />",
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   },
@@ -1866,8 +1866,8 @@
     "mainEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\nHealth gain per hit varies between Weapon Types.\r\n\r\nRanges between 20 to 60 HP for a full magazine.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992350,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   },
@@ -1942,8 +1942,8 @@
     "mainEditor": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 16% Faster Draw Time. Swords receive [?] Faster Charge Rate.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992351,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   },
@@ -1984,8 +1984,8 @@
     "mainEditor": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992351,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   },
@@ -2094,8 +2094,8 @@
     "mainEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons.\r\n\r\n<formula Ready Speed: ready_0 />\r\n<formula Stow Speed: stow_0 />",
     "secondaryEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992351,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true
   },
   "4091460919": {
@@ -2164,8 +2164,8 @@
     "mainEditor": "40 Reload Stat while Out-of-Combat\r\n\r\n<formula Reload Time: reload_0 />",
     "secondaryEditor": "40 Reload Stat while Out-of-Combat"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992351,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true
   },
   "4154828211": {
@@ -2239,8 +2239,8 @@
     "mainEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing.",
     "secondaryEditor": "import main from self\r\n"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659442992351,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659442996709,
    "visible": true,
    "uploadToLive": true
   }
