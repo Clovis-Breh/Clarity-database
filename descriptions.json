@@ -7351,7 +7351,7 @@
    },
    "inLiveDatabase": true,
    "visible": true,
-   "lastUpdate": 1659459278916,
+   "lastUpdate": 1659459391467,
    "uploadToLive": true
   },
   "692285813": {
@@ -12633,7 +12633,7 @@
    "name": "Fury Conductors",
    "itemId": 2563444729,
    "itemName": "ACD/0 Feedback Fence",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "type": "armorExotic",
    "description": [
     {
@@ -12797,8 +12797,9 @@
     "secondaryEditor": "Melee Hits grant Stacks of Fury Conductors.\r\nReceiving melee damage unleashes an Arc Explosion with a radius of 5 metres.\r\nArc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\r\n\r\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\r\n\r\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not dealing melee damage."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1658513881743,
-   "visible": true
+   "lastUpdate": 1659459391467,
+   "visible": true,
+   "uploadToLive": false
   },
   "1155472387": {
    "id": 1155472387,
@@ -46648,9 +46649,6 @@
  },
  "saved": {
   "perks": {
-   "2889515627": {
-    "description": "On Weapon Kill:\nIncreased damage, slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
-   },
    "3673922083": {
     "description": "On Weapon Kill:\nIncreased damage, slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
    }
