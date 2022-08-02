@@ -4,29 +4,16 @@
    "id": 0,
    "name": "",
    "type": "none",
-   "description": [
-    {
-     "classNames": [
-      "spacer"
-     ]
-    }
-   ],
-   "lastUpdate": 1659446358556,
-   "updatedBy": "Fading-Shadow",
+   "description": [],
+   "lastUpdate": 1659457865137,
+   "updatedBy": "Icemourne",
    "editor": {
     "mainEditor": "",
     "secondaryEditor": ""
    },
    "uploadToLive": false,
    "visible": false,
-   "simpleDescription": [
-    {
-     "classNames": [
-      "spacer"
-     ]
-    }
-   ],
-   "inLiveDatabase": true
+   "inLiveDatabase": false
   },
   "47981717": {
    "id": 47981717,
@@ -2159,7 +2146,7 @@
   "960810156": {
    "id": 960810156,
    "name": "Danger Zone",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "type": "weaponPerk",
    "description": [
     {
@@ -2285,8 +2272,8 @@
     "mainEditor": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces <title Self Damage [self damage] /> by 40%.\nLingers for 4(?) seconds.\n\nEnhanced: Passively grants 5 Blast Radius.\n\ntitle self damage (\nSelf Damage normally deals 25% increased damage.\n)",
     "secondaryEditor": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659446358556,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659457865137,
    "visible": true,
    "uploadToLive": true,
    "titles": {
