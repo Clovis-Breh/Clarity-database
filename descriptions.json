@@ -5,15 +5,15 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1658513881742,
-   "updatedBy": "Fading-Shadow",
+   "lastUpdate": 1659458680853,
+   "updatedBy": "Icemourne",
    "editor": {
     "mainEditor": "",
     "secondaryEditor": ""
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": true
+   "inLiveDatabase": false
   },
   "8507332": {
    "id": 8507332,
@@ -7292,7 +7292,7 @@
   "689005463": {
    "id": 689005463,
    "name": "Accelerated Coils",
-   "updatedBy": "Fading-Shadow",
+   "updatedBy": "Icemourne",
    "stats": {
     "damage": {
      "passive": {
@@ -7349,9 +7349,9 @@
     "mainEditor": "Decreases charge time by 40, and damage by 2%",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
+   "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1658513881742
+   "lastUpdate": 1659458680853
   },
   "692285813": {
    "id": 692285813,
@@ -38335,11 +38335,6 @@
    ],
    "uploadToLive": true,
    "inLiveDatabase": false
-  },
-  "3551326236": {
-   "inLiveDatabase": false,
-   "lastUpdate": 1658503030178,
-   "updatedBy": "Fading-Shadow"
   },
   "3556461530": {
    "id": 3556461530,
