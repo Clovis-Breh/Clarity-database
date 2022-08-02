@@ -11,7 +11,7 @@
      ]
     }
    ],
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -181,7 +181,7 @@
     "secondaryEditor": "For one bullet only:\r\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\r\n\r\n3.1 seconds cooldown, resets if the weapon is shot."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -222,7 +222,7 @@
     "mainEditor": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r\n\r\n<pve [?] Reduced Damage for [?] seconds. />\r\n<pvp 10% Reduced Damage for 3 seconds. />",
     "secondaryEditor": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r\n\r\nPVE: [?] Reduced Damage for [?] seconds.\r\nPVP: 10% Reduced Damage for 3 seconds."
    },
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -328,7 +328,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -574,7 +574,7 @@
     "secondaryEditor": "While below 113 HP:\r\nUp to +100 Reload Speed with 0.9x Duration Multiplier \r\nEffect increases linearly as health decreases"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -1067,7 +1067,7 @@
     "secondaryEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n> 5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n> 2 | 12 | 14 | 18 | 25 Stability\r\n\r\nEnhanced: Stronger Effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -1391,7 +1391,7 @@
     "secondaryEditor": "While Crouched:\r\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\r\n\r\nEffects are halved on Fusion Rifles.\r\n\r\nEnhanced: Stronger effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -1418,7 +1418,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -1628,7 +1628,7 @@
     "secondaryEditor": "If on Scatter Grenades:\r\n\r\nGain an extra Grenade Charge\r\nScatter Grenades innately receive Chaos Accelerant's Tracking Bonus"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -1686,7 +1686,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
   },
@@ -1697,7 +1697,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -1985,7 +1985,7 @@
     "secondaryEditor": "While at Low Health:\r\n30 Handling, -40% Accuracy Cone Size, and -17% Accuracy Cone Growth.\r\n\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Passively grants 5 Stability."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -2043,7 +2043,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
   },
@@ -2054,7 +2054,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -2286,7 +2286,7 @@
     "secondaryEditor": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -2503,7 +2503,7 @@
     "secondaryEditor": "Immediately upon being reduced below 110 HP:\r\nRefreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\r\n\r\nWorks while stowed.\r\n\r\nEnhanced: Health Requirement reduced."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -2662,7 +2662,7 @@
     "secondaryEditor": "On Precision Kill:\r\n70 Reload Speed with a 0.9x Duration Multiplier for 6 seconds.\r\n\r\nEnhanced: Duration increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -3001,7 +3001,7 @@
     "secondaryEditor": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\r\n\r\nOn Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability.\r\n\r\nLasts 7 seconds. Refreshed on Kill.\r\n\r\nEnhanced: Buff Duration is increased."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -3083,7 +3083,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
   },
@@ -3135,7 +3135,7 @@
     "secondaryEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true
   },
   "1380061575": {
@@ -3145,7 +3145,7 @@
     "mainEditor": "Once per reload:\r\nAssists or Assisted Kills refresh 66% of Magazine.\r\nMagazine can be overflowed by the ammo refresh, and is always rounded up.",
     "secondaryEditor": "import main from self"
    },
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -3235,7 +3235,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -3423,7 +3423,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
   },
@@ -3434,7 +3434,7 @@
     "mainEditor": "import main from 79448657",
     "secondaryEditor": "import secondary from 79448657"
    },
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -3624,7 +3624,7 @@
     "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true
   },
   "1702976605": {
@@ -3667,7 +3667,7 @@
     "secondaryEditor": "import main from self\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
   },
@@ -3733,9 +3733,118 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
+  },
+  "2171055345": {
+   "id": 2171055345,
+   "name": "Psychohack",
+   "editor": {
+    "mainEditor": "import main from 79448657",
+    "secondaryEditor": "import secondary from 79448657"
+   },
+   "lastUpdate": 1659443161714,
+   "updatedBy": "Fading-Shadow",
+   "type": "weaponOriginTrait",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "[?] Reduced Damage for [?] seconds.",
+       "classNames": [
+        "pve"
+       ]
+      },
+      {
+       "text": "\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "10% Reduced Damage for 3 seconds.",
+       "classNames": [
+        "pvp"
+       ]
+      }
+     ]
+    }
+   ],
+   "visible": true,
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "PVE: [?] Reduced Damage for [?] seconds.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "PVP: 10% Reduced Damage for 3 seconds."
+      }
+     ]
+    }
+   ],
+   "uploadToLive": true,
+   "inLiveDatabase": false
   },
   "2839173408": {
    "id": 2839173408,
@@ -3864,7 +3973,7 @@
     "secondaryEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true
   },
   "2889515627": {
@@ -3874,7 +3983,7 @@
     "mainEditor": "import stats from 3673922083\r\nimport main from 3673922083",
     "secondaryEditor": "import secondary from 3673922083"
    },
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "updatedBy": "Fading-Shadow",
    "type": "weaponPerkEnhanced",
    "description": [
@@ -4679,7 +4788,7 @@
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
   },
@@ -4779,7 +4888,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
   },
@@ -4855,7 +4964,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
   },
@@ -4897,7 +5006,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
   },
@@ -5007,7 +5116,7 @@
     "secondaryEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true
   },
   "4091460919": {
@@ -5077,7 +5186,7 @@
     "secondaryEditor": "40 Reload Stat while Out-of-Combat"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true
   },
   "4154828211": {
@@ -5152,7 +5261,7 @@
     "secondaryEditor": "import main from self\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659443143160,
+   "lastUpdate": 1659443161714,
    "visible": true,
    "uploadToLive": true
   }
