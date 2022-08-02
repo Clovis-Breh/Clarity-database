@@ -11,7 +11,7 @@
      ]
     }
    ],
-   "lastUpdate": 1659442779878,
+   "lastUpdate": 1659442814916,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -66,7 +66,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779878,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   },
@@ -108,7 +108,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   },
@@ -174,7 +174,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   },
@@ -226,7 +226,7 @@
     "secondaryEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true
   },
   "1380061575": {
@@ -236,7 +236,7 @@
     "mainEditor": "Once per reload:\r\nAssists or Assisted Kills refresh 66% of Magazine.\r\nMagazine can be overflowed by the ammo refresh, and is always rounded up.",
     "secondaryEditor": "import main from self"
    },
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -405,7 +405,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   },
@@ -497,7 +497,7 @@
     "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true
   },
   "1702976605": {
@@ -540,7 +540,7 @@
     "secondaryEditor": "import main from self\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   },
@@ -606,7 +606,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   },
@@ -737,7 +737,7 @@
     "secondaryEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true
   },
   "2988596335": {
@@ -877,7 +877,7 @@
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   },
@@ -977,7 +977,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   },
@@ -1053,7 +1053,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   },
@@ -1095,7 +1095,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   },
@@ -1205,7 +1205,7 @@
     "secondaryEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true
   },
   "4091460919": {
@@ -1275,7 +1275,7 @@
     "secondaryEditor": "40 Reload Stat while Out-of-Combat"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true
   },
   "4154828211": {
@@ -1350,7 +1350,7 @@
     "secondaryEditor": "import main from self\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442779879,
+   "lastUpdate": 1659442814916,
    "visible": true,
    "uploadToLive": true
   }
