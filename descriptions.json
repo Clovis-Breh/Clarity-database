@@ -11,7 +11,7 @@
      ]
     }
    ],
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -35,7 +35,7 @@
     "mainEditor": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r\n\r\n<pve [?] Reduced Damage for [?] seconds. />\r\n<pvp 10% Reduced Damage for 3 seconds. />",
     "secondaryEditor": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r\n\r\nPVE: [?] Reduced Damage for [?] seconds.\r\nPVP: 10% Reduced Damage for 3 seconds."
    },
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992351,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -134,6 +134,115 @@
    "uploadToLive": true,
    "inLiveDatabase": false
   },
+  "82180537": {
+   "id": 82180537,
+   "name": "Psychohack",
+   "editor": {
+    "mainEditor": "import main from 79448657",
+    "secondaryEditor": "import secondary from 79448657"
+   },
+   "lastUpdate": 1659442992351,
+   "updatedBy": "Fading-Shadow",
+   "type": "weaponOriginTrait",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "[?] Reduced Damage for [?] seconds.",
+       "classNames": [
+        "pve"
+       ]
+      },
+      {
+       "text": "\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "10% Reduced Damage for 3 seconds.",
+       "classNames": [
+        "pvp"
+       ]
+      }
+     ]
+    }
+   ],
+   "visible": true,
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Sustained damage from this weapon lowers the target's damage output for a short duration.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "PVE: [?] Reduced Damage for [?] seconds.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "PVP: 10% Reduced Damage for 3 seconds."
+      }
+     ]
+    }
+   ],
+   "uploadToLive": true,
+   "inLiveDatabase": false
+  },
   "515704826": {
    "id": 515704826,
    "name": "Invader Tracker",
@@ -172,7 +281,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true,
    "uploadToLive": true
   },
@@ -214,7 +323,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true,
    "uploadToLive": true
   },
@@ -258,7 +367,7 @@
      ],
      "linesContent": [
       {
-       "text": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r"
+       "text": "While surrounded by 3 enemies or by a Nightmare within [15?] meters:\r"
       }
      ]
     },
@@ -270,7 +379,7 @@
      ],
      "linesContent": [
       {
-       "text": "Kills restore [?]HP"
+       "text": "Kills restore 40HP."
       }
      ]
     }
@@ -280,7 +389,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true,
    "uploadToLive": true
   },
@@ -332,7 +441,7 @@
     "secondaryEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true
   },
   "1380061575": {
@@ -342,7 +451,7 @@
     "mainEditor": "Once per reload:\r\nAssists or Assisted Kills refresh 66% of Magazine.\r\nMagazine can be overflowed by the ammo refresh, and is always rounded up.",
     "secondaryEditor": "import main from self"
    },
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992351,
    "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
@@ -511,7 +620,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true,
    "uploadToLive": true
   },
@@ -603,7 +712,7 @@
     "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true
   },
   "1702976605": {
@@ -646,7 +755,7 @@
     "secondaryEditor": "import main from self\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true,
    "uploadToLive": true
   },
@@ -712,7 +821,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true,
    "uploadToLive": true
   },
@@ -843,8 +952,683 @@
     "secondaryEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true
+  },
+  "2889515627": {
+   "id": 2889515627,
+   "name": "Adagio",
+   "editor": {
+    "mainEditor": "import stats from 3673922083\r\nimport main from 3673922083",
+    "secondaryEditor": "import secondary from 3673922083"
+   },
+   "lastUpdate": 1659442992350,
+   "updatedBy": "Fading-Shadow",
+   "type": "weaponPerkEnhanced",
+   "description": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "On Weapon Kill:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Increased damage, slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "In-Game Range:",
+       "formula": "range_0",
+       "classNames": [
+        "formula"
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      "table",
+      "wide",
+      null,
+      null,
+      null
+     ],
+     "table": [
+      {
+       "classNames": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Weapon"
+          }
+         ]
+        },
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Damage"
+          }
+         ]
+        },
+        {
+         "classNames": [
+          "bold"
+         ],
+         "cellContent": [
+          {
+           "text": "Fire/Charge Rate"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background",
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Hand Cannon"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "30%",
+           "classNames": [
+            "green"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "-15%",
+           "classNames": [
+            "green"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Scout Rifle"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "30%",
+           "classNames": [
+            "green"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "-15%",
+           "classNames": [
+            "green"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background",
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Rapid-Fire Auto"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "30%",
+           "classNames": [
+            "green"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "-15%",
+           "classNames": [
+            "green"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Adaptive Auto"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "30%",
+           "classNames": [
+            "purple"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "-20%",
+           "classNames": [
+            "purple"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background",
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Sidearm"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "30%",
+           "classNames": [
+            "purple"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "-20%",
+           "classNames": [
+            "purple"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Grenade Launcher"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "30%",
+           "classNames": [
+            "purple"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "-20%",
+           "classNames": [
+            "purple"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background",
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Linear Fusion"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "30%"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "-15%"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Fusion Rifle"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "27%",
+           "classNames": [
+            "yellow"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "-15%",
+           "classNames": [
+            "yellow"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        "background",
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Bow"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "20%",
+           "classNames": [
+            "blue"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "-20%",
+           "classNames": [
+            "blue"
+           ]
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "classNames": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+       ],
+       "rowContent": [
+        {
+         "cellContent": [
+          {
+           "text": "Shotgun"
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "20%",
+           "classNames": [
+            "blue"
+           ]
+          }
+         ]
+        },
+        {
+         "cellContent": [
+          {
+           "text": "-20%",
+           "classNames": [
+            "blue"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Buff Duration is increased to 8 seconds"
+      }
+     ]
+    }
+   ],
+   "visible": true,
+   "simpleDescription": [
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "On Weapon Kill:"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Increased damage, slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Bows and Shotguns receive 20% increased damage. Fusion Rifles receive 27% increased damage.\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "-15% Rate of Fire/Charge Rate:\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Hand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles, Rapid-Fire Auto Rifles\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "-20% Rate of Fire/Charge Rate:\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Adaptive Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns\r"
+      }
+     ]
+    },
+    {
+     "classNames": [
+      "spacer"
+     ]
+    },
+    {
+     "classNames": [
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "Enhanced: Buff Duration is increased to 8 seconds."
+      }
+     ]
+    }
+   ],
+   "stats": {
+    "range": {
+     "active": {
+      "stat": [
+       10
+      ]
+     }
+    },
+    "chargeDraw": {
+     "active": {
+      "multiplier": [
+       1.15,
+       1.2
+      ]
+     }
+    },
+    "damage": {
+     "active": {
+      "multiplier": [
+       1.3,
+       1.27,
+       1.2
+      ]
+     }
+    }
+   },
+   "uploadToLive": true,
+   "inLiveDatabase": false
   },
   "2988596335": {
    "id": 2988596335,
@@ -983,7 +1767,7 @@
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true,
    "uploadToLive": true
   },
@@ -1083,7 +1867,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992350,
    "visible": true,
    "uploadToLive": true
   },
@@ -1159,7 +1943,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992351,
    "visible": true,
    "uploadToLive": true
   },
@@ -1201,7 +1985,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992351,
    "visible": true,
    "uploadToLive": true
   },
@@ -1311,7 +2095,7 @@
     "secondaryEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992351,
    "visible": true
   },
   "4091460919": {
@@ -1381,7 +2165,7 @@
     "secondaryEditor": "40 Reload Stat while Out-of-Combat"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992351,
    "visible": true
   },
   "4154828211": {
@@ -1456,7 +2240,7 @@
     "secondaryEditor": "import main from self\r\n"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1659442936030,
+   "lastUpdate": 1659442992351,
    "visible": true,
    "uploadToLive": true
   }
