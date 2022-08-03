@@ -5,15 +5,15 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1659459756934,
-   "updatedBy": "Icemourne",
+   "lastUpdate": 1659556733632,
+   "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
     "secondaryEditor": ""
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": true
+   "inLiveDatabase": false
   },
   "8507332": {
    "id": 8507332,
@@ -7295,7 +7295,7 @@
   "689005463": {
    "id": 689005463,
    "name": "Accelerated Coils",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "damage": {
      "passive": {
@@ -7352,9 +7352,9 @@
     "mainEditor": "Decreases charge time by 40, and damage by 2%",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
+   "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1659459756934,
+   "lastUpdate": 1659556733632,
    "uploadToLive": true
   },
   "692285813": {
@@ -45894,7 +45894,7 @@
   "4134353779": {
    "id": 4134353779,
    "name": "Drop Mag",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "passive": {
@@ -45939,27 +45939,6 @@
        "text": "Decreases magazing size. (Only visible in-game.)"
       }
      ]
-    },
-    {
-     "classNames": [
-      "spacer"
-     ]
-    },
-    {
-     "classNames": [
-      null,
-      null,
-      null
-     ],
-     "linesContent": [
-      {
-       "text": "Reload Time:",
-       "formula": "reload_0",
-       "classNames": [
-        "formula"
-       ]
-      }
-     ]
     }
    ],
    "simpleDescription": [
@@ -45994,13 +45973,13 @@
     }
    ],
    "editor": {
-    "mainEditor": "30 Reload Stat with a 0.9x <title RDS [rds] />\nDecreases magazing size. (Only visible in-game.)\n\n<formula Reload Time: [reload_0] />\n\ntitle rds (\nReload Duration Scalar - multiplies Reload Animation Length by the number\n)",
+    "mainEditor": "30 Reload Stat with a 0.9x <title RDS [rds] />\nDecreases magazing size. (Only visible in-game.)\n\ntitle rds (\nReload Duration Scalar - multiplies Reload Animation Length by the number\n)",
     "secondaryEditor": "30 Reload Stat with a 0.9x Reload Duration Scalar.\r\n\r\nDecreases magazing size. (Only visible in-game.)"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659459589775,
+   "inLiveDatabase": false,
+   "lastUpdate": 1659556733632,
    "visible": true,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "titles": {
     "rds": [
      {
