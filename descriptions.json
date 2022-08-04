@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1659626837571,
+   "lastUpdate": 1659627305095,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -7352,9 +7352,9 @@
     "mainEditor": "Decreases charge time by 40, and damage by 2%",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
+   "inLiveDatabase": true,
    "visible": true,
-   "lastUpdate": 1659556733632,
+   "lastUpdate": 1659627305095,
    "uploadToLive": true
   },
   "692285813": {
@@ -30961,7 +30961,7 @@
     "mainEditor": "import stats from 3673922083\r\nimport main from 3673922083",
     "secondaryEditor": "import secondary from 3673922083"
    },
-   "lastUpdate": 1658513881743,
+   "lastUpdate": 1659627305095,
    "updatedBy": "Fading-Shadow",
    "type": "weaponPerkEnhanced",
    "description": [
@@ -31028,6 +31028,10 @@
        "classNames": [
         null,
         null,
+        null,
+        null,
+        null,
+        null,
         null
        ],
        "rowContent": [
@@ -31037,10 +31041,7 @@
          ],
          "cellContent": [
           {
-           "text": "Weapon",
-           "cellClassNames": [
-            "bold"
-           ]
+           "text": "Weapon"
           }
          ]
         },
@@ -31050,10 +31051,7 @@
          ],
          "cellContent": [
           {
-           "text": "Damage",
-           "cellClassNames": [
-            "bold"
-           ]
+           "text": "Damage"
           }
          ]
         },
@@ -31063,10 +31061,7 @@
          ],
          "cellContent": [
           {
-           "text": "Fire/Charge Rate",
-           "cellClassNames": [
-            "bold"
-           ]
+           "text": "Fire/Charge Rate"
           }
          ]
         }
@@ -31076,7 +31071,11 @@
        "classNames": [
         null,
         null,
-        "background"
+        "background",
+        null,
+        null,
+        null,
+        null
        ],
        "rowContent": [
         {
@@ -31110,6 +31109,10 @@
       },
       {
        "classNames": [
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null
@@ -31148,7 +31151,11 @@
        "classNames": [
         null,
         null,
-        "background"
+        "background",
+        null,
+        null,
+        null,
+        null
        ],
        "rowContent": [
         {
@@ -31182,6 +31189,10 @@
       },
       {
        "classNames": [
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null
@@ -31220,7 +31231,11 @@
        "classNames": [
         null,
         null,
-        "background"
+        "background",
+        null,
+        null,
+        null,
+        null
        ],
        "rowContent": [
         {
@@ -31254,6 +31269,10 @@
       },
       {
        "classNames": [
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null
@@ -31292,7 +31311,11 @@
        "classNames": [
         null,
         null,
-        "background"
+        "background",
+        null,
+        null,
+        null,
+        null
        ],
        "rowContent": [
         {
@@ -31320,6 +31343,10 @@
       },
       {
        "classNames": [
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null
@@ -31358,7 +31385,11 @@
        "classNames": [
         null,
         null,
-        "background"
+        "background",
+        null,
+        null,
+        null,
+        null
        ],
        "rowContent": [
         {
@@ -31392,6 +31423,10 @@
       },
       {
        "classNames": [
+        null,
+        null,
+        null,
+        null,
         null,
         null,
         null
@@ -32407,7 +32442,7 @@
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626837571,
+   "lastUpdate": 1659627305095,
    "visible": true,
    "uploadToLive": false
   },
@@ -46112,7 +46147,7 @@
     "secondaryEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626837571,
+   "lastUpdate": 1659627305095,
    "visible": true,
    "uploadToLive": true
   },
@@ -47179,6 +47214,9 @@
  },
  "saved": {
   "perks": {
+   "2889515627": {
+    "description": "On Weapon Kill:\nIncreased damage, slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
+   },
    "3673922083": {
     "description": "On Weapon Kill:\nIncreased damage, slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
    }
