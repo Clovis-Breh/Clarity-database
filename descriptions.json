@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -5652,7 +5652,7 @@
     "secondaryEditor": "Damaging the Invader with this weapon marks them for allies."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -8445,7 +8445,7 @@
     "secondaryEditor": "Regain 7 Health on Kills"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -13784,7 +13784,7 @@
     "secondaryEditor": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills restore [?]HP"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -14073,7 +14073,7 @@
     "secondaryEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false,
    "titles": {
@@ -16423,7 +16423,7 @@
     "secondaryEditor": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -17740,7 +17740,7 @@
     "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -19518,7 +19518,7 @@
     "secondaryEditor": "Kills grant 5% Class Ability Energy."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -21535,7 +21535,7 @@
     "secondaryEditor": "On Weapon kill while your Super is charged:\r\n20 Discipline and 20 Strength for 12 seconds."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -29915,7 +29915,7 @@
     "secondaryEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -32407,7 +32407,7 @@
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -36140,7 +36140,7 @@
     "secondaryEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nHealth gain per hit varies between Weapon Types."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -43907,7 +43907,7 @@
     "secondaryEditor": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -43949,7 +43949,7 @@
     "secondaryEditor": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -44147,7 +44147,7 @@
     "secondaryEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -45540,7 +45540,7 @@
     "secondaryEditor": "40 Reload Stat while Out-of-Combat"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": false
   },
@@ -46112,7 +46112,7 @@
     "secondaryEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing."
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659626835325,
+   "lastUpdate": 1659626837571,
    "visible": true,
    "uploadToLive": true
   },
