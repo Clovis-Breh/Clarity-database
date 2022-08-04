@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1659556733632,
+   "lastUpdate": 1659626835325,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -13,7 +13,7 @@
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "8507332": {
    "id": 8507332,
@@ -5617,7 +5617,7 @@
   "515704826": {
    "id": 515704826,
    "name": "Invader Tracker",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -5651,8 +5651,8 @@
     "mainEditor": "Damaging the Invader with this weapon marks them for allies.",
     "secondaryEditor": "Damaging the Invader with this weapon marks them for allies."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -8410,7 +8410,7 @@
   "744217850": {
    "id": 744217850,
    "name": "Vanguard's Vindication",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -8444,8 +8444,8 @@
     "mainEditor": "Regain 7 Health on Kills",
     "secondaryEditor": "Regain 7 Health on Kills"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -13725,7 +13725,7 @@
   "1250481499": {
    "id": 1250481499,
    "name": "Extrovert",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -13783,8 +13783,8 @@
     "mainEditor": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills restore [?]HP",
     "secondaryEditor": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills restore [?]HP"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -14028,7 +14028,7 @@
   "1281216113": {
    "id": 1281216113,
    "name": "Stunning Recovery",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -14072,8 +14072,8 @@
     "mainEditor": "Stunning a Champion <title refreshes [refreshes] /> X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds.\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
     "secondaryEditor": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false,
    "titles": {
@@ -16340,7 +16340,7 @@
   "1536798515": {
    "id": 1536798515,
    "name": "Land Tank",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -16422,8 +16422,8 @@
     "mainEditor": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times.",
     "secondaryEditor": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -17654,7 +17654,7 @@
   "1607056502": {
    "id": 1607056502,
    "name": "Hakke Breach Armaments",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -17739,8 +17739,8 @@
     "mainEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals\r\n\r\nCheck out <link Court's Spreadsheet [https://d2clarity.page.link/combatant] /> for Combatant Classifications.",
     "secondaryEditor": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -19483,7 +19483,7 @@
    "name": "Classy Contender",
    "itemId": 1341951177,
    "itemName": "Classy Contender",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -19517,8 +19517,8 @@
     "mainEditor": "Kills grant 5% Class Ability Energy.",
     "secondaryEditor": "Kills grant 5% Class Ability Energy."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -21476,7 +21476,7 @@
   "1905044254": {
    "id": 1905044254,
    "name": "To Excess",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -21534,8 +21534,8 @@
     "mainEditor": "On Weapon kill while your Super is charged:\r\n20 Discipline and 20 Strength for 12 seconds.",
     "secondaryEditor": "On Weapon kill while your Super is charged:\r\n20 Discipline and 20 Strength for 12 seconds."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -29789,7 +29789,7 @@
   "2839173408": {
    "id": 2839173408,
    "name": "Omolon Fluid Dynamics",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "active": {
@@ -29914,8 +29914,8 @@
     "mainEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%.\r\n\r\n<formula Maximum Effect Reload Time: [reload_0] />\r\n<formula Half Effect Reload Time: [reload_1] />",
     "secondaryEditor": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -32271,7 +32271,7 @@
   "2988596335": {
    "id": 2988596335,
    "name": "Alacrity",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "active": {
@@ -32406,8 +32406,8 @@
     "mainEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range.\r\n\r\n<formula Reload Time: [reload_0] />\r\n<formula In-Game Range: [range_0] />",
     "secondaryEditor": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -36071,7 +36071,7 @@
   "3363267119": {
    "id": 3363267119,
    "name": "Souldrinker",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -36139,8 +36139,8 @@
     "mainEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nHealth gain per hit varies between Weapon Types.",
     "secondaryEditor": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nHealth gain per hit varies between Weapon Types."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -43838,7 +43838,7 @@
   "3988215619": {
    "id": 3988215619,
    "name": "Veist Stinger",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -43906,15 +43906,15 @@
     "mainEditor": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate.",
     "secondaryEditor": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
   "3989629871": {
    "id": 3989629871,
    "name": "Skulking Wolf",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -43948,8 +43948,8 @@
     "mainEditor": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar.",
     "secondaryEditor": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -44042,7 +44042,7 @@
   "4008116374": {
    "id": 4008116374,
    "name": "Suros Synergy",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "handling": {
      "active": {
@@ -44146,8 +44146,8 @@
     "mainEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons.\r\n\r\n<formula Ready Speed: [ready_0] />\r\n<formula Stow Speed: [stow_0] />",
     "secondaryEditor": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -45475,7 +45475,7 @@
   "4091460919": {
    "id": 4091460919,
    "name": "One Quiet Moment",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "stats": {
     "reload": {
      "active": {
@@ -45539,8 +45539,8 @@
     "mainEditor": "40 Reload Stat while Out-of-Combat\r\n\r\n<formula Reload Time: [reload_0] />",
     "secondaryEditor": "40 Reload Stat while Out-of-Combat"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
    "uploadToLive": false
   },
@@ -46043,7 +46043,7 @@
   "4154828211": {
    "id": 4154828211,
    "name": "Bitterspite",
-   "updatedBy": "Icemourne",
+   "updatedBy": "Fading-Shadow",
    "type": "weaponOriginTrait",
    "description": [
     {
@@ -46111,10 +46111,10 @@
     "mainEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing.",
     "secondaryEditor": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing."
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659460420979,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659626835325,
    "visible": true,
-   "uploadToLive": false
+   "uploadToLive": true
   },
   "4174493725": {
    "id": 4174493725,
