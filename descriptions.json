@@ -4,14 +4,8 @@
    "id": 0,
    "name": "",
    "type": "none",
-   "description": [
-    {
-     "classNames": [
-      "spacer"
-     ]
-    }
-   ],
-   "lastUpdate": 1659903012345,
+   "description": [],
+   "lastUpdate": 1659903037686,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -19,13 +13,6 @@
    },
    "uploadToLive": false,
    "visible": false,
-   "simpleDescription": [
-    {
-     "classNames": [
-      "spacer"
-     ]
-    }
-   ],
    "inLiveDatabase": true
   },
   "8507332": {
@@ -7419,7 +7406,7 @@
    },
    "inLiveDatabase": true,
    "visible": true,
-   "lastUpdate": 1659903012345,
+   "lastUpdate": 1659903037686,
    "uploadToLive": true
   },
   "692285813": {
@@ -23114,7 +23101,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "lastUpdate": 1659903037686,
    "visible": true,
    "uploadToLive": false
   },
@@ -47157,9 +47144,9 @@
     "secondaryEditor": "import secondary from 2117683199"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "lastUpdate": 1659903037686,
    "visible": false,
-   "uploadToLive": false
+   "uploadToLive": true
   },
   "4278960718": {
    "id": 4278960718,
