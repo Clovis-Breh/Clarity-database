@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1659903119119,
+   "lastUpdate": 1659903129370,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -13,7 +13,7 @@
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": false
+   "inLiveDatabase": true
   },
   "8507332": {
    "id": 8507332,
@@ -7404,9 +7404,9 @@
     "mainEditor": "Decreases charge time by 40, and damage by 2%",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
+   "inLiveDatabase": true,
    "visible": true,
-   "lastUpdate": 1659903119119,
+   "lastUpdate": 1659903129370,
    "uploadToLive": true
   },
   "692285813": {
@@ -23100,10 +23100,10 @@
     "mainEditor": "Automatically queues up the next shot after firing if you hold the trigger.\n\n10% Faster Rate of Fire on Shotguns exclusively.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1659903119119,
+   "inLiveDatabase": true,
+   "lastUpdate": 1659903129370,
    "visible": true,
-   "uploadToLive": false
+   "uploadToLive": true
   },
   "2119325971": {
    "id": 2119325971,
@@ -47144,7 +47144,7 @@
     "secondaryEditor": "import secondary from 2117683199"
    },
    "inLiveDatabase": true,
-   "lastUpdate": 1659903037686,
+   "lastUpdate": 1659903129370,
    "visible": false,
    "uploadToLive": true
   },
