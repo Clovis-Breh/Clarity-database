@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1660339579743,
+   "lastUpdate": 1660339884570,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -2670,7 +2670,7 @@
       null,
       null,
       null,
-      null
+      "bgEven"
      ],
      "table": [
       {
@@ -2728,7 +2728,7 @@
        "classNames": [
         null,
         null,
-        "background",
+        null,
         null,
         null,
         null,
@@ -2769,7 +2769,7 @@
         {
          "cellContent": [
           {
-           "text": "reload_0",
+           "text": "",
            "classNames": [
             "formula"
            ]
@@ -2823,7 +2823,7 @@
         {
          "cellContent": [
           {
-           "text": "reload_1",
+           "text": "",
            "classNames": [
             "formula"
            ]
@@ -2836,7 +2836,7 @@
        "classNames": [
         null,
         null,
-        "background",
+        null,
         null,
         null,
         null,
@@ -2877,7 +2877,7 @@
         {
          "cellContent": [
           {
-           "text": "reload_2",
+           "text": "",
            "classNames": [
             "formula"
            ]
@@ -2931,7 +2931,7 @@
         {
          "cellContent": [
           {
-           "text": "reload_3",
+           "text": "",
            "classNames": [
             "formula"
            ]
@@ -2944,7 +2944,7 @@
        "classNames": [
         null,
         null,
-        "background",
+        null,
         null,
         null,
         null,
@@ -2985,7 +2985,7 @@
         {
          "cellContent": [
           {
-           "text": "reload_4",
+           "text": "",
            "classNames": [
             "formula"
            ]
@@ -2998,7 +2998,18 @@
     },
     {
      "classNames": [
-      "spacer"
+      null,
+      null,
+      null
+     ],
+     "linesContent": [
+      {
+       "text": "",
+       "formula": "reload_0",
+       "classNames": [
+        "formula"
+       ]
+      }
      ]
     },
     {
@@ -3040,7 +3051,7 @@
      ],
      "linesContent": [
       {
-       "text": "> 5 | 30 | 35 | 45 | 60 Reload Speed Stat"
+       "text": "•  2 | 12 | 14 | 18 | 25 Stability"
       }
      ]
     },
@@ -3052,7 +3063,7 @@
      ],
      "linesContent": [
       {
-       "text": "> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar"
+       "text": "•  5 | 30 | 35 | 45 | 60 Reload Speed Stat"
       }
      ]
     },
@@ -3064,7 +3075,7 @@
      ],
      "linesContent": [
       {
-       "text": "> 2 | 12 | 14 | 18 | 25 Stability"
+       "text": "•  0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar"
       }
      ]
     },
@@ -3087,11 +3098,11 @@
     }
    ],
    "editor": {
-    "mainEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\n\n< table >\n|  Stack| Stability | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n|b 1x   | 2         | 5           | 0.985x              | <formula reload_0 /><background/>\n|b 2x   | 12        | 30          | 0.970x              | <formula reload_1 />\n|b 3x   | 14        | 35          | 0.955x              | <formula reload_2 /><background/>\n|b 4x   | 18        | 45          | 0.940x              | <formula reload_3 />\n|b 5x   | 25        | 60          | 0.925x              | <formula reload_4 /><background/>\n<$>\n\nEnhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
-    "secondaryEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n> 5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n> 0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n> 2 | 12 | 14 | 18 | 25 Stability\r\n\r\nEnhanced: Stronger Effect."
+    "mainEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\n\n< table background_2 >\n|  Stack| Stability | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n|b 1x   | 2         | 5           | 0.985x              | <formula [reload_0] />\n|b 2x   | 12        | 30          | 0.970x              | <formula [reload_1] />\n|b 3x   | 14        | 35          | 0.955x              | <formula [reload_2] />\n|b 4x   | 18        | 45          | 0.940x              | <formula [reload_3] />\n|b 5x   | 25        | 60          | 0.925x              | <formula [reload_4] />\n<$>\n<formula [reload_0] />\nEnhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)\n",
+    "secondaryEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n•  2 | 12 | 14 | 18 | 25 Stability\r\n•  5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n•  0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n\r\nEnhanced: Stronger Effect."
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660339884570,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -7406,7 +7417,7 @@
    },
    "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1660339579743,
+   "lastUpdate": 1660339884570,
    "uploadToLive": true
   },
   "692285813": {
@@ -30136,7 +30147,7 @@
     "secondaryEditor": "While Aiming-Down-Sights:\r\n10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\r\n\r\nEnhanced: Passively grants 5 Handling"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660339579743,
+   "lastUpdate": 1660339884570,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -30151,21 +30162,6 @@
        {
         "text": "Zoom acts as a multiplier to hipfire range and maximum falloff distance while ADS."
        }
-      ]
-     },
-     {
-      "classNames": [
-       "spacer"
-      ]
-     },
-     {
-      "classNames": [
-       "spacer"
-      ]
-     },
-     {
-      "classNames": [
-       "spacer"
       ]
      },
      {
