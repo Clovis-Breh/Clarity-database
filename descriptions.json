@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1660339884570,
+   "lastUpdate": 1660340084587,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -3102,7 +3102,7 @@
     "secondaryEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n•  2 | 12 | 14 | 18 | 25 Stability\r\n•  5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n•  0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n\r\nEnhanced: Stronger Effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660339884570,
+   "lastUpdate": 1660340084587,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -5168,8 +5168,8 @@
     "mainEditor": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon.\n\n< table >\n| Stacks | Heritage | Succession | Both in PVP <bold/>\n| 1x     | 8%       | 8%         | 5%  <background/>\n| 2x     | 15%      | 17%        | 10%\n| 3x     | 24%      | 27%        | 15% <background/>\n| 4x     | 33%      | 38%        | 20%\n| 5x     | 42%      | 46%        | 25% <background/>\n| 6x     | 50%      | 57%        | 30%\n| 7x     | 59%      | 68%        | 35% <background/>\n| 8x     | 70%      | 80%        | 40%\n| 9x     | 80%      | 89%        | 45% <background/>\n| 10x    | 88%      | 100%       | 50%\n<$>\n\n",
     "secondaryEditor": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon, up to 10 stacks.\r\n\r\n8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage in PVE\r\n\r\n8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession in PVE\r\n\r\n5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession in PVP"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "481860150": {
@@ -7417,7 +7417,7 @@
    },
    "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1660339884570,
+   "lastUpdate": 1660340084587,
    "uploadToLive": true
   },
   "692285813": {
@@ -9039,8 +9039,8 @@
     "mainEditor": "On Weapon Kill against an enemy affected by a Void Debuff:\r\n\r\n45[?]HP Overshield for 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 9 seconds.\r\n",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "806159697": {
@@ -9265,8 +9265,8 @@
     "mainEditor": "If Heavy Attack consumes the last Ammo:\n67% Increased damage to Grounded Heavy Attack.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "824488952": {
@@ -12258,8 +12258,8 @@
     "mainEditor": "Combines the penetration from Armor-Piercing Rounds, the guaranteed ricochets from Ricochet Rounds, and the flinch increase from High-Caliber Rounds.\n\nIncreases Damage Falloff Distance by 10%",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "1142806944": {
@@ -14965,8 +14965,8 @@
     "mainEditor": "If Magazine is Full:\n25% Increased damage and causes enemies to explode on death.\n\nPassively grants 30 Magazine Size\n\nEnhanced: Passively grants 5 Stability.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "1428297954": {
@@ -16185,8 +16185,8 @@
     "mainEditor": "After not shooting for 4 seconds:\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity.",
     "secondaryEditor": "After not shooting for 4 seconds:\r\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity."
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "1525622117": {
@@ -19921,8 +19921,8 @@
     "mainEditor": "After 3 Powered Hits within [2?] seconds of each:\r\nGain +1 Ammo.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "1754714824": {
@@ -21361,8 +21361,8 @@
     "mainEditor": "Bullets are guaranteed to ricochet off of surfaces.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "1890422124": {
@@ -22900,55 +22900,19 @@
      ],
      "linesContent": [
       {
-       "text": "Ready Speed:",
-       "formula": "ready_0",
-       "classNames": [
-        "formula"
-       ]
-      }
-     ]
-    },
-    {
-     "classNames": [
-      null,
-      null,
-      null
-     ],
-     "linesContent": [
-      {
-       "text": "Stow Speed:",
-       "formula": "stow_0",
-       "classNames": [
-        "formula"
-       ]
-      }
-     ]
-    },
-    {
-     "classNames": [
-      "spacer"
-     ]
-    },
-    {
-     "classNames": [
-      null,
-      null,
-      null
-     ],
-     "linesContent": [
-      {
        "text": "Enhanced: Buff Effect increased to 25 Stability and Handling."
       }
      ]
     }
    ],
    "editor": {
-    "mainEditor": "Upon Sliding:\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Effect increased to 25 Stability and Handling.",
-    "secondaryEditor": "import main from self"
+    "mainEditor": "export description (\nUpon Sliding:\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.\n)\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nexport enhanced (\nEnhanced: Buff Effect increased to 25 Stability and Handling.\n)\n\nexport calculators hidden (\n<formula Ready Speed: [ready_1] />\n<formula Stow Speed: [stow_1] />\n)",
+    "secondaryEditor": "Upon Sliding:\r\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.\r\n\r\nEnhanced: Buff Effect increased to 25 Stability and Handling."
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
-   "visible": true
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
+   "visible": true,
+   "uploadToLive": true
   },
   "2077819806": {
    "id": 2077819806,
@@ -23464,8 +23428,8 @@
     "mainEditor": "Upon readying the weapon after getting kills with other Weapons or Abilities:\r\n\r\nEach stack of Sleight of Hand grants Handling, Reload Speed, and Stability.\r\nStacks up to 3 times.\r\n\r\nEnhanced: Buff Duration is increased.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "2179827240": {
@@ -30147,7 +30111,7 @@
     "secondaryEditor": "While Aiming-Down-Sights:\r\n10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\r\n\r\nEnhanced: Passively grants 5 Handling"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660339884570,
+   "lastUpdate": 1660340084587,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -33755,8 +33719,8 @@
     "mainEditor": "Upon Sliding:\n15% Magazine Refresh, 20 Range, and 30 Stability for 3 seconds. <title Only buffs first shot [only buffs first shot] />.\nCan activate multiple times per slide. 0.3 second cooldown between activation.\n\n<formula In-Game Range: [range_0] />\n\ntitle only buffs first shot (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -34103,8 +34067,8 @@
     "mainEditor": "On Low-Tier Minor Combatant Hit:\nGrants 1 Stack of Redirection, up to 20 Stacks\n\nGrants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks.\n\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks.\n\nCheck out <link this sheet [https://d2clarity.page.link/combatant] /> for Combatant Classifications.",
     "secondaryEditor": "On Low-Tier Minor Combatant Hit:\r\nGrants 1 Stack of Redirection, up to 20 Stacks\r\n\r\nGrants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks.\r\n\r\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks."
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "3208647503": {
@@ -35119,8 +35083,8 @@
     "mainEditor": "On Matching Elemental Shield Break:\nExplosion disorients enemies within 7 meters for 5 seconds",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "3295796664": {
@@ -36820,8 +36784,8 @@
     "mainEditor": "Upon emptying the Magazine:\n<title Refreshes [refreshes] /> Magazine based on the Number of Hits.\n\nHits to Returned Ammo Ratio:\n50-60% for Primaries | 30-40% for Special\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
     "secondaryEditor": "Upon emptying the Magazine:\r\nRefreshes Magazine based on the Number of Hits.\r\n\r\nHits to Returned Ammo Ratio:\r\n50-60% for Primaries | 30-40% for Special"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -41056,8 +41020,8 @@
     "mainEditor": "After Shooting an Ammo Pickup:\nPicks up the Ammo and Refreshes all your Weapons.\nTriggers Ammo Pickup effects. Only activates if you are not full on Ammo.\n\nEnhanced: Passively grants 5 Range.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340084587,
    "visible": true
   },
   "3705817207": {
@@ -47428,6 +47392,11 @@
  },
  "saved": {
   "perks": {
+   "2039302152": {
+    "description": "Upon Sliding:\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.",
+    "enhanced": "Enhanced: Buff Effect increased to 25 Stability and Handling.",
+    "calculators": "<formula Ready Speed: [ready_1] />\n<formula Stow Speed: [stow_1] />"
+   },
    "2889515627": {
     "description": "On Weapon Kill:\nIncreased damage, slower Rate of Fire/Charge Rate, and 10 Range for 7 seconds."
    },
