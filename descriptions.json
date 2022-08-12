@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1659903129370,
+   "lastUpdate": 1660339579743,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -13,7 +13,7 @@
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": true
+   "inLiveDatabase": false
   },
   "8507332": {
    "id": 8507332,
@@ -7404,9 +7404,9 @@
     "mainEditor": "Decreases charge time by 40, and damage by 2%",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
+   "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1659903129370,
+   "lastUpdate": 1660339579743,
    "uploadToLive": true
   },
   "692285813": {
@@ -30066,7 +30066,7 @@
        ]
       },
       {
-       "text": ", 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed when ADS."
+       "text": ", 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed."
       }
      ]
     },
@@ -30109,7 +30109,7 @@
      ],
      "linesContent": [
       {
-       "text": "10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed when ADS."
+       "text": "10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed."
       }
      ]
     },
@@ -30132,11 +30132,11 @@
     }
    ],
    "editor": {
-    "mainEditor": "While Aiming-Down-Sights:\n<title 10% Increased Zoom [increased zoom] />, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed when ADS.\n\nEnhanced: Passively grants 5 Handling\n\ntitle increased zoom (\nZoom acts as a multiplier to hipfire range and maximum falloff distance while ADS. This effectively pushes out the weapon's range by 10%.\n)",
-    "secondaryEditor": "While Aiming-Down-Sights:\r\n10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed when ADS.\r\n\r\nEnhanced: Passively grants 5 Handling"
+    "mainEditor": "While Aiming-Down-Sights:\n<title 10% Increased Zoom [increased zoom] />, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\n\nEnhanced: Passively grants 5 Handling\n\ntitle increased zoom (\nZoom acts as a multiplier to hipfire range and maximum falloff distance while ADS.\nIn this case, it effectively pushes out the weapon's range by 10%.\n)",
+    "secondaryEditor": "While Aiming-Down-Sights:\r\n10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\r\n\r\nEnhanced: Passively grants 5 Handling"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
+   "inLiveDatabase": false,
+   "lastUpdate": 1660339579743,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -30149,7 +30149,34 @@
       ],
       "linesContent": [
        {
-        "text": "Zoom acts as a multiplier to hipfire range and maximum falloff distance while ADS. This effectively pushes out the weapon's range by 10%."
+        "text": "Zoom acts as a multiplier to hipfire range and maximum falloff distance while ADS."
+       }
+      ]
+     },
+     {
+      "classNames": [
+       "spacer"
+      ]
+     },
+     {
+      "classNames": [
+       "spacer"
+      ]
+     },
+     {
+      "classNames": [
+       "spacer"
+      ]
+     },
+     {
+      "classNames": [
+       null,
+       null,
+       null
+      ],
+      "linesContent": [
+       {
+        "text": "In this case, it effectively pushes out the weapon's range by 10%."
        }
       ]
      }
