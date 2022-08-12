@@ -5,7 +5,7 @@
    "name": "",
    "type": "none",
    "description": [],
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "updatedBy": "Fading-Shadow",
    "editor": {
     "mainEditor": "",
@@ -3102,7 +3102,7 @@
     "secondaryEditor": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n•  2 | 12 | 14 | 18 | 25 Stability\r\n•  5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n•  0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n\r\nEnhanced: Stronger Effect."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -4609,7 +4609,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true,
    "uploadToLive": true
   },
@@ -5169,7 +5169,7 @@
     "secondaryEditor": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon, up to 10 stacks.\r\n\r\n8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage in PVE\r\n\r\n8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession in PVE\r\n\r\n5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession in PVP"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "481860150": {
@@ -5604,7 +5604,7 @@
      ],
      "linesContent": [
       {
-       "text": "Enhanced: Buff Duration is increased."
+       "text": "🡅 Enhanced: Buff Duration is increased."
       }
      ]
     }
@@ -5670,12 +5670,13 @@
     }
    ],
    "editor": {
-    "mainEditor": "On Weapon Kill:\r\nX (a lot of) Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\nEnhanced: Buff Duration is increased.",
+    "mainEditor": "On Weapon Kill:\r\nX (a lot of) Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\n🡅 Enhanced: Buff Duration is increased.",
     "secondaryEditor": "import main from self"
    },
-   "inLiveDatabase": true,
-   "lastUpdate": 1659903012345,
-   "visible": true
+   "inLiveDatabase": false,
+   "lastUpdate": 1660340221728,
+   "visible": true,
+   "uploadToLive": true
   },
   "515704826": {
    "id": 515704826,
@@ -7417,7 +7418,7 @@
    },
    "inLiveDatabase": false,
    "visible": true,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "uploadToLive": true
   },
   "692285813": {
@@ -9040,7 +9041,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "806159697": {
@@ -9266,7 +9267,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "824488952": {
@@ -10109,7 +10110,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "921817150": {
@@ -10986,7 +10987,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "960810156": {
@@ -12259,7 +12260,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "1142806944": {
@@ -14966,7 +14967,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "1428297954": {
@@ -16186,7 +16187,7 @@
     "secondaryEditor": "After not shooting for 4 seconds:\r\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "1525622117": {
@@ -17533,7 +17534,7 @@
     "secondaryEditor": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n10 Range with 5% Increased Falloff Distance, 10 Stability, 35 Handling, and 35 Reload Speed with 0.95x Duration Multiplier for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -19922,7 +19923,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "1754714824": {
@@ -21362,7 +21363,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "1890422124": {
@@ -22910,7 +22911,7 @@
     "secondaryEditor": "Upon Sliding:\r\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.\r\n\r\nEnhanced: Buff Effect increased to 25 Stability and Handling."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true,
    "uploadToLive": true
   },
@@ -23429,7 +23430,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "2179827240": {
@@ -30111,7 +30112,7 @@
     "secondaryEditor": "While Aiming-Down-Sights:\r\n10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\r\n\r\nEnhanced: Passively grants 5 Handling"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -33720,7 +33721,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -34068,7 +34069,7 @@
     "secondaryEditor": "On Low-Tier Minor Combatant Hit:\r\nGrants 1 Stack of Redirection, up to 20 Stacks\r\n\r\nGrants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks.\r\n\r\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks."
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "3208647503": {
@@ -35084,7 +35085,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "3295796664": {
@@ -35508,7 +35509,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true,
    "uploadToLive": true
   },
@@ -36785,7 +36786,7 @@
     "secondaryEditor": "Upon emptying the Magazine:\r\nRefreshes Magazine based on the Number of Hits.\r\n\r\nHits to Returned Ammo Ratio:\r\n50-60% for Primaries | 30-40% for Special"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true,
    "uploadToLive": true,
    "titles": {
@@ -41021,7 +41022,7 @@
     "secondaryEditor": "import main from self"
    },
    "inLiveDatabase": false,
-   "lastUpdate": 1660340119058,
+   "lastUpdate": 1660340221728,
    "visible": true
   },
   "3705817207": {
