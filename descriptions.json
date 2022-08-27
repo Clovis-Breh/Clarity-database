@@ -1,19 +1,20 @@
 {
  "descriptions": {
   "0": {
-   "id": 0,
+   "hash": 0,
    "name": "",
    "type": "none",
-   "description": [],
-   "lastUpdate": 1660340225750,
-   "updatedBy": "Fading-Shadow",
+   "lastUpdate": 1661616610839,
+   "updatedBy": "Icemourne",
    "editor": {
-    "mainEditor": "",
-    "secondaryEditor": ""
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
    },
    "uploadToLive": false,
    "visible": false,
-   "inLiveDatabase": true
+   "inLiveDatabase": false
   },
   "8507332": {
    "id": 8507332,
