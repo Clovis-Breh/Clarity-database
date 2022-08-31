@@ -1,17 +1,23 @@
 {
  "descriptions": {
   "0": {
+   "hash": 0,
    "name": "",
-   "itemName": "",
-   "updatedBy": "Icemourne",
    "type": "none",
-   "editor": {
-    "en": {}
+   "descriptions": {
+    "en": []
    },
-   "inLiveDatabase": false,
-   "lastUpdate": 1661707828769,
+   "lastUpdate": 1661933349338,
+   "updatedBy": "Icemourne",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   },
+   "uploadToLive": false,
    "visible": false,
-   "uploadToLive": false
+   "inLiveDatabase": true
   },
   "8507332": {
    "hash": 8507332,
