@@ -1,27 +1,19 @@
 {
  "descriptions": {
   "0": {
-   "hash": 0,
-   "type": "none",
-   "uploadedBy": "",
-   "lastUpload": 0,
-   "inLiveDatabase": false,
-   "uploadToLive": false,
-   "optional": false,
-   "hidden": false,
-   "updateTracker": {
-    "stats": {
-     "lastUpdate": 1663853134620,
-     "undatedBy": "Icemourne"
-    },
-    "descriptions": {
-     "en": {
-      "lastUpdate": 0,
-      "undatedBy": ""
-     }
+   "name": "",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
     }
    },
-   "stats": {}
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "undatedBy": ""
+    }
+   }
   },
   "8507332": {
    "hash": 8507332,
@@ -80,7 +72,7 @@
    "editor": {
     "en": {
      "main": "Passively grants 20 Stability and -30 Reload Speed.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -160,7 +152,7 @@
    "editor": {
     "en": {
      "main": "Loads 2 Ammo at a time.\nReduces Reload Speed by 35.\n\nEnhanced: Loads 3 Ammo instead of 2.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -368,7 +360,7 @@
    "editor": {
     "en": {
      "main": "On Precision Hit:\nDecreases Draw Time by 25% for 3 seconds.\n\nEnhanced: Buff duration increased to 4 seconds.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -715,7 +707,7 @@
    "editor": {
     "en": {
      "main": "On Sword Kill:\n15% Increased Damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)\nIncreases Sword Lunge Distance.\n\nRemains active even if stowed.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -869,7 +861,7 @@
    "editor": {
     "en": {
      "main": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius.\n",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -1001,7 +993,7 @@
    "editor": {
     "en": {
      "main": "After dealing non-Precision Weapon Damage:\r\n8% Increased Precision Damage for 0.3 seconds\r\n\r\nEnhanced: Passively grants 5 Stability.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -1031,7 +1023,7 @@
    "editor": {
     "en": {
      "main": "Increases Shotgun Pellet Spread by 7.5%",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -1169,7 +1161,7 @@
    "editor": {
     "en": {
      "main": "On Weapon Kill:\r\nX (a lot of) Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\n🡅 Enhanced: Buff Duration is increased.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -1302,7 +1294,7 @@
    "editor": {
     "en": {
      "main": "On Weapon Kill:\r\n10% | 20% | 30% increased damage until stow or reload.\r\n\r\nEnhanced: Passively grants 10 Magazine Stat (Identical to Tactical Mag).",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -1372,7 +1364,7 @@
    "editor": {
     "en": {
      "main": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing.\r\n\r\nEnhanced: Aim Assist bonus is increased marginally.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -1402,7 +1394,7 @@
    "editor": {
     "en": {
      "main": "Passively grants 20 Range and -30 Stability",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -1726,7 +1718,7 @@
    "editor": {
     "en": {
      "main": "Decreases charge time by 40, and damage by 2%",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -2117,7 +2109,7 @@
    "editor": {
     "en": {
      "main": "On Weapon Kill against an enemy affected by a Void Debuff:\r\n\r\n45[?]HP Overshield for 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 9 seconds.\r\n",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -2202,7 +2194,7 @@
    "editor": {
     "en": {
      "main": "If Heavy Attack consumes the last Ammo:\n67% Increased damage to Grounded Heavy Attack.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -2293,7 +2285,7 @@
    "editor": {
     "en": {
      "main": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's.\n",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -2416,7 +2408,7 @@
    "editor": {
     "en": {
      "main": "While Crouched:\nPrevents Radar Ping from shooting, increased Reload Speed, and increases hold time by 25%",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -2613,7 +2605,7 @@
    "editor": {
     "en": {
      "main": "Passively grants:\n- 35% Faster Projectile Velocity \n- 10 Reload Speed with 0.8x Duration Multiplier\n\nEnhanced: Increases Reload Speed.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -2643,7 +2635,7 @@
    "editor": {
     "en": {
      "main": "0.5x Aim Down Sights Animation Scalar for Primary Weapons\n0.75x Aim Down Sights Animation Scalar for Special Weapons\n\nEnhanced: Passively grants 4 Stability.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -2798,7 +2790,7 @@
    "editor": {
     "en": {
      "main": "On Reload, within 3.8 seconds of a Weapon Kill:\n33% Increased damage for 5 seconds.\nBuff can't be refreshed. Persists through stow.\n\nEnhanced: Buff Duration is increased to 5.5 seconds.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -2828,7 +2820,7 @@
    "editor": {
     "en": {
      "main": "Decreases Shotgun Pellet Spread by 3.75\r\n\r\nReduces Precision Damage Multiplier",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -2928,7 +2920,7 @@
    "editor": {
     "en": {
      "main": "Combines the penetration from Armor-Piercing Rounds, the guaranteed ricochets from Ricochet Rounds, and the flinch increase from High-Caliber Rounds.\n\nIncreases Damage Falloff Distance by 10%",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -3395,7 +3387,7 @@
    "editor": {
     "en": {
      "main": "Explosion releases 8 Cluster Bombs.\r\nEach Cluster Bomb deals an additional 3% damage.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -3548,7 +3540,7 @@
    "editor": {
     "en": {
      "main": "Scoring 4 Precision Hits generates 2 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -3587,7 +3579,7 @@
    "editor": {
     "en": {
      "main": "During Sustained Fire:\nGradually greatly increases Accuracy, and adds up to +10 Stability. Takes 0.6 seconds to maximize effect.\n\nThe accuracy improvement is greater than initial accuracy.\nThe accuracy increase is gradual, almost completely negating the effects of bloom.\n\nEnhanced: Effect reaches full effect sooner.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -3657,7 +3649,7 @@
    "editor": {
     "en": {
      "main": "If Magazine is Full:\n25% Increased damage and causes enemies to explode on death.\n\nPassively grants 30 Magazine Size\n\nEnhanced: Passively grants 5 Stability.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -4149,7 +4141,7 @@
    "editor": {
     "en": {
      "main": "On Power Ammo Pickup:\nGrants (almost) the equivalent of 1 Special Ammo Pickup.\n\nEnhanced: Increases the amount of Special Ammo received.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -4631,7 +4623,7 @@
    "editor": {
     "en": {
      "main": "On Elemental/Barrier Champion or Guardian Shield Break:\nDebuffs the enemy, increasing Kinetic Damage by 50% for 5.5 seconds.\nStacks with other Debuffs, as it is a Weapon Perk.\n\nEnhanced: Debuff Duration is increased.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -4670,7 +4662,7 @@
    "editor": {
     "en": {
      "main": "Upon readying a Sword:\n30% Increased damage for 1.5 seconds.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -4716,7 +4708,7 @@
    "editor": {
     "en": {
      "main": "Increases charge time by 40, and damage by 2%",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -4919,7 +4911,7 @@
    "editor": {
     "en": {
      "main": "Grenades fired from this weapon emit a blast that staggers enemies.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -4980,7 +4972,7 @@
    "editor": {
     "en": {
      "main": "After 3 Powered Hits within [2?] seconds of each:\r\nGain +1 Ammo.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5026,7 +5018,7 @@
    "editor": {
     "en": {
      "main": "During Slide, after Sprinting for 1.5 seconds:\n20% Increased damage and 100ms increased Charge Rate for [?] seconds. \n\nEnhanced: Buff Duration is increased.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5065,7 +5057,7 @@
    "editor": {
     "en": {
      "main": "While within X meters of 2+ Allies:\n20% Increased Precision Damage\n\nEnhanced: Passively grants 5 Range.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5095,7 +5087,7 @@
    "editor": {
     "en": {
      "main": "On Grenade Ability Usage:\r\nChanges Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 5 Handling.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5134,7 +5126,7 @@
    "editor": {
     "en": {
      "main": "While within 15[?] meters of 2 enemies:\nCharge/Draw Time is reduced by 100 miliseconds.\nLingers for 1.5 seconds.\n\nEnhanced: Passively grants 5 Stability.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5319,7 +5311,7 @@
    "editor": {
     "en": {
      "main": "If hipfiring:\n20% Increased: Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance\n15 Aim Assist\n+2.7 degrees Precision Angle Threshold\n-30% Accuracy Cone Size and ~30 Stability.\n\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\n\nEnhanced: Stronger Effect.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5380,7 +5372,7 @@
    "editor": {
     "en": {
      "main": "Bullets are guaranteed to ricochet off of surfaces.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5581,7 +5573,7 @@
    "editor": {
     "en": {
      "main": "5% Increased damage against Combatant Shields.\n\nBullets are able to overpenetrate enemies once.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5642,7 +5634,7 @@
    "editor": {
     "en": {
      "main": "After Reloading within X seconds of Weapon Kills:\r\n10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity.\r\n\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Passively grants 5 Reload Speed.\r\n",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5672,7 +5664,7 @@
    "editor": {
     "en": {
      "main": "While Blocking with a Sword:\nGrants Class Ability Energy based on the amount of damage taken.\n\nEnhanced: Increased Class Ability Energy Gain.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5750,7 +5742,7 @@
    "editor": {
     "en": {
      "main": "Upon readying a Sword:\n100% Increased Lunge Range for 1 second. (Enough to execute 2 light attacks.)\n4 second cooldown.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5780,7 +5772,7 @@
    "editor": {
     "en": {
      "main": "Automatically queues up the next shot after firing if you hold the trigger.\n\n10% Faster Rate of Fire on Shotguns exclusively.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -5850,7 +5842,7 @@
    "editor": {
     "en": {
      "main": "Upon readying the weapon after getting kills with other Weapons or Abilities:\r\n\r\nEach stack of Sleight of Hand grants Handling, Reload Speed, and Stability.\r\nStacks up to 3 times.\r\n\r\nEnhanced: Buff Duration is increased.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -6035,7 +6027,7 @@
    "editor": {
     "en": {
      "main": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n30HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -6104,7 +6096,7 @@
    "editor": {
     "en": {
      "main": "Upon blocking damage with your Glaive Shield:\r\n\r\n30% increased projectile damage for 4 seconds or until you stop blocking. Blocking any hit refreshes the duration.\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -6134,7 +6126,7 @@
    "editor": {
     "en": {
      "main": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\n\nEnhanced: Passively grants increased Ammo Reserves.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -6164,7 +6156,7 @@
    "editor": {
     "en": {
      "main": "On Reload:\r\nOverflows Magazine Capacity by 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Improves the average overflow amount.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -6302,7 +6294,7 @@
    "editor": {
     "en": {
      "main": "On Stacking Hits:\nReduces the Maximum Recoil Angle and Weapon Shake. \nRemoves Reticle Bounce on Controller input.\n\nEnhanced: Passively grants 5 Stability.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -6332,7 +6324,7 @@
    "editor": {
     "en": {
      "main": "Weapon Kills create an Elemental Explosion.\nNot affected by Dragonfly Spec.\n\nEnhanced: Improves Ammo Reserves.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -6511,7 +6503,7 @@
    "editor": {
     "en": {
      "main": "On Reload, within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage for 5 seconds, depending on the amount of enemies killed within X seconds of each.\nBuff is overwritten every time you refresh it.\n\nEnhanced: Buff Duration is increased to 5.5 seconds.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -6692,7 +6684,7 @@
    "editor": {
     "en": {
      "main": "Powered Swords gain 1 Ammo every other kill.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -6732,7 +6724,7 @@
    "editor": {
     "en": {
      "main": "On Weapon Kill:\n15% Increased damage for 7 seconds. Can be refreshed with a Weapon Kill.\n\nMatching Grenade and Powered Melee Kills strengthen the damage increase to 50% for 10 seconds.\nCan be refreshed by getting another Matching Ability Kill.\n\nEnhanced: Base Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -6881,7 +6873,7 @@
    "editor": {
     "en": {
      "main": "On Weapon Kill:\r\n37.5% Increased Charge Rate/Draw Speed for 6 seconds.\r\nEach kill while the perk is active adds an additional 4 seconds up to 20 seconds.\r\n\r\nEnhanced: Added time from additional kills is increased to 5 seconds.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -7004,7 +6996,7 @@
    "editor": {
     "en": {
      "main": "If All 12 Pellets from a Shotgun Hit:\n200% Increased melee damage for 1.22 seconds.\n350% Increased melee damage against Bosses and Vehicles.\n80% Increased melee damage if combined with Liar's Handshake.\n\nEnhanced: Pellet Activation Requirement reduced from 12 to 10.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -7459,7 +7451,7 @@
    "editor": {
     "en": {
      "main": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\nTimer starts as soon as the ADS input is pressed.\n\nEnhanced: Aiming-Down-Sights timer is reduced.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -7538,7 +7530,7 @@
    "editor": {
     "en": {
      "main": "Increases Explosive Damage by 0.63% for every meter after 10 meters.\r\n\r\n25% Increased Explosive Damage at 50 meters.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -7633,7 +7625,7 @@
    "editor": {
     "en": {
      "main": "After scoring 50% of Magazine Size as Precision Hits:\r\n20% increased damage for 11 seconds.\r\nStowing or Reloading resets the precision counter. Can be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 12 seconds.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -7702,7 +7694,7 @@
    "editor": {
     "en": {
      "main": "After Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and [?] Handling (ADS only) for 5 seconds.\nBuff cannot be refreshed.\n\nEnhanced: Buff Duration is increased.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -7763,7 +7755,7 @@
    "editor": {
     "en": {
      "main": "While above 50% Magazine:\r\nDirect Hits create a Stasis burst which applies 50 Slow to enemies within [?] meters.\r\nWeapons with multiple projectiles activate the perk once per enemy.\r\n\r\nEnhanced: Passively grants 5 Stability.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -7954,7 +7946,7 @@
    "editor": {
     "en": {
      "main": "Grenade detonation has a brief blinding effect.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -8014,7 +8006,7 @@
    "editor": {
     "en": {
      "main": "After Reloading within 6 seconds of a Precision Kill:\nDelay after shooting is reduced by 30%, increasing Rate of Fire for 6 seconds.\nCan be refreshed.\n\nEnhanced: Increased duration.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -8053,7 +8045,7 @@
    "editor": {
     "en": {
      "main": "After dealing damage with all your weapons within [?] seconds of each:\r\n35% increased damage for 10 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -8159,7 +8151,7 @@
    "editor": {
     "en": {
      "main": "Upon Sliding:\n15% Magazine Refresh, 20 Range, and 30 Stability for 3 seconds. <title Only buffs first shot [only buffs first shot] />.\nCan activate multiple times per slide. 0.3 second cooldown between activation.\n\n<formula In-Game Range: [range_0] />\n\ntitle only buffs first shot (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -8189,7 +8181,7 @@
    "editor": {
     "en": {
      "main": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and 100 Blast Radius.\nMax of 6 Stacks. Consumes 1 Stack per Shot.\n\nGrenade Launchers: 44% Increased damage\nRocket Launchers: 25% Increased damage.\n\nEnhanced: Passively grants 5 Velocity.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -8464,7 +8456,7 @@
    "editor": {
     "en": {
      "main": "On Matching Elemental Shield Break:\nExplosion disorients enemies within 7 meters for 5 seconds",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -8555,7 +8547,7 @@
    "editor": {
     "en": {
      "main": "Increases impact damage by 50%, doesn't apply to explosion damage.\n\n(Higher Blast Radius Stat will lower total damage)",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -8616,7 +8608,7 @@
    "editor": {
     "en": {
      "main": "On Miss:\r\nPrimary Weapons have a 35% chance to refund ammo.\r\nSpecial Weapons and Heavy Weapons have a 20% chance to refund ammo.\r\n\r\nEnhanced:\r\nPrimary Weapons have a [40% maybe] chance to refund ammo. \r\nSpecial Weapons and Heavy Weapons have a [25% maybe] chance to refund ammo.",
-     "secondary": "import main from selfimport main from self"
+     "secondary": "import selfimport main from self"
     }
    }
   },
@@ -8826,7 +8818,7 @@
    "editor": {
     "en": {
      "main": "Grenades fired from this weapon attach on impact and detonate when enemies are in proximity.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -8856,7 +8848,7 @@
    "editor": {
     "en": {
      "main": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine.\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\n\nEnhanced: Timer between Precision Hits is increased.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -8927,7 +8919,7 @@
    "editor": {
     "en": {
      "main": "On Weapon Kill:\n10% | 21% | 33.1% increased damage for 3.5 seconds.\nBuff Refreshed on Kill. \n\nEnhanced: Buff Duration is increased to 4 seconds.\n\nRampage Spec adds an additional 1 second to both regular and enhanced.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -9167,7 +9159,7 @@
    "editor": {
     "en": {
      "main": "Upon blocking damage with your Glaive Shield:\r\n\r\nIncreases Mobility[?] for [?] seconds, or until you stop blocking.\r\n\r\nEnhanced: Buff Duration is increased.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -9318,7 +9310,7 @@
    "editor": {
     "en": {
      "main": "Powered Sword Hits apply Slow Stacks.\n\nLight Attacks apply 40 Slow Stacks.\nHeavy Attacks apply 60 Slow Stacks.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -9620,7 +9612,7 @@
    "editor": {
     "en": {
      "main": "After Shooting an Ammo Pickup:\nPicks up the Ammo and Refreshes all your Weapons.\nTriggers Ammo Pickup effects. Only activates if you are not full on Ammo.\n\nEnhanced: Passively grants 5 Range.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -9650,7 +9642,7 @@
    "editor": {
     "en": {
      "main": "On Sword Kill:\nIncreased Charge Rate, Endurance, Efficiency, and Defense.\nLasts until stowed.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -9690,7 +9682,7 @@
    "editor": {
     "en": {
      "main": "While within 8 metres of 3+ Enemies:\n30% Increased Damage. (Swords receive a 25% Damage Increase)\n\nSurrounded Spec increases damage by an additive 10% and adds a linger effect for 1.5 seconds \n\nEnhanced: Surrounded's damage buff is increased by a multiplicative 5%.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -9759,7 +9751,7 @@
    "editor": {
     "en": {
      "main": "While at Low Health:\r\nUp to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -9930,7 +9922,7 @@
    "editor": {
     "en": {
      "main": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -9990,7 +9982,7 @@
    "editor": {
     "en": {
      "main": "While blocking and stationary:\r\n[50%?] Additional Weapon Energy on Hit.\r\n\r\nEnhanced: Increases Energy Bonus on Hit.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -10169,7 +10161,7 @@
    "editor": {
     "en": {
      "main": "On Hit:\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. \nBlocking removes all Stacks.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -10208,7 +10200,7 @@
    "editor": {
     "en": {
      "main": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\n20% effective damage increase.\n\nPassively grants 50 Blast Radius.\n\nEnhanced: Passively grants 55 Blast Radius.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -10452,7 +10444,7 @@
    "editor": {
     "en": {
      "main": "Fires a grenade projectile that bounces and detonates on trigger release.\n",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -10623,7 +10615,7 @@
    "editor": {
     "en": {
      "main": "After Damaging 3 Separate Enemies within 3 seconds of each:\n35% Increased Damage for 10 seconds.\nBuff can't be refreshed.\n\nEnhanced: Buff Duration is increased to 11 seconds.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
@@ -10957,7 +10949,7 @@
    "editor": {
     "en": {
      "main": "Passively grants 20 Aim Assist and -30 Range.",
-     "secondary": "import main from self"
+     "secondary": "import self"
     }
    }
   },
