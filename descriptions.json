@@ -15,11 +15,11 @@
    "hash": 0,
    "type": "none",
    "lastUpload": 0,
-   "uploadedBy": "",
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "uploadedBy": ""
   },
   "8507332": {
    "hash": 8507332,
