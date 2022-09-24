@@ -1,19 +1,25 @@
 {
  "descriptions": {
   "0": {
-   "name": "",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   },
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0,
-     "undatedBy": ""
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "undatedBy": ""
+     }
     }
-   }
+   },
+   "hash": 0,
+   "type": "none",
+   "lastUpload": 0,
+   "uploadedBy": "",
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "8507332": {
    "hash": 8507332,
