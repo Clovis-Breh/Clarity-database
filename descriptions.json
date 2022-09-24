@@ -3,12 +3,12 @@
   "0": {
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0
+     "lastUpdate": 0,
+     "undatedBy": ""
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "undatedBy": ""
+      "lastUpdate": 0
      }
     }
    },
@@ -19,7 +19,13 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "uploadedBy": ""
+   "name": "",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   }
   },
   "8507332": {
    "hash": 8507332,
@@ -6743,7 +6749,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1658513881743,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -6753,14 +6759,14 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1658513881743,
+      "lastUpdate": 1664016155421,
       "undatedBy": "Fading-Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Weapon Kills with a Matching Subclass Element grant a buff, depending on whether Super is charged or not.\n\nIf Super is not Full:\nEnergy Siphon for 2 seconds. (Essentially a Cooldown)\nEnergy Siphon grants <pve 3(?)% /><pvp [+1.45%] /> Super Energy.\n\nIf Super is Full:\nReceive <pve 6s /><pvp [3.5s] /> (<pve+4s /><pvp [2s] /> per additional kill) of Absorption Cells, granting 20% increased damage for Weapons Matching your Subclass Element.\nAbsorption Cells maxes out at a <pve 10 /><pvp [6] /> second duration.\n\nAbsorption Cells disappears on Weapon Swap.\n",
+     "main": "Weapon Kills with a Matching Subclass Element grant a buff, depending on whether Super is charged or not.\n\nIf Super is not Full:\nEnergy Siphon for 2 seconds. (Essentially a Cooldown)\nEnergy Siphon grants <pve 3(?)% /> <pvp [+1.45%] /> Super Energy.\n\nIf Super is Full:\nReceive <pve 6s /> <pvp [3.5s] /> (<pve +4s /> <pvp [2s] /> per additional kill) of Absorption Cells, granting 20% increased damage for Weapons Matching your Subclass Element.\nAbsorption Cells maxes out at a <pve 10 /> <pvp [6] /> second duration.\n\nAbsorption Cells disappears on Weapon Swap.\n",
      "secondary": "Weapon Kills with a Matching Subclass Element grant a buff, depending on whether Super is charged or not.\r\n\r\nIf Super is not Full:\r\nEnergy Siphon for 2 seconds. (Essentially a Cooldown)\r\nEnergy Siphon grants 3(?)% [PVP: +1.45%] Super Energy.\r\n\r\nIf Super is Full:\r\nReceive 6s [PVP: 3.5s] (+4s [PVP: 2s] per additional kill) of Absorption Cells, granting 20% increased damage for Weapons Matching your Subclass Element.\r\nAbsorption Cells maxes out at a 10 [PVP: 6] second duration.\r\n\r\nAbsorption Cells disappears on Weapon Swap."
     }
    }
