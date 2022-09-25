@@ -3,12 +3,12 @@
   "0": {
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0,
-     "undatedBy": ""
+     "lastUpdate": 0
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0
+      "lastUpdate": 0,
+      "undatedBy": ""
      }
     }
    },
@@ -19,13 +19,7 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "name": "",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   }
+   "uploadedBy": ""
   },
   "8507332": {
    "hash": 8507332,
@@ -7222,6 +7216,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664117799593,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -7238,6 +7236,10 @@
     "en": {
      "main": "7.77% Damage Increase against Bosses and Vehicles.",
      "secondary": "7.77% Damage Increase against Bosses and Vehicles."
+    },
+    "zh-chs": {
+     "main": "提高 7.77% 对首领和载具的伤害。",
+     "secondary": "import self"
     }
    }
   },
