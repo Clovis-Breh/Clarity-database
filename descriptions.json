@@ -10979,12 +10979,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664117377436,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "Passively grants 20 Aim Assist and -30 Range.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "增加 20 辅助瞄准，降低 30 射程。",
      "secondary": "import self"
     }
    }
