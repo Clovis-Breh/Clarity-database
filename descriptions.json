@@ -1394,12 +1394,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664119721393,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "Passively grants 20 Range and -30 Stability",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "增加 20 射程，降低 30 稳定性。",
      "secondary": "import self"
     }
    }
@@ -9284,7 +9292,7 @@
       "undatedBy": "Fading-Shadow"
      },
      "zh-chs": {
-      "lastUpdate": 1664119549242,
+      "lastUpdate": 1664119680889,
       "undatedBy": "Mistwalker"
      }
     }
@@ -9296,7 +9304,7 @@
     },
     "zh-chs": {
      "main": "使用武器击杀时：\r\n获取 8% 的技能能量，平均分配到所有未充能的技能中。\r\n\r\n<blue 如果你有 3 个以上技能充能完毕， 该 perk 将不会生效。 />\r\n\r\n强化特征： 获取 9% 的技能能量，平均分配到所有未充能的技能中。",
-     "secondary": "使用武器击杀时：\r\n获取 8% 的技能能量，平均分配到所有未充能的技能中。\r\n\r\n<blue 如果你有 3 个以上技能充能完毕， 该 perk 将不会生效。 />\r\n\r\n强化特征： 获取 9% 的技能能量，平均分配到所有未充能的技能中。"
+     "secondary": "使用武器击杀时：\r\n获取 8% 的技能能量，平均分配到所有未充能的技能中。\r\n\r\n如果你有 3 个以上技能充能完毕， 该 perk 将不会生效。\r\n\r\n强化特征： 获取 9% 的技能能量，平均分配到所有未充能的技能中。"
     }
    }
   },
