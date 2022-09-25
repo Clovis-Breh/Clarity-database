@@ -7010,12 +7010,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664116754615,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "If All 12 Pellets from a Shotgun Hit:\n200% Increased melee damage for 1.22 seconds.\n350% Increased melee damage against Bosses and Vehicles.\n80% Increased melee damage if combined with Liar's Handshake.\n\nEnhanced: Pellet Activation Requirement reduced from 12 to 10.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "当一发弹药的 <bold 12 /> 枚弹片全部命中时：\r\n在 <bold 1.22 /> 秒内增加 <bold 200% /> 近战伤害。\r\n对首领和载具时，增加 <bold 350% /> 近战伤害。\r\n当触发骗徒的握手时，增加 <bold 80% /> 近战伤害。\r\n\r\n强化特征： 需要命中的弹片从 <bold 12 /> 枚降低为 <bold 10 /> 枚。",
      "secondary": "import self"
     }
    }
@@ -8924,7 +8932,7 @@
       "undatedBy": "Fading-Shadow"
      },
      "zh-chs": {
-      "lastUpdate": 1664115997203,
+      "lastUpdate": 1664116141453,
       "undatedBy": "Mistwalker"
      }
     }
@@ -8946,7 +8954,7 @@
      "secondary": "import self"
     },
     "zh-chs": {
-     "main": "武器击杀时:\r\n3.5 秒内提高 10% | 21% | 33.1% 伤害。\r\n击杀可刷新 Buff 时间。\r\n\r\n强化特征：Buff 持续时间增加为 4 秒。\r\n\r\n狂暴规格模组提高 1 秒持续时间。",
+     "main": "完成武器击杀时:\r\n3.5 秒内提高 10% | 21% | 33.1% 伤害。\r\n击杀可刷新 Buff 时间。\r\n\r\n强化特征：Buff 持续时间增加为 4 秒。\r\n\r\n狂暴规格模组提高 1 秒持续时间。",
      "secondary": "import self"
     }
    }
