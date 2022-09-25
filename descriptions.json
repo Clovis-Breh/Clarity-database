@@ -7006,7 +7006,7 @@
       "undatedBy": "Fading-Shadow"
      },
      "zh-chs": {
-      "lastUpdate": 1664116754615,
+      "lastUpdate": 1664118773533,
       "undatedBy": "Mistwalker"
      }
     }
@@ -7017,7 +7017,7 @@
      "secondary": "import self"
     },
     "zh-chs": {
-     "main": "当一发弹药的 <bold 12 /> 枚弹片全部命中时：\r\n在 <bold 1.22 /> 秒内增加 <bold 200% /> 近战伤害。\r\n对首领和载具时，增加 <bold 350% /> 近战伤害。\r\n当触发骗徒的握手时，增加 <bold 80% /> 近战伤害。\r\n\r\n强化特征： 需要命中的弹片从 <bold 12 /> 枚降低为 <bold 10 /> 枚。",
+     "main": "当一发弹药的 12 枚弹片全部命中时：\r\n在 1.22 秒内增加 200% 近战伤害。\r\n对首领和载具时，增加 350% 近战伤害。\r\n当触发骗徒的握手时，增加 80% 近战伤害。\r\n\r\n强化特征： 需要命中的弹片从 12 枚降低为 10 枚。",
      "secondary": "import self"
     }
    }
