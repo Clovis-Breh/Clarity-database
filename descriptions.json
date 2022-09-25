@@ -3,12 +3,12 @@
   "0": {
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0,
-     "undatedBy": ""
+     "lastUpdate": 0
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0
+      "lastUpdate": 0,
+      "undatedBy": ""
      }
     }
    },
@@ -19,13 +19,7 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "name": "",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   }
+   "uploadedBy": ""
   },
   "8507332": {
    "hash": 8507332,
@@ -7012,7 +7006,7 @@
       "undatedBy": "Fading-Shadow"
      },
      "zh-chs": {
-      "lastUpdate": 1664118773533,
+      "lastUpdate": 1664118822374,
       "undatedBy": "Mistwalker"
      }
     }
@@ -7023,7 +7017,7 @@
      "secondary": "import self"
     },
     "zh-chs": {
-     "main": "当一发弹药的 12 枚弹片全部命中时：\r\n在 1.22 秒内增加 200% 近战伤害。\r\n对首领和载具时，增加 350% 近战伤害。\r\n当触发骗徒的握手时，增加 80% 近战伤害。\r\n\r\n强化特征： 需要命中的弹片从 12 枚降低为 10 枚。",
+     "main": "当一发弹药的 12 枚弹片全部命中时：\r\n在 1.22 秒内增加 200% 近战伤害。\r\n对首领和载具时，变为增加 350% 近战伤害。\r\n当触发骗徒的握手时，变为增加 80% 近战伤害。\r\n\r\n强化特征： 需要命中的弹片从 12 枚降低为 10 枚。",
      "secondary": "import self"
     }
    }
@@ -9288,6 +9282,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664119549242,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -9295,6 +9293,10 @@
     "en": {
      "main": "On Weapon Kill:\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\n\n<blue If you have more than 3 ability charges in total, the perk stops functioning. />\n\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities.",
      "secondary": "On Weapon Kill:\r\nGrants 8% Ability Energy split equally amongst all uncharged abilities.\r\n\r\nIf you have more than 3 ability charges in total, the perk stops functioning.\r\n\r\nEnhanced: Grants 9% Ability Energy split equally amongst all uncharged abilities."
+    },
+    "zh-chs": {
+     "main": "使用武器击杀时：\r\n获取 8% 的技能能量，平均分配到所有未充能的技能中。\r\n\r\n<blue 如果你有 3 个以上技能充能完毕， 该 perk 将不会生效。 />\r\n\r\n强化特征： 获取 9% 的技能能量，平均分配到所有未充能的技能中。",
+     "secondary": "使用武器击杀时：\r\n获取 8% 的技能能量，平均分配到所有未充能的技能中。\r\n\r\n<blue 如果你有 3 个以上技能充能完毕， 该 perk 将不会生效。 />\r\n\r\n强化特征： 获取 9% 的技能能量，平均分配到所有未充能的技能中。"
     }
    }
   },
