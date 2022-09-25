@@ -3,12 +3,12 @@
   "0": {
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0
+     "lastUpdate": 0,
+     "undatedBy": ""
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "undatedBy": ""
+      "lastUpdate": 0
      }
     }
    },
@@ -19,7 +19,13 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "uploadedBy": ""
+   "name": "",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   }
   },
   "8507332": {
    "hash": 8507332,
@@ -1702,6 +1708,10 @@
      "en": {
       "lastUpdate": 1660340225750,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664115622426,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -1723,6 +1733,10 @@
    },
    "editor": {
     "en": {
+     "main": "Decreases charge time by 40, and damage by 2%",
+     "secondary": "import self"
+    },
+    "zh-chs": {
      "main": "Decreases charge time by 40, and damage by 2%",
      "secondary": "import self"
     }
@@ -8908,6 +8922,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664115997203,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -8925,6 +8943,10 @@
    "editor": {
     "en": {
      "main": "On Weapon Kill:\n10% | 21% | 33.1% increased damage for 3.5 seconds.\nBuff Refreshed on Kill. \n\nEnhanced: Buff Duration is increased to 4 seconds.\n\nRampage Spec adds an additional 1 second to both regular and enhanced.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "武器击杀时:\r\n3.5 秒内提高 10% | 21% | 33.1% 伤害。\r\n击杀可刷新 Buff 时间。\r\n\r\n强化特征：Buff 持续时间增加为 4 秒。\r\n\r\n狂暴规格模组提高 1 秒持续时间。",
      "secondary": "import self"
     }
    }
