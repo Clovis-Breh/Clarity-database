@@ -1750,7 +1750,7 @@
       "undatedBy": "Fading-Shadow"
      },
      "zh-chs": {
-      "lastUpdate": 1664115622426,
+      "lastUpdate": 1664433230817,
       "undatedBy": "Mistwalker"
      }
     }
@@ -1777,7 +1777,7 @@
      "secondary": "import self"
     },
     "zh-chs": {
-     "main": "Decreases charge time by 40, and damage by 2%",
+     "main": "-40ms 充能时间，-2% 伤害。",
      "secondary": "import self"
     }
    }
@@ -3877,6 +3877,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664433627914,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -3893,6 +3897,10 @@
     "en": {
      "main": "Upon reloading with an empty magazine:\n0.85x Reload Duration Scale\n\n<formula Reload Time: [reload_0] />\n",
      "secondary": "Upon reloading with an empty magazine:\r\n15% Faster Reload Animation"
+    },
+    "zh-chs": {
+     "main": "弹夹为空时：\n加快 15% 换弹装填动画。",
+     "secondary": "弹夹为空时：\n加快 15% 换弹装填动画。"
     }
    }
   },
@@ -5880,12 +5888,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664433784615,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "After Reloading within X seconds of Weapon Kills:\r\n10% Increased Magazine Capacity per kill. Maxes out at 50% increased Magazine Capacity.\r\n\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Passively grants 5 Reload Speed.\r\n",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "该武器击杀后 X 秒内换弹：\n每个击杀增加 10% 过量填加弹匣， 最高 50%。\n\n计算结果向上取整。\n\n强化特征：+5 填装速度。",
      "secondary": "import self"
     }
    }
@@ -10141,12 +10157,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664433396838,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "While at Low Health:\r\nUp to 60 Airborne Effectiveness.\r\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\r\n\r\nEnhanced: Grants up to 66[?] Airborne Effectiveness.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "生命值降低时：\n最高获取 60 空中效率。\n空中效率效果随着生命值降低而线性增强。当重伤时达到最大值。\n\n强化特征：最高获取 66[?] 空中效率。",
      "secondary": "import self"
     }
    }
@@ -11093,7 +11117,7 @@
       "undatedBy": "Fading-Shadow"
      },
      "zh-chs": {
-      "lastUpdate": 1664430683143,
+      "lastUpdate": 1664432865790,
       "undatedBy": "Mistwalker"
      }
     }
