@@ -806,6 +806,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664422653646,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -813,6 +817,10 @@
     "en": {
      "main": "Grants Burning Fists on Melee Kill.\r\nBurning Fists lasts 5 seconds and grants Bonus Melee Damage.\r\n\r\nBonus Melee Damage:\r\n80% | 170% | 390% | 520% | 650%",
      "secondary": "Grants Burning Fists on Melee Kill.\r\nBurning Fists lasts 5 seconds and grants Bonus Melee Damage.\r\n\r\nBonus Melee Damage:\r\n80% | 170% | 390% | 520% | 650%"
+    },
+    "zh-chs": {
+     "main": "近战击杀后获得燃烧之拳：\n燃烧之拳持续 5 秒，提供额外近战伤害，可叠加 5 层。\n\n额外近战伤害：\n80% | 170% | 390% | 520% | 650%",
+     "secondary": "近战击杀后获得燃烧之拳：\n燃烧之拳持续 5 秒，提供额外近战伤害，可叠加 5 层。\n\n额外近战伤害：\n80% | 170% | 390% | 520% | 650%"
     }
    }
   },
@@ -2279,6 +2287,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664422413860,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -2286,6 +2298,10 @@
     "en": {
      "main": "If Shoulder Charge Melee Ability is Charged:\n\nSlowly grants 75 HP Overshield over 3 seconds after sprinting for 0.5 seconds\nOvershield disappears instantly when not sprinting. \n\nRecharges 50% of Melee Ability on Shoulder Charge Hit.\n\nIncludes Seismic Strike, Ballistic Slam, Hammer Strike, Shield Bash",
      "secondary": "If Shoulder Charge Melee Ability is Charged:\r\n\r\nSlowly grants 75 HP Overshield over 3 seconds after sprinting for 0.5 seconds\r\nOvershield disappears instantly when not sprinting. \r\n\r\nRecharges 50% of Melee Ability on Shoulder Charge Hit.\r\n\r\nIncludes Seismic Strike, Ballistic Slam, Hammer Strike, Shield Bash"
+    },
+    "zh-chs": {
+     "main": "在满生命值的情况下装备肩撞类近战且充能完毕时：\n\n冲刺后 0.5 秒开始，在 3 秒内逐渐获得 75 生命值的覆盖护盾。\n停止冲刺时覆盖护盾立即消失。\n\n肩撞技能击中敌人后回复 50% 的近战充能。\n\n有效的近战技能包括地震打击、弹道猛击、战锤打击、圣盾强袭。",
+     "secondary": "在满生命值的情况下装备肩撞类近战且充能完毕时：\n\n冲刺后 0.5 秒开始，在 3 秒内逐渐获得 75 生命值的覆盖护盾。\n停止冲刺时覆盖护盾立即消失。\n\n肩撞技能击中敌人后回复 50% 的近战充能。\n\n有效的近战技能包括地震打击、弹道猛击、战锤打击、圣盾强袭。"
     }
    }
   },
@@ -11437,6 +11453,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664421904650,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -11444,6 +11464,10 @@
     "en": {
      "main": "Thundercrash deals 100% more damage.\r\n\r\nOn Thundercrash Deactivation:\r\nGain a 100HP Overshield for 7 seconds.\r\nOvershield Duration scales with Thundercrash distance, up to a max of 20 seconds.",
      "secondary": "Thundercrash deals 100% more damage.\r\n\r\nOn Thundercrash Deactivation:\r\nGain a 100HP Overshield for 7 seconds.\r\nOvershield Duration scales with Thundercrash distance, up to a max of 20 seconds."
+    },
+    "zh-chs": {
+     "main": "雷霆冲击提升 100% 伤害。\n\n当雷霆冲击释放完成时：\n在 7 秒内获得 100 生命值的覆盖护盾。\n覆盖护盾持续时间会根据雷霆冲击释放距离而延长，最高为 20 秒。",
+     "secondary": "雷霆冲击提升 100% 伤害。\n\n当雷霆冲击释放完成时：\n在 7 秒内获得 100 生命值的覆盖护盾。\n覆盖护盾持续时间会根据雷霆冲击释放距离而延长，最高为 20 秒。"
     }
    }
   },
