@@ -4269,6 +4269,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664424403402,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -4276,6 +4280,10 @@
     "en": {
      "main": "Damage Increase against Bosses, Minibosses, and Vehicles.\n<pve Primary: 20% | Special: 15% | Heavy: 10% />\n\n<pvp Against Player Supers Only: />\n<primary/>Primary Weapons: <pvp 40% to 50% />\n<special/>Special Weapons: <pvp 10% to 20% />\n<heavy/>Heavy Weapons: <pvp 5% to 10% />\nThe lower Damage Increase is against supers with no extra Damage Resistance.\n\nEnhanced: Passively grants 5 Reload Speed.",
      "secondary": "Damage Increase against Bosses, Minibosses, and Vehicles.\r\nPrimary: 20% | Special: 15% | Heavy: 10%\r\n\r\nAgainst Player Supers Only:\r\nPrimary: 40% to 50% | Special: 10% to 20% | Heavy: 5% to 10%\r\n\r\nThe lower Damage Increase is against supers with no extra Damage Resistance.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
+    },
+    "zh-chs": {
+     "main": "提高对首领、强大敌人、载具的伤害。\n<pve 主武器：20% | 特殊武器：15% | 重型武器：10% />\n\n<pvp 仅对激活超能的玩家生效 />\n<primary/>主武器：<pvp 40% - 50% />\n<special/>特殊武器：<pvp 10% - 20% />\n<heavy/>重型武器： <pvp 5% - 10% />\n当超能没有额外伤害抵抗时，使用上述数值中较低的一个。\n\n强化特征：+5 装填速度。",
+     "secondary": "提高对首领、强大敌人、载具的伤害。\n主武器：20% | 特殊武器：15% | 重型武器：10%\n\n仅对激活超能的玩家生效\n主武器：40% - 50% \n特殊武器： 10% - 20% \n重型武器： 5% - 10%\n\n当超能没有额外伤害抵抗时，使用上述数值中较低的一个。\n\n强化特征：+5 装填速度。"
     }
    }
   },
@@ -6500,12 +6508,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664423004699,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "On Stacking Hits:\nReduces the Maximum Recoil Angle and Weapon Shake. \nRemoves Reticle Bounce on Controller input.\n\nEnhanced: Passively grants 5 Stability.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "连续命中时：\n降低最大后坐力角度、武器晃动。\n使用手柄时移除准星抖动。\n\n强化特征：+5 稳定性。",
      "secondary": "import self"
     }
    }
@@ -8351,6 +8367,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664426789137,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -8358,6 +8378,10 @@
     "en": {
      "main": "Upon reaching 3 points with Weapon Kills:\r\nStarts Health Regeneration and heals for ~80 HP\r\n\r\nRank-And-File give 1 point.\r\nGuardians give 2 points.\r\nElites/Minibosses/Bosses give 3 points.\r\n\r\nFor Combatant Classifications, check out <link this link [https://d2clarity.page.link/combatant] />!\r\n\r\nWeapon Kills must be within 5 seconds of each.\r\n\r\nEnhanced: Passively grants 5 Handling.",
      "secondary": "Upon reaching 3 points with Weapon Kills:\r\nStarts Health Regeneration and heals for ~80 HP\r\n\r\nRank-And-File give 1 point.\r\nGuardians give 2 points.\r\nElites/Minibosses/Bosses give 3 points.\r\n\r\nWeapon Kills must be within 5 seconds of each.\r\n\r\nEnhanced: Passively grants 5 Handling."
+    },
+    "zh-chs": {
+     "main": "武器连续击杀 3 名敌人时：\n开始生命恢复，恢复总值约为 80。\n\n普通敌人记为 1 个击杀。\n守护者记为 2 个击杀。\n精英、强大敌人、首领记为 3 个击杀。\n\n可在 <link Court's Spreadsheet [https://d2clarity.page.link/combatant] /> 查询敌人分类\n\n连续击杀敌人需在 5 秒内完成。\n\n强化特征：+5 操控性。",
+     "secondary": "武器连续击杀 3 名敌人时：\n开始生命恢复，恢复总值约为 80 点。\n\n普通敌人记为 1 个击杀。\n守护者记为 2 个击杀。\n精英、强大敌人、首领记为 3 个击杀。\n\n连续击杀敌人需在 5 秒内完成。\n\n强化特征：+5 操控性。"
     }
    }
   },
@@ -10437,6 +10461,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664423120406,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -10461,6 +10489,10 @@
    "editor": {
     "en": {
      "main": "On Hit:\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. \nBlocking removes all Stacks.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "武器命中时：\n在 3.5(?) 秒内提高 3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% 伤害。\n防御时移除所有效果。",
      "secondary": "import self"
     }
    }
