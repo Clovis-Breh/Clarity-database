@@ -357,6 +357,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664434059804,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -372,6 +376,10 @@
    "editor": {
     "en": {
      "main": "On Precision Hit:\nDecreases Draw Time by 25% for 3 seconds.\n\nEnhanced: Buff duration increased to 4 seconds.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "精准命中时：\n降低 25% 蓄力时间，持续 3 秒。\n\n增强特征： 增加持续时间到 4 秒。",
      "secondary": "import self"
     }
    }
