@@ -3,12 +3,12 @@
   "0": {
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0
+     "lastUpdate": 0,
+     "undatedBy": ""
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "undatedBy": ""
+      "lastUpdate": 0
      }
     }
    },
@@ -19,7 +19,13 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "uploadedBy": ""
+   "name": "",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   }
   },
   "8507332": {
    "hash": 8507332,
