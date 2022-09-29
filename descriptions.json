@@ -396,6 +396,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664427892353,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -417,6 +421,10 @@
     "en": {
      "main": "While below 113 HP:\nUp to +100 Reload Speed with 0.9x <title RDS [rds] />\nEffect increases linearly as health decreases\n\n<formula Half Strength Reload Time: [reload_0] />\n<formula Maximum Strength Reload Time: [reload_1] />\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
      "secondary": "While below 113 HP:\r\nUp to +100 Reload Speed with 0.9x Duration Multiplier \r\nEffect increases linearly as health decreases"
+    },
+    "zh-chs": {
+     "main": "While below 113 HP:\nUp to +100 Reload Speed with 0.9x <title RDS [rds] />\nEffect increases linearly as health decreases\n\n<formula Half Strength Reload Time: [reload_0] />\n<formula Maximum Strength Reload Time: [reload_1] />\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
+     "secondary": "While below 113 HP:\nUp to +100 Reload Speed with 0.9x Duration Multiplier \nEffect increases linearly as health decreases"
     }
    }
   },
@@ -2201,6 +2209,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664429011497,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -2224,6 +2236,10 @@
     "en": {
      "main": "After dealing non-ranged Melee Damage:\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Effect is increased.",
      "secondary": "After dealing non-ranged Melee Damage:\r\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\r\n\r\nEnhanced: Buff Effect is increased."
+    },
+    "zh-chs": {
+     "main": "在进行一次成功的近战打击后：\n在 5 秒内，或直到发射完三枚子弹前，提高 50% 武器伤害、30 操控性、 X填装速度。\n\n<formula 准备速度： [ready_0] />\n<formula 收枪速度： [stow_0] />\n\n强化特征：增强 Buff 效果。",
+     "secondary": "在进行一次成功的近战打击后：\n在 5 秒内，或直到发射完三枚子弹前，提高 50% 武器伤害、30 操控性、 X填装速度。\n\n强化特征：增强 Buff 效果。"
     }
    }
   },
@@ -5600,6 +5616,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664432764612,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -5617,6 +5637,10 @@
     "en": {
      "main": "Immediately upon firing:\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\n\n<blue Fusion Rifles Only Receive 25% of the benefits />\n\n<green [Controller-Only] /> Weapon fires the instant trigger pressure is applied.\n\nEnhanced: Stronger Effect, duration increased to 0.76 seconds.",
      "secondary": "Immediately upon firing:\r\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\r\n\r\n[Fusion Rifles Only Receive 25% of the benefits]\r\n\r\n[Controller-Only] Weapon fires the instant trigger pressure is applied.\r\n\r\nEnhanced: Stronger Effect, duration increased to 0.76 seconds."
+    },
+    "zh-chs": {
+     "main": "开火时：\n+40 稳定性，-50% 最大后坐力，-10% 精准圆锥范围，持续 0.6 秒。\n\n<blue 融合步枪仅获得上述数值 25% 的增益 />\n\n<green [手柄] /> 轻触扳机键即会开火。\n\n强化特征：增强效果，持续时间提高到 0.76 秒。",
+     "secondary": "开火时：\n+40 稳定性，-50% 最大后坐力，-10% 精准圆锥范围，持续 0.6 秒。\n\n[融合步枪仅获得上述数值 25% 的增益]\n\n[手柄]轻触扳机键即会开火。\n\n强化特征：增强效果，持续时间提高到 0.76 秒。"
     }
    }
   },
@@ -5748,6 +5772,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664429669210,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -5755,6 +5783,10 @@
     "en": {
      "main": "Splits 55% of Damage into an Explosive Damage portion that deals <pve 30% Increased Damage /> and has no damage falloff. Detonates after 0.6 seconds.\n\n<pve [PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Precision Multiplier. />\n<pvp [PVP] Total damage remains the same. />",
      "secondary": "Splits 55% of Damage into an Explosive Damage portion that deals 30% Increased Damage in PVE and has no damage falloff.\r\nDetonates after 0.6 seconds.\r\n\r\n[PVE] 16% Increased Body Shot Damage. Precision Damage Increase varies depending on Precision Multiplier.\r\n[PVP] Total damage remains the same."
+    },
+    "zh-chs": {
+     "main": "将 55% 的武器伤害转化为 <pve 增伤 30% /> 的爆炸伤害，该部分伤害不会因距离衰减。爆炸在 0.6 秒后产生。\n\n<pve [PVE] 身体伤害提高 16%。 精准伤害将根据武器精准伤害系数变化。 />\n<pvp [PVP] 总伤害不变。 />",
+     "secondary": "将 55% 的武器伤害转化为增伤 30% 的爆炸伤害，该部分伤害不会因距离衰减。爆炸在 0.6 秒后产生。\n\n[PVE] 身体伤害提高 16%。 精准伤害将根据武器精准伤害系数变化。\n[PVP] 总伤害不变。"
     }
    }
   },
@@ -6241,12 +6273,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664428093717,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n30HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "打破战斗人员或正在使用超能的守护者的护盾时：\n获得一个持续 10 秒，30 生命值的覆盖护盾。",
      "secondary": "import self"
     }
    }
@@ -6462,6 +6502,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664428821868,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -6483,6 +6527,10 @@
    },
    "editor": {
     "en": {
+     "main": "import stats from 806159697\nimport main from 806159697",
+     "secondary": "import secondary from 806159697"
+    },
+    "zh-chs": {
      "main": "import stats from 806159697\nimport main from 806159697",
      "secondary": "import secondary from 806159697"
     }
@@ -6906,12 +6954,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664429329026,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "Powered Swords gain 1 Ammo every other kill.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "每隔一次的赋能刀剑击杀提供 1 发刀剑弹药。",
      "secondary": "import self"
     }
    }
@@ -7256,6 +7312,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664430118103,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -7263,6 +7323,10 @@
     "en": {
      "main": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\n<pvp [PVP] Weapon Kills grant an additional 1% Super Energy. />\n\nEnhanced: Bonus Super Gains on Kill increased by 33%: 1% -> 1.33% and 1.5% -> 2%\"",
      "secondary": "Primary/Power Weapon Kills grant an additional 1% Super Energy.\r\nSpecial Weapon Kills grant an additional 1.5% Super Energy.\r\n[PVP] Weapon Kills grant an additional 1% Super Energy.\r\n\r\nEnhanced: Bonus Super Gains on Kill increased by 33%: 1% -> 1.33% and 1.5% -> 2%"
+    },
+    "zh-chs": {
+     "main": "主武器/威能武器击杀提供 1% 超能充能。\n特殊武器击杀提供 1.5% 超能充能。\n<pvp [PVP] 武器击杀提供 1% 超能充能。 />\n\n强化特征：1% -> 1.33% || 1.5% -> 2%",
+     "secondary": "主武器/威能武器击杀提供 1% 超能充能。\n特殊武器击杀提供 1.5% 超能充能。\n[PVP] 武器击杀提供 1% 超能充能。\n\n强化特征：1% -> 1.33% || 1.5% -> 2%"
     }
    }
   },
@@ -7931,6 +7995,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664428485061,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -7946,6 +8014,10 @@
    "editor": {
     "en": {
      "main": "After Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and [?] Handling (ADS only) for 5 seconds.\nBuff cannot be refreshed.\n\nEnhanced: Buff Duration is increased.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "消灭目标后在 6 秒内填装：\n+20 瞄准辅助、-20% 瞄准圆锥范围、[?] 瞄准时的操控性，持续 5 秒。\n该 Buff 无法被刷新。\n\n强化特征：增加 Buff 持续时间。",
      "secondary": "import self"
     }
    }
@@ -9134,12 +9206,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664428811801,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine.\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\n\nEnhanced: Timer between Precision Hits is increased.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "3 次精准命中后，向弹夹内装填 1 枚弹药。\n两次精准命中时间间隔不得超过 2 秒。\n\n强化特征：增加两次精准命中间的可允许时间间隔。",
      "secondary": "import self"
     }
    }
@@ -9453,12 +9533,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664429850205,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "Upon blocking damage with your Glaive Shield:\r\n\r\nIncreases Mobility[?] for [?] seconds, or until you stop blocking.\r\n\r\nEnhanced: Buff Duration is increased.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "使用偃月阻挡伤害时：\n\n提高敏捷[?]持续 [?] 秒，或直到你停止阻挡。\n\n强化特征：延长 Buff 持续时间。",
      "secondary": "import self"
     }
    }
@@ -10680,6 +10768,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664429257330,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -10687,6 +10779,10 @@
     "en": {
      "main": "While aiming-down-sights at an Enemy:\r\nRockets track enemies <pvp [with diminshed effectiveness in PVP] />\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 5 Blast Radius.",
      "secondary": "While aiming-down-sights at an Enemy:\r\nRockets track enemies [with diminshed effectiveness in PVP]\r\nTracking persists for 1 second after not aiming at the enemy.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
+    },
+    "zh-chs": {
+     "main": "当瞄准敌人时：\n火箭可追踪敌人 <pvp [PVP 时追踪效果渐弱] />\n取消瞄准时，追踪效果持续 1 秒。\n\n强化特征： +5 爆炸范围。",
+     "secondary": "当瞄准敌人时：\n火箭可追踪敌人 [PVP 时追踪效果渐弱]\n取消瞄准时，追踪效果持续 1 秒。\n\n强化特征： +5 爆炸范围。"
     }
    }
   },
@@ -10995,6 +11091,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664430683143,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -11028,6 +11128,10 @@
     "en": {
      "main": "Grants the following while within 15 meters of enemies:\n\n< table >\n|b Enemy Count |b Stability |b Reload                 |b Handling Animation Duration\n|b 1           |  ~15       |  15                     |  0.75x <background/>\n|  In-Game     |            |  <formula [reload_0] /> |  <formula Ready: [ready_0] />\n|  Values:     |            |                         |  <formula Stow: [stow_0] />\n|b 2+          |  ~40       |  55                     |  0.56x <background/>\n|  In-Game     |            |  <formula [reload_1] /> |  <formula Ready: [ready_1] />\n|  Values:     |            |                         |  <formula Stow: [stow_1] />\n<$>\n\nEnhanced: Buff Effect is increased.",
      "secondary": "While within 15 metres of an enemy:\r\n~15 Stability, 15 Reload, and 0.75x Handling Animation Duration Scalar.\r\n\r\nWhile within 15 metres of 2+ enemies:\r\n~40 Stability, 55 Reload, and 0.56x Handling Animation Duration Scalar.\r\n\r\nEnhanced: Buff Effect is increased."
+    },
+    "zh-chs": {
+     "main": "15 米内有敌人时，获得以下提升：\n\n< table >\n|b 敌人数量    |b 稳定性     |b 装填速度               |b 动画持续时间\n|b 1           |  ~15       |  15                     |  0.75x <background/>\n|  实际数值     |            |  <formula [reload_0] /> |  <formula 准备：[ready_0] />\n|              |            |                         |  <formula 收起：[stow_0] />\n|b 2+          |  ~40       |  55                     |  0.56x <background/>\n|  实际数值     |            |  <formula [reload_1] /> |  <formula 准备：[ready_1] />\n|              |            |                         |  <formula 收起：[stow_1] />\n<$>\n\n强化特征：增强 Buff 效果。",
+     "secondary": "15 米内有 1 个敌人时：\n~15 稳定性、15 装填速度、0.75x 操作动画持续时间。\n\n15 米内有 2 个以上敌人时：\n~40 稳定性、55 装填速度、0.56x 操作动画持续时间。\n\n强化特征：增强 Buff 效果。"
     }
    }
   },
