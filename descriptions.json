@@ -1652,6 +1652,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419861837,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -1659,6 +1663,10 @@
     "en": {
      "main": "Rampage lasts 1 second longer (3.5s -> 4.5s)",
      "secondary": "Rampage lasts 1 second longer (3.5s -> 4.5s)"
+    },
+    "zh-chs": {
+     "main": "增加 1 秒持续时间。",
+     "secondary": "增加 1 秒持续时间。"
     }
    }
   },
@@ -2108,6 +2116,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419201060,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -2124,6 +2136,10 @@
     "en": {
      "main": "-40ms Charge Time\r\nDoes not reduce damage, unlike Charge Time MW.\r\nDoes not display in the stats.",
      "secondary": "-40ms Charge Time\r\nDoes not reduce damage, unlike Charge Time MW.\r\nDoes not display in the stats."
+    },
+    "zh-chs": {
+     "main": "-40ms 充能时间\n不会降低伤害。\n不会显示在武器属性中。",
+     "secondary": "-40ms 充能时间\n不会降低伤害。\n不会显示在武器属性中。"
     }
    }
   },
@@ -2601,6 +2617,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419922504,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -2608,6 +2628,10 @@
     "en": {
      "main": "Grants 15 Airborne Effectiveness",
      "secondary": "Grants 15 Airborne Effectiveness"
+    },
+    "zh-chs": {
+     "main": "+15 空中效率。",
+     "secondary": "+15 空中效率。"
     }
    }
   },
@@ -2780,6 +2804,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419962138,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -2796,6 +2824,10 @@
     "en": {
      "main": "7.77% Damage Increase against Elites and Minibosses",
      "secondary": "7.77% Damage Increase against Elites and Minibosses"
+    },
+    "zh-chs": {
+     "main": "提高 7.77% 对精英和强大的战斗人员的伤害。",
+     "secondary": "提高 7.77% 对精英和强大的战斗人员的伤害。"
     }
    }
   },
@@ -3312,6 +3344,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419489011,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -3319,6 +3355,10 @@
     "en": {
      "main": "+40 Magazine Stat\r\n-15 Handling",
      "secondary": "+40 Magazine Stat\r\n-15 Handling"
+    },
+    "zh-chs": {
+     "main": "+40 弹夹属性\n-15 操控性",
+     "secondary": "+40 弹夹属性\n-15 操控性"
     }
    }
   },
@@ -3962,6 +4002,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419835810,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -3969,6 +4013,10 @@
     "en": {
      "main": "Additive 10% Increased Surrounded Damage Increase, and lingers for 1.5s",
      "secondary": "Additive 10% Increased Surrounded Damage Increase, and lingers for 1.5s"
+    },
+    "zh-chs": {
+     "main": "额外提高腹背受敌 10% 的伤害，周围没有敌人时效果在 1.5 秒内线性降低。",
+     "secondary": "额外提高腹背受敌 10% 的伤害，周围没有敌人时效果在 1.5 秒内线性降低。"
     }
    }
   },
@@ -3993,6 +4041,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419638304,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -4009,6 +4061,10 @@
     "en": {
      "main": "10% Damage Increase against Taken Combatants.",
      "secondary": "10% Damage Increase against Taken Combatants."
+    },
+    "zh-chs": {
+     "main": "增加 10% 对傀儡的伤害。",
+     "secondary": "增加 10% 对傀儡的伤害。"
     }
    }
   },
@@ -4063,6 +4119,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419275333,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -4070,6 +4130,10 @@
     "en": {
      "main": "+35 Recoil Direction\r\n-10 Range",
      "secondary": "+35 Recoil Direction\r\n-10 Range"
+    },
+    "zh-chs": {
+     "main": "+35 后座方向\n-10 射程",
+     "secondary": "+35 后座方向\n-10 射程"
     }
    }
   },
@@ -4959,6 +5023,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419534628,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -4966,6 +5034,10 @@
     "en": {
      "main": "+10 Aim Assist\r\n-15 Stability",
      "secondary": "+10 Aim Assist\r\n-15 Stability"
+    },
+    "zh-chs": {
+     "main": "+10 瞄准辅助\n-15 稳定性",
+     "secondary": "+10 瞄准辅助\n-15 稳定性"
     }
    }
   },
@@ -5420,6 +5492,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419411026,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -5427,6 +5503,10 @@
     "en": {
      "main": "-40ms Draw Time",
      "secondary": "-40ms Draw Time"
+    },
+    "zh-chs": {
+     "main": "-40ms 拔枪时间",
+     "secondary": "-40ms 拔枪时间"
     }
    }
   },
@@ -8034,6 +8114,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419584948,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -8041,6 +8125,10 @@
     "en": {
      "main": "7.77% Damage Increase against Elites, Minibosses, and Bosses",
      "secondary": "7.77% Damage Increase against Elites, Minibosses, and Bosses"
+    },
+    "zh-chs": {
+     "main": "提高 7.77% 对强大的战斗人员、首领和载具的伤害。",
+     "secondary": "提高 7.77% 对强大的战斗人员、首领和载具的伤害。"
     }
    }
   },
@@ -8404,6 +8492,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419610848,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -8411,6 +8503,10 @@
     "en": {
      "main": "+5 Aim Assist",
      "secondary": "+5 Aim Assist"
+    },
+    "zh-chs": {
+     "main": "+5 瞄准辅助",
+     "secondary": "+5 瞄准辅助"
     }
    }
   },
@@ -10025,6 +10121,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419446081,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -10032,6 +10132,10 @@
     "en": {
      "main": "+15 Airborne Effectiveness\r\n+5 Handling",
      "secondary": "+15 Airborne Effectiveness\r\n+5 Handling"
+    },
+    "zh-chs": {
+     "main": "+15 空中效率\n+5 操控性",
+     "secondary": "+15 空中效率\n+5 操控性"
     }
    }
   },
@@ -10911,6 +11015,10 @@
      "en": {
       "lastUpdate": 1658141469485,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664420008627,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -10927,6 +11035,10 @@
     "en": {
      "main": "7.77% Damage Increase against Rank-And-File",
      "secondary": "7.77% Damage Increase against Rank-And-File"
+    },
+    "zh-chs": {
+     "main": "提高 7.77% 对普通敌人的伤害。",
+     "secondary": "提高 7.77% 对普通敌人的伤害。"
     }
    }
   },
