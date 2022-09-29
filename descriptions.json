@@ -3,12 +3,12 @@
   "0": {
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0
+     "lastUpdate": 0,
+     "undatedBy": ""
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "undatedBy": ""
+      "lastUpdate": 0
      }
     }
    },
@@ -19,7 +19,13 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "uploadedBy": ""
+   "name": "",
+   "editor": {
+    "en": {
+     "main": "",
+     "secondary": ""
+    }
+   }
   },
   "8507332": {
    "hash": 8507332,
@@ -3320,6 +3326,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664415783589,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -3327,6 +3337,10 @@
     "en": {
      "main": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills restore [?]HP",
      "secondary": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills restore [?]HP"
+    },
+    "zh-chs": {
+     "main": "当 [?] 米内有 [?] 个战斗人员或梦魇时， 完成最后一击时：\n恢复 [?] 生命值。",
+     "secondary": "当 [?] 米内有 [?] 个战斗人员或梦魇时， 完成最后一击时：\n恢复 [?] 生命值。"
     }
    }
   },
@@ -4866,6 +4880,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664415513051,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -4873,6 +4891,10 @@
     "en": {
      "main": "Kills grant 5% Class Ability Energy.",
      "secondary": "Kills grant 5% Class Ability Energy."
+    },
+    "zh-chs": {
+     "main": "使用此武器完成最后一击可获得 5% 职业技能能量。",
+     "secondary": "使用此武器完成最后一击可获得 5% 职业技能能量。"
     }
    }
   },
@@ -7848,6 +7870,10 @@
      "en": {
       "lastUpdate": 1659627305095,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664415107499,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -7885,6 +7911,10 @@
     "en": {
      "main": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range.\r\n\r\n<formula Reload Time: [reload_0] />\r\n<formula In-Game Range: [range_0] />",
      "secondary": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range."
+    },
+    "zh-chs": {
+     "main": "当你成为火力战队最后存活的成员或单刷时：\n\n可提高 20 填装速度、 20 稳定性、 10 瞄准辅助和 10 射程。\n\n<formula 装填时间： [reload_0] />\n<formula 游戏内射程： [range_0] />",
+     "secondary": "当你成为火力战队最后存活的成员或单刷时：\n\n可提高 20 填装速度、 20 稳定性、 10 瞄准辅助和 10 射程。"
     }
    }
   },
@@ -11035,6 +11065,10 @@
      "en": {
       "lastUpdate": 1659627305095,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664415438210,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -11042,6 +11076,10 @@
     "en": {
      "main": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing.",
      "secondary": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing."
+    },
+    "zh-chs": {
+     "main": "受到 [20?] 伤害可获得一层苦涩怨恨，最多叠加 5 次。\n\n增加的装填速度与苦涩怨恨叠加的层数相关，当重新装填或收起武器后将失效。",
+     "secondary": "受到 [20?] 伤害可获得一层苦涩怨恨，最多叠加 5 次。\n\n增加的装填速度与苦涩怨恨叠加的层数相关，当重新装填或收起武器后将失效。"
     }
    }
   },
