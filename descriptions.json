@@ -2013,6 +2013,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664418865283,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -2020,6 +2024,10 @@
     "en": {
      "main": "Regain 7 Health on Kills",
      "secondary": "Regain 7 Health on Kills"
+    },
+    "zh-chs": {
+     "main": "每次最后一击恢复 7 生命值。",
+     "secondary": "每次最后一击恢复 7 生命值。"
     }
    }
   },
@@ -3455,6 +3463,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664418426281,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -3462,6 +3474,10 @@
     "en": {
      "main": "Stunning a Champion <title refreshes [refreshes] /> X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds.\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
      "secondary": "Stunning a Champion refreshes X% of your Magazine, heals 60HP, and grants 40 Recovery for 3 seconds."
+    },
+    "zh-chs": {
+     "main": "晕眩一个勇士可 <title 刷新 [refreshes] /> X% 弹夹，恢复 60 生命值，并在 3 秒内获得 40 恢复属性。\ntitle refreshes (\n无动画，也不触发相关 perk。\n)",
+     "secondary": "晕眩一个勇士可刷新 X% 弹夹，恢复 60 生命值，并在 3 秒内获得 40 恢复属性。"
     }
    }
   },
@@ -5504,6 +5520,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664418812050,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -5511,6 +5531,10 @@
     "en": {
      "main": "On Weapon kill while your Super is charged:\r\n20 Discipline and 20 Strength for 12 seconds.",
      "secondary": "On Weapon kill while your Super is charged:\r\n20 Discipline and 20 Strength for 12 seconds."
+    },
+    "zh-chs": {
+     "main": "超能能量全满时使用此武器完成最后一击：\n在 12 秒内增加 20 力量、20 纪律。",
+     "secondary": "超能能量全满时使用此武器完成最后一击：\n在 12 秒内增加 20 力量、20 纪律。"
     }
    }
   },
@@ -10502,6 +10526,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664419007442,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -10509,6 +10537,10 @@
     "en": {
      "main": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate.",
      "secondary": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate."
+    },
+    "zh-chs": {
+     "main": "命中时有概率刷新弹夹。\n\n加快弓 15[?]ms 蓄力时间。加快刀剑 [?] 充能效率。",
+     "secondary": "命中时有概率刷新弹夹。\n\n加快弓 15[?]ms 蓄力时间。加快刀剑 [?] 充能效率。"
     }
    }
   },
@@ -10631,6 +10663,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664418721251,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -10647,6 +10683,10 @@
     "en": {
      "main": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons.\r\n\r\n<formula Ready Speed: [ready_0] />\r\n<formula Stow Speed: [stow_0] />",
      "secondary": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons."
+    },
+    "zh-chs": {
+     "main": "填装可在 6 秒内为此武器提供额外 40 操控性、 20% 退缩抗性。\n无法被刷新。收起武器时仍然有效，但不会将此效果共享给其他武器。\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
+     "secondary": "填装可在 6 秒内为此武器提供额外 40 操控性、 20% 退缩抗性。\n无法被刷新。收起武器时仍然有效，但不会将此效果共享给其他武器。"
     }
    }
   },
