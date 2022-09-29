@@ -5381,7 +5381,7 @@
       "undatedBy": "Fading-Shadow"
      },
      "zh-chs": {
-      "lastUpdate": 1664460221326,
+      "lastUpdate": 1664460228616,
       "undatedBy": "Mistwalker"
      }
     }
@@ -5401,7 +5401,7 @@
      "secondary": "import self"
     },
     "zh-chs": {
-     "main": "当 15 米范围内有两个以上敌人时：\n-15% 充能/蓄力时间。\n增益持续 1.5 秒，效果线性减弱。\n\n强化特征：+5 稳定性\n",
+     "main": "当 15 米范围内有两个以上敌人时：\n-15% 充能/蓄力时间。\n增益持续 1.5 秒，效果线性减弱。\n\n强化特征：+5 稳定性",
      "secondary": "import self"
     }
    }
@@ -8306,6 +8306,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664460388243,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -8322,6 +8326,10 @@
     "en": {
      "main": "Immediately after blocking an attack within 0.5 seconds of starting to Block:\n50% Increased damage for 2 seconds.\n\nEnhanced: Buff Duration is increased.",
      "secondary": "Immediately after blocking an attack within 0.5 seconds of starting to Block:\r\n50% Increased damage for 2 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
+    },
+    "zh-chs": {
+     "main": "做出防御动作的 0.5 秒内成功格挡敌人伤害：\n+50% 伤害，持续 2 秒。\n\n强化特征：延长增益持续时间。",
+     "secondary": "import self"
     }
    }
   },
@@ -8452,12 +8460,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664460665897,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "After Reloading within 6 seconds of a Precision Kill:\nDelay after shooting is reduced by 30%, increasing Rate of Fire for 6 seconds.\nCan be refreshed.\n\nEnhanced: Increased duration.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "在精准击杀后 6 秒内装填：\n提高射速（降低 30% 射击间隔），持续 6 秒。\n该增益可以被刷新。\n\n强化特征：提高增益持续时间到 7 秒。",
      "secondary": "import self"
     }
    }
@@ -9601,6 +9617,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664460448089,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -9608,6 +9628,10 @@
     "en": {
      "main": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Grenade Ability Energy. <title MOST [most] /> <special/>Special Weapons grant 20%.\n\nUsing your Grenade Ability <title refreshes [refreshes] /> Magazine. 3 Second Cooldown.\n\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively.\n\ntitle most (\nTrace Rifles and Grenade Launchers grant half of what other Special Weapons give.\n)\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
      "secondary": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. [MOST] Special Weapons grant 20%.\r\n\r\nTrace Rifles and Grenade Launchers grant half of what other Special Weapons give.\r\n\r\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\r\n\r\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
+    },
+    "zh-chs": {
+     "main": "",
+     "secondary": ""
     }
    }
   },
