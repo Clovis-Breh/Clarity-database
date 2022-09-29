@@ -3099,6 +3099,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664420642820,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -3106,6 +3110,10 @@
     "en": {
      "main": "While Surrounded by 3+ enemies: Activates Biotic Enhancements\n\nBiotic Enhancements increases Melee and Super damage for 8 seconds.\n\n50% Super Damage Increase.\n<pve 200% Increased Melee Damage. />\n<pvp 100% Increased Melee Damage. />\n\nIncreases Melee Lunge Range to 7 meters.\n",
      "secondary": "While Surrounded by 3+ enemies: Activates Biotic Enhancements\r\n\r\nBiotic Enhancements increases Melee and Super damage for 8 seconds.\r\n\r\n50% Super Damage Increase.\r\nPVE: 200% Increased Melee Damage.\r\nPVP: 100% Increased Melee Damage.\r\n\r\nIncreases Melee Lunge Range to 7 meters.\r\n"
+    },
+    "zh-chs": {
+     "main": "被 3 名以上敌人包围时：激活生物强化\n\n生物强化在 8 秒内提高近战和常能伤害。\n\n50% 超能伤害。\n<pve 提高 200% 近战伤害。 />\n<pvp 提高 100% 近战伤害。 />\n\n扩大近战前冲范围到 7 米。\n",
+     "secondary": "被 3 名以上敌人包围时：激活生物强化\n\n生物强化在 8 秒内提高近战和常能伤害。\n\n50% 超能伤害。\nPVE：提高 200% 近战伤害。\nPVP：提高 100% 近战伤害。\n\n扩大近战前冲范围到 7 米。\n"
     }
    }
   },
