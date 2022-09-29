@@ -1197,6 +1197,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664416223324,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -1204,6 +1208,10 @@
     "en": {
      "main": "Damaging the Invader with this weapon marks them for allies.",
      "secondary": "Damaging the Invader with this weapon marks them for allies."
+    },
+    "zh-chs": {
+     "main": "使用此武器快速击败目标可提升冲刺速度。",
+     "secondary": "使用此武器快速击败目标可提升冲刺速度。"
     }
    }
   },
@@ -4111,6 +4119,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664416355940,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -4118,6 +4130,10 @@
     "en": {
      "main": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times.",
      "secondary": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times."
+    },
+    "zh-chs": {
+     "main": "使用此武器造成最后一击:\n在 5 秒内可提供 10 韧性以及 5% 对战斗人员的额外伤害抗性。\n可叠加 3 次。",
+     "secondary": "使用此武器造成最后一击:\n在 5 秒内可提供 10 韧性以及 5% 对战斗人员的额外伤害抗性。\n可叠加 3 次。"
     }
    }
   },
@@ -4460,6 +4476,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664416001065,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -4467,6 +4487,10 @@
     "en": {
      "main": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals\r\n\r\nCheck out <link Court's Spreadsheet [https://d2clarity.page.link/combatant] /> for Combatant Classifications.",
      "secondary": "15% Increased Damage against Vehicles and Constructs\r\n30% Increased Damage against Turrets, Barricades, and Stasis Crystals"
+    },
+    "zh-chs": {
+     "main": "增加 15% 对载具和建筑物的伤害\n增加 30% 对炮台、屏障、冰影水晶的伤害\n\n可在 <link Court's Spreadsheet [https://d2clarity.page.link/combatant] /> 查询敌人分类",
+     "secondary": "增加 15% 对载具和建筑物的伤害\n增加 30% 对炮台、屏障、冰影水晶的伤害"
     }
    }
   },
@@ -7386,6 +7410,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664417381192,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -7413,6 +7441,10 @@
     "en": {
      "main": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%.\r\n\r\n<formula Maximum Effect Reload Time: [reload_0] />\r\n<formula Half Effect Reload Time: [reload_1] />",
      "secondary": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
+    },
+    "zh-chs": {
+     "main": "此武器的前半弹匣弹药最多提供 20 稳定性和 30 装填速度。\n\n从该特性获取的额外属性将根据弹夹余弹数量降低，余弹数量降低到 50% 时失效。\n\n<formula Maximum Effect Reload Time: [reload_0] />\n<formula Half Effect Reload Time: [reload_1] />",
+     "secondary": "此武器的前半弹匣弹药最多提供 20 稳定性和 30 装填速度。\n\n从该特性获取的额外属性将根据弹夹余弹数量降低，余弹数量降低到 50% 时失效。"
     }
    }
   },
@@ -8820,6 +8852,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664418120420,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -8827,6 +8863,10 @@
     "en": {
      "main": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nHealth gain per hit varies between Weapon Types.",
      "secondary": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nHealth gain per hit varies between Weapon Types."
+    },
+    "zh-chs": {
+     "main": "根据填装之前完成的命中数恢复生命值。\n\n可恢复生命值为 20 至 80 点，和武器类型相关。",
+     "secondary": "根据填装之前完成的命中数恢复生命值。\n\n可恢复生命值为 20 至 80 点，和武器类型相关。"
     }
    }
   },
@@ -10492,6 +10532,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664417704282,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -10499,6 +10543,10 @@
     "en": {
      "main": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar.",
      "secondary": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar."
+    },
+    "zh-chs": {
+     "main": "低于63点生命值时，守护者使用此武器造成最后一击：\n\n可在 10 秒内提供强化雷达，并将你从敌方雷达上移除。",
+     "secondary": "低于63点生命值时，守护者使用此武器造成最后一击：\n\n可在 10 秒内提供强化雷达，并将你从敌方雷达上移除。"
     }
    }
   },
@@ -10862,6 +10910,10 @@
      "en": {
       "lastUpdate": 1659626837571,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664417514276,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -10878,6 +10930,10 @@
     "en": {
      "main": "40 Reload Stat while Out-of-Combat\r\n\r\n<formula Reload Time: [reload_0] />",
      "secondary": "40 Reload Stat while Out-of-Combat"
+    },
+    "zh-chs": {
+     "main": "脱离战斗时获得 40 装填速度。\n\n<formula Reload Time: [reload_0] />",
+     "secondary": "脱离战斗时获得 40 装填速度。"
     }
    }
   },
