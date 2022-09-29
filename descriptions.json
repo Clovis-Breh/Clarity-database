@@ -3200,6 +3200,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664421033687,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -3207,6 +3211,10 @@
     "en": {
      "main": "Sunspots grant Restoration x2.\r\n\r\nUpon reaching Critical Health if your Class Ability is charged:\r\nSpawns a Sunspot under you.\r\n\r\nCasting your Class Ability spawns a Sunspot.",
      "secondary": "Sunspots grant Restoration x2.\r\n\r\nUpon reaching Critical Health if your Class Ability is charged:\r\nSpawns a Sunspot under you.\r\n\r\nCasting your Class Ability spawns a Sunspot."
+    },
+    "zh-chs": {
+     "main": "太阳黑子提供“恢复 x1”效果。",
+     "secondary": "太阳黑子提供“恢复 x1”效果。"
     }
    }
   },
@@ -5647,6 +5655,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664421626625,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -5654,6 +5666,10 @@
     "en": {
      "main": "Ability use grants Empowered for other abilities for <pve 10 /><pvp [5] /> seconds, depending on the Ability used. \ne.g.: Barricade -> Empowered Melee and Empowered Grenade.\n\nWhile Empowered:\nEmpowered Melee: 10% | 20% Increased damage.\n<pve 400% /><pvp [100%] /> || <pve 800% /><pvp [200%] /> Additional Base Melee Regeneration Rate.\n\nEmpowered Grenade: <pve 20% /><pvp [10%] /> | <pve 35% /><pvp [20%] /> Increased damage.\n<pve 400% /><pvp [100%] /> || <pve 800% /><pvp [200%] /> Additional Base Grenade Regeneration Rate.\n\nEmpowered Barricade: X% | Y% Increased HP.\n<pve 150% /><pvp [37.5%] /> || <pve 300% /><pvp [75%] /> Additional Base Barricade Regeneration Rate.",
      "secondary": "Numbers in [brackets] represent PVP values.\r\n\r\nAbility use grants Empowered for other abilities for 10 [5] seconds, depending on the Ability used. \r\ne.g.: Barricade -> Empowered Melee and Empowered Grenade.\r\n\r\nWhile Empowered:\r\n\r\nEmpowered Melee: 10% | 20% Increased damage.\r\n400% [100%] | 800% [200%] Additional Base Melee Regeneration Rate.\r\n\r\nEmpowered Grenade: 20% [10%] | 35% [20%] Increased damage.\r\n400% [100%] | 800% [200%] Additional Base Grenade Regeneration Rate.\r\n\r\nEmpowered Barricade: X% | Y% Increased HP.\r\n150% [37.5%] | 300% [75%] Additional Base Barricade Regeneration Rate."
+    },
+    "zh-chs": {
+     "main": "使用一个技能（手雷、近战或屏障）可为另外两个技能赋能 <pve 10 /><pvp [5] /> 秒。\n例如：使用屏障，可赋能近战和受累。\n\n当赋能时：\n\n强化近战： 10% | 20% 额外伤害。\n<pve 400% /><pvp [100%] /> || <pve 800% /><pvp [200%] /> 额外近战回复效率。\n\n强化手雷： <pve 20% /><pvp [10%] /> | <pve 35% /><pvp [20%] /> 额外伤害。\n<pve 400% /><pvp [100%] /> || <pve 800% /><pvp [200%] /> 额外手雷回复效率。\n\n强化屏障： X% | Y% 额外生命值。\n<pve 150% /><pvp [37.5%] /> || <pve 300% /><pvp [75%] /> 额外屏障回复效率。",
+     "secondary": "[括号] 内为 PVP 时的数值。\n\n使用一个技能（手雷、近战或屏障）可为另外两个技能赋能 10 [5] 秒。\n例如：使用屏障，可赋能近战和受累。\n\n当赋能时：\n\n强化近战： 10% | 20% 额外伤害。\n400%[100%] || 800% [200%] 额外近战回复效率。\n\n强化手雷： 20% [10%] | 35% [20%] 额外伤害。\n400% [100%] 800% [200%] 额外手雷回复效率。\n\n强化屏障： X% | Y% 额外生命值。\n150% [37.5%] 300% [75%] 额外屏障回复效率。"
     }
    }
   },
@@ -10028,6 +10044,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664420820435,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -10035,6 +10055,10 @@
     "en": {
      "main": "On Dodge:\nHeals 67HP.\n",
      "secondary": "On Dodge:\r\nHeals 67HP.\r\n"
+    },
+    "zh-chs": {
+     "main": "闪身时：\n恢复 67 生命值。",
+     "secondary": "闪身时：\n恢复 67 生命值。"
     }
    }
   },
