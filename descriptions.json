@@ -720,6 +720,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664434330803,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -735,6 +739,10 @@
    "editor": {
     "en": {
      "main": "On Sword Kill:\n15% Increased Damage and sets Forward Movement Speed to 9 meters per second (Max Sprint Speed)\nIncreases Sword Lunge Distance.\n\nRemains active even if stowed.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "当刀剑击杀时：\n提高 15% 伤害，增加移动和冲刺速度，增加挥舞刀剑的前冲距离。\n武器收起时依然生效。",
      "secondary": "import self"
     }
    }
@@ -5826,6 +5834,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664434138323,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -5841,6 +5853,10 @@
    "editor": {
     "en": {
      "main": "5% Increased damage against Combatant Shields.\n\nBullets are able to overpenetrate enemies once.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "增加 5% 对战斗人员护盾的伤害。\n\n子弹可以穿透敌人一次。",
      "secondary": "import self"
     }
    }
@@ -8891,6 +8907,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664434504092,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -8898,6 +8918,10 @@
     "en": {
      "main": "<title Refreshes [refreshes] /> stowed weapon from reserves after 2.5 seconds.\n\nEnhanced: Activation timer is reduced to 2.3 seconds.\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
      "secondary": "Refreshes stowed weapon from reserves after 2.5 seconds.\r\n\r\nEnhanced: Activation timer is reduced to 2.3 seconds."
+    },
+    "zh-chs": {
+     "main": "武器收起 2.5 秒后<title 刷新 [refreshes] />弹匣。\n\n强化特征：激活所需时间降低为 2.3 秒。\n\ntitle refreshes (\n装填，但没有动画，也不触发换弹相关 perk。\n)",
+     "secondary": "武器收起 2.5 秒后刷新弹匣。\n\n强化特征：激活所需时间降低为 2.3 秒。"
     }
    }
   },
