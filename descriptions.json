@@ -1722,6 +1722,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664459932963,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -1741,6 +1745,10 @@
     "en": {
      "main": "While above 70% Magazine:\r\n50 Reload Speed with a 0.95x Duration Scale\r\n\r\n<formula Reload Time: [reload_0] />\r\n\r\nEnhanced: Reload increased to [55 maybe?]",
      "secondary": "While above 70% Magazine:\r\n50 Reload Speed with a 0.95x Duration Scale\r\n\r\nEnhanced: Reload increased to [55 maybe?]"
+    },
+    "zh-chs": {
+     "main": "弹匣内子弹量高于 70% 时：\n+50 装填速度，装填动画时间缩减为 0.95x。\n\n<formula 装填时间： [reload_0] />\n\n强化特征：+[55?] 装填速度",
+     "secondary": "弹匣内子弹量高于 70% 时：\n+50 装填速度，装填动画时间缩减为 0.95x。\n\n强化特征：+[55?] 装填速度"
     }
    }
   },
@@ -3484,6 +3492,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664458469323,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -3514,6 +3526,10 @@
     "en": {
      "main": "While Last Guardian Standing:\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\nPassively grants 20 Handling and 20 Reload Speed\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
      "secondary": "While Last Guardian Standing:\r\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\r\n\r\nPassively grants 20 Handling and 20 Reload Speed"
+    },
+    "zh-chs": {
+     "main": "+20 操控性，填装速度。\n\n当你作为你的火力战队最后一名存活的队员时：\n+100 操控性，+100 填装速度，+[?] 瞄准辅助。\n大幅降低收到伤害时的屏幕抖动。\n瞄准时可显示雷达。\n\n<formula 填装时间： [reload_0] />\n<formula 拔枪速度： [ready_0] />\n<formula 收枪速度： [stow_0] />",
+     "secondary": "+20 操控性，填装速度。\n\n当你作为你的火力战队最后一名存活的队员时：\n+100 操控性，+100 填装速度，+[?] 瞄准辅助。\n大幅降低收到伤害时的屏幕抖动。\n瞄准时可显示雷达。"
     }
    }
   },
@@ -3537,12 +3553,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664459715685,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "Explosion releases 8 Cluster Bombs.\r\nEach Cluster Bomb deals an additional 3% damage.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "爆炸产生 8 枚集束炸弹。\n每枚炸弹造成额外 3% 的伤害。",
      "secondary": "import self"
     }
    }
@@ -4583,6 +4607,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664457759021,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -4613,6 +4641,10 @@
     "en": {
      "main": "For 4 seconds after readying a Fusion Rifle:\n30% Faster Charge Rate, 20% decreased damage, and 100 Handling\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
      "secondary": "For 4 seconds after readying a Fusion Rifle:\r\n30% Faster Charge Rate, 20% decreased damage, and 100 Handling"
+    },
+    "zh-chs": {
+     "main": "切换至此武器的 4 秒内：\n+30% 充能速度，-20% 伤害，+100 操控性。\n\n<formula 拔枪速度： [ready_0] />\n<formula 收起速度： [stow_0] />",
+     "secondary": "切换至此武器的 4 秒内：\n+30% 充能速度，-20% 伤害，+100 操控性。"
     }
    }
   },
@@ -5347,6 +5379,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664460221326,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -5362,6 +5398,10 @@
    "editor": {
     "en": {
      "main": "While within 15[?] meters of 2 enemies:\nCharge/Draw Time is reduced by 100 miliseconds.\nLingers for 1.5 seconds.\n\nEnhanced: Passively grants 5 Stability.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "当 15 米范围内有两个以上敌人时：\n-15% 充能/蓄力时间。\n增益持续 1.5 秒，效果线性减弱。\n\n强化特征：+5 稳定性\n",
      "secondary": "import self"
     }
    }
@@ -6450,12 +6490,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664459478217,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "On Reload:\r\nOverflows Magazine Capacity by 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Improves the average overflow amount.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "装填时：\n随机过量装填弹匣容量 10% ~ 50% 的弹药。\n数值向上取整。\n\n强化特征：提高平均过量填装的弹药量。",
      "secondary": "import self"
     }
    }
@@ -6634,12 +6682,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664458628587,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "Weapon Kills create an Elemental Explosion.\nNot affected by Dragonfly Spec.\n\nEnhanced: Improves Ammo Reserves.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "武器击杀会触发一次元素爆炸。\n不会被蜻蜓规格影响。\n\n强化特征：+20 弹药容量。",
      "secondary": "import self"
     }
    }
@@ -8113,12 +8169,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664459316133,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "While above 50% Magazine:\r\nDirect Hits create a Stasis burst which applies 50 Slow to enemies within [?] meters.\r\nWeapons with multiple projectiles activate the perk once per enemy.\r\n\r\nEnhanced: Passively grants 5 Stability.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "前半弹匣直接命中敌人时：\n将产生一个冰影爆炸，附近 [?] 米内的敌人获得 50 层减速效果。持续 4 [PVP 1.5] 秒。\n每次射击仅触发一次效果，狼群弹药除外。\n\n强化特征：+5 稳定性。",
      "secondary": "import self"
     }
    }
@@ -8320,12 +8384,20 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664457939472,
+      "undatedBy": "Mistwalker"
      }
     }
    },
    "editor": {
     "en": {
      "main": "Grenade detonation has a brief blinding effect.",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "榴弹爆炸可产生短暂失明效果。",
      "secondary": "import self"
     }
    }
@@ -8410,6 +8482,10 @@
      "en": {
       "lastUpdate": 1659903012345,
       "undatedBy": "Fading-Shadow"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664457889657,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -8425,6 +8501,10 @@
    "editor": {
     "en": {
      "main": "After dealing damage with all your weapons within [?] seconds of each:\r\n35% increased damage for 10 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds",
+     "secondary": "import self"
+    },
+    "zh-chs": {
+     "main": "在 [?] 秒内使用所有武器造成伤害后：\n提高 30% 该武器伤害，持续 10 秒。\n\n强化特征：增益持续时间提高到 11 秒。",
      "secondary": "import self"
     }
    }
