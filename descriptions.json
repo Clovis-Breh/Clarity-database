@@ -3,12 +3,12 @@
   "0": {
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0,
-     "undatedBy": ""
+     "lastUpdate": 0
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0
+      "lastUpdate": 0,
+      "undatedBy": ""
      }
     }
    },
@@ -19,13 +19,7 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "name": "",
-   "editor": {
-    "en": {
-     "main": "",
-     "secondary": ""
-    }
-   }
+   "uploadedBy": ""
   },
   "8507332": {
    "hash": 8507332,
@@ -9628,10 +9622,6 @@
     "en": {
      "main": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Grenade Ability Energy. <title MOST [most] /> <special/>Special Weapons grant 20%.\n\nUsing your Grenade Ability <title refreshes [refreshes] /> Magazine. 3 Second Cooldown.\n\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively.\n\ntitle most (\nTrace Rifles and Grenade Launchers grant half of what other Special Weapons give.\n)\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
      "secondary": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. [MOST] Special Weapons grant 20%.\r\n\r\nTrace Rifles and Grenade Launchers grant half of what other Special Weapons give.\r\n\r\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\r\n\r\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
-    },
-    "zh-chs": {
-     "main": "",
-     "secondary": ""
     }
    }
   },
