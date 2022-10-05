@@ -3,12 +3,16 @@
   "0": {
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0,
-     "undatedBy": ""
+     "lastUpdate": 0
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0
+      "lastUpdate": 0,
+      "undatedBy": ""
+     },
+     "zh-chs": {
+      "lastUpdate": 1664949411218,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -19,13 +23,104 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "name": "",
+   "name": "Default perk",
+   "uploadedBy": "",
    "editor": {
     "en": {
-     "main": "",
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
+    },
+    "zh-chs": {
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1",
      "secondary": ""
     }
    }
+  },
+  "1": {
+   "hash": 1,
+   "name": "Global exports",
+   "type": "none",
+   "lastUpload": 0,
+   "uploadedBy": "",
+   "editor": {
+    "en": {
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "undatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "undatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2": {
+   "hash": 2,
+   "name": "Global variables",
+   "type": "none",
+   "lastUpload": 0,
+   "uploadedBy": "",
+   "editor": {
+    "en": {
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "undatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "undatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "3": {
+   "hash": 3,
+   "name": "Global titles",
+   "type": "none",
+   "lastUpload": 0,
+   "uploadedBy": "",
+   "editor": {
+    "en": {
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1",
+     "secondary": ""
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0,
+     "undatedBy": ""
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0,
+      "undatedBy": ""
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "8507332": {
    "hash": 8507332,
@@ -3130,6 +3225,10 @@
      "en": {
       "lastUpdate": 1659459589775,
       "undatedBy": "Icemourne"
+     },
+     "zh-chs": {
+      "lastUpdate": 1664953457338,
+      "undatedBy": "Mistwalker"
      }
     }
    },
@@ -3137,6 +3236,10 @@
     "en": {
      "main": "Melee Hits grant Stacks of Fury Conductors.\nReceiving melee damage unleashes an <arc/>Arc Explosion with a radius of 5 metres.\n<arc/>Arc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\n\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\n\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not dealing melee damage.",
      "secondary": "Melee Hits grant Stacks of Fury Conductors.\r\nReceiving melee damage unleashes an Arc Explosion with a radius of 5 metres.\r\nArc Explosion deals 22% of your Melee Damage per Stack of Fury Conductors.\r\n\r\nFury Conductors grants 33-55-70% Damage Resistance to Melee Attacks depending on number of Stacks.\r\n\r\nAll Stacks disappear upon receiving melee damage or after 10 seconds of not dealing melee damage."
+    },
+    "zh-chs": {
+     "main": "近战命中产生可叠加的狂怒导体能量。\n被近战命中会释放一个 5 米范围的 <arc/>电弧爆炸。\n<arc/>电弧爆炸伤害量与狂怒导体能量层数相关，每层为 22% 你的近战伤害。\n\n根据叠加层数，狂怒导体能量会提供 33-55-70% 的近战伤害抗性。\n\n10 秒内未造成近战攻击伤害，或在收到近战伤害后，狂怒导体能量所有层数将消失。",
+     "secondary": "近战命中产生可叠加的狂怒导体能量。\n被近战命中会释放一个 5 米范围的电弧爆炸。\n电弧爆炸伤害量与狂怒导体能量层数相关，每层为 22% 你的近战伤害。\n\n根据叠加层数，狂怒导体能量会提供 33-55-70% 的近战伤害抗性。\n\n10 秒内未造成近战攻击伤害，或在收到近战伤害后，狂怒导体能量所有层数将消失。"
     }
    }
   },
@@ -9428,10 +9531,6 @@
     "en": {
      "main": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Grenade Ability Energy. <title MOST [most] /> <special/>Special Weapons grant 20%.\n\nUsing your Grenade Ability <title refreshes [refreshes] /> Magazine. 3 Second Cooldown.\n\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively.\n\ntitle most (\nTrace Rifles and Grenade Launchers grant half of what other Special Weapons give.\n)\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
      "secondary": "Kills with Primary Weapons and Power Weapons grant 10% Grenade Ability Energy. [MOST] Special Weapons grant 20%.\r\n\r\nTrace Rifles and Grenade Launchers grant half of what other Special Weapons give.\r\n\r\nUsing your Grenade Ability refreshes Magazine. 3 Second Cooldown.\r\n\r\nEnhanced: Grenade Ability Energy gains are increased to 11% and 22% respectively."
-    },
-    "zh-chs": {
-     "main": "",
-     "secondary": ""
     }
    }
   },
