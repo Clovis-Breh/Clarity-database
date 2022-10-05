@@ -103,7 +103,7 @@
      }
     }
    },
-   "uploadToLive": false,
+   "uploadToLive": true,
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false
@@ -1023,7 +1023,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -1033,8 +1033,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665005099594,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -1057,8 +1057,8 @@
    },
    "editor": {
     "en": {
-     "main": "Upon dealing Melee Damage while an Enemy is within 15 meters:\n<pve 500% /> <pvp [100%] /> increased damage for one burst and 100 Handling for 10 seconds or until firing.\n4 second cooldown. Can be activated while stowed.\n\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
-     "secondary": "Upon dealing Melee Damage while an Enemy is within 15 meters:\r\n500% [PVP: 100%] increased damage for one burst and 100 Handling for 10 seconds or until firing.\r\n4 second cooldown. Can be activated while stowed.\r\n\r\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds."
+     "main": "Upon dealing Melee Damage while an Enemy is within 15 meters:\n<pve 500% /> <pvp [100%] /> increased damage and +100 Handling for 10 seconds or until firing a full burst.\n4 second cooldown. Can be activated while stowed.\n\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff duration increased to 11 seconds.",
+     "secondary": "Upon dealing Melee Damage while an Enemy is within 15 meters:\n500% [PVP: 100%] increased damage and +100 Handling for 10 seconds or until firing a full burst.\n4 second cooldown. Can be activated while stowed.\n\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds.\n\nEnhanced: Buff duration increased to 11 seconds."
     }
    }
   },
@@ -4587,7 +4587,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -4597,8 +4597,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665004985500,
+      "undatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664457759021,
@@ -4631,8 +4631,8 @@
    },
    "editor": {
     "en": {
-     "main": "For 4 seconds after readying a Fusion Rifle:\n30% Faster Charge Rate, 20% decreased damage, and 100 Handling\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
-     "secondary": "For 4 seconds after readying a Fusion Rifle:\r\n30% Faster Charge Rate, 20% decreased damage, and 100 Handling"
+     "main": "Upon readying the weapon:\n0.7x Charge Time, 20% decreased damage, and +100 Handling for [?] seconds.\n\nEnhanced: Buff duration is increased to [?] seconds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
+     "secondary": "Upon readying the weapon:\n0.7x Charge Time, 20% decreased damage, and +100 Handling for [?] seconds.\n\nEnhanced: Buff duration is increased to [?] seconds."
     },
     "zh-chs": {
      "main": "切换至此武器的 4 秒内：\n+30% 充能速度，-20% 伤害，+100 操控性。\n\n<formula 拔枪速度： [ready_0] />\n<formula 收起速度： [stow_0] />",
@@ -6939,18 +6939,18 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665005887597,
+     "undatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665005851887,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -6958,9 +6958,9 @@
     "damage": {
      "active": {
       "multiplier": [
-       1.31,
-       1.33,
-       1.37,
+       1.29,
+       1.3322,
+       1.6275,
        1.66
       ]
      }
@@ -6968,8 +6968,8 @@
    },
    "editor": {
     "en": {
-     "main": "After being scoped-in for 1.5 seconds without firing:\n[?] Range, [?]% Accuracy Cone Size/<title Growth [growth] />, and increased Precision Damage for one shot.\n\n< table >\n|b Weapon Frame      |b Precision Damage Increase\n|  Rapid Fire Sniper |  31% <background/>\n|  Adaptive Sniper   |  31%\n|  Aggressive Sniper |  37% <background/>\n|  Linear Fusion     |  33%\n|  Scout Rifle       |  66% <background/>\n<$>\n\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds.\n\ntitle growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
-     "secondary": "After being scoped-in for 1.5 seconds without firing:\r\nIncreased Range, improved Accuracy Cone Size/Growth, and variably increased Precision Damage for one shot.\r\nRapid Fire & Adaptive Sniper = 31% | Linear Fusion = 33% | Aggressive Sniper = 37% | Scout Rifle = 66%\r\n\r\nEnhanced: Aiming-Down-Sights timer is reduced to 1.4 seconds."
+     "main": "Upon aiming-down-sights for 1.5 seconds without firing:\n10% increased Aim Assist Falloff Distance and increases Precision Multiplier by +1 for one shot.\n\nTimer starts as soon as the ADS input is pressed.\n\n< table >\n|b Weapon Frame      |b Precision Multiplier Increase\n|  Linear Fusion Rifle    |   <title 29% [mult1] /> <background/>\n|  Sniper Rifle      |  <title 33.22% [mult0] />   \n|  Scout Rifle       |  <title 62.75% [mult2] /> <background/>\n<$>\n\nEnhanced: Activation timer is reduced to 1.4 seconds.\n\ntitle mult0 (\n3x -> 4x\n)\n\ntitle mult1 (\n3.44x -> 4.44x\n)\n\ntitle mult2 (\n1.6x -> 2.6x\n)",
+     "secondary": "Upon aiming-down-sights for 1.5 seconds without firing:\n10% increased Aim Assist Falloff Distance and increases Precision Multiplier by +1 for one shot.\nTimer starts as soon as the ADS input is pressed.\n\nPrecision Multipliers:\nScout Rifles: 62.75% Increase (1.6x -> 2.6x)\nSniper Rifles: 33.22% Increase (3x -> 4x)\nLinear Fusion Rifles: 29% Increase (3.44x -> 4.44x)\n\nEnhanced: Activation timer is reduced to 1.4 seconds."
     }
    }
   },
@@ -8401,7 +8401,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -8411,8 +8411,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665005006305,
+      "undatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664457889657,
@@ -8431,7 +8431,7 @@
    },
    "editor": {
     "en": {
-     "main": "After dealing damage with all your weapons within [?] seconds of each:\r\n35% increased damage for 10 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds",
+     "main": "Upon dealing damage with all your weapons within [?] seconds of each:\n35% increased damage for 10 seconds.\n\nEnhanced: Buff Duration is increased to 11 seconds",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -8895,7 +8895,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -8905,8 +8905,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665004827719,
+      "undatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664434504092,
@@ -8916,7 +8916,7 @@
    },
    "editor": {
     "en": {
-     "main": "<title Refreshes [refreshes] /> stowed weapon from reserves after 2.5 seconds.\n\nEnhanced: Activation timer is reduced to 2.3 seconds.\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
+     "main": "<title Refreshes [G_refreshes] /> stowed weapon from reserves after 2.5 seconds.\n\nEnhanced: Activation timer is reduced to 2.3 seconds.",
      "secondary": "Refreshes stowed weapon from reserves after 2.5 seconds.\r\n\r\nEnhanced: Activation timer is reduced to 2.3 seconds."
     },
     "zh-chs": {
