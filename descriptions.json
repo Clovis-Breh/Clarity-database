@@ -3348,7 +3348,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -3358,8 +3358,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008021479,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -3383,8 +3383,8 @@
    },
    "editor": {
     "en": {
-     "main": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\n\n< table formula >\n|b Stacks |b In-Game Range\n|b 1x     |  <formula [range_0] />\n|b 2x     |  <formula [range_1] />\n|b 3x     |  <formula [range_2] />\n<$>\n\nOn Non-Precision Kill: Removes 1 Stack. If at zero stacks, it grants -X% <title Accuracy Cone Growth [accuracy cone growth] />, -Y% Accuracy Cone Size, and 30 Stability.\n\nLasts 7 seconds. Refreshed on Kill.\n\nEnhanced: Buff Duration is increased.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
-     "secondary": "On Precision Kill: 10 Range per Stack, up to 30 Range at 3 Stacks.\r\n\r\nOn Non-Precision Kill: Removes 1 Stack. If at 0 stacks, it improves Accuracy and grants 30 Stability.\r\n\r\nLasts 7 seconds. Refreshed on Kill.\r\n\r\nEnhanced: Buff Duration is increased."
+     "main": "On Precision Kill: +10 Range per Stack, up to +30 Range at 3 Stacks.\n\n< table formula >\n|b Stacks |b In-Game Range\n|b 1x     |  <formula [range_0] />\n|b 2x     |  <formula [range_1] />\n|b 3x     |  <formula [range_2] />\n<$>\n\nOn Non-Precision Kill: Removes 1 Stack. If at 0 Stacks, it improves Accuracy and grants +30 Stability.\n\nLasts 7 seconds. Refreshed on Kill.\n\nEnhanced: Buff Duration is increased to 8 seconds.",
+     "secondary": "On Precision Kill: +10 Range per Stack, up to +30 Range at 3 Stacks.\n\nOn Non-Precision Kill: Removes 1 Stack. If at 0 Stacks, it improves Accuracy and grants +30 Stability.\n\nLasts 7 seconds. Refreshed on Kill.\n\nEnhanced: Buff Duration is increased to 8 seconds."
     }
    }
   },
@@ -4417,7 +4417,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -4427,8 +4427,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008489409,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -4443,8 +4443,8 @@
    },
    "editor": {
     "en": {
-     "main": "On Precision Kill:\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\n50 Reload Speed for 6 seconds.\n\n<purple Not affected by Dragonfly Spec. />\n\n<formula Reload Time: [reload_0] />",
-     "secondary": "On Precision Kill:\r\nTarget explodes, dealing Solar Damage in a 3 meter radius. Same size as Dragonfly, but deals 25% increased damage.\r\n50 Reload Speed for 6 seconds.\r\n\r\nNot affected by Dragonfly Spec."
+     "main": "On Precision Kill:\nTarget explodes, dealing 80 Solar Damage in a 3 meter radius, and grants +50 Reload Speed for 6 seconds.\n\nDamage against Combatants is multiplied by 1.3x, then multiplied again by Combatant Rank Modifiers.\n\n<formula Reload Time: [reload_0] />",
+     "secondary": "On Precision Kill:\nTarget explodes, dealing 80 Solar Damage in a 3 meter radius, and grants +50 Reload Speed for 6 seconds.\n\nDamage against Combatants is multiplied by 1.3x, then multiplied again by Combatant Rank Modifiers."
     }
    }
   },
@@ -4875,7 +4875,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -4885,8 +4885,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665007914756,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -4901,7 +4901,7 @@
    },
    "editor": {
     "en": {
-     "main": "Upon readying a Sword:\n30% Increased damage for 1.5 seconds.",
+     "main": "Upon readying a Sword:\n30% Increased damage for 1.5 seconds.\n\nEnhanced: Buff duration is increased.",
      "secondary": "import self"
     }
    }
@@ -5945,7 +5945,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -5955,14 +5955,14 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008052286,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "While Blocking with a Sword:\nGrants Class Ability Energy based on the amount of damage taken.\n\nEnhanced: Increased Class Ability Energy Gain.",
+     "main": "While Blocking with a Sword:\nGrants Class Ability Energy based on the amount of health lost.\n\nIt is a LOT of Energy.\n\nEnhanced: Increased Class Ability Energy Gain.",
      "secondary": "import self"
     }
    }
@@ -6407,7 +6407,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -6417,14 +6417,14 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008571135,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:\nSuppresses and weakens the enemy, making the target receive 20% increased damage for 4 seconds.\n\nEnhanced: Passively grants increased Ammo Reserves.",
+     "main": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:\nSuppresses and weakens the enemy, making the enemy receive 20% increased damage for 4 seconds.\n\nEnhanced: Passively grants increased Ammo Reserves.",
      "secondary": "import self"
     }
    }
@@ -7467,7 +7467,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -7477,8 +7477,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008328444,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -7504,8 +7504,8 @@
    },
    "editor": {
     "en": {
-     "main": "On Weapon Kill: Increased Reload Speed.\n\n< table >\n| Stacks | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n| 1x     | 10          | 1x                  | <formula reload_0 /><background/>\n| 2x     | 45          | 0.9x                | <formula reload_1 />\n| 3x     | 55          | 0.875x              | <formula reload_2 /><background/>\n| 4x     | 70          | 0.85x               | <formula reload_3 />\n| 5x     | 100         | 0.8x                | <formula reload_4 /><background/>\n<$>\n\nLasts 3.5 seconds. Max of 5 Stacks.\n\nEnhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
-     "secondary": "On Weapon Kill:\r\n\r\n10 | 45 | 55 | 70 | 100 Reload Speed Stat.\r\n1x | 0.9x | 0.875x | 0.85x | 0.8x Reload Duration Multiplier.\r\n\r\nLasts 3.5 seconds. Max of 5 Stacks.\r\n\r\nEnhanced: Stronger Effect."
+     "main": "On Weapon Kill: Increased Reload Speed.\n\n< table >\n| Stacks | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n| 1x     | 10          | 1x                  | <formula [reload_0] /><background/>\n| 2x     | 45          | 0.9x                | <formula [reload_1] />\n| 3x     | 55          | 0.875x              | <formula [reload_2] /><background/>\n| 4x     | 70          | 0.85x               | <formula [reload_3] />\n| 5x     | 100         | 0.8x                | <formula [reload_4] /><background/>\n<$>\n\nLasts 3.5 seconds. Max of 5 Stacks.\n\nEnhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
+     "secondary": "On Weapon Kill:\nGrants Increased Reload Speed for 3.5 seconds, up to a maximum of 5 stacks.\n\n<center/> 10 | 45 | 55 | 70 | 100 Reload Speed.\n<center/> - | 0.9x | 0.875x | 0.85x | 0.8x Duration Multiplier.\n\nEnhanced: Stronger Effect."
     }
    }
   },
@@ -7808,7 +7808,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -7818,8 +7818,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008440944,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -7844,8 +7844,8 @@
    },
    "editor": {
     "en": {
-     "main": "While Crouched:\n50 Reload Speed with 0.8x <title RDS [rds] /> and 0.8x Ready/Stow Duration Scalar.\n\nPassively grants increased Ammo Reserves.\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
-     "secondary": "While Crouched:\r\n50 Reload Speed with 0.8x Reload Duration Scalar and 0.8x Ready/Stow Duration Scalar.\r\n\r\nPassively grants increased Ammo Reserves.\r\n\r\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.\t"
+     "main": "While Crouched:\n+50 Reload Speed, 0.8x Reload Duration Multiplier, and 0.8x Ready/Stow Duration Multiplier.\n\nPassively grants increased Ammo Reserves.\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.",
+     "secondary": "While Crouched:\n+50 Reload Speed, 0.8x Reload Duration Multiplier, and 0.8x Ready/Stow Duration Multiplier.\n\nPassively grants increased Ammo Reserves.\n\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.\t"
     }
    }
   },
@@ -7940,18 +7940,18 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665008607048,
+     "undatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008596862,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -7966,7 +7966,7 @@
    },
    "editor": {
     "en": {
-     "main": "After scoring 50% of Magazine Size as Precision Hits:\r\n20% increased damage for 11 seconds.\r\nStowing or Reloading resets the precision counter. Can be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 12 seconds.",
+     "main": "Upon scoring 50% of Magazine as Precision Hits:\n20% increased damage for 11 seconds.\n\nBuff can be refreshed.\nStows and Reloads reset the precision counter. \n\nEnhanced: Buff Duration is increased to 12 seconds.",
      "secondary": "import self"
     }
    }
@@ -8562,25 +8562,35 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665008190660,
+     "undatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008175748,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and 100 Blast Radius.\nMax of 6 Stacks. Consumes 1 Stack per Shot.\n\nGrenade Launchers: 44% Increased damage\nRocket Launchers: 25% Increased damage.\n\nEnhanced: Passively grants 5 Velocity.",
+     "main": "Grants 1 Stack of Explosive Light per Orb of Power Pickup, granting increased damage and +100 Blast Radius.\n\nMax of 6 Stacks. Consumes 1 Stack per Shot.\n\nGrenade Launchers: 65% to 84% Increased explosive damage. Increases overall damage by 52%.\n\nRocket Launchers: 25% Increased impact and explosive damage.\n\nEnhanced: Passively grants +5 Velocity.",
      "secondary": "import self"
+    }
+   },
+   "stats": {
+    "damage": {
+     "active": {
+      "stat": [
+       52,
+       25
+      ]
+     }
     }
    }
   },
@@ -9179,7 +9189,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -9189,15 +9199,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008106489,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage.\nDetonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on the Precision Multiplier. />\n\n<pvp [PVP] Total damage remains the same. />\n\nEnhanced: Passively grants 5 Accuracy.",
-     "secondary": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage.\r\nDetonation timer varies on draw and distance.\r\n\r\n[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on the Precision Multiplier.\r\n\r\n[PVP] Total damage remains the same.\r\n\r\nEnhanced: Passively grants 5 Accuracy."
+     "main": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage.\nDetonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on the Precision Multiplier. />\n\n<pvp [PVP] Total damage remains practically the same. />\n\nEnhanced: Passively grants +5 Accuracy.",
+     "secondary": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. \nDetonation timer varies on draw and distance.\n\n[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Precision Multiplier.\n[PVP] Total damage remains practically the same.\n\nEnhanced: Passively grants +5 Accuracy."
     }
    }
   },
@@ -9469,7 +9479,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -9479,15 +9489,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665007881417,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Grants different Stat Bonuses based on your selected Subclass.\n\n<solar/> 50 Reload Speed\n<arc/> 50 Handling\n<void/> 20 Stability\n<stasis/> 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\n\nEnhanced: Adds an additional 5 to the Stat Bonus currently in effect. Unknown for Stasis.",
-     "secondary": "Grants different Stat Bonuses based on your selected Subclass.\r\n\r\nSolar: 50 Reload Speed\r\nArc: 50 Handling\r\nVoid: 20 Stability\r\nStasis: 20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\r\n\r\nEnhanced: Adds an additional 5 to the Stat Bonus currently in effect. Unknown for Stasis."
+     "main": "Grants different Stat Bonuses based on your selected Subclass.\n\n<solar/> +50 Reload Speed\n<arc/> +50 Handling\n<void/> +20 Stability\n<stasis/> +20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\n\nEnhanced: Adds an additional +5 to the corresponding Subclass Stat Bonus.",
+     "secondary": "Grants Stat Bonuses depending on your selected Subclass.\n\nSolar: +50 Reload Speed.\nArc: +50 Handling.\nVoid: +20 Stability.\nStasis: +20 Recoil Direction & 5% reduced ADS Movement Speed Penalty.\n\nEnhanced: Adds an additional +5 to the corresponding Subclass Stat Bonus."
     }
    }
   },
@@ -10451,18 +10461,18 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
-   "hidden": false,
+   "hidden": true,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665008632162,
+     "undatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008516716,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -10477,10 +10487,11 @@
    },
    "editor": {
     "en": {
-     "main": "import stats from 1561789734\nimport main from 1561789734",
+     "main": "import main from 1561789734",
      "secondary": "import secondary from 1561789734"
     }
-   }
+   },
+   "mirrorStatsFrom": 1561789734
   },
   "3824622015": {
    "hash": 3824622015,
