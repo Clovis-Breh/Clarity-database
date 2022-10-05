@@ -3725,7 +3725,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -3735,14 +3735,14 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008806191,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Scoring 4 Precision Hits generates 2 Ammo to Magazine.\r\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\r\n\r\nEnhanced: Timer between Precision Hits is increased.",
+     "main": "Scoring 4 Precision Hits generates 2 Ammo to Magazine.\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\n\nEnhanced: Timer between Precision Hits increased to 3 seconds.",
      "secondary": "import self"
     }
    }
@@ -5282,8 +5282,8 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665008643124,
+     "undatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
@@ -6757,7 +6757,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -6767,8 +6767,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665008860595,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -6783,8 +6783,8 @@
    },
    "editor": {
     "en": {
-     "main": "Passively grants 20 Range, but has a 5 second cooldown if you take any damage.\r\n\r\n<formula Effective Range: [range_0] />\r\n\r\nEnhanced: Timer after not taking damage is reduced.",
-     "secondary": "Passively grants 20 Range, but has a 5 second cooldown if you take any damage.\r\n\r\nEnhanced: Timer after not taking damage is reduced."
+     "main": "Passively grants +20 Range.\nReceiving any incoming damage disables the perk for 5 seconds.\n\n<formula Effective Range: [range_0] />\n\nEnhanced: Timer after receiving damage is reduced to 4 seconds.",
+     "secondary": "Passively grants +20 Range.\nReceiving any incoming damage disables the perk for 5 seconds.\n\nEnhanced: Timer after receiving damage is reduced to 4 seconds."
     }
    }
   },
