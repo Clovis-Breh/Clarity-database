@@ -1755,18 +1755,18 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665006561568,
+     "undatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665006574548,
+      "undatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664459932963,
@@ -1778,7 +1778,8 @@
     "reload": {
      "active": {
       "stat": [
-       50
+       50,
+       55
       ],
       "multiplier": [
        0.95
@@ -1788,8 +1789,8 @@
    },
    "editor": {
     "en": {
-     "main": "While above 70% Magazine:\r\n50 Reload Speed with a 0.95x Duration Scale\r\n\r\n<formula Reload Time: [reload_0] />\r\n\r\nEnhanced: Reload increased to [55 maybe?]",
-     "secondary": "While above 70% Magazine:\r\n50 Reload Speed with a 0.95x Duration Scale\r\n\r\nEnhanced: Reload increased to [55 maybe?]"
+     "main": "While above 70% Magazine:\n+50 Reload Speed with a 0.95x Duration Multiplier.\n\n<formula Reload Time: [reload_0] />\n\nEnhanced: Reload Speed is increased to [+55 maybe?]",
+     "secondary": "While above 70% Magazine:\n+50 Reload Speed with a 0.95x Duration Multiplier.\n\nEnhanced: Reload Speed is increased to [+55 maybe?]"
     },
     "zh-chs": {
      "main": "弹匣内子弹量高于 70% 时：\n+50 装填速度，装填动画时间缩减为 0.95x。\n\n<formula 装填时间： [reload_0] />\n\n强化特征：+[55?] 装填速度",
@@ -2795,7 +2796,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -2805,15 +2806,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665006846671,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "While within 15 meters of 3 enemies:\nSets Blast Radius to 100[?] and reduces <title Self Damage [self damage] /> by 40%.\nLingers for 4(?) seconds.\n\nEnhanced: Passively grants 5 Blast Radius.\n\ntitle self damage (\nSelf Damage normally deals 25% increased damage.\n)",
-     "secondary": "While within 15 meters of 3 enemies:\r\nSets Blast Radius to 100[?] and reduces Self Damage by 40%.\r\nLingers for 4(?) seconds.\r\n\r\nEnhanced: Passively grants 5 Blast Radius."
+     "main": "While within 15 meters of 3 enemies:\n[?]% Increased Blast Radius and 40% Reduced <title Self Damage [self damage] />.\n\nLingers for 4(?) seconds.\n\nEnhanced: Passively grants 5 Blast Radius.\n\ntitle self damage (\nSelf Damage normally deals 25% increased damage.\n)",
+     "secondary": "While within 15 meters of 3 enemies:\n[?]% Increased Blast Radius and 40% Reduced Self Damage.\n(Self Damage normally deals 25% increased damage)\n\nLingers for 4(?) seconds. \n\nEnhanced: Passively grants +5 Blast Radius."
     }
    }
   },
@@ -3499,18 +3500,18 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665005951186,
+     "undatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665005946288,
+      "undatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664458469323,
@@ -3543,8 +3544,8 @@
    },
    "editor": {
     "en": {
-     "main": "While Last Guardian Standing:\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\nPassively grants 20 Handling and 20 Reload Speed\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
-     "secondary": "While Last Guardian Standing:\r\n100 Handling, Reload, and Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\r\n\r\nPassively grants 20 Handling and 20 Reload Speed"
+     "main": "While Last Guardian Standing:\n+100 Handling, +100 Reload Speed, and +[?] Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\n\nPassively grants +20 Handling and +20 Reload Speed.\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
+     "secondary": "While Last Guardian Standing:\n+100 Handling, +100 Reload Speed, and +[?] Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\n\nPassively grants +20 Handling and +20 Reload Speed."
     },
     "zh-chs": {
      "main": "+20 操控性，填装速度。\n\n当你作为你的火力战队最后一名存活的队员时：\n+100 操控性，+100 填装速度，+[?] 瞄准辅助。\n大幅降低收到伤害时的屏幕抖动。\n瞄准时可显示雷达。\n\n<formula 填装时间： [reload_0] />\n<formula 拔枪速度： [ready_0] />\n<formula 收枪速度： [stow_0] />",
@@ -3753,7 +3754,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -3763,8 +3764,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665007777319,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -3779,7 +3780,7 @@
    },
    "editor": {
     "en": {
-     "main": "During Sustained Fire:\nGradually greatly increases Accuracy, and adds up to +10 Stability. Takes 0.6 seconds to maximize effect.\n\nThe accuracy improvement is greater than initial accuracy.\nThe accuracy increase is gradual, almost completely negating the effects of bloom.\n\nEnhanced: Effect reaches full effect sooner.",
+     "main": "While holding down the trigger:\nGradually increases Accuracy and Stability, up to -100% Accuracy Cone Size and +10 Stability.\n\nTakes 0.6 seconds to maximize effect.\nEffect at maximum strength removes all spread.\n\nEnhanced: Effect reaches full effect sooner.",
      "secondary": "import self"
     }
    }
@@ -4845,7 +4846,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -4855,14 +4856,14 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665007198333,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Elemental/Barrier Champion or Guardian Shield Break:\nDebuffs the enemy, increasing Kinetic Damage by 50% for 5.5 seconds.\nStacks with other Debuffs, as it is a Weapon Perk.\n\nEnhanced: Debuff Duration is increased.",
+     "main": "On Elemental, Barrier or Guardian Shield Break:\nWeakens the enemy, increasing Kinetic Damage dealt by 50% for 5.5 seconds.\nDoes not affect Stasis Damage.\n\nStacks with other Debuffs, as it is a Weapon Perk.\n\nEnhanced: Debuff Duration is increased.",
      "secondary": "import self"
     }
    }
@@ -5343,18 +5344,18 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665006618573,
+     "undatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665006629998,
+      "undatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664460228616,
@@ -5367,13 +5368,16 @@
      "active": {
       "stat": [
        -100
+      ],
+      "multiplier": [
+       0.85
       ]
      }
     }
    },
    "editor": {
     "en": {
-     "main": "While within 15[?] meters of 2 enemies:\nCharge/Draw Time is reduced by 100 miliseconds.\nLingers for 1.5 seconds.\n\nEnhanced: Passively grants 5 Stability.",
+     "main": "While within 15[?] meters of 2 enemies:\n0.85x Charge/Draw Time.\n\nLingers for 1.5 seconds.\n\nEnhanced: Passively grants +5 Stability.",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -6017,7 +6021,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -6027,14 +6031,14 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665007819138,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Upon readying a Sword:\n100% Increased Lunge Range for 1 second. (Enough to execute 2 light attacks.)\n4 second cooldown.",
+     "main": "Upon readying a Sword:\n100% Increased Lunge Range within 1 second. \n\nMoving too fast instantly ends the effect, even without swinging the sword.\n\n4 second cooldown.\n\nEnhanced: Buff Duration is increased to 1.5 seconds.",
      "secondary": "import self"
     }
    }
@@ -6432,7 +6436,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -6442,8 +6446,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665006444457,
+      "undatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664459478217,
@@ -6453,7 +6457,7 @@
    },
    "editor": {
     "en": {
-     "main": "On Reload:\r\nOverflows Magazine Capacity by 10% to 50%.\r\nAlways rounds magazine up.\r\n\r\nEnhanced: Improves the average overflow amount.",
+     "main": "Upon finishing a reload:\nRandomly grants 10% to 50% Increased Magazine Capacity.\nAlways rounds up.\n\nEnhanced: Improves the average overflow amount.",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -7746,7 +7750,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -7756,15 +7760,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665007328603,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Precision Kill:\nTarget explodes, dealing the Weapon's Elemental Damage in a 3 meter radius.\nDamage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\n\n< table >\n|b Weapon Type                                 | <title Damage Multiplier [damage multiplier] />\n|  Linear Fusions                              | 0.5x <background/>\n|  Snipers                                     | 0.6x\n|  Bows                                        | 0.9x <background/>\n|  Hand Cannons                                | 2x\n|  Sidearms                                    | 2x <background/>\n|  Scout Rifles                                | 2.5x\n|  Machine Guns                                | 2.5x <background/>\n|  Submachine Guns                             | 5x\n|  Auto Rifles                                 | 5x <background/>\n|  <title Pulse Rifles [pulse rifles] /> | 6x\n<$>\n\nEnhanced: Passively grants 5 Reload Speed.\n\ntitle damage multiplier (\nDamage Multipliers are in comparison to bodyshot damage.\n)\ntitle pulse rifles (\nIndividual bullets, not the whole burst.\n)",
-     "secondary": "On Precision Kill:\r\nTarget explodes, dealing the Weapon's Elemental Damage in a 3 meter radius. Damage is dependent on Weapon Archetype. Dragonfly Spec increases Damage and Radius by 50%.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
+     "main": "On Precision Kill:\nTarget explodes, dealing 65 damage that matches the Element of the weapon over a 3 meter radius.\n\nDamage against Combatants is multiplied by 1.3x, then multiplied again by Combatant Rank Modifiers.\n\nEnhanced: Passively grants +5 Reload Speed.",
+     "secondary": "On Precision Kill:\nTarget explodes, dealing 65 damage that matches the Element of the weapon over a 3 meter radius.\n\nDamage against Combatants is multiplied by 1.3x, then multiplied again by Combatant Rank Modifiers.\n\nEnhanced: Passively grants +5 Reload Speed."
     }
    }
   },
@@ -8080,7 +8084,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -8090,8 +8094,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665006419662,
+      "undatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664459316133,
@@ -8101,8 +8105,8 @@
    },
    "editor": {
     "en": {
-     "main": "While above 50% Magazine:\r\nDirect Hits create a Stasis burst which applies 50 Slow to enemies within [?] meters.\r\nWeapons with multiple projectiles activate the perk once per enemy.\r\n\r\nEnhanced: Passively grants 5 Stability.",
-     "secondary": "import self"
+     "main": "While above 50% Magazine:\nDirect Hits create a Stasis burst which applies 50 Slow for <pve 4 /> <pvp [1.5] /> seconds to enemies within [?] meters.\nOnly activates once per shot.\n(Except Wolfpack Rounds)\n\nWhisper of Durance increases slow duration by <pve 8 /> <pvp [2] /> seconds\n\nEnhanced: Passively grants 5 Stability.",
+     "secondary": "While above 50% Magazine:\nDirect Hits create a Stasis burst which applies 50 Slow for 4 [PVP: 1.5] seconds to enemies within [?] meters.\nOnly activates once per shot.\n(Except Wolfpack Rounds)\n\nWhisper of Durance increases slow duration by 4s in PVE and 0.5s in PVP.\n\nEnhanced: Passively grants 5 Stability."
     },
     "zh-chs": {
      "main": "前半弹匣直接命中敌人时：\n将产生一个冰影爆炸，附近 [?] 米内的敌人获得 50 层减速效果。持续 4 [PVP 1.5] 秒。\n每次射击仅触发一次效果，狼群弹药除外。\n\n强化特征：+5 稳定性。",
@@ -8215,7 +8219,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -8225,8 +8229,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665006693908,
+      "undatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664460388243,
@@ -8245,8 +8249,8 @@
    },
    "editor": {
     "en": {
-     "main": "Immediately after blocking an attack within 0.5 seconds of starting to Block:\n50% Increased damage for 2 seconds.\n\nEnhanced: Buff Duration is increased.",
-     "secondary": "Immediately after blocking an attack within 0.5 seconds of starting to Block:\r\n50% Increased damage for 2 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
+     "main": "Upon blocking an attack within 0.5 seconds of starting to Block:\n50% Increased damage for 2 seconds.\n\nEnhanced: Buff Duration is increased.",
+     "secondary": "import self"
     },
     "zh-chs": {
      "main": "做出防御动作的 0.5 秒内成功格挡敌人伤害：\n+50% 伤害，持续 2 秒。\n\n强化特征：延长增益持续时间。",
@@ -8364,7 +8368,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -8374,8 +8378,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665007060784,
+      "undatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664460665897,
@@ -8385,7 +8389,7 @@
    },
    "editor": {
     "en": {
-     "main": "After Reloading within 6 seconds of a Precision Kill:\nDelay after shooting is reduced by 30%, increasing Rate of Fire for 6 seconds.\nCan be refreshed.\n\nEnhanced: Increased duration.",
+     "main": "Upon finishing a reload within 6 seconds of a Precision Kill:\nDelay after shooting is reduced by 30%, increasing Rate of Fire for 6 seconds.\nCan be refreshed.\n\nEnhanced: Duration increased to 7 seconds.",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -9719,7 +9723,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -9729,15 +9733,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665006510318,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Powered Sword Hits apply Slow Stacks.\n\nLight Attacks apply 40 Slow Stacks.\nHeavy Attacks apply 60 Slow Stacks.",
-     "secondary": "import self"
+     "main": "Powered Sword Hits apply Slow for <pve 4.25 /> <pvp [1.5] /> seconds.\n\nLight Attacks apply 40 Slow.\nHeavy Attacks apply 60 Slow.",
+     "secondary": "Powered Sword Hits apply Slow for 4.25 [PVP: 1.5] seconds.\n\nLight Attacks apply 40 Slow.\nHeavy Attacks apply 60 Slow."
     }
    }
   },
@@ -10047,7 +10051,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -10057,14 +10061,14 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665007609800,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Sword Kill:\nIncreased Charge Rate, Endurance, Efficiency, and Defense.\nLasts until stowed.",
+     "main": "On Sword Kill:\nIncreased Charge Rate, Endurance, Efficiency, and Defense.\nLasts until stowed.\n\nEnhanced: Stronger effect.",
      "secondary": "import self"
     }
    }
@@ -11388,18 +11392,18 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665007494403,
+     "undatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665007410761,
+      "undatedBy": "Fading Shadow"
      }
     }
    },
@@ -11417,8 +11421,8 @@
    },
    "editor": {
     "en": {
-     "main": "30 Reload Stat with a 0.9x <title RDS [rds] />\nDecreases magazing size. (Only visible in-game.)\n\ntitle rds (\nReload Duration Scalar - multiplies Reload Animation Length by the number\n)",
-     "secondary": "30 Reload Stat with a 0.9x Reload Duration Scalar.\r\n\r\nDecreases magazing size. (Only visible in-game.)"
+     "main": "Passively grants +30 Reload Speed with 0.9x Duration Multiplier.\n\nDecreases Magazine Size Stat by 20.",
+     "secondary": "Passively grants +30 Reload Speed with 0.9x Duration Multiplier.\n\nDecreases Magazine Size Stat by 20."
     }
    }
   },
