@@ -7,8 +7,7 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "undatedBy": ""
+      "lastUpdate": 0
      },
      "zh-chs": {
       "lastUpdate": 1664949411218,
@@ -24,14 +23,12 @@
    "inLiveDatabase": false,
    "optional": false,
    "name": "Default perk",
-   "uploadedBy": "",
    "editor": {
     "en": {
      "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     },
     "zh-chs": {
-     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1",
-     "secondary": ""
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     }
    }
   },
@@ -40,22 +37,18 @@
    "name": "Global exports",
    "type": "none",
    "lastUpload": 0,
-   "uploadedBy": "",
    "editor": {
     "en": {
-     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1",
-     "secondary": ""
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     }
    },
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0,
-     "undatedBy": ""
+     "lastUpdate": 0
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "undatedBy": ""
+      "lastUpdate": 0
      }
     }
    },
@@ -69,22 +62,18 @@
    "name": "Global variables",
    "type": "none",
    "lastUpload": 0,
-   "uploadedBy": "",
    "editor": {
     "en": {
-     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1",
-     "secondary": ""
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     }
    },
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0,
-     "undatedBy": ""
+     "lastUpdate": 0
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "undatedBy": ""
+      "lastUpdate": 0
      }
     }
    },
@@ -98,22 +87,18 @@
    "name": "Global titles",
    "type": "none",
    "lastUpload": 0,
-   "uploadedBy": "",
    "editor": {
     "en": {
-     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1",
-     "secondary": ""
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     }
    },
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0,
-     "undatedBy": ""
+     "lastUpdate": 0
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0,
-      "undatedBy": ""
+      "lastUpdate": 0
      }
     }
    },
