@@ -146,8 +146,8 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
-   "optional": false,
+   "uploadToLive": true,
+   "optional": true,
    "hidden": false,
    "updateTracker": {
     "stats": {
@@ -1484,8 +1484,8 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
-   "optional": false,
+   "uploadToLive": true,
+   "optional": true,
    "hidden": false,
    "updateTracker": {
     "stats": {
@@ -11484,8 +11484,8 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
-   "optional": false,
+   "uploadToLive": true,
+   "optional": true,
    "hidden": false,
    "updateTracker": {
     "stats": {
@@ -11808,7 +11808,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -11818,15 +11818,16 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665089476531,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Weapon Kill:\r\nApply 30 Scorch to enemies within [?] meters.\r\nEmber of Ashes increases this to 40 Scorch.\r\n\r\nKilling Powerful Combatants and Players increases the range to 8 meters.\r\n\r\nEnhanced:\r\n<pve Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped />\r\n<pvp Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped />",
-     "secondary": "Kills apply 30 Scorch to enemies within [?] meters.\r\nEmber of Ashes increases this to 40 Scorch.\r\n\r\nKilling Powerful Combatants and Players increases the range to 8 meters.\r\n\r\n\r\nEnhanced:\r\nPVE: Scorch stacks increased to 40 and to 85 with Ember of Ashes equipped\r\n\r\nPVP: Scorch stacks stay at 30 and are increased to 45 with Ember of Ashes equipped"
+     "main": "On Weapon Kill:\nApply 30 Scorch to enemies within [?] meters.\nEmber of Ashes increases this to 40 Scorch.\n\nKilling Powerful Combatants and Players increases the range to 8 meters.\n\nDamage from Scorch can be increased through Weapon Damage Increases, Debuffs, and Combatant Rank Modifiers.\n\nEnhanced: Increases the amount of Scorch Stacks applied to 45 against PVE Combatants with Ember of Ashes equipped.",
+     "secondary": "import self"
     }
    }
   }
