@@ -18,7 +18,7 @@
    "hash": 0,
    "type": "none",
    "lastUpload": 0,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
