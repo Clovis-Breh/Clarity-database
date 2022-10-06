@@ -697,18 +697,20 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665089137392,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665089123386,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -717,7 +719,9 @@
      "active": {
       "stat": [
        30,
-       15
+       15,
+       35,
+       17.5
       ]
      }
     },
@@ -725,15 +729,17 @@
      "active": {
       "stat": [
        20,
-       10
+       10,
+       25,
+       12.5
       ]
      }
     }
    },
    "editor": {
     "en": {
-     "main": "While Crouched:\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% <title Accuracy Cone Growth [accuracy cone growth] />, -80% Recoil Yaw (Horizontal Recoil)\n\n<bold Effects are halved on Fusion Rifles. />\n\n< table formula > \n|               |b Most Weapons          |b Fusion Rifles\n|b Ready Speed: |  <formula [ready_0] /> |  <formula [ready_1] /> <background/>\n|b Stow Speed:  |  <formula [stow_0] />  |  <formula [stow_1] />\n<$>\n\nEnhanced: Stronger effect.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
-     "secondary": "While Crouched:\r\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\r\n\r\nEffects are halved on Fusion Rifles.\r\n\r\nEnhanced: Stronger effect."
+     "main": "While Crouched:\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% <title Accuracy Cone Growth [accuracy cone growth] />, -80% Recoil Yaw (Horizontal Recoil)\n\n<center/><bold Effects are halved on Fusion Rifles. />\n\n< table formula > \n|               |b Most Weapons          |b Fusion Rifles\n|b Ready Speed: |  <formula [ready_0] /> |  <formula [ready_1] /> <background/>\n|b Stow Speed:  |  <formula [stow_0] />  |  <formula [stow_1] />\n<$>\n\nEnhanced: Grants an additional +5 Handling and +5 Stability.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
+     "secondary": "While Crouched:\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% Accuracy Cone Growth, -80% Recoil Yaw (Horizontal Recoil)\n\nEffects are halved on Fusion Rifles.\n\nEnhanced: Grants an additional +5 Handling and +5 Stability.\n\n"
     }
    }
   },
