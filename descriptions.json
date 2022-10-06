@@ -5263,18 +5263,20 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665089560496,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665089551707,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -5283,6 +5285,9 @@
      "active": {
       "stat": [
        -100
+      ],
+      "multiplier": [
+       0.8
       ]
      }
     },
@@ -5296,7 +5301,7 @@
    },
    "editor": {
     "en": {
-     "main": "During Slide, after Sprinting for 1.5 seconds:\n20% Increased damage and 100ms increased Charge Rate for [?] seconds. \n\nEnhanced: Buff Duration is increased.",
+     "main": "Upon Sliding, after Sprinting for 1.5 seconds:\n20% Increased damage and 0.8x Charge Time for [?] seconds. \n\nEnhanced: Buff Duration is increased.",
      "secondary": "import self"
     }
    }
