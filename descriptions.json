@@ -18,7 +18,7 @@
    "hash": 0,
    "type": "none",
    "lastUpload": 0,
-   "uploadToLive": true,
+   "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
@@ -1688,6 +1688,32 @@
     }
    }
   },
+  "631976966": {
+   "hash": 631976966,
+   "name": "Scout Rifle Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "634781242": {
    "hash": 634781242,
    "name": "Adept Reload",
@@ -1716,6 +1742,32 @@
      "secondary": "+10 Reload"
     }
    }
+  },
+  "650047261": {
+   "hash": 650047261,
+   "name": "Hand Cannon Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "666440382": {
    "hash": 666440382,
@@ -2027,6 +2079,32 @@
     }
    }
   },
+  "712951940": {
+   "hash": 712951940,
+   "name": "Glaive Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "722862450": {
    "hash": 722862450,
    "name": "Dearly Departed",
@@ -2224,6 +2302,32 @@
      "secondary": "-40ms 充能时间\n不会降低伤害。\n不会显示在武器属性中。"
     }
    }
+  },
+  "755265365": {
+   "hash": 755265365,
+   "name": "Grenade Launcher Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "776531651": {
    "hash": 776531651,
@@ -2915,6 +3019,32 @@
     }
    }
   },
+  "1015337793": {
+   "hash": 1015337793,
+   "name": "Machine Gun Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1015611457": {
    "hash": 1015611457,
    "name": "Kill Clip",
@@ -3010,6 +3140,32 @@
      "secondary": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\n29% per hit, up to 435%: Fusion Rifles\n\n33.3% per hit, up to 500%:\nAuto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\n\n150% per hit, up to 450%: Linear Fusion Rifles\n\n166.6% per hit, up to 500%:\nBows, Glaives, Hand Cannons, Scout Rifles\n\n\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%\nEg: 500% -> 600%"
     }
    }
+  },
+  "1050260245": {
+   "hash": 1050260245,
+   "name": "Sidearm Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1095471953": {
    "hash": 1095471953,
@@ -4156,6 +4312,84 @@
     }
    }
   },
+  "1476367343": {
+   "hash": 1476367343,
+   "name": "Sword Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1499759470": {
+   "hash": 1499759470,
+   "name": "Linear Fusion Rifle Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1507854082": {
+   "hash": 1507854082,
+   "name": "Sidearm Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1513326571": {
    "hash": 1513326571,
    "name": "Taken Spec",
@@ -4708,6 +4942,32 @@
      "secondary": "增加 15% 对载具和建筑物的伤害\n增加 30% 对炮台、屏障、冰影水晶的伤害"
     }
    }
+  },
+  "1624081088": {
+   "hash": 1624081088,
+   "name": "Bow Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1631667848": {
    "hash": 1631667848,
@@ -6079,6 +6339,32 @@
     }
    }
   },
+  "2080519917": {
+   "hash": 2080519917,
+   "name": "Bow Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2117683199": {
    "hash": 2117683199,
    "name": "Full Auto Trigger System",
@@ -6147,6 +6433,32 @@
      "secondary": "Void Invisibility effects last 2 seconds longer.\r\n\r\nWhile Invisible:\r\n400% [PVP: 100%] Additional Base Melee Regeneration Rate.\r\nEach enemy within 15 metres will increase the bonus to a total of 600% [PVP: 200%] and 800% [PVP: 300%].\r\n\r\n100 Recovery and 100 Reload Speed."
     }
    }
+  },
+  "2128395292": {
+   "hash": 2128395292,
+   "name": "Machine Gun Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2172504645": {
    "hash": 2172504645,
@@ -6530,6 +6842,32 @@
      "secondary": "+10 Velocity"
     }
    }
+  },
+  "2307244871": {
+   "hash": 2307244871,
+   "name": "Sniper Rifle Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2355041704": {
    "hash": 2355041704,
@@ -7050,6 +7388,32 @@
     }
    }
   },
+  "2603856295": {
+   "hash": 2603856295,
+   "name": "Rocket Launcher Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2610012052": {
    "hash": 2610012052,
    "name": "Golden Tricorn",
@@ -7496,6 +7860,32 @@
     }
    }
   },
+  "2754084930": {
+   "hash": 2754084930,
+   "name": "Sniper Rifle Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2779035018": {
    "hash": 2779035018,
    "name": "Feeding Frenzy",
@@ -7683,6 +8073,32 @@
      "secondary": "Charging and Consuming a Grenade summons a Sentient Arc Soul for 20 seconds.\r\n\r\nSentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal 11 Damage in PVP.\r\n\r\nIf the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy.\r\n\r\nStanding in an Arc Soul Rift refreshes the duration of Sentient Arc Soul. Converts all the Arc Souls you receive to Sentient Arc Souls."
     }
    }
+  },
+  "2829974286": {
+   "hash": 2829974286,
+   "name": "Hand Cannon Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2839173408": {
    "hash": 2839173408,
@@ -8044,6 +8460,32 @@
      "secondary": "import secondary from 3722653512"
     }
    }
+  },
+  "2919349723": {
+   "hash": 2919349723,
+   "name": "Shotgun Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2946784966": {
    "hash": 2946784966,
@@ -8555,6 +8997,32 @@
     }
    }
   },
+  "3109470977": {
+   "hash": 3109470977,
+   "name": "Glaive Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3161816588": {
    "hash": 3161816588,
    "name": "Slideshot",
@@ -8680,6 +9148,32 @@
      "secondary": "On Low-Tier Minor Combatant Hit:\r\nGrants 1 Stack of Redirection, up to 20 Stacks\r\n\r\nGrants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks.\r\n\r\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks."
     }
    }
+  },
+  "3201675491": {
+   "hash": 3201675491,
+   "name": "Auto Rifle Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3208647503": {
    "hash": 3208647503,
@@ -9013,6 +9507,58 @@
     }
    }
   },
+  "3319681729": {
+   "hash": 3319681729,
+   "name": "Pulse Rifle Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "3330325954": {
+   "hash": 3330325954,
+   "name": "Trace Rifle Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3336648220": {
    "hash": 3336648220,
    "name": "Backup Mag",
@@ -9070,6 +9616,32 @@
      "secondary": "import selfimport self"
     }
    }
+  },
+  "3338875786": {
+   "hash": 3338875786,
+   "name": "Linear Fusion Rifle Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3347978672": {
    "hash": 3347978672,
@@ -9284,6 +9856,32 @@
      "secondary": "import self"
     }
    }
+  },
+  "3394151347": {
+   "hash": 3394151347,
+   "name": "Fusion Rifle Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3400784728": {
    "hash": 3400784728,
@@ -10569,6 +11167,32 @@
     }
    }
   },
+  "3857411140": {
+   "hash": 3857411140,
+   "name": "Submachine Gun Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3865257976": {
    "hash": 3865257976,
    "name": "Dragonfly",
@@ -10597,6 +11221,32 @@
      "secondary": "import secondary from 2848615171"
     }
    }
+  },
+  "3901392720": {
+   "hash": 3901392720,
+   "name": "Fusion Rifle Targeting",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3907299874": {
    "hash": 3907299874,
@@ -10845,6 +11495,32 @@
      "secondary": "Arc Ability Kills grant Conduction Tines for 7 [PVP: 4] seconds.\r\n\r\nAt x1 Conduction Tines\r\n175% Additional Base Grenade, Melee, and Super Regeneration Rate | [22?]% Slower Super Drain.\r\n\r\nAt x2 Conduction Tines\r\n350% Additional Base Grenade, Melee, and Super Regeneration Rate | [44?]% Slower Super Drain.\r\n\r\nAt x3 Conduction Tines\r\n525% Additional Base Grenade, Melee, and Super Regeneration Rate | 66% Slower Super Drain.\r\n\r\nSuper Drain affects every Roaming Super BUT Chaos Reach."
     }
    }
+  },
+  "3973928133": {
+   "hash": 3973928133,
+   "name": "Trace Rifle Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3977735242": {
    "hash": 3977735242,
@@ -11481,6 +12157,32 @@
      "secondary": "Passively grants +30 Reload Speed with 0.9x Duration Multiplier.\n\nDecreases Magazine Size Stat by 20."
     }
    }
+  },
+  "4148827738": {
+   "hash": 4148827738,
+   "name": "Shotgun Ammo Finder",
+   "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "4152709778": {
    "hash": 4152709778,
