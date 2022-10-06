@@ -7,7 +7,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0
+      "lastUpdate": 1665089780844,
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664949411218,
@@ -24,9 +25,6 @@
    "optional": false,
    "name": "Default perk",
    "editor": {
-    "en": {
-     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
-    },
     "zh-chs": {
      "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     }
@@ -253,18 +251,20 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665090635402,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090662517,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -272,22 +272,24 @@
     "range": {
      "active": {
       "stat": [
-       25
+       25,
+       30
       ]
      }
     },
     "aimAssist": {
      "active": {
       "stat": [
-       20
+       20,
+       25
       ]
      }
     }
    },
    "editor": {
     "en": {
-     "main": "For the <title first bullet only [first bullet only] />:\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [accuracy cone growth] />.\n\n3.1 seconds cooldown, resets if the weapon is shot.\n\n<formula In-Game Range: [range_0] />\n\ntitle first bullet only (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
-     "secondary": "For one bullet only:\r\n20 Aim Assist, 25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\r\n\r\n3.1 seconds cooldown, resets if the weapon is shot."
+     "main": "For the <title first bullet only [first bullet only] />:\n+20 Aim Assist, +25 Range, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [accuracy cone growth] />.\n\n3.1 seconds cooldown, resets if the weapon is shot.\n\n<formula In-Game Range: [range_0] />\n\nEnhanced: Aim Assist and Range bonuses are increased by an additional +5.\n\ntitle first bullet only (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
+     "secondary": "For one bullet only:\n+20 Aim Assist, +25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\n\n3.1 seconds cooldown, timer is reset if the weapon is shot.\n\nEnhanced: Aim Assist and Range bonuses are increased by an additional +5."
     }
    }
   },
@@ -637,7 +639,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1660340225750,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -647,8 +649,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665092098474,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -685,8 +688,8 @@
    },
    "editor": {
     "en": {
-     "main": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\n\n< table background_2 >\n|  Stack| Stability | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n|b 1x   | 2         | 5           | 0.985x              | <formula [reload_0] />\n|b 2x   | 12        | 30          | 0.970x              | <formula [reload_1] />\n|b 3x   | 14        | 35          | 0.955x              | <formula [reload_2] />\n|b 4x   | 18        | 45          | 0.940x              | <formula [reload_3] />\n|b 5x   | 25        | 60          | 0.925x              | <formula [reload_4] />\n<$>\n<formula [reload_0] />\nEnhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)\n",
-     "secondary": "Gain 1 Rapid Hit Stack per Precision Hit, granting Reload Speed and Stability for 2 seconds.\r\n\r\n•  2 | 12 | 14 | 18 | 25 Stability\r\n•  5 | 30 | 35 | 45 | 60 Reload Speed Stat\r\n•  0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Scalar\r\n\r\nEnhanced: Stronger Effect."
+     "main": "Gain 1 Rapid Hit Stack per Precision Hit, granting +Reload Speed and +Stability for 2 seconds.\n\n< table background_2 >\n|  Stack| Stability | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n|b 1x   | 2         | 5           | 0.985x              | <formula [reload_0] />\n|b 2x   | 12        | 30          | 0.970x              | <formula [reload_1] />\n|b 3x   | 14        | 35          | 0.955x              | <formula [reload_2] />\n|b 4x   | 18        | 45          | 0.940x              | <formula [reload_3] />\n|b 5x   | 25        | 60          | 0.925x              | <formula [reload_4] />\n<$>\n\nEnhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)\n",
+     "secondary": "Gain 1 Rapid Hit Stack per Precision Hit, granting +Reload Speed and +Stability for 2 seconds.\n\n•  +2 | +12 | +14 | +18 | +25 Stability <breakSpaces/>\n•  +5 | +30 | +35 | +45 | +60 Reload Speed Stat <breakSpaces/>\n•  0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Multiplier <breakSpaces/>\n\nEnhanced: Stronger Effect."
     }
    }
   },
@@ -1375,18 +1378,20 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665089974630,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665089947219,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -1396,14 +1401,17 @@
       "multiplier": [
        1.1,
        1.2,
-       1.3
+       1.3,
+       1.05,
+       1.1,
+       1.15
       ]
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Weapon Kill:\r\n10% | 20% | 30% increased damage until stow or reload.\r\n\r\nEnhanced: Passively grants 10 Magazine Stat (Identical to Tactical Mag).",
+     "main": "On Weapon Kill:\nIncreased damage until stow or reload.\n\n<pve [PVE] 10% | 20% | 30% increased damage />\n<pvp [PVP] 5% | 10% | 15% increased damage />\n\nEnhanced: Passively grants 10 Magazine Stat (Identical to Tactical Mag).",
      "secondary": "import self"
     }
    }
@@ -1446,18 +1454,20 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665090215204,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090204416,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -1467,12 +1477,17 @@
       "stat": [
        10
       ]
+     },
+     "active": {
+      "stat": [
+       10
+      ]
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Passively grants 10 Aim Assist, and 3% Reduced Movement Speed Penalty from ADS and Strafing.\r\n\r\nEnhanced: Aim Assist bonus is increased marginally.",
+     "main": "While Aiming-Down-Sights:\n+10 Aim Assist, and 3% Reduced Aiming-Down-Sights Movement Speed Penalty.\n\nEnhanced: Aim Assist bonus is slightly increased.",
      "secondary": "import self"
     }
    }
@@ -1909,6 +1924,43 @@
     }
    }
   },
+  "691659142": {
+   "hash": 691659142,
+   "name": "Pugilist",
+   "type": "weaponPerk",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Melee Ability Energy. Most <special/>Special Weapons grant 20%.\n\nGlaives, Grenade Launchers, and Trace Rifles share the ability gains of primary weapons.\n\nDealing Melee Damage grants +35 Handling for 3 seconds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Kills with Primary Weapons and Power Weapons grant 11% Melee Ability Energy. [Most] Special Weapons grant 22%.",
+     "secondary": "Kills with Primary Weapons and Power Weapons grant 10% Melee Ability Energy. [Most] Special Weapons grant 20%.\n\nGlaives, Grenade Launchers, and Trace Rifles share the ability gains of primary weapons.\n\nDealing Melee Damage grants +35 Handling for 3 seconds.\n\nEnhanced: Kills with Primary Weapons and Power Weapons grant 11% Melee Ability Energy. [Most] Special Weapons grant 22%."
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 1665091266948,
+     "updatedBy": "Fading Shadow"
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665091448211,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false,
+   "stats": {
+    "handling": {
+     "active": {
+      "stat": [
+       35
+      ]
+     }
+    }
+   }
+  },
   "692285813": {
    "hash": 692285813,
    "name": "Light Shift",
@@ -2045,18 +2097,20 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665091631156,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665091618301,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -2070,12 +2124,22 @@
        0.95
       ]
      }
+    },
+    "ready": {
+     "active": {
+      "stat": [
+       100
+      ],
+      "multiplier": [
+       0.95
+      ]
+     }
     }
    },
    "editor": {
     "en": {
-     "main": "On Ready:\n100 Ready/Stow Handling with a 0.95x Duration Multiplier for 1 second, or until ADS.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Passively grants 5 Handling.",
-     "secondary": "On Ready:\r\n100 Ready/Stow Handling with a 0.95x Duration Multiplier for 1 second, or until ADS.\r\n\r\nEnhanced: Passively grants 5 Handling."
+     "main": "On Ready:\n100 Ready/Stow Handling, and 0.95x Ready Animation Duration Multiplier for 1 second, or until ADS.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Passively grants 5 Handling.",
+     "secondary": "On Ready:\n100 Ready/Stow Handling, and 0.95x Ready Animation Duration Multiplier for 1 second, or until ADS.\n\nEnhanced: Passively grants 5 Handling."
     }
    }
   },
@@ -2336,7 +2400,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1660340225750,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -2346,14 +2410,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665092153423,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Weapon Kill against an enemy affected by a Void Debuff:\r\n\r\n45[?]HP Overshield for 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 9 seconds.\r\n",
+     "main": "On Weapon Kill against an enemy affected by a Void Debuff:\nGrants Void Overshield for 8 seconds.\n\nEnhanced: Buff Duration is increased to 9 seconds.",
      "secondary": "import self"
     }
    }
@@ -2935,7 +3000,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -2945,8 +3010,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665091563755,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -2968,8 +3034,8 @@
    },
    "editor": {
     "en": {
-     "main": "Immediately upon being reduced below 110 HP:\n<title Refreshes [refreshes] /> weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\n\nWorks while stowed.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Health Requirement reduced.\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
-     "secondary": "Immediately upon being reduced below 110 HP:\r\nRefreshes weapon, 50 Handling, and grants 5% Faster Ready/Stow Speed.\r\n\r\nWorks while stowed.\r\n\r\nEnhanced: Health Requirement reduced."
+     "main": "Upon being reduced to 110 HP or less:\nGrants +50 Handling, 0.95x Ready/Stow Duration Multiplier, and <title refreshes [G_refreshes] /> your weapon.\n\nWorks while stowed.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Health Threshold Requirement is reduced.",
+     "secondary": "Upon being reduced to 110 HP or less:\nGrants +50 Handling, 0.95x Ready/Stow Duration Multiplier, and refreshes your weapon.\n \nWorks while stowed.\n\nEnhanced: Health Threshold Requirement is reduced."
     }
    }
   },
@@ -3052,7 +3118,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -3062,8 +3128,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665089868813,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -3078,7 +3145,7 @@
    },
    "editor": {
     "en": {
-     "main": "On Reload, within 3.8 seconds of a Weapon Kill:\n33% Increased damage for 5 seconds.\nBuff can't be refreshed. Persists through stow.\n\nEnhanced: Buff Duration is increased to 5.5 seconds.",
+     "main": "Upon finishing a reload within 3.8 seconds of a Weapon Kill:\n33% Increased damage for 5 seconds.\n\nBuff can't be refreshed. Persists through stow.\n\nEnhanced: Buff Duration is increased to 5.5 seconds.",
      "secondary": "import self"
     }
    }
@@ -3469,7 +3536,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -3479,8 +3546,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090745075,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -3498,8 +3566,8 @@
    },
    "editor": {
     "en": {
-     "main": "On Precision Kill:\n70 Reload Speed with a 0.9x <title RDS [rds] /> for 6 seconds.\n\n<formula Reload Time: [reload_0] />\n\nEnhanced: Duration increased.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
-     "secondary": "On Precision Kill:\r\n70 Reload Speed with a 0.9x Duration Multiplier for 6 seconds.\r\n\r\nEnhanced: Duration increased."
+     "main": "On Precision Kill:\n70 Reload Speed with a 0.9x Reload Duration Multiplier for 6 seconds.\n\n<formula Reload Time: [reload_0] />\n\nEnhanced: Duration increased to 7 seconds.",
+     "secondary": "On Precision Kill:\n+70 Reload Speed, and 0.9x Reload Duration Multiplier for 6 seconds.\n\nEnhanced: Duration increased to 7 seconds."
     }
    }
   },
@@ -4010,7 +4078,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1660340225750,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -4020,8 +4088,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665092239998,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -4036,8 +4105,8 @@
    },
    "editor": {
     "en": {
-     "main": "If Magazine is Full:\n25% Increased damage and causes enemies to explode on death.\n\nPassively grants 30 Magazine Size\n\nEnhanced: Passively grants 5 Stability.",
-     "secondary": "import self"
+     "main": "If Magazine is Full:\n25% Increased damage and causes enemies to explode on death, dealing <pve 444 /> <pvp [163] /> damage in a [?] meter radius.\n\nPassively grants +30 Magazine Size\n\nEnhanced: Passively grants +5 Stability.",
+     "secondary": "If Magazine is Full:\n25% Increased damage and causes enemies to explode on death, dealing 444 [PVP: 163] damage in a [?] meter radius.\n\nPassively grants +30 Magazine Size\n\nEnhanced: Passively grants +5 Stability."
     }
    }
   },
@@ -4048,7 +4117,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -4058,8 +4127,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665091127283,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -4091,8 +4161,8 @@
    },
    "editor": {
     "en": {
-     "main": "While continuously moving:\nGain a Stack after 2 seconds and an additional Stack after 10 seconds.\n\n< table >\n|  Stacks   | Stability | Reload                 | Handling                     <bold/>\n|b x1       | 5         | 5                      | 5                            <background/>\n|  In-game: |           | <formula [reload_0] /> | <formula Ready: [ready_0] />\n|  values   |           |                        | <formula Stow: [stow_0] />\n|b x2       | 15        | 15                     | 15                           <background/>\n|  In-game: |           | <formula [reload_1] /> | <formula Ready: [ready_1] />\n|  values   |           |                        | <formula Stow: [stow_1] />\n<$>\n\nBeing still for 0.5 seconds removes all stacks. Works while stowed.\n\nEnhanced: Stacks remain for up to 1 second if not moving.",
-     "secondary": "While continuously moving:\r\nAfter 2 seconds: 5 Stability, 5 Handling, and 5 Reload at x1 Stack.\r\nAfter 10 seconds: 15 Stability, 15 Handling and 15 Reload at x2 Stacks.\r\n\r\nBeing still for 0.5 seconds removes all stacks. Works while stowed.\r\n\r\nEnhanced: Stacks remain for up to 1 second after being still."
+     "main": "<center/>While continuously moving at a minimum speed of 2 meters per second:\n<center/>Gain a Stack after 2 seconds and an additional Stack after 10 seconds.\n\n< table >\n|  Stacks   | Stability | Reload                 | Handling                     <bold/>\n|b x1       | +5         | +5                      | +5                            <background/>\n|  In-game: |           | <formula [reload_0] /> | <formula Ready: [ready_0] />\n|  values   |           |                        | <formula Stow: [stow_0] />\n|b x2       | +15        | +15                     | +15                           <background/>\n|  In-game: |           | <formula [reload_1] /> | <formula Ready: [ready_1] />\n|  values   |           |                        | <formula Stow: [stow_1] />\n<$>\n\nRemoves all stacks if movement speed is below 2 meters per second for 0.5 seconds.\n\nCan activate and remain active while stowed.\n\nEnhanced: Removes all stacks if movement speed is below 2 meters per second for 1 seconds.",
+     "secondary": "While continuously moving at a minimum of 2 meters per second:\nAfter 2 seconds: +5 Stability, +5 Handling, and +5 Reload Speed at x1 Stack.\nAfter 10 seconds: +15 Stability, +15 Handling and +15 Reload Speed at x2 Stack.\n\nRemoves all stacks if movement speed is below 2 meters per second for 0.5 seconds.\n\nCan activate and remain active while stowed.\n\nEnhanced: Removes all stacks if movement speed is below 2 meters per second for 1 seconds."
     }
    }
   },
@@ -4511,7 +4581,7 @@
    "inLiveDatabase": false,
    "uploadToLive": false,
    "optional": false,
-   "hidden": false,
+   "hidden": true,
    "updateTracker": {
     "stats": {
      "lastUpdate": 1659903012345,
@@ -4624,7 +4694,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -4634,14 +4704,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090168521,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Power Ammo Pickup:\nGrants (almost) the equivalent of 1 Special Ammo Pickup.\n\nEnhanced: Increases the amount of Special Ammo received.",
+     "main": "On Power Ammo Pickup:\nGrants 25% of your maximum Special Ammo Reserves.\n\nEquipping two Special Weapons halves the amount of ammo granted.\n\nEnhanced: Increases the amount of Special Ammo received to 35%.",
      "secondary": "import self"
     }
    }
@@ -5494,7 +5565,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1660340225750,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -5504,14 +5575,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665092121337,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "After 3 Powered Hits within [2?] seconds of each:\r\nGain +1 Ammo.",
+     "main": "After 3 Powered Hits within [2?] seconds of each:\nGain +1 Ammo.\n\nEnhanced: Timer between Hits is increased.",
      "secondary": "import self"
     }
    }
@@ -5611,7 +5683,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -5621,14 +5693,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090687734,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Grenade Ability Usage:\r\nChanges Weapon Element to match your selected Subclass until stowed. \r\n\r\nEnhanced: Passively grants 5 Handling.",
+     "main": "On Grenade Ability Usage:\nChanges your Weapon Element to match the selected Subclass until stowed. \n\nEnhanced: Passively grants +5 Handling.",
      "secondary": "import self"
     }
    }
@@ -7083,7 +7156,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -7093,8 +7166,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090036992,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -7119,8 +7193,8 @@
    },
    "editor": {
     "en": {
-     "main": "On Weapon Kill:\n20 Range, 50 Mobility, 40 Handling, and a 5% Increased Damage Falloff Distance\n\n<formula In-Game Range: [range_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\n\nEnhanced: Buff Duration is increased",
-     "secondary": "On Weapon Kill:\r\n20 Range, 50 Mobility, 40 Handling, and a 5% Increased Damage Falloff Distance.\r\n\r\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\r\n\r\nEnhanced: Buff Duration is increased."
+     "main": "On Weapon Kill:\n+20 Range, +50 Mobility, +40 Handling, and a 5% Increased Damage Falloff Distance\n\n<formula In-Game Range: [range_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\n\nEnhanced: Initial Buff Duration is increased.",
+     "secondary": "On Weapon Kill:\n+20 Range, +50 Mobility, +40 Handling, and a 5% Increased Damage Falloff Distance.\n\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\n\nEnhanced: Initial Buff Duration is increased."
     }
    }
   },
@@ -7169,7 +7243,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -7179,8 +7253,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090301222,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -7197,7 +7272,7 @@
    },
    "editor": {
     "en": {
-     "main": "On Reload, within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage for 5 seconds, depending on the amount of enemies killed within X seconds of each.\nBuff is overwritten every time you refresh it.\n\nEnhanced: Buff Duration is increased to 5.5 seconds.",
+     "main": "Upon finishing a reload within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage for 5 seconds, depending on the amount of enemies killed within X seconds of each.\n\nBuff is overwritten every time you refresh it.\n\nEnhanced: Buff Duration is increased to 5.5 seconds.",
      "secondary": "import self"
     }
    }
@@ -7700,7 +7775,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -7710,8 +7785,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090507875,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664118822374,
@@ -7721,8 +7797,8 @@
    },
    "editor": {
     "en": {
-     "main": "If All 12 Pellets from a Shotgun Hit:\n200% Increased melee damage for 1.22 seconds.\n350% Increased melee damage against Bosses and Vehicles.\n80% Increased melee damage if combined with Liar's Handshake.\n\nEnhanced: Pellet Activation Requirement reduced from 12 to 10.",
-     "secondary": "import self"
+     "main": "If All Pellets from a Shotgun Hit:\n200% Increased melee damage for 1.22 seconds.\n350% Increased melee damage against Bosses and Vehicles.\n\nHas reduced effectiveness when combined with certain Melee Damage Increases.\nCheck out the <link Destiny Data Compendium [https://docs.google.com/spreadsheets/d/1WaxvbLx7UoSZaBqdFr1u32F2uWVLo-CJunJB4nlGUE4/edit#gid=1662574278&range=I90] /> for additional information.\n\nEnhanced: Pellet Activation Requirement reduced from 12 to 10.",
+     "secondary": "If All Pellets from a Shotgun Hit:\n200% Increased melee damage for 1.22 seconds.\n350% Increased melee damage against Bosses and Vehicles.\n\nHas reduced effectiveness when combined with certain Melee Damage Increases.\nCheck out the Destiny Data Compendium for additional information.\n\nEnhanced: Pellet Activation Requirement reduced from 12 to 10."
     },
     "zh-chs": {
      "main": "当一发弹药的 12 枚弹片全部命中时：\r\n在 1.22 秒内增加 200% 近战伤害。\r\n对首领和载具时，变为增加 350% 近战伤害。\r\n当触发骗徒的握手时，变为增加 80% 近战伤害。\r\n\r\n强化特征： 需要命中的弹片从 12 枚降低为 10 枚。",
@@ -8164,7 +8240,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1660340225750,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -8174,8 +8250,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665091771247,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -8190,8 +8267,8 @@
    },
    "editor": {
     "en": {
-     "main": "While Aiming-Down-Sights:\n<title 10% Increased Zoom [increased zoom] />, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\n\nEnhanced: Passively grants 5 Handling\n\ntitle increased zoom (\nZoom acts as a multiplier to hipfire range and maximum falloff distance while ADS.\nIn this case, it effectively pushes out the weapon's range by 10%.\n)",
-     "secondary": "While Aiming-Down-Sights:\r\n10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\r\n\r\nEnhanced: Passively grants 5 Handling"
+     "main": "While Aiming-Down-Sights:\n<title 10% Increased Zoom [increased zoom] />, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\n\nEnhanced: Passively grants +5 Handling\n\ntitle increased zoom (\nZoom acts as a multiplier to hipfire range and maximum falloff distance while ADS.\nIn this case, it effectively pushes out the weapon's range by 10%.\n)",
+     "secondary": "While Aiming-Down-Sights:\n10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\n\nEnhanced: Passively grants +5 Handling"
     }
    }
   },
@@ -8231,7 +8308,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -8241,14 +8318,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090322759,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "After being scoped-in for 1 second without firing:\n35% Flinch Reduction.\nTimer starts as soon as the ADS input is pressed.\n\nEnhanced: Aiming-Down-Sights timer is reduced.",
+     "main": "Upon being scoped-in for 1 second without firing:\n35% Flinch Reduction.\n\nTimer starts as soon as the ADS input is pressed.\n\nEnhanced: Aiming-Down-Sights timer is reduced.",
      "secondary": "import self"
     }
    }
@@ -9595,7 +9673,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -9605,15 +9683,16 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090247926,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Miss:\r\nPrimary Weapons have a 35% chance to refund ammo.\r\nSpecial Weapons and Heavy Weapons have a 20% chance to refund ammo.\r\n\r\nEnhanced:\r\nPrimary Weapons have a [40% maybe] chance to refund ammo. \r\nSpecial Weapons and Heavy Weapons have a [25% maybe] chance to refund ammo.",
-     "secondary": "import selfimport self"
+     "main": "On Miss:\nPrimary Weapons have a 35% chance to refund ammo.\nSpecial Weapons and Power Weapons have a 20% chance to refund ammo.\n\nEnhanced:\nPrimary Weapons have a [40% maybe] chance to refund ammo. \nSpecial Weapons and Power Weapons have a [25% maybe] chance to refund ammo.",
+     "secondary": "import self"
     }
    }
   },
@@ -9956,7 +10035,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -9966,8 +10045,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665091717418,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664116141453,
@@ -9988,7 +10068,7 @@
    },
    "editor": {
     "en": {
-     "main": "On Weapon Kill:\n10% | 21% | 33.1% increased damage for 3.5 seconds.\nBuff Refreshed on Kill. \n\nEnhanced: Buff Duration is increased to 4 seconds.\n\nRampage Spec adds an additional 1 second to both regular and enhanced.",
+     "main": "On Weapon Kill:\n10% | 21% | 33.1% increased damage for 3.5 seconds.\nBuff Refreshed on Kill. \n\nEnhanced: Buff Duration is increased to 4 seconds.",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -10347,7 +10427,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -10357,15 +10437,16 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090866180,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On <special/>Special or <heavy/>Power Ammo Pickup:\nMagazine gets overflowed to 200% of its regular capacity.\n\nEnhanced: Magazine refill gets increased to 205-222% of its regular capacity.",
-     "secondary": "On Special or Power Ammo Pickup:\r\nMagazine gets overflowed to 200% of its regular capacity.\r\n\r\nEnhanced: Magazine refill gets increased to 205-222% of its regular capacity."
+     "main": "Upon Picking Up <special/>Special or <heavy/>Power Ammo:\nMagazine gets overflowed to 200% of its regular capacity.\n\nEnhanced: Magazine gets increased to 205-222% of its regular capacity.",
+     "secondary": "Upon Picking Up Special or Power Ammo:\nMagazine gets overflowed to 200% of its regular capacity.\n\nEnhanced: Magazine gets increased to 205-222% of its regular capacity."
     }
    }
   },
@@ -11341,7 +11422,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -11351,8 +11432,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665090109882,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -11367,7 +11449,7 @@
    },
    "editor": {
     "en": {
-     "main": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\n20% effective damage increase.\n\nPassively grants 50 Blast Radius.\n\nEnhanced: Passively grants 55 Blast Radius.",
+     "main": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\n(Overall 20% increased total damage)\n\nPassively grants +50 Blast Radius.\n\nEnhanced: Passively grants an additional +5 Blast Radius.",
      "secondary": "import self"
     }
    }
