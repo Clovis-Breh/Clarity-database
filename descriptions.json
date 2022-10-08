@@ -4834,7 +4834,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659626837571,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -4844,8 +4844,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659626837571,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261510126,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664415783589,
@@ -4855,12 +4856,49 @@
    },
    "editor": {
     "en": {
-     "main": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills restore [?]HP",
-     "secondary": "While surrounded by [?] enemies or by a Nightmare within [?] meters:\r\nKills restore [?]HP"
+     "main": "While surrounded by 3 enemies or by a Nightmare within [15?] meters:\nKills restore 40HP after 0.25 seconds.\n\n3 seconds cooldown after the healing procs",
+     "secondary": "import self"
     },
     "zh-chs": {
      "main": "当 [?] 米内有 [?] 个战斗人员或梦魇时， 完成最后一击时：\n恢复 [?] 生命值。",
      "secondary": "当 [?] 米内有 [?] 个战斗人员或梦魇时， 完成最后一击时：\n恢复 [?] 生命值。"
+    }
+   }
+  },
+  "1260401931": {
+   "hash": 1260401931,
+   "name": "Hot Swap",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "Upon readying the gun after receiving damage within [?] seconds:\n+30 Handling for 4 seconds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nSwords receive increased Charge Rate, Guard Resistance, and Guard Endurance.",
+     "secondary": "Upon readying the gun after receiving damage within [?] seconds:\n+30 Handling for 4 seconds.\n\nSwords receive increased Charge Rate, Guard Resistance, and Guard Endurance."
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 1665261554842,
+     "updatedBy": "Fading Shadow"
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665261548830,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false,
+   "stats": {
+    "handling": {
+     "active": {
+      "stat": [
+       30
+      ]
+     }
     }
    }
   },
