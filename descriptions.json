@@ -8484,6 +8484,33 @@
     }
    }
   },
+  "2173046394": {
+   "hash": 2173046394,
+   "name": "Voltshot",
+   "type": "weaponPerk",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "Upon finishing a reload within 3.8 seconds of a Kill:\nYour next Weapon Hit within 7 seconds applies Jolt. \n\nDamage from Jolt can be increased through Weapon Damage Increases, Debuffs, and Combatant Rank Modifiers.\n\nEnhanced: Buff Duration is increased to 8 seconds.",
+     "secondary": "import self"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665260833301,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2179827240": {
    "hash": 2179827240,
    "name": "Roast 'Em",
