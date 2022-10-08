@@ -5363,7 +5363,7 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665258806935,
+      "lastUpdate": 1665262416861,
       "undatedBy": "Fading Shadow",
       "updatedBy": "Fading Shadow"
      }
@@ -5380,7 +5380,7 @@
    },
    "editor": {
     "en": {
-     "main": "While holding down the trigger:\nGradually increases Accuracy and Stability, up to -100% Accuracy Cone Size and +10 Stability.\n\nEffect at maximum strength removes all spread.\n\nEnhanced: Effect reaches full effect sooner.",
+     "main": "While holding down the trigger:\nGradually increases Accuracy and Stability, up to -100% Accuracy Cone Size and +10 Stability after firing 10 shots.\nEffect at maximum strength removes all spread.\n\nEnhanced: Effect reaches full effect after [8?] shots.",
      "secondary": "import self"
     }
    }
