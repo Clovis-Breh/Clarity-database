@@ -12878,6 +12878,32 @@
     }
    }
   },
+  "3513791699": {
+   "hash": 3513791699,
+   "name": "Mulligan",
+   "type": "weaponPerk",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3523296417": {
    "hash": 3523296417,
    "name": "Demolitionist",
