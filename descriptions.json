@@ -408,6 +408,33 @@
     }
    }
   },
+  "120721526": {
+   "hash": 120721526,
+   "name": "Runneth Over",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "Reloading while within [15?] metres of allies overflows your magazine by 10% for every ally, up to [50?]%.",
+     "secondary": "import self"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665261867376,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "124408337": {
    "hash": 124408337,
    "name": "Headstone",
