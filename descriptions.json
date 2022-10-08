@@ -1671,25 +1671,39 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1660340225750,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1660340225750,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665259762362,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665259754035,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Weapon Kill:\r\nX (a lot of) Handling for all weapons for 8 seconds.\r\n\r\nCan be refreshed to up to 6 seconds.\r\n\r\n🡅 Enhanced: Buff Duration is increased.",
-     "secondary": "import self"
+     "main": "On Weapon Kill:\n+100 Handling, 0.825x Handling Animation Duration Multiplier for all weapons for 8.5 seconds.\n\nCan be refreshed to up to 6.5 seconds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Duration is increased.",
+     "secondary": "On Weapon Kill:\n+100 Handling, 0.825x Handling Animation Duration Multiplier for all weapons for 8.5 seconds.\n\nCan be refreshed to up to 6.5 seconds.\n\nEnhanced: Buff Duration is increased."
+    }
+   },
+   "stats": {
+    "handling": {
+     "active": {
+      "stat": [
+       100
+      ],
+      "multiplier": [
+       0.825
+      ]
+     }
     }
    }
   },
@@ -3547,7 +3561,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1660340225750,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -3557,14 +3571,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665259585186,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "While Crouched:\nPrevents Radar Ping from shooting, increased Reload Speed, and increases hold time by 25%",
+     "main": "While Crouched:\nPrevents Radar Ping when shooting, increases Reload Speed, and increases Arrow Hold Time by 25%.",
      "secondary": "import self"
     }
    }
@@ -6213,7 +6228,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1660340225750,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -6223,8 +6238,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665259653252,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -6266,8 +6282,8 @@
    },
    "editor": {
     "en": {
-     "main": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n10 Range with 5% Increased Falloff Distance, 10 Stability, 35 Handling, and 35 Reload Speed with 0.95x <title RDS [rds] /> for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\n<formula In-Game Range: [range_0] />\r\n<formula Reload Time: [reload_0] />\r\n<formula Ready Speed: [ready_0] />\r\n<formula Stow Speed: [stow_0] />\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds.\r\n\r\ntitle rds (\r\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\r\n)",
-     "secondary": "After Damaging 3 Separate Enemies within 3 seconds of each:\r\n10 Range with 5% Increased Falloff Distance, 10 Stability, 35 Handling, and 35 Reload Speed with 0.95x Duration Multiplier for 10 seconds.\r\nBuff can't be refreshed.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds."
+     "main": "After Damaging 3 Separate Enemies within 3 seconds of each:\n+10 Range, 5% Increased Falloff Distance, +10 Stability, +35 Handling, +35 Reload Speed, and 0.95x Reload Duration Multiplier for 10 seconds.\n\nBuff can't be refreshed.\n\n<formula In-Game Range: [range_0] />\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Duration is increased to 11 seconds.\n",
+     "secondary": "After Damaging 3 Separate Enemies within 3 seconds of each:\n+10 Range, 5% Increased Falloff Distance, +10 Stability, +35 Handling, +35 Reload Speed, and 0.95x Reload Duration Multiplier for 10 seconds.\nBuff can't be refreshed.\n\nEnhanced: Buff Duration is increased to 11 seconds."
     }
    }
   },
@@ -7382,24 +7398,42 @@
    "lastUpload": 0,
    "editor": {
     "en": {
-     "main": "Significantly increases handling, significantly decreases target acquisition.",
-     "secondary": "Significantly increases handling, significantly decreases target acquisition."
+     "main": "Passively grants +100 Handling, 0.95x Ready Animation Duration Multiplier, and -[60%?] Aim Assistance Cone Size.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Aim Assistance Cone Size Penalty is decreased to -[?]%.",
+     "secondary": "Passively grants +100 Handling, 0.95x Ready Animation Duration Multiplier, and -[60%?] Aim Assistance Cone Size.\n\nEnhanced: Aim Assistance Cone Size Penalty is decreased to -[?]%."
     }
    },
    "updateTracker": {
     "stats": {
-     "lastUpdate": 0
+     "lastUpdate": 1665259417603,
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0
+      "lastUpdate": 1665259430865,
+      "updatedBy": "Fading Shadow"
      }
     }
    },
-   "uploadToLive": false,
+   "uploadToLive": true,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "stats": {
+    "handling": {
+     "active": {
+      "stat": [
+       100
+      ]
+     }
+    },
+    "ready": {
+     "active": {
+      "multiplier": [
+       0.95
+      ]
+     }
+    }
+   }
   },
   "1828251441": {
    "hash": 1828251441,
@@ -11696,7 +11730,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1660340225750,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -11706,8 +11740,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665259505082,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -11729,8 +11764,8 @@
    },
    "editor": {
     "en": {
-     "main": "Upon Sliding:\n15% Magazine Refresh, 20 Range, and 30 Stability for 3 seconds. <title Only buffs first shot [only buffs first shot] />.\nCan activate multiple times per slide. 0.3 second cooldown between activation.\n\n<formula In-Game Range: [range_0] />\n\ntitle only buffs first shot (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)",
-     "secondary": "import self"
+     "main": "Upon Sliding:\n15% Magazine Refresh, +20 Range, and +30 Stability for 3 seconds. <title Only buffs first shot [only buffs first shot] />.\nCan activate multiple times per slide. 0.3 second cooldown between activation.\n\n<formula In-Game Range: [range_0] />\n\nEnhanced: Buff Effect is increased.\n\ntitle only buffs first shot (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)",
+     "secondary": "Upon Sliding:\n15% Magazine Refresh, +20 Range, and +30 Stability for [3?] seconds. Only active for the first shot.\n\nCan activate multiple times per slide. 0.3 second cooldown between activations. \n\nEnhanced: Buff Effect is increased."
     }
    }
   },
@@ -12557,7 +12592,7 @@
    "inLiveDatabase": false,
    "uploadToLive": false,
    "optional": false,
-   "hidden": false,
+   "hidden": true,
    "updateTracker": {
     "stats": {
      "lastUpdate": 1659903012345,
@@ -12806,7 +12841,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -12816,8 +12851,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665259970858,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -12853,7 +12889,7 @@
    "editor": {
     "en": {
      "main": "Grants Stat Bonuses depending on the amount of Charged Abilities.\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\n< table >\n|  Abilities| Stability | Reload                 | Handling\n|b 1x       | 5         | 5                      | 10                          <background/>\n|  In-Game  |           | <formula [reload_0] /> | <formula Ready: [ready_0] />\n|  Values:  |           |                        | <formula Stow: [stow_0] />\n|b 2x       | 15        | 25                     | 25                          <background/>\n|  In-Game  |           | <formula [reload_1] /> | <formula Ready: [ready_1] />\n|  Values:  |           |                        | <formula Stow: [stow_1] />\n|b 3x       | 25        | 50                     | 50                          <background/>\n|  In-Game  |           | <formula [reload_2] /> | <formula Ready: [ready_2] />\n|  Values:  |           |                        | <formula Stow: [stow_2] />\n<$>\n\nEnhanced: Stronger Effect",
-     "secondary": "Grants Stat Bonuses depending on the amount of Charged Abilities:\r\n\r\n> 5 | 25 | 50 Reload Speed\r\n> 5 | 15 | 25 Stability\r\n> 10 | 25 | 50 Handling\r\n\r\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\r\n\r\nEnhanced: Stronger Effect"
+     "secondary": "Grants Stat Bonuses depending on the amount of Charged Abilities.\n\n•   +5 | +15 | +25 Stability <breakSpaces/>\n•   +5 | +25 | +50 Reload Speed <breakSpaces/>\n•   +10 | +25 | +50 Handling <breakSpaces/>\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\nEnhanced: Stronger Effect."
     }
    }
   },
