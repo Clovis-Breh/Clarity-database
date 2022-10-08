@@ -14428,6 +14428,43 @@
     }
    }
   },
+  "3907865655": {
+   "hash": 3907865655,
+   "name": "Right Hook",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "Dealing Melee Damage grants +10 Aim Assistance and +10 Range for 10 seconds.\n\n<formula Effective Range: [range_0] />\n\nDealing additional Melee Damage while the Buff is active extends the duration by +10 seconds, up to 20 seconds.",
+     "secondary": "Dealing Melee Damage grants +10 Aim Assistance and +10 Range for 10 seconds.\n\nDealing additional Melee Damage while the Buff is active extends the duration by +10 seconds, up to 20 seconds."
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 1665261719798,
+     "updatedBy": "Fading Shadow"
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665261715383,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false,
+   "stats": {
+    "range": {
+     "active": {
+      "stat": [
+       10
+      ]
+     }
+    }
+   }
+  },
   "3913600130": {
    "hash": 3913600130,
    "name": "Whirlwind Blade",
