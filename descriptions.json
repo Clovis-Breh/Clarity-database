@@ -2889,7 +2889,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -2899,8 +2899,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261393546,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -2932,8 +2933,8 @@
    },
    "editor": {
     "en": {
-     "main": "Using your Grenade, hitting an enemy with a Charged Melee Attack, or using your Super Ability grants stacks of Well-Rounded. Super Ability grants two.\r\n\r\n10 Range, 10 Stability, and 10 Handling per stack.\r\nLasts 10 seconds.\r\n\r\n< table > \r\n|  Stacks| In-Game Range         | Ready Speed           | Stow Speed           <bold/>\r\n|b 1x    | <formula [range_0] /> | <formula [ready_0] /> | <formula [stow_0] /> <background/>\r\n|b 2x    | <formula [range_1] /> | <formula [ready_1] /> | <formula [stow_1] />\r\n<$>\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds.",
-     "secondary": "Using your Grenade or hitting an enemy with a Charged Melee Attack grants a stack of Well-Rounded. Using your Super Ability grants two stacks.\r\n\r\n10 Range, 10 Stability, and 10 Handling per stack.\r\nLasts 10 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 11 seconds."
+     "main": "Using your Grenade, hitting an enemy with a Powered Melee Attack, or using your Super Ability grants stacks of Well-Rounded. Super Ability grants two stacks.\n\n+10 Range, +10 Stability, and +10 Handling per stack.\nMaximum of 2 Stacks and lasts 10 seconds.\n\n< table > \n|  Stacks| In-Game Range         | Ready Speed           | Stow Speed           <bold/>\n|b 1x    | <formula [range_0] /> | <formula [ready_0] /> | <formula [stow_0] /> <background/>\n|b 2x    | <formula [range_1] /> | <formula [ready_1] /> | <formula [stow_1] />\n<$>\n\nEnhanced: Increases Stat Bonuses to [?].",
+     "secondary": "Using your Grenade, hitting an enemy with a Powered Melee Attack, or using your Super Ability grants stacks of Well-Rounded. Super Ability grants two stacks.\n\n+10 Range, +10 Stability, and +10 Handling per stack.\nMaximum of 2 Stacks and lasts 10 seconds.\n\nEnhanced: Increases Stat Bonuses to [?]."
     }
    }
   },
@@ -9065,7 +9066,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -9075,8 +9076,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261459510,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664423004699,
@@ -9086,7 +9088,7 @@
    },
    "editor": {
     "en": {
-     "main": "On Stacking Hits:\nReduces the Maximum Recoil Angle and Weapon Shake. \nRemoves Reticle Bounce on Controller input.\n\nEnhanced: Passively grants 5 Stability.",
+     "main": "On Hit:\nReduces the Maximum Recoil Angle and Weapon Shake, up to 5 stacks. Reloading or not scoring a hit within 1 second removes all stacks.\n\nRemoves Reticle Bounce on Controller input.\n\nEnhanced: Passively grants +5 Stability.",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -14390,7 +14392,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -14400,8 +14402,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261420974,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664423120406,
@@ -14429,7 +14432,7 @@
    },
    "editor": {
     "en": {
-     "main": "On Hit:\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. \nBlocking removes all Stacks.",
+     "main": "On Hit:\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. \nBlocking removes all stacks.\n\nEnhanced: Buff duration is increased.",
      "secondary": "import self"
     },
     "zh-chs": {
