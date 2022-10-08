@@ -13677,7 +13677,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -13687,8 +13687,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260049446,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -13704,7 +13705,7 @@
    },
    "editor": {
     "en": {
-     "main": "While within 8 metres of 3+ Enemies:\n30% Increased Damage. (Swords receive a 25% Damage Increase)\n\nSurrounded Spec increases damage by an additive 10% and adds a linger effect for 1.5 seconds \n\nEnhanced: Surrounded's damage buff is increased by a multiplicative 5%.",
+     "main": "While within 8 metres of 3+ Enemies:\n30% Increased Damage. (Swords receive a 25% Damage Increase)\n\nEnhanced: Surrounded's damage buff is increased by a multiplicative 5%.",
      "secondary": "import self"
     }
    }
@@ -13742,18 +13743,20 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665260084777,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260106695,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -13763,13 +13766,25 @@
       "multiplier": [
        0.9
       ]
+     },
+     "passive": {
+      "multiplier": [
+       0.9
+      ]
+     }
+    },
+    "ready": {
+     "passive": {
+      "multiplier": [
+       0.9
+      ]
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Passice 0.9x Ready/Stow Duration Multiplier\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
-     "secondary": "Passice 0.9x Ready/Stow Duration Multiplier"
+     "main": "Passively grants a 0.9x Ready/Stow Animation Duration Multiplier.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
+     "secondary": "Passively grants a 0.9x Ready/Stow Animation Duration Multiplier."
     }
    }
   },
