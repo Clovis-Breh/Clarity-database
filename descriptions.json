@@ -7,8 +7,7 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665089780844,
-      "updatedBy": "Fading Shadow"
+      "lastUpdate": 0
      },
      "zh-chs": {
       "lastUpdate": 1664949411218,
@@ -27,6 +26,9 @@
    "editor": {
     "zh-chs": {
      "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
+    },
+    "en": {
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nThe same can be done to lines of text <green/>\n\nYou probably noticed having multiple spaces in the editor\n              doesn't mean it will be the same in description\n              you can change that with <breakSpaces/>\n\nIn case only part of the description or the entire description only applies to some weapon type\nThis will apply to every weapon\n< weapon type ( auto rifle, combat bow, fusion rifle ) >\nThe description here will be applied only to specified weapon types\n<$$>\n< weapon type ( other ) >\nThis will apply to all not specified weapon types\n<$$>\n\nIf there is something you want just ask\nThis is not everything you can do btw\n\nTo see the full list press CTRL + SPACE\nAlso, CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     }
    }
   },
@@ -215,6 +217,32 @@
     }
    }
   },
+  "23371658": {
+   "hash": 23371658,
+   "name": "Box Breathing",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "25606670": {
    "hash": 25606670,
    "name": "Dual Loader",
@@ -292,6 +320,32 @@
      "secondary": "For one bullet only:\n+20 Aim Assist, +25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\n\n3.1 seconds cooldown, timer is reset if the weapon is shot.\n\nEnhanced: Aim Assist and Range bonuses are increased by an additional +5."
     }
    }
+  },
+  "64866129": {
+   "hash": 64866129,
+   "name": "Explosive Payload",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "117669763": {
    "hash": 117669763,
@@ -382,6 +436,84 @@
     }
    }
   },
+  "147913470": {
+   "hash": 147913470,
+   "name": "Whirlwind Blade",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "162561147": {
+   "hash": 162561147,
+   "name": "Mulligan",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "169755979": {
+   "hash": 169755979,
+   "name": "Dragonfly",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "185514250": {
    "hash": 185514250,
    "name": "Glacial Guard",
@@ -412,6 +544,32 @@
      "secondary": "Replaces Barricade with Glacial Guard.\r\n\r\nOn Glacial Guard Cast:\r\nGrants Shielded buff and applies 40 Slow Stacks to Combatants within 7 meters.\r\n\r\nShielded lasts 20 seconds and grants a 100HP Overshield with 62.5% Damage Resist in PVE.\r\nShielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding.\r\n\r\nWhile Shielded is active, you cannot regain Class Ability Energy.\r\nActivating Barricade while Glacial Guard is active will remove the effect."
     }
    }
+  },
+  "191144788": {
+   "hash": 191144788,
+   "name": "Slideshot",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "201365942": {
    "hash": 201365942,
@@ -693,6 +851,32 @@
     }
    }
   },
+  "254337357": {
+   "hash": 254337357,
+   "name": "Reservoir Burst",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "280464955": {
    "hash": 280464955,
    "name": "Firmly Planted",
@@ -746,6 +930,32 @@
     }
    }
   },
+  "288411554": {
+   "hash": 288411554,
+   "name": "Rampage",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "299264772": {
    "hash": 299264772,
    "name": "Adept Range",
@@ -774,6 +984,58 @@
      "secondary": "+10 Range"
     }
    }
+  },
+  "320071920": {
+   "hash": 320071920,
+   "name": "Underdog",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "344235611": {
+   "hash": 344235611,
+   "name": "Chill Clip",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "354401740": {
    "hash": 354401740,
@@ -951,6 +1213,110 @@
     }
    }
   },
+  "395388285": {
+   "hash": 395388285,
+   "name": "Firing Line",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "402033656": {
+   "hash": 402033656,
+   "name": "Grave Robber",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "405677814": {
+   "hash": 405677814,
+   "name": "Cold Steel",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "406461158": {
+   "hash": 406461158,
+   "name": "Tracking Module",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "409831596": {
    "hash": 409831596,
    "name": "Proximity Grenades",
@@ -1109,6 +1475,32 @@
     }
    }
   },
+  "461595545": {
+   "hash": 461595545,
+   "name": "Reconstruction",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "466087222": {
    "hash": 466087222,
    "name": "Smoothbore",
@@ -1245,6 +1637,32 @@
     }
    }
   },
+  "494941759": {
+   "hash": 494941759,
+   "name": "Threat Detector",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "509074078": {
    "hash": 509074078,
    "name": "Steady Hands",
@@ -1273,6 +1691,32 @@
      "secondary": "import self"
     }
    }
+  },
+  "509594246": {
+   "hash": 509594246,
+   "name": "Rangefinder",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "515704826": {
    "hash": 515704826,
@@ -1446,6 +1890,32 @@
      "secondary": "Passively grants 30 Airborne Effectiveness to Shotguns.\r\n\r\nShotgun Kills restore Melee Ability Energy.\r\n10% Minors | 25% Anything Else\r\n\r\nIf your Void Melee Ability is Charged:\r\nShotgun Kills activates Void Overshield and consume your Melee Energy."
     }
    }
+  },
+  "573122728": {
+   "hash": 573122728,
+   "name": "Triple Tap",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "588594999": {
    "hash": 588594999,
@@ -1641,6 +2111,32 @@
     }
    }
   },
+  "595108252": {
+   "hash": 595108252,
+   "name": "Compulsive Reloader",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "595829387": {
    "hash": 595829387,
    "name": "Cross Counter",
@@ -1672,6 +2168,58 @@
     }
    }
   },
+  "598607952": {
+   "hash": 598607952,
+   "name": "Chain Reaction",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "617966211": {
+   "hash": 617966211,
+   "name": "Successful Warm-Up",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "622433369": {
    "hash": 622433369,
    "name": "Warlord's End",
@@ -1702,6 +2250,32 @@
      "secondary": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and receive 30% increased damage.\r\nDuration and Range are dependant on Enemy Rank. \r\n\r\nEnemy Ranks are Minor/Elite/Miniboss/Boss.\r\nFinishers add 5 seconds to Duration. Bosses are not finishable. Guardians count as Elites.\r\n\r\nWarlord's End.\r\nRange: 10/15/20/25 metres, centered on enemy.\r\nDuration: 5/10/15/20 seconds.\r\nFinisher Duration: 10/15/20 seconds."
     }
    }
+  },
+  "624891305": {
+   "hash": 624891305,
+   "name": "Desperado",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "631976966": {
    "hash": 631976966,
@@ -2143,6 +2717,32 @@
     }
    }
   },
+  "711234314": {
+   "hash": 711234314,
+   "name": "Elemental Capacitor",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "712951940": {
    "hash": 712951940,
    "name": "Glaive Ammo Finder",
@@ -2423,6 +3023,84 @@
     }
    }
   },
+  "777774560": {
+   "hash": 777774560,
+   "name": "Osmosis",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "781192741": {
+   "hash": 781192741,
+   "name": "Surrounded",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "788178929": {
+   "hash": 788178929,
+   "name": "One-Two Punch",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "806159697": {
    "hash": 806159697,
    "name": "Trench Barrel",
@@ -2610,6 +3288,162 @@
      "secondary": "import self"
     }
    }
+  },
+  "834262328": {
+   "hash": 834262328,
+   "name": "Kickstart",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "838873202": {
+   "hash": 838873202,
+   "name": "Encore",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "843318450": {
+   "hash": 843318450,
+   "name": "Steady Hands",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "848860060": {
+   "hash": 848860060,
+   "name": "Fourth Time's the Charm",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "855168139": {
+   "hash": 855168139,
+   "name": "Unrelenting",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "859780267": {
+   "hash": 859780267,
+   "name": "One for All",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "883550427": {
    "hash": 883550427,
@@ -3085,6 +3919,58 @@
     }
    }
   },
+  "987673306": {
+   "hash": 987673306,
+   "name": "Tunnel Vision",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1008128453": {
+   "hash": 1008128453,
+   "name": "Cornered",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1015337793": {
    "hash": 1015337793,
    "name": "Machine Gun Targeting",
@@ -3234,6 +4120,32 @@
    "inLiveDatabase": false,
    "optional": false
   },
+  "1077019636": {
+   "hash": 1077019636,
+   "name": "Danger Zone",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1095471953": {
    "hash": 1095471953,
    "name": "Embers of Light",
@@ -3333,6 +4245,32 @@
      "secondary": "While surrounded by at least 3 enemies within 15 meters, gain Class Ability Energy per Second.\r\n\r\n3 Enemies = 3% | 4 Enemies = 5% | 5 Enemies =\r\n\r\n1 second after casting Rift:\r\nAn Arc Shockwave is cast that deals 300 [PVP: 100] damage and heavily knockbacks in a 7.5 meter radius.\r\n"
     }
    }
+  },
+  "1145640183": {
+   "hash": 1145640183,
+   "name": "Counterattack",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1147638875": {
    "hash": 1147638875,
@@ -3490,6 +4428,32 @@
     }
    }
   },
+  "1161469972": {
+   "hash": 1161469972,
+   "name": "Swashbuckler",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1163213078": {
    "hash": 1163213078,
    "name": "Cauterizing Flame",
@@ -3528,6 +4492,32 @@
      "secondary": "太阳黑子提供“恢复 x1”效果。"
     }
    }
+  },
+  "1167468626": {
+   "hash": 1167468626,
+   "name": "Lasting Impression",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1168162263": {
    "hash": 1168162263,
@@ -3570,6 +4560,136 @@
      "secondary": "On Precision Kill:\n+70 Reload Speed, and 0.9x Reload Duration Multiplier for 6 seconds.\n\nEnhanced: Duration increased to 7 seconds."
     }
    }
+  },
+  "1171147302": {
+   "hash": 1171147302,
+   "name": "Feeding Frenzy",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1171887445": {
+   "hash": 1171887445,
+   "name": "Headstone",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1172098417": {
+   "hash": 1172098417,
+   "name": "Sleight of Hand",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1172413778": {
+   "hash": 1172413778,
+   "name": "Thresh",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1183436451": {
+   "hash": 1183436451,
+   "name": "Firefly",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1195158366": {
    "hash": 1195158366,
@@ -3948,6 +5068,32 @@
     }
    }
   },
+  "1347741687": {
+   "hash": 1347741687,
+   "name": "Outlaw",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1354429876": {
    "hash": 1354429876,
    "name": "Fourth Time's the Charm",
@@ -4023,6 +5169,58 @@
    "editor": {
     "en": {
      "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1370847713": {
+   "hash": 1370847713,
+   "name": "Opening Shot",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1409206216": {
+   "hash": 1409206216,
+   "name": "Stats for All",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
     }
    },
    "updateTracker": {
@@ -4408,6 +5606,32 @@
    "inLiveDatabase": false,
    "optional": false
   },
+  "1489035549": {
+   "hash": 1489035549,
+   "name": "Celerity",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1499759470": {
    "hash": 1499759470,
    "name": "Linear Fusion Rifle Ammo Finder",
@@ -4505,6 +5729,32 @@
      "secondary": "增加 10% 对傀儡的伤害。"
     }
    }
+  },
+  "1523649716": {
+   "hash": 1523649716,
+   "name": "Tap the Trigger",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1523832109": {
    "hash": 1523832109,
@@ -4650,6 +5900,58 @@
     }
    }
   },
+  "1537607344": {
+   "hash": 1537607344,
+   "name": "Sympathetic Arsenal",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1545231802": {
+   "hash": 1545231802,
+   "name": "Redirection",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1546637391": {
    "hash": 1546637391,
    "name": "Vorpal Weapon",
@@ -4686,6 +5988,32 @@
      "secondary": "提高对首领、强大敌人、载具的伤害。\n主武器：20% | 特殊武器：15% | 重型武器：10%\n\n仅对激活超能的玩家生效\n主武器：40% - 50% \n特殊武器： 10% - 20% \n重型武器： 5% - 10%\n\n当超能没有额外伤害抵抗时，使用上述数值中较低的一个。\n\n强化特征：+5 装填速度。"
     }
    }
+  },
+  "1551736345": {
+   "hash": 1551736345,
+   "name": "Explosive Head",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1556840489": {
    "hash": 1556840489,
@@ -4783,6 +6111,58 @@
      "secondary": "On Precision Kill:\nTarget explodes, dealing 80 Solar Damage in a 3 meter radius, and grants +50 Reload Speed for 6 seconds.\n\nDamage against Combatants is multiplied by 1.3x, then multiplied again by Combatant Rank Modifiers."
     }
    }
+  },
+  "1562897767": {
+   "hash": 1562897767,
+   "name": "Timed Payload",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1563455254": {
+   "hash": 1563455254,
+   "name": "Rewind Rounds",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1570042021": {
    "hash": 1570042021,
@@ -5014,6 +6394,58 @@
     }
    }
   },
+  "1609056795": {
+   "hash": 1609056795,
+   "name": "Fragile Focus",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1618208178": {
+   "hash": 1618208178,
+   "name": "Eager Edge",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1624081088": {
    "hash": 1624081088,
    "name": "Bow Ammo Finder",
@@ -5107,6 +6539,84 @@
      "secondary": "As Magazine goes below 50% until empty:\r\nUp to -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, and 30[?] Stability.\r\n\r\nEnhanced: Stronger effect."
     }
    }
+  },
+  "1646437399": {
+   "hash": 1646437399,
+   "name": "Duelist's Trance",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1658784563": {
+   "hash": 1658784563,
+   "name": "Genesis",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1663363584": {
+   "hash": 1663363584,
+   "name": "Sneak Bow",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1667892708": {
    "hash": 1667892708,
@@ -5229,6 +6739,32 @@
      "secondary": "import self"
     }
    }
+  },
+  "1685378950": {
+   "hash": 1685378950,
+   "name": "Pulse Monitor",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1685431615": {
    "hash": 1685431615,
@@ -5557,6 +7093,58 @@
      "secondary": "Maxes out Sword's Guard Resistance, Efficiency, and Endurance.\r\nPerfectly timed blocks heal for 80(?) HP.\r\n\r\nBlocking Specifics:\r\nSwords grant 90% Damage Resistance.\r\nSword Energy does not decay from blocking damage or holding guard."
     }
    }
+  },
+  "1738338041": {
+   "hash": 1738338041,
+   "name": "Tilting at Windmills",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1748774930": {
+   "hash": 1748774930,
+   "name": "Zen Moment",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1749209109": {
    "hash": 1749209109,
@@ -6086,6 +7674,58 @@
     }
    }
   },
+  "1905598698": {
+   "hash": 1905598698,
+   "name": "Full Court",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "1906147653": {
+   "hash": 1906147653,
+   "name": "Demolitionist",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1919923227": {
    "hash": 1919923227,
    "name": "Overflowing Light",
@@ -6193,6 +7833,32 @@
     }
    }
   },
+  "1961144892": {
+   "hash": 1961144892,
+   "name": "Quickdraw",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1968497646": {
    "hash": 1968497646,
    "name": "Armor-Piercing Rounds",
@@ -6270,6 +7936,58 @@
     }
    }
   },
+  "2000295559": {
+   "hash": 2000295559,
+   "name": "Turnabout",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2002547233": {
+   "hash": 2002547233,
+   "name": "High-Impact Reserves",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2010801679": {
    "hash": 2010801679,
    "name": "Ambitious Assassin",
@@ -6306,6 +8024,32 @@
      "secondary": "import self"
     }
    }
+  },
+  "2014892510": {
+   "hash": 2014892510,
+   "name": "Perpetual Motion Enhanced",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2030760728": {
    "hash": 2030760728,
@@ -6438,6 +8182,32 @@
    "inLiveDatabase": false,
    "optional": false
   },
+  "2091001077": {
+   "hash": 2091001077,
+   "name": "Cluster Bomb",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2117683199": {
    "hash": 2117683199,
    "name": "Full Auto Trigger System",
@@ -6511,6 +8281,32 @@
    "hash": 2128395292,
    "name": "Machine Gun Ammo Finder",
    "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2139363611": {
+   "hash": 2139363611,
+   "name": "Well-Rounded",
+   "type": "weaponPerkEnhanced",
    "lastUpload": 0,
    "editor": {
     "en": {
@@ -6783,6 +8579,32 @@
     }
    }
   },
+  "2216471363": {
+   "hash": 2216471363,
+   "name": "Disruption Break",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2224838837": {
    "hash": 2224838837,
    "name": "Unstoppable Force",
@@ -6849,6 +8671,32 @@
      "secondary": "import self"
     }
    }
+  },
+  "2275087323": {
+   "hash": 2275087323,
+   "name": "Explosive Light",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2284787283": {
    "hash": 2284787283,
@@ -6920,6 +8768,32 @@
    "hash": 2307244871,
    "name": "Sniper Rifle Targeting",
    "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2308090567": {
+   "hash": 2308090567,
+   "name": "Field Prep",
+   "type": "weaponPerkEnhanced",
    "lastUpload": 0,
    "editor": {
     "en": {
@@ -7063,6 +8937,32 @@
     }
    }
   },
+  "2396422520": {
+   "hash": 2396422520,
+   "name": "Slideways",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2396489472": {
    "hash": 2396489472,
    "name": "Chain Reaction",
@@ -7099,6 +8999,32 @@
      "secondary": "import self"
     }
    }
+  },
+  "2402480669": {
+   "hash": 2402480669,
+   "name": "Focused Fury",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2422968039": {
    "hash": 2422968039,
@@ -7277,6 +9203,32 @@
     }
    }
   },
+  "2459015849": {
+   "hash": 2459015849,
+   "name": "Trench Barrel",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2471523345": {
    "hash": 2471523345,
    "name": "Glacial Fortification",
@@ -7307,6 +9259,32 @@
      "secondary": "While on Stasis Subclass:\r\nBarricade is replaced by a Stasis Wall.\r\n\r\nThe Stasis Wall is 7 medium crystals wide, and the middle crystal is a small crystal.\r\n\r\nGrants Rally Barricade benefits. Functions even if no crystals remain."
     }
    }
+  },
+  "2495011826": {
+   "hash": 2495011826,
+   "name": "Ensemble",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2500502982": {
    "hash": 2500502982,
@@ -7385,6 +9363,32 @@
     }
    }
   },
+  "2541826827": {
+   "hash": 2541826827,
+   "name": "Repulsor Brace",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2551157718": {
    "hash": 2551157718,
    "name": "Box Breathing",
@@ -7425,6 +9429,32 @@
      "secondary": "Upon aiming-down-sights for 1.5 seconds without firing:\n10% increased Aim Assist Falloff Distance and increases Precision Multiplier by +1 for one shot.\nTimer starts as soon as the ADS input is pressed.\n\nPrecision Multipliers:\nScout Rifles: 62.75% Increase (1.6x -> 2.6x)\nSniper Rifles: 33.22% Increase (3x -> 4x)\nLinear Fusion Rifles: 29% Increase (3.44x -> 4.44x)\n\nEnhanced: Activation timer is reduced to 1.4 seconds."
     }
    }
+  },
+  "2570477205": {
+   "hash": 2570477205,
+   "name": "Multikill Clip",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2590710093": {
    "hash": 2590710093,
@@ -7675,6 +9705,32 @@
     }
    }
   },
+  "2658083589": {
+   "hash": 2658083589,
+   "name": "Surplus",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2663272109": {
    "hash": 2663272109,
    "name": "Relentless Tracker",
@@ -7768,6 +9824,58 @@
     }
    }
   },
+  "2675184851": {
+   "hash": 2675184851,
+   "name": "Incandescent",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2675361166": {
+   "hash": 2675361166,
+   "name": "Wellspring",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2679249093": {
    "hash": 2679249093,
    "name": "One-Two Punch",
@@ -7805,6 +9913,58 @@
      "secondary": "import self"
     }
    }
+  },
+  "2682205016": {
+   "hash": 2682205016,
+   "name": "Overflow",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2717805783": {
+   "hash": 2717805783,
+   "name": "Moving Target",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2726471870": {
    "hash": 2726471870,
@@ -7935,6 +10095,58 @@
      "secondary": "Solar Grenades have Fastball intrinsically and last twice as long (4 -> 8 seconds).\r\n\r\nPowered Melee Kills grant 5 seconds of Sunbracers Ready.\r\n\r\nUsing your Grenade Ability while Sunbracers Ready is active grants the Sunbracers buff, granting unlimited Solar Grenades for 5 seconds."
     }
    }
+  },
+  "2748258257": {
+   "hash": 2748258257,
+   "name": "Heating Up",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2748801589": {
+   "hash": 2748801589,
+   "name": "Harmony",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2754084930": {
    "hash": 2754084930,
@@ -8233,6 +10445,32 @@
     }
    }
   },
+  "2840833776": {
+   "hash": 2840833776,
+   "name": "Shoot to Loot",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2846385770": {
    "hash": 2846385770,
    "name": "Rangefinder",
@@ -8300,6 +10538,58 @@
      "secondary": "On Precision Kill:\nTarget explodes, dealing 65 damage that matches the Element of the weapon over a 3 meter radius.\n\nDamage against Combatants is multiplied by 1.3x, then multiplied again by Combatant Rank Modifiers.\n\nEnhanced: Passively grants +5 Reload Speed."
     }
    }
+  },
+  "2856365672": {
+   "hash": 2856365672,
+   "name": "Energy Transfer",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2860991074": {
+   "hash": 2860991074,
+   "name": "Flash Counter",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "2866798147": {
    "hash": 2866798147,
@@ -8510,6 +10800,32 @@
     }
    }
   },
+  "2896748467": {
+   "hash": 2896748467,
+   "name": "Killing Tally",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "2898218424": {
    "hash": 2898218424,
    "name": "Air Assault",
@@ -8543,6 +10859,58 @@
    "hash": 2919349723,
    "name": "Shotgun Targeting",
    "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2923251173": {
+   "hash": 2923251173,
+   "name": "Kill Clip",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2938480696": {
+   "hash": 2938480696,
+   "name": "Rapid Hit",
+   "type": "weaponPerkEnhanced",
    "lastUpload": 0,
    "editor": {
     "en": {
@@ -8777,6 +11145,32 @@
     }
    }
   },
+  "3007133316": {
+   "hash": 3007133316,
+   "name": "Frenzy",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3016987351": {
    "hash": 3016987351,
    "name": "Counterattack",
@@ -8963,6 +11357,32 @@
     }
    }
   },
+  "3060983774": {
+   "hash": 3060983774,
+   "name": "Dynamic Sway Reduction",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3078487919": {
    "hash": 3078487919,
    "name": "Bait and Switch",
@@ -9038,6 +11458,58 @@
     }
    }
   },
+  "3097973565": {
+   "hash": 3097973565,
+   "name": "Iron Grip",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "3102670337": {
+   "hash": 3102670337,
+   "name": "Unstoppable Force",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3108830275": {
    "hash": 3108830275,
    "name": "Unrelenting",
@@ -9079,6 +11551,58 @@
    "hash": 3109470977,
    "name": "Glaive Targeting",
    "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "3118144663": {
+   "hash": 3118144663,
+   "name": "Hip-Fire Grip",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "3143051906": {
+   "hash": 3143051906,
+   "name": "Dual Loader",
+   "type": "weaponPerkEnhanced",
    "lastUpload": 0,
    "editor": {
     "en": {
@@ -9585,6 +12109,32 @@
     }
    }
   },
+  "3315935575": {
+   "hash": 3315935575,
+   "name": "Iron Reach",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3319681729": {
    "hash": 3319681729,
    "name": "Pulse Rifle Targeting",
@@ -9615,6 +12165,32 @@
    "hash": 3330325954,
    "name": "Trace Rifle Targeting",
    "type": "armorMod",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "3335686050": {
+   "hash": 3335686050,
+   "name": "Recombination",
+   "type": "weaponPerkEnhanced",
    "lastUpload": 0,
    "editor": {
     "en": {
@@ -9999,6 +12575,58 @@
     }
    }
   },
+  "3406782879": {
+   "hash": 3406782879,
+   "name": "En Garde",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "3418165135": {
+   "hash": 3418165135,
+   "name": "Vorpal Weapon",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3418782618": {
    "hash": 3418782618,
    "name": "Rewind Rounds",
@@ -10163,6 +12791,32 @@
      "secondary": "Grants Stat Bonuses depending on the amount of Charged Abilities:\r\n\r\n> 5 | 25 | 50 Reload Speed\r\n> 5 | 15 | 25 Stability\r\n> 10 | 25 | 50 Handling\r\n\r\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\r\n\r\nEnhanced: Stronger Effect"
     }
    }
+  },
+  "3442762221": {
+   "hash": 3442762221,
+   "name": "Lead from Gold",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3449001998": {
    "hash": 3449001998,
@@ -10383,6 +13037,32 @@
     }
    }
   },
+  "3563868667": {
+   "hash": 3563868667,
+   "name": "Clown Cartridge",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3592538738": {
    "hash": 3592538738,
    "name": "Wellspring",
@@ -10419,6 +13099,32 @@
      "secondary": "使用武器击杀时：\r\n获取 8% 的技能能量，平均分配到所有未充能的技能中。\r\n\r\n如果你有 3 个以上技能充能完毕， 该 perk 将不会生效。\r\n\r\n强化特征： 获取 9% 的技能能量，平均分配到所有未充能的技能中。"
     }
    }
+  },
+  "3609952942": {
+   "hash": 3609952942,
+   "name": "Iron Gaze",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3643424744": {
    "hash": 3643424744,
@@ -10689,6 +13395,32 @@
     }
    }
   },
+  "3674673997": {
+   "hash": 3674673997,
+   "name": "Immovable Object",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3678483220": {
    "hash": 3678483220,
    "name": "Assassin's Blade",
@@ -10845,6 +13577,32 @@
      "secondary": "import self"
     }
    }
+  },
+  "3719974635": {
+   "hash": 3719974635,
+   "name": "Eye of the Storm",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3721627275": {
    "hash": 3721627275,
@@ -11015,6 +13773,32 @@
      "secondary": "import secondary from 3078487919"
     }
    }
+  },
+  "3755250867": {
+   "hash": 3755250867,
+   "name": "Under Pressure",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3785661089": {
    "hash": 3785661089,
@@ -11303,6 +14087,32 @@
     }
    }
   },
+  "3878366039": {
+   "hash": 3878366039,
+   "name": "Impulse Amplifier",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3901392720": {
    "hash": 3901392720,
    "name": "Fusion Rifle Targeting",
@@ -11414,6 +14224,32 @@
      "secondary": "import self"
     }
    }
+  },
+  "3920370755": {
+   "hash": 3920370755,
+   "name": "Firmly Planted",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3927722942": {
    "hash": 3927722942,
@@ -11604,6 +14440,32 @@
    "inLiveDatabase": false,
    "optional": false
   },
+  "3974407819": {
+   "hash": 3974407819,
+   "name": "No Distractions",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3977735242": {
    "hash": 3977735242,
    "name": "Tracking Module",
@@ -11640,6 +14502,32 @@
      "secondary": "当瞄准敌人时：\n火箭可追踪敌人 [PVP 时追踪效果渐弱]\n取消瞄准时，追踪效果持续 1 秒。\n\n强化特征： +5 爆炸范围。"
     }
    }
+  },
+  "3979224005": {
+   "hash": 3979224005,
+   "name": "Shield Disorient",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3988215619": {
    "hash": 3988215619,
@@ -11850,6 +14738,32 @@
     }
    }
   },
+  "4045335048": {
+   "hash": 4045335048,
+   "name": "Headseeker",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "4048389864": {
    "hash": 4048389864,
    "name": "Feast of Light",
@@ -12023,6 +14937,32 @@
      "secondary": "On Weapon or Melee Kill:\r\n6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage for 4.5 seconds.\r\n\r\nBuff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\r\n\r\nEnhanced: Buff Duration is increased to 6.5 seconds."
     }
    }
+  },
+  "4085959009": {
+   "hash": 4085959009,
+   "name": "Relentless Strikes",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "4091000557": {
    "hash": 4091000557,
@@ -12199,6 +15139,32 @@
     }
    }
   },
+  "4116820839": {
+   "hash": 4116820839,
+   "name": "Snapshot Sights",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "4134353779": {
    "hash": 4134353779,
    "name": "Drop Mag",
@@ -12371,6 +15337,32 @@
     }
    }
   },
+  "4183521337": {
+   "hash": 4183521337,
+   "name": "Tireless Blade",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "4190535237": {
    "hash": 4190535237,
    "name": "Ursine Guard",
@@ -12401,6 +15393,32 @@
      "secondary": "Move forward at 90% your speed while blocking with Sentinel Shield.\r\n\r\nConverts incoming damage into Super Energy after Super ends, up to 50%.\r\n\r\nOvershields prevent damage into Super Energy conversion so don't stand in a Well of Radiance.\r\n"
     }
    }
+  },
+  "4207509907": {
+   "hash": 4207509907,
+   "name": "Killing Wind",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "4222205045": {
    "hash": 4222205045,
@@ -12471,6 +15489,32 @@
      "secondary": "雷霆冲击提升 100% 伤害。\n\n当雷霆冲击释放完成时：\n在 7 秒内获得 100 生命值的覆盖护盾。\n覆盖护盾持续时间会根据雷霆冲击释放距离而延长，最高为 20 秒。"
     }
    }
+  },
+  "4245865861": {
+   "hash": 4245865861,
+   "name": "Subsistence",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "4251375227": {
    "hash": 4251375227,
@@ -12589,6 +15633,32 @@
      "secondary": "+10 Handling"
     }
    }
+  },
+  "4290541820": {
+   "hash": 4290541820,
+   "name": "Golden Tricorn Enhanced",
+   "type": "weaponPerkEnhanced",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "none",
+     "secondary": "empty"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 0
+     }
+    }
+   },
+   "uploadToLive": false,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "4293542123": {
    "hash": 4293542123,
