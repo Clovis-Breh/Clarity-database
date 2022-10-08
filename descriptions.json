@@ -348,6 +348,60 @@
    "inLiveDatabase": false,
    "optional": false
   },
+  "79448657": {
+   "hash": 79448657,
+   "name": "Psychohack",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "Scoring multiple weapon hits lowers the target's damage output for a short duration.\n\n<pve [?] Reduced Damage for [?] seconds. />\n<pvp 10% Reduced Damage for 3 seconds. />",
+     "secondary": "Scoring multiple weapon hits lowers the target's damage output for a short duration.\n\nPVE: [?] Reduced Damage for [?] seconds.\nPVP: 10% Reduced Damage for 3 seconds."
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665262156316,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "82180537": {
+   "hash": 82180537,
+   "name": "Psychohack",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "import main from 79448657",
+     "secondary": "import secondary from 79448657"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665262182206,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": true,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "117669763": {
    "hash": 117669763,
    "name": "The Dance",
@@ -1111,6 +1165,33 @@
      "secondary": "import self"
     }
    }
+  },
+  "357495645": {
+   "hash": 357495645,
+   "name": "Psychohack",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "import main from 79448657",
+     "secondary": "import secondary from 79448657"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665262221822,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": true,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "371216963": {
    "hash": 371216963,
@@ -1903,6 +1984,33 @@
      "secondary": "import self"
     }
    }
+  },
+  "567997816": {
+   "hash": 567997816,
+   "name": "Psychohack",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "import main from 79448657",
+     "secondary": "import secondary from 79448657"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665262220345,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": true,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "569260333": {
    "hash": 569260333,
@@ -3491,6 +3599,33 @@
    },
    "uploadToLive": false,
    "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "883366072": {
+   "hash": 883366072,
+   "name": "Psychohack",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "import main from 79448657",
+     "secondary": "import secondary from 79448657"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665262218655,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": true,
    "inLiveDatabase": false,
    "optional": false
   },
@@ -5669,6 +5804,33 @@
     }
    }
   },
+  "1471995745": {
+   "hash": 1471995745,
+   "name": "Psychohack",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "import main from 79448657",
+     "secondary": "import secondary from 79448657"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665262217151,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": true,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1476367343": {
    "hash": 1476367343,
    "name": "Sword Ammo Finder",
@@ -6388,6 +6550,33 @@
      "secondary": "+15 Recoil Direction"
     }
    }
+  },
+  "1598147670": {
+   "hash": 1598147670,
+   "name": "Psychohack",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "import main from 79448657",
+     "secondary": "import secondary from 79448657"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665262215335,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": true,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "1600092898": {
    "hash": 1600092898,
@@ -8493,6 +8682,33 @@
    },
    "uploadToLive": false,
    "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
+  "2171055345": {
+   "hash": 2171055345,
+   "name": "Psychohack",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "import main from 79448657",
+     "secondary": "import secondary from 79448657"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665262213753,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": true,
    "inLiveDatabase": false,
    "optional": false
   },
@@ -13852,6 +14068,33 @@
     }
    }
   },
+  "3717985200": {
+   "hash": 3717985200,
+   "name": "Psychohack",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "import main from 79448657",
+     "secondary": "import secondary from 79448657"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665262212250,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": true,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "3719974635": {
    "hash": 3719974635,
    "name": "Eye of the Storm",
@@ -14061,6 +14304,33 @@
      "secondary": "import secondary from 3078487919"
     }
    }
+  },
+  "3754350707": {
+   "hash": 3754350707,
+   "name": "Psychohack",
+   "type": "weaponOriginTrait",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "import main from 79448657",
+     "secondary": "import secondary from 79448657"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665262208323,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": true,
+   "inLiveDatabase": false,
+   "optional": false
   },
   "3755250867": {
    "hash": 3755250867,
