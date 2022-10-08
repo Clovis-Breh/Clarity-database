@@ -64,7 +64,7 @@
    "lastUpload": 0,
    "editor": {
     "en": {
-     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
+     "main": "var e = ⮬"
     }
    },
    "updateTracker": {
@@ -73,7 +73,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0
+      "lastUpdate": 1665239668284,
+      "updatedBy": "Icemourne"
      }
     }
    },
@@ -10719,13 +10720,15 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659627305095,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665239931440,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Icemourne"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659627305095,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665240475787,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Icemourne"
      }
     }
    },
@@ -10757,10 +10760,11 @@
    },
    "editor": {
     "en": {
-     "main": "import stats from 3673922083\r\nimport main from 3673922083",
+     "main": "var t = 1\nimport main from 3673922083",
      "secondary": "import secondary from 3673922083"
     }
-   }
+   },
+   "mirrorStatsFrom": 3673922083
   },
   "2896038713": {
    "hash": 2896038713,
@@ -13383,8 +13387,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665003807252,
-      "undatedBy": "Fading Shadow"
+      "lastUpdate": 1665240574156,
+      "undatedBy": "Fading Shadow",
+      "updatedBy": "Icemourne"
      }
     }
    },
@@ -13416,7 +13421,7 @@
    },
    "editor": {
     "en": {
-     "main": "export description (\nOn Weapon Kill:\nIncreased damage, slower Rate of Fire/Charge Rate, and +10 Range for 7 seconds.\n)\n\n<formula In-Game Range: [range_0] />\n\n< table wide > \n|b Weapon           |b Damage         |b <title Fire/Charge Rate [ROF] />\n|  Hand Cannon      |  <green 30% />  |  <green -15% />\n|  Scout Rifle      |  <green 30% />  |  <green -15% />\n|  Auto Rifle       |  <purple 30% /> |  <purple -20% />\n|  Sidearm          |  <purple 30% /> |  <purple -20% />\n|  Grenade Launcher |  <purple 30% /> |  <purple -20% />\n|  Linear Fusion Rifle   |  30%            |  -15%          \n|  Fusion Rifle     |  <yellow 27% /> |  <yellow -15% />\n|  Bow              |  <blue 20% />   |  <blue -20% /> \n|  Shotgun          |  <blue 20% />   |  <blue -20% />\n<$>\n\nEnhanced: Buff Duration is increased to 8 seconds\n\ntitle ROF (\nRate of Fire tends to be shifted to the next slower-firing frame.\n\nEg: Rapid Fire Auto -> Adaptive Auto\n)",
+     "main": "var t = 0\nvar e = empty\nexport description (\nOn Weapon Kill:\nIncreased damage, slower Rate of Fire/Charge Rate, and +10 Range for #e${7 + #t} seconds.\n)\n\n<formula In-Game Range: [range_0] />\n\n< table wide background_2 > \n|b Weapon               |b Damage         |b <title Fire/Charge Rate [ROF] />\n|  Hand Cannon          |  <green 30% />  |  <green -15% />\n|  Scout Rifle          |  <green 30% />  |  <green -15% />\n|  Auto Rifle           |  <purple 30% /> |  <purple -20% />\n|  Sidearm              |  <purple 30% /> |  <purple -20% />\n|  Grenade Launcher     |  <purple 30% /> |  <purple -20% />\n|  Linear Fusion Rifle  |  30%            |  -15%          \n|  Fusion Rifle         |  <yellow 27% /> |  <yellow -15% />\n|  Bow                  |  <blue 20% />   |  <blue -20% /> \n|  Shotgun              |  <blue 20% />   |  <blue -20% />\n<$>\n\ntitle ROF (\nRate of Fire tends to be shifted to the next slower-firing frame.\n\nEg: Rapid Fire Auto => Adaptive Auto\n)",
      "secondary": "import description from 3673922083\n\nBows and Shotguns receive 20% increased damage. \nFusion Rifles receive 27% increased damage.\n\n-15% Rate of Fire/Charge Rate: Hand Cannons, Fusion Rifles, Linear Fusion Rifles, and Scout Rifles.\n\n-20% Rate of Fire/Charge Rate: Auto Rifles, Bows, Grenade Launchers, Sidearms, and Shotguns.\n\nEnhanced: Buff Duration is increased to 8 seconds."
     }
    }
