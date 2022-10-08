@@ -14896,7 +14896,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659626837571,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -14906,8 +14906,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659626837571,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261906723,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664417704282,
@@ -14917,8 +14918,8 @@
    },
    "editor": {
     "en": {
-     "main": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar.",
-     "secondary": "During the Hunt, final blows with this weapon grant enhanced radar and remove you from opposing radar."
+     "main": "Upon getting a Guardian Kill while below 63 HP: \nGrants you Enhanced Radar and removes you from passively appearing in opposing radar for 10 seconds.",
+     "secondary": "import self"
     },
     "zh-chs": {
      "main": "低于63点生命值时，守护者使用此武器造成最后一击：\n\n可在 10 秒内提供强化雷达，并将你从敌方雷达上移除。",
