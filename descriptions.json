@@ -2880,7 +2880,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659626837571,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -2890,8 +2890,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659626837571,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261953230,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664418865283,
@@ -2901,8 +2902,8 @@
    },
    "editor": {
     "en": {
-     "main": "Regain 7 Health on Kills",
-     "secondary": "Regain 7 Health on Kills"
+     "main": "Kills heal 7 HP",
+     "secondary": "import self"
     },
     "zh-chs": {
      "main": "每次最后一击恢复 7 生命值。",
@@ -7809,7 +7810,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659626837571,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -7819,8 +7820,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659626837571,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261943823,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664418812050,
@@ -7830,8 +7832,8 @@
    },
    "editor": {
     "en": {
-     "main": "On Weapon kill while your Super is charged:\r\n20 Discipline and 20 Strength for 12 seconds.",
-     "secondary": "On Weapon kill while your Super is charged:\r\n20 Discipline and 20 Strength for 12 seconds."
+     "main": "On Weapon kill while your Super Ability is charged:\n+20 Discipline and +20 Strength for 12 seconds.",
+     "secondary": "import self"
     },
     "zh-chs": {
      "main": "超能能量全满时使用此武器完成最后一击：\n在 12 秒内增加 20 力量、20 纪律。",
@@ -12661,7 +12663,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659626837571,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -12671,8 +12673,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659626837571,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261928024,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664418120420,
@@ -12682,8 +12685,8 @@
    },
    "editor": {
     "en": {
-     "main": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nHealth gain per hit varies between Weapon Types.",
-     "secondary": "Regenerates Health on reload based on the amount of hits before reload.\r\n\r\nHealth gain per hit varies between Weapon Types."
+     "main": "Regenerates Health on reload based on the amount of hits before reload.\nHealth gain per hit varies between Weapon Types.\n\nRanges between 20 HP to 80 HP for a full magazine.",
+     "secondary": "import self"
     },
     "zh-chs": {
      "main": "根据填装之前完成的命中数恢复生命值。\n\n可恢复生命值为 20 至 80 点，和武器类型相关。",
@@ -14859,7 +14862,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659626837571,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -14869,8 +14872,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659626837571,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261977538,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664419007442,
@@ -14880,8 +14884,8 @@
    },
    "editor": {
     "en": {
-     "main": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate.",
-     "secondary": "Hits have a chance to refresh your magazine.\r\n\r\nBows receive 15[?]ms Faster Draw Time. Swords receive [?] Faster Charge Rate."
+     "main": "Hits have a chance to refresh your magazine.\n\nBows receive 0.85x Draw Time. Swords receive [?] Faster Charge Rate.",
+     "secondary": "Hits have a chance to refresh your magazine.\n\nBows receive 0.85x Draw Time. Swords receive [?] Faster Charge Rate."
     },
     "zh-chs": {
      "main": "命中时有概率刷新弹夹。\n\n加快弓 15[?]ms 蓄力时间。加快刀剑 [?] 充能效率。",
