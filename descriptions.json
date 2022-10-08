@@ -625,7 +625,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -635,8 +635,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260699363,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664427892353,
@@ -660,8 +661,8 @@
    },
    "editor": {
     "en": {
-     "main": "While below 113 HP:\nUp to +100 Reload Speed with 0.9x <title RDS [rds] />\nEffect increases linearly as health decreases\n\n<formula Half Strength Reload Time: [reload_0] />\n<formula Maximum Strength Reload Time: [reload_1] />\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
-     "secondary": "While below 113 HP:\r\nUp to +100 Reload Speed with 0.9x Duration Multiplier \r\nEffect increases linearly as health decreases"
+     "main": "While below 113 HP:\nUp to +100 Reload Speed, and 0.9x Reload Duration Multiplier.\n\nEffect increases linearly as health decreases\n\n<formula Half Strength Reload Time: [reload_0] />\n<formula Maximum Strength Reload Time: [reload_1] />",
+     "secondary": "While <113 HP:\nUp to +100 Reload Speed, and 0.9x Reload Duration Multiplier. \n\nEffect increases linearly as health decreases."
     },
     "zh-chs": {
      "main": "While below 113 HP:\nUp to +100 Reload Speed with 0.9x <title RDS [rds] />\nEffect increases linearly as health decreases\n\n<formula Half Strength Reload Time: [reload_0] />\n<formula Maximum Strength Reload Time: [reload_1] />\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
@@ -3123,18 +3124,20 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665260547672,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260486896,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664429011497,
@@ -3160,8 +3163,8 @@
    },
    "editor": {
     "en": {
-     "main": "After dealing non-ranged Melee Damage:\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Effect is increased.",
-     "secondary": "After dealing non-ranged Melee Damage:\r\n50% Increased damage, X Reload Speed, and 30 Handling for 5 seconds OR 3 shots.\r\n\r\nEnhanced: Buff Effect is increased."
+     "main": "After dealing non-projectile Melee Damage:\n50% Increased damage, [+?] Reload Speed, and +30 Handling for 5 seconds OR 3 shots.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Effect is increased.",
+     "secondary": "After dealing non-projectile Melee Damage:\n50% Increased damage, [+?] Reload Speed, and +30 Handling for 5 seconds OR 3 shots.\n\nEnhanced: Buff Effect is increased."
     },
     "zh-chs": {
      "main": "在进行一次成功的近战打击后：\n在 5 秒内，或直到发射完三枚子弹前，提高 50% 武器伤害、30 操控性、 X填装速度。\n\n<formula 准备速度： [ready_0] />\n<formula 收枪速度： [stow_0] />\n\n强化特征：增强 Buff 效果。",
@@ -7587,6 +7590,33 @@
     }
    }
   },
+  "1870851715": {
+   "hash": 1870851715,
+   "name": "Under-Over",
+   "type": "weaponPerk",
+   "lastUpload": 0,
+   "editor": {
+    "en": {
+     "main": "Passively increases damage dealt to certain shields.\n\n20% Increased Damage against Overshields.\n10% Increased Damage against Combatant Shields.\n\nEnhanced: Damage Increase to Overshields is increased.",
+     "secondary": "import self"
+    }
+   },
+   "updateTracker": {
+    "stats": {
+     "lastUpdate": 0
+    },
+    "descriptions": {
+     "en": {
+      "lastUpdate": 1665260772865,
+      "updatedBy": "Fading Shadow"
+     }
+    }
+   },
+   "uploadToLive": true,
+   "hidden": false,
+   "inLiveDatabase": false,
+   "optional": false
+  },
   "1885045197": {
    "hash": 1885045197,
    "name": "Adept Draw Time",
@@ -7661,7 +7691,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -7671,8 +7701,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260220250,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664432764612,
@@ -7692,8 +7723,8 @@
    },
    "editor": {
     "en": {
-     "main": "Immediately upon firing:\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\n\n<blue Fusion Rifles Only Receive 25% of the benefits />\n\n<green [Controller-Only] /> Weapon fires the instant trigger pressure is applied.\n\nEnhanced: Stronger Effect, duration increased to 0.76 seconds.",
-     "secondary": "Immediately upon firing:\r\n40 Stability, -50% Max Recoil Kick, and -10% Accuracy Cone Size for 0.6 seconds.\r\n\r\n[Fusion Rifles Only Receive 25% of the benefits]\r\n\r\n[Controller-Only] Weapon fires the instant trigger pressure is applied.\r\n\r\nEnhanced: Stronger Effect, duration increased to 0.76 seconds."
+     "main": "Immediately upon firing:\n40 Stability, -50% Recoil, and -10% Accuracy Cone Size for 0.6 seconds.\n\n<blue Fusion Rifles Only Receive 25% of the benefits />\n\n<green [Controller-Only] /> Weapon fires the instant trigger pressure is applied.\n\nEnhanced: Stronger Effect, duration increased to 0.76 seconds.",
+     "secondary": "Immediately upon firing:\n40 Stability, -50% Recoil, and -10% Accuracy Cone Size for 0.6 seconds.\n\n[Fusion Rifles Only Receive 25% of the benefits]\n\n[Controller-Only] Weapon fires the instant trigger pressure is applied.\n\nEnhanced: Stronger Effect, duration increased to 0.76 seconds."
     },
     "zh-chs": {
      "main": "开火时：\n+40 稳定性，-50% 最大后坐力，-10% 精准圆锥范围，持续 0.6 秒。\n\n<blue 融合步枪仅获得上述数值 25% 的增益 />\n\n<green [手柄] /> 轻触扳机键即会开火。\n\n强化特征：增强效果，持续时间提高到 0.76 秒。",
@@ -8615,7 +8646,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -8625,8 +8656,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260632568,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664428093717,
@@ -8636,7 +8668,7 @@
    },
    "editor": {
     "en": {
-     "main": "Upon breaking a Combatant's Shield or a Guardian's Shield while in Super:\r\n30HP Overshield for 10 seconds.\r\n\r\nEnhanced: Increases the Overshield duration to 11.4 seconds.",
+     "main": "Upon breaking a Combatant's Elemental Shield or a Guardian's Shield while in Super:\nGrants a 30 HP Overshield for 10 seconds.\n\nEnhanced: Increases the Overshield duration to 11.4 seconds.",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -8951,16 +8983,18 @@
    "inLiveDatabase": false,
    "uploadToLive": false,
    "optional": false,
-   "hidden": false,
+   "hidden": true,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665260545242,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260505258,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664428821868,
@@ -8986,14 +9020,15 @@
    },
    "editor": {
     "en": {
-     "main": "import stats from 806159697\nimport main from 806159697",
+     "main": "import main from 806159697",
      "secondary": "import secondary from 806159697"
     },
     "zh-chs": {
      "main": "import stats from 806159697\nimport main from 806159697",
      "secondary": "import secondary from 806159697"
     }
-   }
+   },
+   "mirrorStatsFrom": 806159697
   },
   "2387244414": {
    "hash": 2387244414,
@@ -9558,7 +9593,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -9568,8 +9603,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260416233,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664429329026,
@@ -9579,7 +9615,7 @@
    },
    "editor": {
     "en": {
-     "main": "Powered Swords gain 1 Ammo every other kill.",
+     "main": "Powered Swords gain +1 Ammo every other kill.\n\nEnhanced: [?]% Chance on every other Kill to gain an additional +1 Ammo.",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -11038,7 +11074,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -11048,8 +11084,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260606106,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664428485061,
@@ -11068,7 +11105,7 @@
    },
    "editor": {
     "en": {
-     "main": "After Reloading within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and [?] Handling (ADS only) for 5 seconds.\nBuff cannot be refreshed.\n\nEnhanced: Buff Duration is increased.",
+     "main": "Upon Reload within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and [+?] Handling (ADS only) for 5 seconds.\n\nCannot be refreshed.\n\nEnhanced: Buff Duration is increased.",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -12645,7 +12682,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -12655,8 +12692,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260563980,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664428811801,
@@ -12666,7 +12704,7 @@
    },
    "editor": {
     "en": {
-     "main": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine.\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\n\nEnhanced: Timer between Precision Hits is increased.",
+     "main": "Scoring 3 Precision Hits refunds 1 Ammo to Magazine.\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\n\nEnhanced: Timer between Precision Hits is increased to 3 seconds.",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -13075,7 +13113,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -13085,8 +13123,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260365781,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664429850205,
@@ -13096,7 +13135,7 @@
    },
    "editor": {
     "en": {
-     "main": "Upon blocking damage with your Glaive Shield:\r\n\r\nIncreases Mobility[?] for [?] seconds, or until you stop blocking.\r\n\r\nEnhanced: Buff Duration is increased.",
+     "main": "Upon blocking damage with your Glaive Shield:\nDecreases Glaive Block's Movement Speed Penalty to [?]% for [?] seconds, or until you stop blocking.\n\nEnhanced: Buff Duration is increased.",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -14986,7 +15025,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -14996,8 +15035,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260336026,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664432865790,
@@ -15033,8 +15073,8 @@
    },
    "editor": {
     "en": {
-     "main": "Grants the following while within 15 meters of enemies:\n\n< table >\n|b Enemy Count |b Stability |b Reload                 |b Handling Animation Duration\n|b 1           |  ~15       |  15                     |  0.75x <background/>\n|  In-Game     |            |  <formula [reload_0] /> |  <formula Ready: [ready_0] />\n|  Values:     |            |                         |  <formula Stow: [stow_0] />\n|b 2+          |  ~40       |  55                     |  0.56x <background/>\n|  In-Game     |            |  <formula [reload_1] /> |  <formula Ready: [ready_1] />\n|  Values:     |            |                         |  <formula Stow: [stow_1] />\n<$>\n\nEnhanced: Buff Effect is increased.",
-     "secondary": "While within 15 metres of an enemy:\r\n~15 Stability, 15 Reload, and 0.75x Handling Animation Duration Scalar.\r\n\r\nWhile within 15 metres of 2+ enemies:\r\n~40 Stability, 55 Reload, and 0.56x Handling Animation Duration Scalar.\r\n\r\nEnhanced: Buff Effect is increased."
+     "main": "Grants the following while within 15 meters of enemies:\n\n< table >\n|b Enemy Count |bc Stability |bc Reload Speed                 |bc Handling Animation Duration\n|b 1           |c  ~15       |c  15                     |c  0.75x <background/>\n|  In-Game     |            |c  <formula [reload_0] /> |c  <formula Ready: [ready_0] />\n|  Values:     |            |                         |c  <formula Stow: [stow_0] />\n|b 2+          |c  ~40       |c  55                     |c  0.56x <background/>\n|  In-Game     |            |c  <formula [reload_1] /> |c  <formula Ready: [ready_1] />\n|  Values:     |            |                         |c  <formula Stow: [stow_1] />\n<$>\n\nEnhanced: Buff Effect is increased.",
+     "secondary": "While within 15 metres of an enemy:\n~15 Stability, 15 Reload, and 0.75x Handling Animation Duration Multiplier.\n\nWhile within 15 metres of 2+ enemies:\n~40 Stability, 55 Reload, and 0.56x Handling Animation Duration Multiplier.\n\nEnhanced: Buff Effect is increased."
     },
     "zh-chs": {
      "main": "15 米内有敌人时，获得以下提升：\n\n< table >\n|b 敌人数量    |b 稳定性     |b 装填速度               |b 动画持续时间\n|b 1           |  ~15       |  15                     |  0.75x <background/>\n|  实际数值     |            |  <formula [reload_0] /> |  <formula 准备：[ready_0] />\n|              |            |                         |  <formula 收起：[stow_0] />\n|b 2+          |  ~40       |  55                     |  0.56x <background/>\n|  实际数值     |            |  <formula [reload_1] /> |  <formula 准备：[ready_1] />\n|              |            |                         |  <formula 收起：[stow_1] />\n<$>\n\n强化特征：增强 Buff 效果。",
@@ -15049,18 +15089,20 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665260156766,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665260182423,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      }
     }
    },
@@ -15068,19 +15110,19 @@
     "damage": {
      "active": {
       "multiplier": [
-       1.066,
-       1.132,
+       1.067,
+       1.133,
        1.2,
-       1.264,
-       1.33
+       1.266,
+       1.333
       ]
      }
     }
    },
    "editor": {
     "en": {
-     "main": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds. Buff Refreshed on Kill. Melee Kills grant max stacks instantly.\n\n< table wide >\n|  Stacks          | 1x   | 2x    | 3x  | 4x    | 5x  <bold/>\n|b Damage Increase | 6.6% | 13.2% | 20% | 26.4% | 33% <background/>\n<$>\n\nEnhanced: Buff Duration is increased to 6.5 seconds.",
-     "secondary": "On Weapon or Melee Kill:\r\n6.6% | 13.2% | 20% | 26.4% | 33% Increased Damage for 4.5 seconds.\r\n\r\nBuff Refreshed on Kill. Melee Kills grant all 5 Stacks instantly.\r\n\r\nEnhanced: Buff Duration is increased to 6.5 seconds."
+     "main": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds.\n\nBuff is refreshed on Kill. Melee Kills grants max stacks instantly.\n\n< table wide >\n|  Stacks          | 1x   | 2x    | 3x  | 4x    | 5x  <bold/>\n|b Damage Increase | 6.7% | 13.3% | 20% | 26.6% | 33.3% <background/>\n<$>\n\nEnhanced: Buff Duration is increased to 5 seconds.",
+     "secondary": "On Weapon or Melee Kill:\n6.7% | 13.3% | 20% | 26.6% | 33.3% Increased Damage for 4.5 seconds.\n\nBuff is refreshed on Kill. Melee Kills grants max stacks instantly.\n\nEnhanced: Buff Duration is increased to 5 seconds."
     }
    }
   },
