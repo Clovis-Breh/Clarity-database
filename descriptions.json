@@ -5980,7 +5980,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659903012345,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -5990,8 +5990,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261274319,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664424403402,
@@ -6001,8 +6002,8 @@
    },
    "editor": {
     "en": {
-     "main": "Damage Increase against Bosses, Minibosses, and Vehicles.\n<pve Primary: 20% | Special: 15% | Heavy: 10% />\n\n<pvp Against Player Supers Only: />\n<primary/>Primary Weapons: <pvp 40% to 50% />\n<special/>Special Weapons: <pvp 10% to 20% />\n<heavy/>Heavy Weapons: <pvp 5% to 10% />\nThe lower Damage Increase is against supers with no extra Damage Resistance.\n\nEnhanced: Passively grants 5 Reload Speed.",
-     "secondary": "Damage Increase against Bosses, Minibosses, and Vehicles.\r\nPrimary: 20% | Special: 15% | Heavy: 10%\r\n\r\nAgainst Player Supers Only:\r\nPrimary: 40% to 50% | Special: 10% to 20% | Heavy: 5% to 10%\r\n\r\nThe lower Damage Increase is against supers with no extra Damage Resistance.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
+     "main": "Deals increased damage against Miniboss, Boss, and Vehicle Combatants, as well as Players in their Super Ability.\n\n<pve Primary: +20% | Special: +15% | Heavy: +10% />\n\n<pvp Against Player Supers Only: />\n<primary/>Primary Weapons: <pvp +40% to +50% Damage />\n<special/>Special Weapons: <pvp +10% to +20% Damage />\n<heavy/>Heavy Weapons: <pvp +5% to +10% Damage />\n\nEnhanced: Passively grants +5 Reload Speed.",
+     "secondary": "Deals increased damage against Miniboss, Boss, and Vehicle Combatants, as well as Players in their Super Ability.\n\nDamage increase against PVE Combatants:\nPrimary: +20% | Special: +15% | Heavy: +10%\n\nDamage increase against Player Supers Only:\nPrimary: +40% to +50%\nSpecial: +10% to +20%\nHeavy: +5% to +10%\n\nEnhanced: Passively grants +5 Reload Speed."
     },
     "zh-chs": {
      "main": "提高对首领、强大敌人、载具的伤害。\n<pve 主武器：20% | 特殊武器：15% | 重型武器：10% />\n\n<pvp 仅对激活超能的玩家生效 />\n<primary/>主武器：<pvp 40% - 50% />\n<special/>特殊武器：<pvp 10% - 20% />\n<heavy/>重型武器： <pvp 5% - 10% />\n当超能没有额外伤害抵抗时，使用上述数值中较低的一个。\n\n强化特征：+5 装填速度。",
