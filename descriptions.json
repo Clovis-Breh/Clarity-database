@@ -1741,7 +1741,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659626837571,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -1751,8 +1751,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659626837571,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261590589,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664416223324,
@@ -1763,7 +1764,7 @@
    "editor": {
     "en": {
      "main": "Damaging the Invader with this weapon marks them for allies.",
-     "secondary": "Damaging the Invader with this weapon marks them for allies."
+     "secondary": "import self"
     },
     "zh-chs": {
      "main": "使用此武器快速击败目标可提升冲刺速度。",
@@ -5930,7 +5931,7 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659626837571,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
@@ -5940,8 +5941,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659626837571,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261583257,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664416355940,
@@ -5951,8 +5953,8 @@
    },
    "editor": {
     "en": {
-     "main": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times.",
-     "secondary": "On Weapon Kill:\r\n10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\r\nStacks up to 3 times."
+     "main": "On Weapon Kill:\n+10 Resilience and 5% Damage Resist against Combatants for 5 seconds.\nStacks up to 3 times.",
+     "secondary": "import self"
     },
     "zh-chs": {
      "main": "使用此武器造成最后一击:\n在 5 秒内可提供 10 韧性以及 5% 对战斗人员的额外伤害抗性。\n可叠加 3 次。",
@@ -7039,8 +7041,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659626837571,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261599915,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664415513051,
@@ -7051,7 +7054,7 @@
    "editor": {
     "en": {
      "main": "Kills grant 5% Class Ability Energy.",
-     "secondary": "Kills grant 5% Class Ability Energy."
+     "secondary": "import self"
     },
     "zh-chs": {
      "main": "使用此武器完成最后一击可获得 5% 职业技能能量。",
@@ -10594,18 +10597,20 @@
    "uploadedBy": "Fading-Shadow",
    "lastUpload": 1659626837571,
    "inLiveDatabase": false,
-   "uploadToLive": false,
+   "uploadToLive": true,
    "optional": false,
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659626837571,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1665261655768,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Fading Shadow"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659626837571,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261647699,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664417381192,
@@ -10635,8 +10640,8 @@
    },
    "editor": {
     "en": {
-     "main": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%.\r\n\r\n<formula Maximum Effect Reload Time: [reload_0] />\r\n<formula Half Effect Reload Time: [reload_1] />",
-     "secondary": "The top half of the magazine has up to 20 Stability and 30 Reload Speed.\r\n\r\nStat Bonus decreases as the magazine gets lower, and disappears at 50%."
+     "main": "The top 50% of the magazine has up to +20 Stability and +30 Reload Speed.\n\n<formula Maximum Effect Reload Time: [reload_0] />\n<formula Half Effect Reload Time: [reload_1] />",
+     "secondary": "The top 50% of the magazine has up to +20 Stability and +30 Reload Speed."
     },
     "zh-chs": {
      "main": "此武器的前半弹匣弹药最多提供 20 稳定性和 30 装填速度。\n\n从该特性获取的额外属性将根据弹夹余弹数量降低，余弹数量降低到 50% 时失效。\n\n<formula Maximum Effect Reload Time: [reload_0] />\n<formula Half Effect Reload Time: [reload_1] />",
@@ -15543,8 +15548,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659627305095,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665261602250,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Fading Shadow"
      },
      "zh-chs": {
       "lastUpdate": 1664415438210,
@@ -15555,7 +15561,7 @@
    "editor": {
     "en": {
      "main": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing.",
-     "secondary": "Receiving [20?] damage grants a stack of Bitterspite, up to 5 stacks.\r\n\r\nBitterspite increases Reload Speed based on stacks, all of which expire upon reloading or stowing."
+     "secondary": "import self"
     },
     "zh-chs": {
      "main": "受到 [20?] 伤害可获得一层苦涩怨恨，最多叠加 5 次。\n\n增加的装填速度与苦涩怨恨叠加的层数相关，当重新装填或收起武器后将失效。",
