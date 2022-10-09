@@ -7,7 +7,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 0
+      "lastUpdate": 1665312205172,
+      "updatedBy": "Icemourne"
      },
      "zh-chs": {
       "lastUpdate": 1664949411218,
@@ -28,7 +29,7 @@
      "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     },
     "en": {
-     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
+     "main": "var e = empty\nOn Weapon Kill for #e${7 + #t} seconds: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Range\n<$$>\n< weapon type ( combat bow, shotgun ) >\n    +20% Damage\n< weapon type ( other ) >\n    +30% Damage\n<$$>\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Fire Rate [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    -15% <title Charge Rate [ROF] />\n< weapon type ( other ) >\n    -20% <title Fire Rate [ROF] />\n<$$>\n<formula In-Game Range: [range_0] />\n\n<title Efects on all weapons [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n|b Weapon               |b Damage         |b <title Fire/Charge Rate [ROF] />\n|  Hand Cannon          |  <green 30% />  |  <green -15% />\n|  Scout Rifle          |  <green 30% />  |  <green -15% />\n|  Auto Rifle           |  <purple 30% /> |  <purple -20% />\n|  Sidearm              |  <purple 30% /> |  <purple -20% />\n|  Grenade Launcher     |  <purple 30% /> |  <purple -20% />\n|  Linear Fusion Rifle  |  30%            |  -15%          \n|  Fusion Rifle         |  <yellow 27% /> |  <yellow -15% />\n|  Bow                  |  <blue 20% />   |  <blue -20% /> \n|  Shotgun              |  <blue 20% />   |  <blue -20% />\n<$>\n)\n\ntitle ROF (\nThe rate of Fire tends to be shifted to the next slower-firing frame.\n\nEg: Rapid Fire Auto => Adaptive Auto\n)"
     }
    }
   },
@@ -2614,8 +2615,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665337350373,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Icemourne"
      },
      "zh-chs": {
       "lastUpdate": 1664433230817,
@@ -2641,7 +2643,7 @@
    },
    "editor": {
     "en": {
-     "main": "Decreases charge time by 40, and damage by 2%",
+     "main": "Decreases charge time by 40ms, and damage by 2%",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -4267,14 +4269,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665003974144,
-      "undatedBy": "Fading Shadow"
+      "lastUpdate": 1665341550976,
+      "undatedBy": "Fading Shadow",
+      "updatedBy": "Icemourne"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\n<bold 29% /> per hit, up to <bold 435% />: Fusion Rifles\n\n<bold 33.3% /> per hit, up to <bold 500% />:\nAuto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\n\n<bold 150% /> per hit, up to <bold 450% />: Linear Fusion Rifles\n\n<bold 166.6% /> per hit, up to <bold 500% />:\nBows, Glaives, Hand Cannons, and Scout Rifles\n\n\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%\nEg: 500% -> 600%",
+     "main": "var d = 1\nvar e = empty\nUpon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\n< weapon type ( fusion rifle ) >\n#e${29 * #d}% per hit, up to #e${435 * #d}%\n<$$>\n< weapon type ( auto rifle, machine gun, pulse rifle, trace rifle ) >\n#e${33.3 * #d}% per hit, up to #e${500 * #d}%\n<$$>\n< weapon type ( linear fusion rifle ) >\n#e${150 * #d}% per hit, up to #e${450 * #d}%\n<$$>\n< weapon type ( combat bow, glaive, hand cannon, scout rifle ) >\n#e${166.6 * #d}% per hit, up to #e${500 * #d}%\n<$$>\n\n<title Efects on all weapons [weapon list] />\n\ntitle weapon list (\n< table wide >\n| Weapon type           |   Per hit         |   Up to           <bold/>\n| Fusion Rifles         |   #e${29 * #d}%   |   #e${435 * #d}%  <background/>\n| Linear Fusion Rifles  |   #e${150 * #d}%  |   #e${450 * #d}% \n| Auto Rifles           |-4 #e${33.3 * #d}% |-4 #e${500 * #d}%  <background/>\n| Machine Guns                                                  <background/> \n| Pulse Rifles                                                  <background/>    \n| Trace Rifles                                                  <background/> \n| Bows                  |-4 #e${166.6 * #d}% |-4 #e${500 * #d}%\n| Glaives\n| Hand Cannons\n| Scout Rifles\n<$>\n)",
      "secondary": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\n29% per hit, up to 435%: Fusion Rifles\n\n33.3% per hit, up to 500%:\nAuto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\n\n150% per hit, up to 450%: Linear Fusion Rifles\n\n166.6% per hit, up to 500%:\nBows, Glaives, Hand Cannons, Scout Rifles\n\n\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%\nEg: 500% -> 600%"
     }
    }
@@ -11168,13 +11171,13 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1665239931440,
+     "lastUpdate": 1665340164224,
      "undatedBy": "Fading-Shadow",
      "updatedBy": "Icemourne"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665240475787,
+      "lastUpdate": 1665331837511,
       "undatedBy": "Fading-Shadow",
       "updatedBy": "Icemourne"
      }
@@ -13179,14 +13182,15 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1658513881743,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1665338008058,
+      "undatedBy": "Fading-Shadow",
+      "updatedBy": "Icemourne"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "import stats from none\r\nimport main from 1048183818",
+     "main": "var d = 1.2\nimport main from 1048183818",
      "secondary": "import secondary from 1048183818"
     }
    }
@@ -13844,9 +13848,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665258610809,
+      "lastUpdate": 1665312233175,
       "undatedBy": "Fading Shadow",
-      "updatedBy": "Fading Shadow"
+      "updatedBy": "Icemourne"
      }
     }
    },
@@ -13878,7 +13882,7 @@
    },
    "editor": {
     "en": {
-     "main": "On Weapon Kill:\n30% increased damage, 20% slower Rate of Fire/Charge Rate, and +10 Range for 7 seconds.\n\nBows and Shotguns only receive a 20% damage increase.\n\nRate of Fire tends to be shifted to the next slower-firing frame. Eg: Rapid Fire Auto -> Adaptive Auto\n\n<formula In-Game Range: [range_0] />",
+     "main": "var e = empty\nOn Weapon Kill for #e${7 + #t} seconds: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Range\n<$$>\n< weapon type ( combat bow, shotgun ) >\n    +20% Damage\n< weapon type ( other ) >\n    +30% Damage\n<$$>\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Fire Rate [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    -15% <title Charge Rate [ROF] />\n< weapon type ( other ) >\n    -20% <title Fire Rate [ROF] />\n<$$>\n<formula In-Game Range: [range_0] />\n\n<title Efects on all weapons [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n|b Weapon               |b Damage         |b <title Fire/Charge Rate [ROF] />\n|  Hand Cannon          |  <green 30% />  |  <green -15% />\n|  Scout Rifle          |  <green 30% />  |  <green -15% />\n|  Auto Rifle           |  <purple 30% /> |  <purple -20% />\n|  Sidearm              |  <purple 30% /> |  <purple -20% />\n|  Grenade Launcher     |  <purple 30% /> |  <purple -20% />\n|  Linear Fusion Rifle  |  30%            |  -15%          \n|  Fusion Rifle         |  <yellow 27% /> |  <yellow -15% />\n|  Bow                  |  <blue 20% />   |  <blue -20% /> \n|  Shotgun              |  <blue 20% />   |  <blue -20% />\n<$>\n)\n\ntitle ROF (\nThe rate of Fire tends to be shifted to the next slower-firing frame.\n\nEg: Rapid Fire Auto => Adaptive Auto\n)",
      "secondary": "On Weapon Kill:\n30% increased damage, 20% slower Rate of Fire/Charge Rate, and +10 Range for 7 seconds.\n\nBows and Shotguns only receive a 20% damage increase.\n\nRate of Fire tends to be shifted to the next slower-firing frame. Eg: Rapid Fire Auto -> Adaptive Auto\n\nEnhanced: Buff Duration is increased to a maximum of 8 seconds."
     }
    }
