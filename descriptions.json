@@ -7,7 +7,7 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665312205172,
+      "lastUpdate": 1665341739396,
       "updatedBy": "Icemourne"
      },
      "zh-chs": {
@@ -29,7 +29,7 @@
      "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     },
     "en": {
-     "main": "var e = empty\nOn Weapon Kill for #e${7 + #t} seconds: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Range\n<$$>\n< weapon type ( combat bow, shotgun ) >\n    +20% Damage\n< weapon type ( other ) >\n    +30% Damage\n<$$>\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Fire Rate [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    -15% <title Charge Rate [ROF] />\n< weapon type ( other ) >\n    -20% <title Fire Rate [ROF] />\n<$$>\n<formula In-Game Range: [range_0] />\n\n<title Efects on all weapons [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n|b Weapon               |b Damage         |b <title Fire/Charge Rate [ROF] />\n|  Hand Cannon          |  <green 30% />  |  <green -15% />\n|  Scout Rifle          |  <green 30% />  |  <green -15% />\n|  Auto Rifle           |  <purple 30% /> |  <purple -20% />\n|  Sidearm              |  <purple 30% /> |  <purple -20% />\n|  Grenade Launcher     |  <purple 30% /> |  <purple -20% />\n|  Linear Fusion Rifle  |  30%            |  -15%          \n|  Fusion Rifle         |  <yellow 27% /> |  <yellow -15% />\n|  Bow                  |  <blue 20% />   |  <blue -20% /> \n|  Shotgun              |  <blue 20% />   |  <blue -20% />\n<$>\n)\n\ntitle ROF (\nThe rate of Fire tends to be shifted to the next slower-firing frame.\n\nEg: Rapid Fire Auto => Adaptive Auto\n)"
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nThe same can be done to lines of text <green/>\n\nYou probably noticed having multiple spaces in the editor\n              doesn't mean it will be the same in description\n              you can change that with <breakSpaces/>\n\nIn case only part of the description or the entire description only applies to some weapon type\nThis will apply to every weapon\n< weapon type ( auto rifle, combat bow, fusion rifle ) >\nThe description here will be applied only to specified weapon types\n< weapon type ( other ) >\nThis will apply to all not specified weapon types\n<$$>\n\nIf there is something you want just ask\nThis is not everything you can do btw\n\nTo see the full list press CTRL + SPACE\nAlso, CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     }
    }
   },
@@ -187,8 +187,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665004109470,
-      "undatedBy": "Fading Shadow"
+      "lastUpdate": 1665341859249,
+      "undatedBy": "Fading Shadow",
+      "updatedBy": "Icemourne"
      }
     }
    },
@@ -214,7 +215,7 @@
    },
    "editor": {
     "en": {
-     "main": "On Weapon or Grenade Kill:\n20 Handling and a Stacking Damage Increase for 4.5 seconds.\n\nBuff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly.\n\n< table >\n|b Stacks          |b 1x   |b 2x    |b 3x  |b 4x    |b 5x\n|b Damage Increase |  6.7% |  13.3% |  20% |  26.6% |  33.3% <background/>\n<$>\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Duration is increased to 5 seconds.\n\n",
+     "main": "On Weapon or Grenade Kill:\n20 Handling and a Stacking Damage Increase for 4.5 seconds.\n\nBuff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly.\n\n< table >\n|  Stacks          | 1x    | 2x     | 3x   | 4x     | 5x    <bold/>\n|b Damage Increase | 6.7%  | 13.3%  | 20%  | 26.6%  | 33.3% <background/>\n<$>\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Duration is increased to 5 seconds.",
      "secondary": "On Weapon or Grenade Kill:\n6.7% | 13.3% | 20% | 26.6% | 33.3% Increased Damage and +20 Handling for 4.5 seconds.\n\nBuff Refreshed on Kill. Grenade Kills grant all 5 stacks instantly.\n\nEnhanced: Buff Duration is increased to 5 seconds."
     }
    }
@@ -13848,7 +13849,7 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665312233175,
+      "lastUpdate": 1665341775731,
       "undatedBy": "Fading Shadow",
       "updatedBy": "Icemourne"
      }
@@ -13882,7 +13883,7 @@
    },
    "editor": {
     "en": {
-     "main": "var e = empty\nOn Weapon Kill for #e${7 + #t} seconds: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Range\n<$$>\n< weapon type ( combat bow, shotgun ) >\n    +20% Damage\n< weapon type ( other ) >\n    +30% Damage\n<$$>\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Fire Rate [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    -15% <title Charge Rate [ROF] />\n< weapon type ( other ) >\n    -20% <title Fire Rate [ROF] />\n<$$>\n<formula In-Game Range: [range_0] />\n\n<title Efects on all weapons [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n|b Weapon               |b Damage         |b <title Fire/Charge Rate [ROF] />\n|  Hand Cannon          |  <green 30% />  |  <green -15% />\n|  Scout Rifle          |  <green 30% />  |  <green -15% />\n|  Auto Rifle           |  <purple 30% /> |  <purple -20% />\n|  Sidearm              |  <purple 30% /> |  <purple -20% />\n|  Grenade Launcher     |  <purple 30% /> |  <purple -20% />\n|  Linear Fusion Rifle  |  30%            |  -15%          \n|  Fusion Rifle         |  <yellow 27% /> |  <yellow -15% />\n|  Bow                  |  <blue 20% />   |  <blue -20% /> \n|  Shotgun              |  <blue 20% />   |  <blue -20% />\n<$>\n)\n\ntitle ROF (\nThe rate of Fire tends to be shifted to the next slower-firing frame.\n\nEg: Rapid Fire Auto => Adaptive Auto\n)",
+     "main": "var e = empty\nOn Weapon Kill for #e${7 + #t} seconds: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Range\n<$$>\n< weapon type ( combat bow, shotgun ) >\n    +20% Damage\n< weapon type ( other ) >\n    +30% Damage\n<$$>\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Fire Rate [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    -15% <title Charge Rate [ROF] />\n< weapon type ( other ) >\n    -20% <title Fire Rate [ROF] />\n<$$>\n<formula In-Game Range: [range_0] />\n\n<title Efects on all weapons [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n|b Weapon               |b Damage         |b Fire/Charge Rate\n|  Hand Cannon          |  <green 30% />  |  <green -15% />\n|  Scout Rifle          |  <green 30% />  |  <green -15% />\n|  Auto Rifle           |  <purple 30% /> |  <purple -20% />\n|  Sidearm              |  <purple 30% /> |  <purple -20% />\n|  Grenade Launcher     |  <purple 30% /> |  <purple -20% />\n|  Linear Fusion Rifle  |  30%            |  -15%          \n|  Fusion Rifle         |  <yellow 27% /> |  <yellow -15% />\n|  Bow                  |  <blue 20% />   |  <blue -20% /> \n|  Shotgun              |  <blue 20% />   |  <blue -20% />\n<$>\n)\n\ntitle ROF (\nThe rate of Fire tends to be shifted to the next slower-firing frame.\n\nEg: Rapid Fire Auto => Adaptive Auto\n)",
      "secondary": "On Weapon Kill:\n30% increased damage, 20% slower Rate of Fire/Charge Rate, and +10 Range for 7 seconds.\n\nBows and Shotguns only receive a 20% damage increase.\n\nRate of Fire tends to be shifted to the next slower-firing frame. Eg: Rapid Fire Auto -> Adaptive Auto\n\nEnhanced: Buff Duration is increased to a maximum of 8 seconds."
     }
    }
