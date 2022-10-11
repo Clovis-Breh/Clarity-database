@@ -7,8 +7,7 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665506219927,
-      "updatedBy": "Icemourne"
+      "lastUpdate": 0
      },
      "zh-chs": {
       "lastUpdate": 1664949411218,
@@ -29,7 +28,7 @@
      "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\n\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nsame can be done to lines of text <green/>\n\nIf where is something you want just ask\nThis is not everything you can do btw\n\nTo see full list press CTRL + SPACE\nAlso CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     },
     "en": {
-     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nThe same can be done to lines of text <green/>\n\nYou probably noticed having multiple spaces in the editor\n              doesn't mean it will be the same in description\n              you can change that with <breakSpaces/>\n\njust a text // This is comment content of this line will not appear in the description\n\nIn case only part of the description or the entire description only applies to some weapon type\nThis will apply to every weapon\n< weapon type ( auto rifle, combat bow, fusion rifle ) >\nThe description here will be applied only to specified weapon types\n<$$>\n< weapon type ( other ) >\nThis will apply to all not specified weapon types\n<$$>\n\nIf there is something you want just ask\nThis is not everything you can do btw\n\nTo see the full list press CTRL + SPACE\nAlso, CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
+     "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nThe same can be done to lines of text <green/>\n\nYou probably noticed having multiple spaces in the editor\n              doesn't mean it will be the same in description\n              you can change that with <breakSpaces/>\n\n// This is comment content of this line will not appear in the description\n\nIn case only part of the description or the entire description only applies to some weapon type\nThis will apply to every weapon\n< weapon type ( auto rifle, combat bow, fusion rifle ) >\nThe description here will be applied only to specified weapon types\n<$$>\n< weapon type ( other ) >\nThis will apply to all not specified weapon types\n<$$>\n\nIf there is something you want just ask\nThis is not everything you can do btw\n\nTo see the full list press CTRL + SPACE\nAlso, CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
     }
    }
   },
@@ -5609,8 +5608,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665004292720,
-      "undatedBy": "Fading Shadow"
+      "lastUpdate": 1665511433416,
+      "undatedBy": "Fading Shadow",
+      "updatedBy": "Icemourne"
      },
      "zh-chs": {
       "lastUpdate": 1664433627914,
@@ -5629,8 +5629,8 @@
    },
    "editor": {
     "en": {
-     "main": "Upon Reload with an empty magazine:\n15% faster Reload Speed\n\n<formula Reload Time: [reload_0] />\n",
-     "secondary": "Upon Reload with an empty magazine:\n15% faster Reload Speed"
+     "main": "export description (\nUpon Reload with an empty magazine:\n15% faster Reload Speed\n)\n\n<formula Reload Time: [reload_0] />",
+     "secondary": "import description from self"
     },
     "zh-chs": {
      "main": "弹夹为空时：\n加快 15% 换弹装填动画。",
@@ -6599,8 +6599,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665004985500,
-      "undatedBy": "Fading Shadow"
+      "lastUpdate": 1665511512775,
+      "undatedBy": "Fading Shadow",
+      "updatedBy": "Icemourne"
      },
      "zh-chs": {
       "lastUpdate": 1664457759021,
@@ -6633,8 +6634,8 @@
    },
    "editor": {
     "en": {
-     "main": "Upon readying the weapon:\n0.7x Charge Time, 20% decreased damage, and +100 Handling for [?] seconds.\n\nEnhanced: Buff duration is increased to [?] seconds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
-     "secondary": "Upon readying the weapon:\n0.7x Charge Time, 20% decreased damage, and +100 Handling for [?] seconds.\n\nEnhanced: Buff duration is increased to [?] seconds."
+     "main": "export desciption (\nUpon readying the weapon:\n0.7x Charge Time, 20% decreased damage, and +100 Handling for [?] seconds.\n\nEnhanced: Buff duration is increased to [?] seconds.\n)\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
+     "secondary": "import description from self"
     },
     "zh-chs": {
      "main": "切换至此武器的 4 秒内：\n+30% 充能速度，-20% 伤害，+100 操控性。\n\n<formula 拔枪速度： [ready_0] />\n<formula 收起速度： [stow_0] />",
@@ -9856,8 +9857,9 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665005851887,
-      "undatedBy": "Fading Shadow"
+      "lastUpdate": 1665511576930,
+      "undatedBy": "Fading Shadow",
+      "updatedBy": "Icemourne"
      }
     }
    },
@@ -9875,7 +9877,7 @@
    },
    "editor": {
     "en": {
-     "main": "Upon aiming-down-sights for 1.5 seconds without firing:\n10% increased Aim Assist Falloff Distance and increases Precision Multiplier by +1 for one shot.\n\nTimer starts as soon as the ADS input is pressed.\n\n< table >\n|b Weapon Frame      |b Precision Multiplier Increase\n|  Linear Fusion Rifle    |   <title 29% [mult1] /> <background/>\n|  Sniper Rifle      |  <title 33.22% [mult0] />   \n|  Scout Rifle       |  <title 62.75% [mult2] /> <background/>\n<$>\n\nEnhanced: Activation timer is reduced to 1.4 seconds.\n\ntitle mult0 (\n3x -> 4x\n)\n\ntitle mult1 (\n3.44x -> 4.44x\n)\n\ntitle mult2 (\n1.6x -> 2.6x\n)",
+     "main": "Upon aiming-down-sights for 1.5 seconds without firing:\n10% increased Aim Assist Falloff Distance and increases Precision Multiplier by +1 for one shot.\n\nTimer starts as soon as the ADS input is pressed.\n\n< table >\n| Weapon Frame        | Precision Multiplier Increase <bold/>\n| Linear Fusion Rifle | <title 29% [mult1] />         <background/>\n| Sniper Rifle        | <title 33.22% [mult0] />   \n| Scout Rifle         | <title 62.75% [mult2] />      <background/>\n<$>\n\nEnhanced: Activation timer is reduced to 1.4 seconds.\n\ntitle mult0 (\n3x -> 4x\n)\n\ntitle mult1 (\n3.44x -> 4.44x\n)\n\ntitle mult2 (\n1.6x -> 2.6x\n)",
      "secondary": "Upon aiming-down-sights for 1.5 seconds without firing:\n10% increased Aim Assist Falloff Distance and increases Precision Multiplier by +1 for one shot.\nTimer starts as soon as the ADS input is pressed.\n\nPrecision Multipliers:\nScout Rifles: 62.75% Increase (1.6x -> 2.6x)\nSniper Rifles: 33.22% Increase (3x -> 4x)\nLinear Fusion Rifles: 29% Increase (3.44x -> 4.44x)\n\nEnhanced: Activation timer is reduced to 1.4 seconds."
     }
    }
