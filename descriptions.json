@@ -9891,6 +9891,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665697020787,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -9898,6 +9902,9 @@
     "en": {
      "main": "While on Stasis Subclass:\r\nBarricade is replaced by a Stasis Wall.\r\n\r\nThe Stasis Wall is 7 medium crystals wide, and the middle crystal is a small crystal.\r\n\r\nGrants Rally Barricade benefits. Functions even if no crystals remain.",
      "secondary": "While on Stasis Subclass:\r\nBarricade is replaced by a Stasis Wall.\r\n\r\nThe Stasis Wall is 7 medium crystals wide, and the middle crystal is a small crystal.\r\n\r\nGrants Rally Barricade benefits. Functions even if no crystals remain."
+    },
+    "ko": {
+     "main": "시공 하위직업을 장착했을 때:\n방벽이 시공 수정으로 변환됩니다.\n\n시공 수정 방벽은 7개 중간 크기 수정으로 이루어져 있으며 중앙은 작은 수정입니다.\n\n시공 수정 방벽은 집결 방벽의 효과를 부여하지만 수정이 3개 이상 파괴되면 기능을 잃게 됩니다."
     }
    }
   },
