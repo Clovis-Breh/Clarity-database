@@ -12422,6 +12422,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665683175354,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -12429,6 +12433,9 @@
     "en": {
      "main": "4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds.\n\nAeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed.\n\nOn Champion Stun, Mini-boss, or Boss Kill:\nAllies within 30 metres gain 50% Grenade and Melee Energy.\n\nAeon Allies additionally gain 10% Super Energy.\n\n4 second cooldown between refresh.",
      "secondary": "4 Precision Hits within 2.5 seconds of each grants Aeon Weapon Haste for 6 seconds.\r\n\r\nAeon Weapon Haste grants 10 Reload with 0.8x RDS, as well as 10 Handling to Ready and Stow speed.\r\n\r\nOn Champion Stun, Mini-boss, or Boss Kill:\r\nAllies within 30 metres gain 50% Grenade and Melee Energy.\r\n\r\nAeon Allies additionally gain 10% Super Energy.\r\n\r\n4 second cooldown between refresh."
+    },
+    "ko": {
+     "main": "각 정밀타를 2.5초 이내에 4번 적중하면 6초 동안 영겁의 분노 효과를 얻게 됩니다.\n\n영겁의 분노는 재장전 수치를 10 올려주며 조작성 수치 또한 10을 올려줍니다.\n\n용사 기절, 미니보스 및 보스 처치 시:\n30미터 이내에 있는 아군들은 수류탄과 근접 능력 에너지 50%를 받습니다.\n\n 추가로 영겁 시리즈를 장착한 아군들은 궁극기 에너지 10%를 받습니다.\n\n 효과 발동 사이에 4초의 쿨다운이 있습니다."
     }
    }
   },
