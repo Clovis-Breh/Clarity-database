@@ -13962,6 +13962,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665682825510,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -13969,6 +13973,9 @@
     "en": {
      "main": "Ally Deaths grant 25% Class Ability Energy.\nGain Full Class Ability Energy on Ally Revival.\n\nCasting Super fully heals allies within 30 meters.\n\nAeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds.",
      "secondary": "Ally Deaths grant 25% Class Ability Energy.\r\nGain Full Class Ability Energy on Ally Revival.\r\n\r\nCasting Super fully heals allies within 30 meters.\r\n\r\nAeon Allies receive a 110HP Overshield for 20 seconds that recharges after 3 seconds."
+    },
+    "ko": {
+     "main": "아군이 죽으면 25%의 직업 능력 에너지를 얻습니다.\n아군을 부활시키면 직업 능력 에너지를 완전히 돌려받습니다.\n\n궁극기를 시전하면 30미터 이내에 있는 아군들을 완전히 회복시킵니다.\n\n추가로 영겁 시리즈를 장착한 아군들은 20초 동안 110HP 짜리 보호막을 얻으며 3초 이후 재생됩니다."
     }
    }
   },
