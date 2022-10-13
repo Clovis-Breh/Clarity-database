@@ -635,7 +635,7 @@
       "undatedBy": "Fading-Shadow"
      },
      "ko": {
-      "lastUpdate": 1665697282025,
+      "lastUpdate": 1665697288632,
       "updatedBy": "tritonesub251"
      }
     }
@@ -646,7 +646,7 @@
      "secondary": "Replaces Barricade with Glacial Guard.\r\n\r\nOn Glacial Guard Cast:\r\nGrants Shielded buff and applies 40 Slow Stacks to Combatants within 7 meters.\r\n\r\nShielded lasts 20 seconds and grants a 100HP Overshield with 62.5% Damage Resist in PVE.\r\nShielded also refreshes on damage taken, prevents sprinting, double jumping, and sliding.\r\n\r\nWhile Shielded is active, you cannot regain Class Ability Energy.\r\nActivating Barricade while Glacial Guard is active will remove the effect."
     },
     "ko": {
-     "main": "방벽을 빙하의 방비로 변환합니다.\n\n빙하의 방비 시전 시:\n7미터 이내에 있는 적들에게 감속 스택 40개를 부여합니다.\n\n보호막은 20초 동안 지속되며 100HP의 체력을 가지고 있습니다. <pve 62.5% 피해 감소를 부여합니다./> \n보호막의 지속 시간은 피해를 입으면 초기화되며 질주, 직업 점프, 그리고 슬라이딩을 봉인합니다.\n\n보호막이 지속되는 동안 직업 능력 에너지는 재생되지 않습니다.\n빙하의 방비가 활성화 된 상태에서 방벽을 사용하면 효과가 해제됩니다."
+     "main": "방벽을 빙하의 방비로 변환합니다.\n\n빙하의 방비 시전 시:\n7미터 이내에 있는 적들에게 감속 스택 40개를 부여합니다.\n\n보호막은 20초 동안 지속되며 100HP의 체력을 가지고 있습니다. <pve 62.5% 피해 감소를 부여합니다. /> \n보호막의 지속 시간은 피해를 입으면 초기화되며 질주, 직업 점프, 그리고 슬라이딩을 봉인합니다.\n\n보호막이 지속되는 동안 직업 능력 에너지는 재생되지 않습니다.\n빙하의 방비가 활성화 된 상태에서 방벽을 사용하면 효과가 해제됩니다."
     }
    }
   },
@@ -10733,6 +10733,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665697368531,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -10740,6 +10744,9 @@
     "en": {
      "main": "On Melee Kill:\r\nHeal for 50HP and constantly regenerate 30HP/s.\r\n\r\nLasts for 8 seconds. \r\nCan be Refreshed.",
      "secondary": "On Melee Kill:\r\nHeal for 50HP and constantly regenerate 30HP/s.\r\n\r\nLasts for 8 seconds. \r\nCan be Refreshed."
+    },
+    "ko": {
+     "main": "근접 공격 처치 시:\n50HP의 체력을 회복하고 초당 30HP를 재생합니다.\n\n8초 동안 지속됩니다.\n연장이 가능합니다."
     }
    }
   },
