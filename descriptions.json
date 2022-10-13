@@ -12550,6 +12550,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665694848573,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -12557,6 +12561,9 @@
     "en": {
      "main": "After sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds.\n\nOn Melee Hit:\nLinear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain.\n\n<pve 300%(?) Melee Damage />\n<pvp 85 Damage. Immune to Dunemarchers for 2 seconds after being hit. />\n\nIncreases Sprint Speed by 6.25%\nIncreases Slide Distance by 33%\n",
      "secondary": "After sprinting for 1.5 seconds, gain Linear Actuators for 7 seconds.\r\n\r\nOn Melee Hit:\r\nLinear Actuators applies Shocked for 2 seconds on enemy, which releases an Arc static charge that chains when another enemy is within 20 meters. Shocked is refreshed on chain.\r\n\r\nPVE: 300%(?) Melee Damage\r\nPVP: 85 Damage. Immune to Dunemarchers for 2 seconds after being hit.\r\n\r\nIncreases Sprint Speed by 6.25%\r\nIncreases Slide Distance by 33%\r\n"
+    },
+    "ko": {
+     "main": "1.5초 간 질주 한 이루 7초 동안 선형 구동기가 활성화됩니다.\n\n근접 공격 적중 시:\n선형 구동기가 맞은 적에게 2초 동안 충격을 남깁니다. 만약에 다른 적이 20미터 이내에 있을 경우 연쇄 번개가 일어납니다. 충격은 연쇄 번개 발동 이후 초기화됩니다.\n\n<pve 약 300% 근접 공격 피해 />\n<pvp 85 피해. 맞은 이후 2초간 사막행군병의 효과에 면역. />\n\n질주 속도 6.25% 증가\n슬라이드 거리 33% 증가"
     }
    }
   },
