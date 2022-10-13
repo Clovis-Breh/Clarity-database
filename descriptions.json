@@ -2363,6 +2363,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665697848567,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -2370,6 +2374,9 @@
     "en": {
      "main": "Arcstrider Subclass Only\r\nReceiving or Dealing Melee Damage grants Cross Counter for 3 seconds or until Melee Hit.\r\n\r\nCross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit.\r\n\r\nOne-Two Punch's bonus is reduced to 80% if Cross Counter is active.",
      "secondary": "Arcstrider Subclass Only\r\nReceiving or Dealing Melee Damage grants Cross Counter for 3 seconds or until Melee Hit.\r\n\r\nCross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit.\r\n\r\nOne-Two Punch's bonus is reduced to 80% if Cross Counter is active."
+    },
+    "ko": {
+     "main": "전기질주자 한정입니다.\n근접 피해를 입거나 입히면 3초간 크로스 카운터가 활성화되며 근접 피해를 입히면 해제됩니다.\n\n크로스 카운터는 근접 피해를 200% 증가시키며 근접 공격 적중 시 체력을 회복시킵니다.\n\n크로스 카운터가 활성화 된 동안 원투 펀치의 위력은 80% 줄어듭니다."
     }
    }
   },
