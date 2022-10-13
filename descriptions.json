@@ -3767,6 +3767,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665685317733,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -3774,6 +3778,9 @@
     "en": {
      "main": "Standing in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 meters and apply a buff depending on the type of Rift.\n\nEach time a Noble Seeker applies a buff, the Rift gets extended by 5 seconds.\n\nHealing Rift Noble Seekers heal allies for 75HP and begins Health Regeneration.\nEmpowering Rift Noble Seekers grant a <pve 35% /> <pvp [20%] /> Damage Increase for 5 seconds.\n",
      "secondary": "Passively grants 30 Airborne Effectiveness to Lumina.\r\n\r\nStanding in a Rift creates Noble Seekers every 5 seconds that seeks out allies within 35 metres and apply a buff depending on the type of Rift.\r\n\r\nEach time a Noble Seeker applies a buff, the Rift gets extended by 5 seconds.\r\n\r\nHealing Rift Noble Seekers heal allies for 75HP and begins Health Regeneration.\r\nEmpowering Rift Noble Seekers grant a 35% and [PVP: 15%] Damage Increase for 5 seconds."
+    },
+    "ko": {
+     "main": "균열에 서있으면 5초 마다 고귀한 추적기를 생성합니다. 추적기는 35미터 이내에 있는 아군을 찾아가며 균열의 종류에 따라 버프를 부여합니다.\n\n고귀한 추적기가 버프를 부여 할 때 마다 균열의 지속시간이 5초 증가합니다.\n\n치유 균열 추적기는 아군의 체력을 75HP 만큼 회복하고 즉시 체력 재생을 발동합니다.\n강화 균열 추적기는 5초간 <pve 35% /> <pvp [20%]> 만큼의 피해 증가를 부여합니다."
     }
    }
   },
@@ -13620,6 +13627,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665684183594,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -13627,6 +13638,9 @@
     "en": {
      "main": "While in Arc Staff Super:\r\nProjectiles reflected deal 650% increased damage.\r\n\r\nReflecting projectiles generates Orbs of Power for allies.",
      "secondary": "While in Arc Staff Super:\r\nProjectiles reflected deal 650% increased damage.\r\n\r\nReflecting projectiles generates Orbs of Power for allies."
+    },
+    "ko": {
+     "main": "전기 지팡이 궁극기 사용 중:\n반사시킨 투사체는 650%의 피해 증가를 받습니다.\n\n투사체를 반사시키면 아군을 위한 힘의 보주가 생성됩니다."
     }
    }
   },
