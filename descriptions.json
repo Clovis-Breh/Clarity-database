@@ -7022,6 +7022,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665696470231,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -7029,6 +7033,9 @@
     "en": {
      "main": "If on <solar/>Solar Subclass\r\n75% Additional Base Grenade and Melee Regeneration Rate\r\n\r\nIf <solar/>Solar Super is Charged.\r\n350% Additional Base Grenade and Melee Regeneration Rate",
      "secondary": "Passively grants 20 Airborne Effectiveness\r\n\r\nIf on Solar Subclass\r\n75% Additional Base Grenade and Melee Regeneration Rate\r\n\r\nIf Solar Super is Charged.\r\n350% Additional Base Grenade and Melee Regeneration Rate"
+    },
+    "ko": {
+     "main": "<solar/>태양 하위직업 장착 시:\n수류탄과 근접 공격의 기본 재생 속도가 75% 증가합니다.\n\n<solar/>태양 궁극기 충전 시:\n수류탄과 근접 공격의 기본 재생 속도가 350% 증가합니다."
     }
    }
   },
