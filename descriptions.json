@@ -7025,6 +7025,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665686473705,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -7032,6 +7036,9 @@
     "en": {
      "main": "On Barricade Cast:\nGenerates a Healing Pulse which heals both the user and allies within 12 metres.\nHealing Pulse heals for either 58 HP OR to 130HP, depending on which is highest.\nRequires Line-of-Sight to allies.\n\nSupers generate 1 extra Orb of Power.",
      "secondary": "On Barricade Cast:\r\nGenerates a Healing Pulse which heals both the user and allies within 12 metres.\r\nHealing Pulse heals for either 58 HP OR to 130HP, depending on which is highest.\r\nRequires Line-of-Sight to allies.\r\n\r\nSupers generate 1 extra Orb of Power."
+    },
+    "ko": {
+     "main": "방벽 시전 시:\n플레이어와 12미터 이내의 아군을 치유하는 치유의 파동을 일으킵니다.\n치유의 파동은 58 - 130HP를 회복시킵니다.\n아군이 효과를 받기 위해선 시전자의 시선 안에 있어야 합니다.\n\n궁극기가 힘의 보주 하나를 추가로 생성합니다."
     }
    }
   },
