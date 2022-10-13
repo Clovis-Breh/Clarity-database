@@ -1251,6 +1251,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665683728331,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -1258,6 +1262,9 @@
     "en": {
      "main": "Fusion Grenades have Fastball intrinsically and detonate on impact.\r\n\r\nKills with Fusion Grenades grant Grenade Energy.\r\n25% for Minors\r\n50% for Majors\r\n100% for Guardians & Bosses",
      "secondary": "Fusion Grenades have Fastball intrinsically and detonate on impact.\r\n\r\nKills with Fusion Grenades grant Grenade Energy.\r\n25% for Minors\r\n50% for Majors\r\n100% for Guardians & Bosses"
+    },
+    "ko": {
+     "main": "융합 수류탄에 장거리 투하를 기본으로 제공하며 융합 수류탄이 탄착하는 순간 폭발합니다.\n\n융합 수류탄 처치 시 수류탄 에너지를 반환합니다.\n부하급 (빨간 체력)은 25%를 반환합니다.\n리더급 (노란 체력)은 50%를 반환합니다.\n보스급과 수호자는 100%를 반환합니다."
     }
    }
   },
