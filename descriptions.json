@@ -8265,6 +8265,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665696000770,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -8272,6 +8276,9 @@
     "en": {
      "main": "Chaos Reach recovers 10% Super Ability Energy on hit. 0.75s Cooldown.\nCan increase Super Duration by up to 100%.\n",
      "secondary": "Chaos Reach recovers 10% Super Ability Energy on hit. 0.75s Cooldown.\r\nCan increase Super Duration by up to 100%.\r\n"
+    },
+    "ko": {
+     "main": "혼돈 범위를 적중시키면 궁극기 에너지의 10%를 반환받습니다. 0.75초의 쿨다운이 있습니다.\n궁극기의 지속 시간을 100% 까지 증가시킬 수 있습니다."
     }
    }
   },
@@ -10981,6 +10988,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665696169218,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -10988,6 +10999,9 @@
     "en": {
      "main": "Charging and Consuming a Grenade summons a Sentient Arc Soul for 20 seconds.\n\nSentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal <pvp 11 Damage />.\n\nIf the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy.\n\nStanding in an Arc Soul Rift refreshes the duration of Sentient Arc Soul. Converts all the Arc Souls you receive to Sentient Arc Souls.",
      "secondary": "Charging and Consuming a Grenade summons a Sentient Arc Soul for 20 seconds.\r\n\r\nSentient Arc Souls target enemies up to 29 meters away, shooting an improved burst of 6 homing bolts that deal 11 Damage in PVP.\r\n\r\nIf the Sentient Arc Soul hits during a burst, gain 4.5% Grenade Energy.\r\n\r\nStanding in an Arc Soul Rift refreshes the duration of Sentient Arc Soul. Converts all the Arc Souls you receive to Sentient Arc Souls."
+    },
+    "ko": {
+     "main": "전기 수류탄을 충전하고 먹으면 20초 동안 강력한 전기 영혼을 소환합니다.\n\n강력한 전기 영혼은 29미터 이내의 적을 자동으로 공격하며 <pvp 11 피해 />를 주는 볼트를 6연발로 발사합니다.\n\n전기 영혼이 적중하면 4.5%의 수류탄 에너지를 반환받습니다.\n\n전기 영혼 균열에 들어가면 지속 시간이 초기화되며 모든 전기 영혼이 강력한 버전으로 바뀝니다."
     }
    }
   },
