@@ -13830,6 +13830,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665684125658,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -13837,6 +13841,9 @@
     "en": {
      "main": "Weighted Throwing Knives gain a second bounce with greatly increased tracking.\r\n\r\nAfter 3 Precision Hits within 2.5 seconds of each: Gain Strengthened Throwing Knife.\r\nAdditional Precision Hits increase duration by 5 seconds each.\r\n\r\nStrengthened Throwing Knife deal <pve 200% /> <pvp [100%] /> increased damage and stagger unstoppable champions.\r\n\r\nLanding a Knife Hit consumes Strengthened Throwing Knife.",
      "secondary": "Weighted Throwing Knives gain a second bounce with greatly increased tracking.\r\n\r\nAfter 3 Precision Hits within 2.5 seconds of each: Gain Strengthened Throwing Knife.\r\nAdditional Precision Hits increase duration by 5 seconds each.\r\n\r\nStrengthened Throwing Knife deal 200% [PVP: 100%] increased damage and stagger unstoppable champions.\r\n\r\nLanding a Knife Hit consumes Strengthened Throwing Knife."
+    },
+    "ko": {
+     "main": "추 달린 칼이 두번 튕길 수 있으며 막대한 추적 능력을 가집니다.\n\n2.5초안에 정밀타를 3번 적중하면 강화된 칼을 얻습니다.\n추가 정밀타는 지속시간을 5초 식 늘려줍니다.\n\n강화된 칼은 <pve 200% /> <pvp [100%] />의 피해 증가를 받으며 저지 불가 용사를 기절시킬 수 있습니다.\n\n칼을 적중하면 강화된 칼 효과를 소모합니다."
     }
    }
   },
