@@ -15214,6 +15214,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665694418814,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -15221,6 +15225,9 @@
     "en": {
      "main": "Arc Ability Kills grant Conduction Tines for <pve 7 /> <pvp [4] /> seconds.\n\n<blue At x1 Conduction Tines />\n175% Additional Base Grenade, Melee, and Super Regeneration Rate | [22?]% Slower Super Drain.\n\n<blue At x2 Conduction Tines />\n350% Additional Base Grenade, Melee, and Super Regeneration Rate | [44?]% Slower Super Drain.\n\n<blue At x3 Conduction Tines />\n525% Additional Base Grenade, Melee, and Super Regeneration Rate | 66% Slower Super Drain.\n\nSuper Drain affects every Roaming Super BUT Chaos Reach.",
      "secondary": "Arc Ability Kills grant Conduction Tines for 7 [PVP: 4] seconds.\r\n\r\nAt x1 Conduction Tines\r\n175% Additional Base Grenade, Melee, and Super Regeneration Rate | [22?]% Slower Super Drain.\r\n\r\nAt x2 Conduction Tines\r\n350% Additional Base Grenade, Melee, and Super Regeneration Rate | [44?]% Slower Super Drain.\r\n\r\nAt x3 Conduction Tines\r\n525% Additional Base Grenade, Melee, and Super Regeneration Rate | 66% Slower Super Drain.\r\n\r\nSuper Drain affects every Roaming Super BUT Chaos Reach."
+    },
+    "ko": {
+     "main": "전기 능력 처치를 하면 <pve 7 /> <pvp [4] />초 동안 전기 갈래가 활성화됩니다. \n\n<blue 전기 갈래 x1 일때 />\n기본 수류탄, 근접 능력, 그리고 궁극기 재생 속도가 175% 증가합니다. | 궁극기 소모 속도 약 [22%] 하락\n\n<blue 전기 갈래 x2 일때 />\n기본 수류탄, 근접 능력, 그리고 궁극기 재생 속도가 350% 증가합니다. | 궁극기 소모 속도 약 [44%] 하락\n\n<blue 전기 갈래 x3 일때 />\n기본 수류탄, 근접 능력, 그리고 궁극기 재생 속도가 525% 증가합니다. | 궁극기 소모 속도 약 [66%] 하락\n\n궁극기 소모 속도 하락은 혼돈 범위를 제외한 모든 변신형 궁극기에 적용됩니다."
     }
    }
   },
