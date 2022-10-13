@@ -8910,6 +8910,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665685480526,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -8917,6 +8921,9 @@
     "en": {
      "main": "Proximity Knife applies [?] Scorch on detonation. Direct hit kills ignite the target.\r\n\r\n[?]% Increased Base Melee Recharge Rate while Proximity Knife is unexploded.",
      "secondary": "Proximity Knife applies [?] Scorch on detonation. Direct hit kills ignite the target.\r\n\r\n[?]% Increased Base Melee Recharge Rate while Proximity Knife is unexploded."
+    },
+    "ko": {
+     "main": "근접 칼이 폭발할 시 알 수 없는 양의 소각 스택을 입힙니다. 적중시켜 처치하면 해당 타겟을 점화시킵니다.\n\n근접 칼이 폭발하지 않고 있는 동안 알 수 없는 만큼의 근접 공격 재생 속도를 증가시킵니다."
     }
    }
   },
