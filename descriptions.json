@@ -3935,6 +3935,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665695002610,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -3942,6 +3946,9 @@
     "en": {
      "main": "Casting Fists of Havoc grants Resolute.\r\n\r\nResolute is a 75HP Overshield that negates Precision Damage.\r\n\r\nOvershield can be refreshed by unequipping and equipping but who is gonna do that to be quite honest.",
      "secondary": "Casting Fists of Havoc grants Resolute.\r\n\r\nResolute is a 75HP Overshield that negates Precision Damage.\r\n\r\nOvershield can be refreshed by unequipping and equipping but who is gonna do that to be quite honest."
+    },
+    "ko": {
+     "main": "대혼란의 주먹을 시전하면 단호함이 활성화됩니다.\n\n단호함은 75HP 짜리 보호막괴 정밀 피해 저항을 제공합니다.\n\n보호막은 대혼란의 주먹 시전 중 영겁의 전사를 뺐다가 다시 장착하면 다시 부여됩니다만 그런 뻘짓하는 사람이 있을까요."
     }
    }
   },
