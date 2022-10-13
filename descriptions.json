@@ -15603,6 +15603,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665695942877,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -15610,6 +15614,9 @@
     "en": {
      "main": "On Dodge:\nApplies Misdirection to enemies within 22 meters.\n\n<pve Misdirection disorients minors and elites for 5 seconds. />\n\n<pvp Misdirection warps audio, removes radar for 5 seconds, and applies a brief blinding effect. />\n\nMisdirection also deals 1 damage.",
      "secondary": "On Dodge:\r\nApplies Misdirection to enemies within 22 meters.\r\n\r\nPVE: Misdirection disorients minors and elites for 5 seconds.\r\n\r\nPVP: Misdirection warps audio, removes radar for 5 seconds, and applies a brief blinding effect.\r\n\r\nMisdirection also deals 1 damage."
+    },
+    "ko": {
+     "main": "회피 직후:\n22미터 이내에 있는 적에게 잘못된 방향을 부여합니다.\n\n<pve 잘못된 방향이 부하들과 리더들을 5초 간 혼란에 빠트립니다. />\n\n<pvp 잘못된 방향이 오디오를 일그러트리고, 레이더를 5초간 제거하며, 아주 잠깐 동안 실명에 빠트립니다. />\n\n잘못된 방향이 부여될 때 1 피해를 입힙니다."
     }
    }
   },
