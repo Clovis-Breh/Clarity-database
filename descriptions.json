@@ -2365,7 +2365,7 @@
       "undatedBy": "Fading-Shadow"
      },
      "ko": {
-      "lastUpdate": 1665697848567,
+      "lastUpdate": 1665697866189,
       "updatedBy": "tritonesub251"
      }
     }
@@ -2376,7 +2376,7 @@
      "secondary": "Arcstrider Subclass Only\r\nReceiving or Dealing Melee Damage grants Cross Counter for 3 seconds or until Melee Hit.\r\n\r\nCross Counter grants 200% increased Melee Damage and heals for XHP on Melee Hit.\r\n\r\nOne-Two Punch's bonus is reduced to 80% if Cross Counter is active."
     },
     "ko": {
-     "main": "전기질주자 한정입니다.\n근접 피해를 입거나 입히면 3초간 크로스 카운터가 활성화되며 근접 피해를 입히면 해제됩니다.\n\n크로스 카운터는 근접 피해를 200% 증가시키며 근접 공격 적중 시 체력을 회복시킵니다.\n\n크로스 카운터가 활성화 된 동안 원투 펀치의 위력은 80% 줄어듭니다."
+     "main": "전기질주자 한정입니다.\n근접 피해를 입거나 입히면 3초간 크로스 카운터가 활성화되며 근접 피해를 입히면 해제됩니다.\n\n크로스 카운터는 근접 피해를 200% 증가시키며 근접 공격 적중 시 체력을 회복시킵니다.\n\n크로스 카운터가 활성화 된 동안 원투 펀치의 위력은 80%로 줄어듭니다."
     }
    }
   },
@@ -12591,6 +12591,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665698023260,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -12598,6 +12602,9 @@
     "en": {
      "main": "Enables hipfiring while in Lift, and passively grants 50 Airborne Effectiveness while hipfiring.\n\nIncreases Lift Duration to 4 seconds.\n\nLift Duration in seconds:\nHigh Lift: 2.6 -> 4 (54% increase)\nStafe Lift: 2.2 -> 4 (82% increase)\nCatapult Lift: 1 -> 4 (300% increase!)",
      "secondary": "Enables hipfiring while in Lift, and passively grants 50 Airborne Effectiveness while hipfiring.\r\n\r\nIncreases Lift Duration to 4 seconds.\r\n\r\nLift Duration in seconds:\r\nHigh Lift: 2.6 -> 4 (54% increase)\r\nStafe Lift: 2.2 -> 4 (82% increase)\r\nCatapult Lift: 1 -> 4 (300% increase!)"
+    },
+    "ko": {
+     "main": "부양 도중 비조준 사격을 할 수 있게 되며 비조준 사격 한정으로 상시 공중 효율을 50 만큼 증가시킵니다.\n\n부양의 지속 시간을 4초로 증가시킵니다.\n\n부양 지속 시간 증가:\n높은 부양: 2.6초 -> 4초 (54% 증가)\n제어 부양: 2.2초 -> 4초 (82% 증가)\n사출 부양: 1초 -> 4초 (300% 증가)"
     }
    }
   },
