@@ -10353,6 +10353,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665695604529,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -10360,6 +10364,9 @@
     "en": {
      "main": "Passively grants 20 Airborne Effectiveness.\n\nMarks enemies for 5 seconds after hovering reticle near them for 1 second.\nMark persists through walls.\n\nIf Enemy is below 30% HP: \nGrants 1% increased damage per percent below 30%\n(Eg: 10% HP left -> 20% Damage Increase)\n\nDamage Increase applies to both abilities and weapons.",
      "secondary": "Passively grants 20 Airborne Effectiveness.\r\n\r\nMarks enemies for 5 seconds after hovering reticle near them for 1 second.\r\nMark persists through walls.\r\n\r\nIf Enemy is below 30% HP: \r\nGrants 1% increased damage per percent below 30%\r\n(Eg: 10% HP left -> 20% Damage Increase)\r\n\r\nDamage Increase applies to both abilities and weapons."
+    },
+    "ko": {
+     "main": "상시 공중 효율을 20만큼 증가시킵니다.\n\n1초 동안 적 근처에 조준을 하면 5초간 표식을 남깁니다.\n표식은 벽을 통해서 볼 수 있습니다.\n\n적의 체력이 30% 이하 일 때:\n30%로 부터 남은 체력의 %당 1%의 추가 피해를 받습니다.\n(예: 체력 10% -> 20% 피해 증가)\n\n피해 증가는 능력과 무기에 모두 적용됩니다."
     }
    }
   },
