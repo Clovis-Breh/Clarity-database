@@ -10328,6 +10328,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665685669234,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -10335,6 +10339,9 @@
     "en": {
      "main": "Only one shot per Golden Gun activation.\r\n\r\nGrants 500% more damage and 100 Airborne Effectiveness to Golden Gun.\r\n(37% more compared to Line 'Em Up x3)\r\n\r\nReturns 33% of Super Energy on Kill.",
      "secondary": "Only one shot per Golden Gun activation.\r\n\r\nGrants 500% more damage and 100 Airborne Effectiveness to Golden Gun.\r\n(37% more compared to Line 'Em Up x3)\r\n\r\nReturns 33% of Super Energy on Kill."
+    },
+    "ko": {
+     "main": "황금 총의 탄환을 1발로 강제합니다.\n\n황금 총의 피해를 500% 증가시키며 황금 총의 공중 효율을 100 만큼 증가시킵니다.\n(줄 세우기 x3 보다 37% 더 높습니다)\n\n궁극기 처치 시 33%의 궁극기 에너지를 반환합니다."
     }
    }
   },
