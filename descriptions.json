@@ -7302,6 +7302,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665698551542,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -7327,6 +7331,9 @@
     "en": {
      "main": "Intrinsic Hand Cannon Holster\n100 Handling Ready Speed with 0.6 Duration Multiplier, 20 Airborne Effectiveness, and -40% Accuracy Cone Size on Ready for 4 seconds.\n\nUpon readying a Kinetic or Matching Hand Cannon with a Full Magazine:\n<pve 60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits. />\nOnly works against Combatants.\n\nFor Exotic Hand Cannon interactions, go to <link Court's Spreadsheet [https://docs.google.com/spreadsheets/d/1i1KUwgVkd8qhwYj481gkV9sZNJQCE-C3Q-dpQutPCi4/edit#rangeid=1312688627] />!\n\nAfter the Buff runs out, you swap weapons, or firing after the 5 second period:\nYou cannot gain stacks or reacquire the buff for 10 seconds.",
      "secondary": "Intrinsic Hand Cannon Holster\r\n100 Handling Ready Speed with 0.6x Duration Multiplier, 20 Airborne Effectiveness, and -40% Accuracy Cone Size on Ready for 4 seconds.\r\n\r\nUpon readying a Kinetic or Matching Hand Cannon with a Full Magazine:\r\n60% increased damage per hit for 5 seconds. Maxes out at 600% after 10 Hits.\r\nOnly works against Combatants.\r\n\r\nFor Exotic Hand Cannon interactions, go to Court's Spreadsheet\r\n\r\nAfter the Buff runs out, you swap weapons, or firing after the 5 second period:\r\nYou cannot gain stacks or reacquire the buff for 10 seconds.\r\n"
+    },
+    "ko": {
+     "main": "핸드 캐논 총집이 기본으로 내장되어 있습니다.\n핸드 캐논을 꺼내는 순간 4초 동안 준비 속도가 100 증가하며 지속 시간 배율이 0.6으로 증가, 공중 효율 20 증가, 그리고 착탄 범위가 40% 좁아집니다.\n\n물리 속성이나 장착한 하위 속성과 일치하는 속성의 핸드 캐논을 준비할 시:\n<pve 5초 동안 한발 마다 피해가 60% 식 증가하며 10발에서 최대 600% 피해 증가가 부여됩니다./>\n수호자에겐 적용되지 않습니다.\n\n경이 핸드 캐논의 피해 배율을 보고 싶으시면 <link 이 차트를 확인하세요 [https://docs.google.com/spreadsheets/d/1i1KUwgVkd8qhwYj481gkV9sZNJQCE-C3Q-dpQutPCi4/edit#rangeid=1312688627] />\n\n버프의 지속 시간이 끝나거나, 무기를 바꾸거나, 5초 동안 사격했을 시:\n버프를 10초 동안 얻을 수 없습니다."
     }
    }
   },
