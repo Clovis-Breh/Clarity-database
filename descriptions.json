@@ -864,6 +864,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665683374556,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -871,6 +875,9 @@
     "en": {
      "main": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%",
      "secondary": "During slide after sprinting for at least 1.5 seconds: \r\nGenerate a 180° frontal shield that reflects damage and projectiles.\r\n\r\nIncreases Slide Distance by 33%"
+    },
+    "ko": {
+     "main": "적어도 1.5초 이상 질주한 뒤 슬라이드 할 시:\n투사체를 반사하고 피해를 무력화하는 180도의 정면 방어막을 생성합니다.\n\n슬라이드 거리를 33% 증가시킵니다."
     }
    }
   },
