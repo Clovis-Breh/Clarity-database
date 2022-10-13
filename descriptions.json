@@ -10499,6 +10499,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665697694734,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -10506,6 +10510,9 @@
     "en": {
      "main": "Radar remains active while Aiming Down Sights.\n\nIf crouched:\nGrants Enhanced Radar.\n(Has 12 sectors instead of 6)\n",
      "secondary": "Radar remains active while Aiming Down Sights.\r\n\r\nIf crouched:\r\nGrants Enhanced Radar.\r\n(Has 12 sectors instead of 6)\r\n"
+    },
+    "ko": {
+     "main": "무기를 조준하는 동안에도 레이더가 활성화됩니다.\n\n웅크릴 때:\n레이더가 향상됩니다.\n(섹터가 6개에서 12개로 증가합니다.)"
     }
    }
   },
