@@ -10877,6 +10877,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665694586611,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -10884,6 +10888,9 @@
     "en": {
      "main": "Daybreak Projectiles apply 60 Scorch on hit. This is increased to 90 Scorch with Ember of Ashes Equipped.\n\nScorch effects deal <pve 200%  /><pvp [50%] /> increased damage.\n\nRegain [?] Melee Ability Energy every time Scorch deals damage.",
      "secondary": "Daybreak Projectiles apply 60 Scorch on hit. This is increased to 90 Scorch with Ember of Ashes Equipped.\r\n\r\nScorch effects deal 200% [PVP: 50%] increased damage.\r\n\r\nRegain [?] Melee Ability Energy every time Scorch deals damage."
+    },
+    "ko": {
+     "main": "여명 투사체 적중 시 적에게 소각 스택 60개를 부여합니다. 재의 불씨를 장착하면 스택이 90개로 증가합니다.\n\n소각 피해는 <pve 200%  /><pvp [50%] /> 만큼 증가합니다."
     }
    }
   },
