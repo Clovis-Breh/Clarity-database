@@ -2439,6 +2439,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665695389426,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -2446,6 +2450,9 @@
     "en": {
      "main": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and receive 30% increased damage.\nDuration and Range are dependant on Enemy Rank. \n\nEnemy Ranks are Minor/Elite/Miniboss/Boss.\nFinishers add 5 seconds to Duration. Bosses are not finishable. Guardians count as Elites.\n\nWarlord's End.\nRange: 10/15/20/25 metres, centered on enemy.\nDuration: 5/10/15/20 seconds.\nFinisher Duration: 10/15/20 seconds.",
      "secondary": "Melee Kills, as well as Finishers weaken and blind, rendering the enemy unable to shoot and receive 30% increased damage.\r\nDuration and Range are dependant on Enemy Rank. \r\n\r\nEnemy Ranks are Minor/Elite/Miniboss/Boss.\r\nFinishers add 5 seconds to Duration. Bosses are not finishable. Guardians count as Elites.\r\n\r\nWarlord's End.\r\nRange: 10/15/20/25 metres, centered on enemy.\r\nDuration: 5/10/15/20 seconds.\r\nFinisher Duration: 10/15/20 seconds."
+    },
+    "ko": {
+     "main": "근접 공격 처치와 필살기 처치가 적을 실명시키고 30%의 추가 피해를 받게하는 폭발을 일으킵니다.\n지속 시간과 폭발 반경은 적의 등급에 따라 결정됩니다.\n\n적 등급은 부하/리더/미니보스/보스입니다.\n필살기를 사용하면 지속 시간이 5초 추가됩니다. 수호자는 리더 취급입니다.\n\n전쟁군주의 최후\n폭발 범위: 폭심지로 부터 10/15/20/25 미터\n지속 시간: 5/10/15/20 초\n필살기를 사용했을 떄의 지속 시간: 10/15/20 초"
     }
    }
   },
