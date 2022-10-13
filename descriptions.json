@@ -8760,6 +8760,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665696299625,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -8776,6 +8780,9 @@
     "en": {
      "main": "Void Invisibility effects last 2 seconds longer.\n\nWhile Invisible:\n<pve 400% /> <pvp [100%] /> Additional Base Melee Regeneration Rate.\nEach enemy within 15 metres will increase the bonus to a total of <pve 600% /> <pvp [200%] /> and <pve 800% /> <pvp [300%] />.\n\n100 Recovery and 100 Reload Speed.",
      "secondary": "Void Invisibility effects last 2 seconds longer.\r\n\r\nWhile Invisible:\r\n400% [PVP: 100%] Additional Base Melee Regeneration Rate.\r\nEach enemy within 15 metres will increase the bonus to a total of 600% [PVP: 200%] and 800% [PVP: 300%].\r\n\r\n100 Recovery and 100 Reload Speed."
+    },
+    "ko": {
+     "main": "공허 은신의 지속 시간이 2초 증가합니다.\n\n은신한 상태에서:\n기본 근접 능력 재생 속도가 <pve 400% /> <pvp [100%] /> 증가합니다.\n15미터 이내에 있는 적의 수 만큼 <pve 600% /> <pvp [200%] /> and <pve 800% /> <pvp [300%] />까지 증가합니다.\n\n회복력과 재장전 속도로 100으로 증가시킵니다."
     }
    }
   },
