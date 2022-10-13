@@ -5338,6 +5338,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665696849915,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -5345,6 +5349,9 @@
     "en": {
      "main": "Guarding with Banner Shield blinds enemies within 7 metres for 5 seconds.\n\nAny Ward of Dawn that you create grants Starless Night, which gives a 65HP Void Overshield to any ally that enters.\n\nEnemies that enter your Ward of Dawn are also blinded for 5 seconds.",
      "secondary": "Guarding with Banner Shield blinds enemies within 7 metres for 5 seconds.\r\n\r\nAny Ward of Dawn that you create grants Starless Night, which gives a 65HP Void Overshield to any ally that enters.\r\n\r\nEnemies that enter your Ward of Dawn are also blinded for 5 seconds."
+    },
+    "ko": {
+     "main": "깃발 방패로 막으면 7미터 이내에 있는 적들을 5초간 실명시킵니다.\n\n새벽의 수호물을 시전하면 별 없는 밤이 활성화되며 수호물에 들어온 아군에게 65HP 짜리 보호막을 부여합니다.\n\n수호물에 들어온 적들을 5초간 실명시킵니다."
     }
    }
   },
