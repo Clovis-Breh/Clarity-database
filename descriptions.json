@@ -15149,6 +15149,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665695133213,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -15156,6 +15160,9 @@
     "en": {
      "main": "Passively grants 15 Airborne Effectiveness.\n\nHighlights enemies below 50% HP enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\nInvisible enemies that fulfill those conditions will also be highlight.\n\n50% Additional Base Grenade/Melee/Class Regeneration Rate.",
      "secondary": "Passively grants 15 Airborne Effectiveness.\r\n\r\nHighlights enemies below 50% HP enemies in a red outline, and Enemy Guardians with Fully-charged Supers in a yellow outline.\r\nInvisible enemies that fulfill those conditions will also be highlight.\r\n\r\n50% Additional Base Grenade/Melee/Class Regeneration Rate."
+    },
+    "ko": {
+     "main": "상시로 공중 효율을 15만큼 증가시킵니다.\n\n체력이 50% 이하인 적들을 붉게 지정시켜주며 궁극기가 준비된 수호자는 노란색으로 지정시켜줍니다.\n만약에 적이 은신 상태여도 위의 조건을 만족하면 지정됩니다.\n\n기본 수류탄, 근접 능력, 직업 능력 재생 속도가 50% 증가합니다."
     }
    }
   },
