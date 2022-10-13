@@ -12511,6 +12511,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665683914907,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -12518,6 +12522,9 @@
     "en": {
      "main": "Passively grants 30 Airborne Effectiveness\n\n25% increased Blink distance.\nReduces Blink charge cooldown by ~16% on average.\n\nOn Blink:\n100 Ready Speed Handling, Radar remains active.\n\nBlink Cooldowns:\n2.5 seconds (3 seconds base)\nCooldown = 4.5 seconds (5 seconds base)",
      "secondary": "Passively grants 30 Airborne Effectiveness\r\n\r\n25% increased Blink distance.\r\nReduces Blink charge cooldown by ~16% on average.\r\n\r\nOn Blink:\r\n100 Ready Speed Handling, Radar remains active.\r\n\r\nBlink Cooldowns:\r\n2.5 seconds (3 seconds base)\r\nCooldown = 4.5 seconds (5 seconds base)"
+    },
+    "ko": {
+     "main": "상시 공중 효율을 30만큼 증가시켜줍니다.\n\n점멸 거리를 25% 증가시킵니다.\n점멸 쿨다운을 약 16% 정도 증가시킵니다.\n\n점멸 시:\n무기 준비 속도 100 증가와 점멸 이후 레이더가 사라지지 않습니다.\n\n점멸 쿨다운:\n2.5초 (기본 3초)\n쿨다운 = 4.5초 (기본 5초)"
     }
    }
   },
