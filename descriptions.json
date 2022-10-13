@@ -13688,6 +13688,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665682644948,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -13695,6 +13699,9 @@
     "en": {
      "main": "2 Precision Multikills drop an Orb of Power for allies.\n\nFinishing an Elite spawns a Special Ammo Brick for Allies\nFinishing a Mini-boss spawns a Power Ammo Brick for Allies.\n\nAeon Allies additionally receive a 35% Damage Increase for 20 seconds.",
      "secondary": "2 Precision Multikills drop an Orb of Power for allies.\r\n\r\nFinishing an Elite spawns a Special Ammo Brick for Allies\r\nFinishing a Mini-boss spawns a Power Ammo Brick for Allies.\r\n\r\nAeon Allies additionally receive a 35% Damage Increase for 20 seconds."
+    },
+    "ko": {
+     "main": "빠르게 정밀 처치 2회를 하면 아군을 위한 힘의 보주가 생성됩니다.\n\n엘리트 적을 필살기로 처치하면 아군을 위한 특수 탄약이 생성됩니다.\n미니보스를 필살기로 처치하면 아군을 위한 중화기 탄약이 생성됩니다.\n\n 추가로 영겁 시리즈를 낀 아군은 20초 동안 35%의 피해 저항을 받습니다."
     }
    }
   },
