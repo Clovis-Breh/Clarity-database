@@ -9011,6 +9011,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665696387572,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -9018,6 +9022,9 @@
     "en": {
      "main": "During Spectral Blade\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\n\nSuper Energy % gains based on kills\n< table >\n| <pve 11.1 /> | 🠚 | <pve 14.3 /> | 🠚 | <pve 16.5 /> | 🠚 | <pve 16.9 /> | 🠚 | <pve 17.1 />\n| <pvp 8.3 />  | 🠚 | <pvp 12.5 /> | 🠚 | <pvp 14.2 /> | 🠚 | <pvp 15.8 /> | 🠚 | <pvp 16.7 />\n<$>",
      "secondary": "During Spectral Blade\r\nRestores Super Energy on Heavy Attack based on the amount of Spectral Blade Kills.\r\n\r\nSuper Energy % gains based on kills\r\nPVE: 11.1 -> 14.3 -> 16.5 -> 16.9 -> 17.1\r\nPVP: 8.3 -> 12.5 -> 14.2 -> 15.8 -> 16.7"
+    },
+    "ko": {
+     "main": "스팩트럼 칼날 시전 중:\n강공격을 하면 스팩트럼 칼날로 처치한 적의 수에 비례해 궁극기 에너지를 반환합니다.\n\n궁극기 반환률:\n< table >\n| <pve 11.1% /> | 🠚 | <pve 14.3% /> | 🠚 | <pve 16.5% /> | 🠚 | <pve 16.9% /> | 🠚 | <pve 17.1% />\n| <pvp 8.3% />  | 🠚 | <pvp 12.5% /> | 🠚 | <pvp 14.2% /> | 🠚 | <pvp 15.8% /> | 🠚 | <pvp 16.7% />\n<$>"
     }
    }
   },
