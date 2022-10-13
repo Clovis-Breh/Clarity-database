@@ -3750,6 +3750,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665695766273,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -3757,6 +3761,9 @@
     "en": {
      "main": "While Sprinting: \n<pve 2x Grenade/Melee Regeneration Speed />\n<pvp 100% Additional Base Grenade/Melee Regeneration Rate. />\nGain an additional <pve 100% /><pvp [200%] /> of your Base Class Ability Regeneration Rate.\n\nOn Dodge:\n6.25% Faster Sprint for 10 seconds. \nNot refreshable.",
      "secondary": "While Sprinting: \r\nPVE: 2x Grenade/Melee Regeneration Speed />\r\nPVP: 100% Additional Base Grenade/Melee Regeneration Rate. />\r\nGain an additional 100% [PVP: 200%] of your Base Class Ability Regeneration Rate.\r\n\r\nOn Dodge:\r\n6.25% Faster Sprint for 10 seconds. \r\nNot refreshable."
+    },
+    "ko": {
+     "main": "질주하는 동안:\n<pve 수류탄과 근접 능력 재생 속도 100% 증가 />\n<pvp 수류탄과 근접 능력의 기본 재생 속도 100% 증가 />\n추가로 직업 능력의 기본 재생 속도가 <pve 100% /><pvp [200%] /> 만큼 증가합니다.\n\n회피 직후:\n10초 동안 질주 속도가 6.25% 증가합니다.\n초기화 불가능합니다."
     }
    }
   },
