@@ -3659,6 +3659,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665683542394,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -3666,6 +3670,9 @@
     "en": {
      "main": "Grants an extra Grenade Charge. \r\n\r\nDoes not Stack with Top Tree Striker",
      "secondary": "Grants an extra Grenade Charge. \r\n\r\nDoes not Stack with Top Tree Striker"
+    },
+    "ko": {
+     "main": "수류탄 에너지를 추가로 제공합니다.\n\n타이탄의 직업 트리와 같이 사용해 수류탄 3개를 소지하는 것은 불가능합니다."
     }
    }
   },
