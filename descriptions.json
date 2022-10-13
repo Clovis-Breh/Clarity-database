@@ -189,6 +189,10 @@
       "lastUpdate": 1665341859249,
       "undatedBy": "Fading Shadow",
       "updatedBy": "Icemourne"
+     },
+     "es": {
+      "lastUpdate": 1665682216066,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -216,6 +220,10 @@
     "en": {
      "main": "On Weapon or Grenade Kill:\n20 Handling and a Stacking Damage Increase for 4.5 seconds.\n\nBuff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly.\n\n< table >\n|  Stacks          | 1x    | 2x     | 3x   | 4x     | 5x    <bold/>\n|b Damage Increase | 6.7%  | 13.3%  | 20%  | 26.6%  | 33.3% <background/>\n<$>\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Duration is increased to 5 seconds.",
      "secondary": "On Weapon or Grenade Kill:\n6.7% | 13.3% | 20% | 26.6% | 33.3% Increased Damage and +20 Handling for 4.5 seconds.\n\nBuff Refreshed on Kill. Grenade Kills grant all 5 stacks instantly.\n\nEnhanced: Buff Duration is increased to 5 seconds."
+    },
+    "es": {
+     "main": "Bajas con el arma o una granada otorgan:\n20 Manejo y Aumento de Daño acumulable, durante 4.5 segundos\n\nEl bufo se renueva con cada baja. Baja con granada otorga la maxima cantidad de Daño\n\n< table >\n|  Indicador          | 1x    | 2x     | 3x   | 4x     | 5x    <bold/>\n|b Aumento de Daño | 6.7%  | 13.3%  | 20%  | 26.6%  | 33.3% <background/>\n<$>\n\n<formula Velocidad de Desenfundado: [ready_0] />\n<formula Velocidad de Enfundado: [stow_0] />\n\nAumentado: La duracion del bufo aumenta a 5 segundos",
+     "secondary": "Bajas con el Arma o Granadas otorgan:\nAumento de daño:\n6.7% | 13.3% | 20% | 26.6% | 33.3% \n+20 al manejo\n\nEl bufo se renueva con cada baja. Baja con granada otorga la maxima cantidad de Daño\n\nMejorado: La duracion del bufo aumenta a 5 segundos"
     }
    }
   },
@@ -677,6 +685,10 @@
      "zh-chs": {
       "lastUpdate": 1664434059804,
       "undatedBy": "Mistwalker"
+     },
+     "es": {
+      "lastUpdate": 1665682940771,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -696,6 +708,10 @@
     },
     "zh-chs": {
      "main": "精准命中时：\n降低 25% 蓄力时间，持续 3 秒。\n\n增强特征： 增加持续时间到 4 秒。",
+     "secondary": "import self"
+    },
+    "es": {
+     "main": "En tiros de Precision:\nReduce en un 25% el tiempo de tensado durante 3 segundos\n\nAumentado: Aumenta la duracion del bufo a 4 segundos",
      "secondary": "import self"
     }
    }
@@ -1151,6 +1167,10 @@
      "zh-chs": {
       "lastUpdate": 1664434330803,
       "undatedBy": "Mistwalker"
+     },
+     "es": {
+      "lastUpdate": 1665683206116,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -1170,6 +1190,10 @@
     },
     "zh-chs": {
      "main": "当刀剑击杀时：\n提高 15% 伤害，增加移动和冲刺速度，增加挥舞刀剑的前冲距离。\n武器收起时依然生效。",
+     "secondary": "import self"
+    },
+    "es": {
+     "main": "En baja con Espada:\nAumento de 15% al Daño, y pone a la velocidad de movimiento hacia adelante a 9 metros por segundo durante [?] segundos\n\nSe mantiene activo al guardar la espada\n\nMejorado: Aumenta la duración del bufo a [?] segundos",
      "secondary": "import self"
     }
    }
@@ -2636,6 +2660,10 @@
      "zh-chs": {
       "lastUpdate": 1664433230817,
       "undatedBy": "Mistwalker"
+     },
+     "es": {
+      "lastUpdate": 1665678437311,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -2662,6 +2690,10 @@
     },
     "zh-chs": {
      "main": "-40ms 充能时间，-2% 伤害。",
+     "secondary": "import self"
+    },
+    "es": {
+     "main": "Reduce en 40ms el tiempo de carga y reduce daño en 2% ",
      "secondary": "import self"
     }
    }
@@ -4293,6 +4325,10 @@
       "lastUpdate": 1665341550976,
       "undatedBy": "Fading Shadow",
       "updatedBy": "Icemourne"
+     },
+     "es": {
+      "lastUpdate": 1665682073849,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -4300,6 +4336,10 @@
     "en": {
      "main": "var d = 1\nvar e = empty\nUpon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\n< weapon type ( fusion rifle ) >\n#e${29 * #d}% per hit, up to #e${435 * #d}%\n<$$>\n< weapon type ( auto rifle, machine gun, pulse rifle, trace rifle ) >\n#e${33.3 * #d}% per hit, up to #e${500 * #d}%\n<$$>\n< weapon type ( linear fusion rifle ) >\n#e${150 * #d}% per hit, up to #e${450 * #d}%\n<$$>\n< weapon type ( combat bow, glaive, hand cannon, scout rifle ) >\n#e${166.6 * #d}% per hit, up to #e${500 * #d}%\n<$$>\n\n<title Efects on all weapons [weapon list] />\n\ntitle weapon list (\n< table wide >\n| Weapon type           |   Per hit         |   Up to           <bold/>\n| Fusion Rifles         |   #e${29 * #d}%   |   #e${435 * #d}%  <background/>\n| Linear Fusion Rifles  |   #e${150 * #d}%  |   #e${450 * #d}% \n| Auto Rifles           |-4 #e${33.3 * #d}% |-4 #e${500 * #d}%  <background/>\n| Machine Guns                                                  <background/> \n| Pulse Rifles                                                  <background/>    \n| Trace Rifles                                                  <background/> \n| Bows                  |-4 #e${166.6 * #d}% |-4 #e${500 * #d}%\n| Glaives\n| Hand Cannons\n| Scout Rifles\n<$>\n)",
      "secondary": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\n29% per hit, up to 435%: Fusion Rifles\n\n33.3% per hit, up to 500%:\nAuto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\n\n150% per hit, up to 450%: Linear Fusion Rifles\n\n166.6% per hit, up to 500%:\nBows, Glaives, Hand Cannons, Scout Rifles\n\n\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%\nEg: 500% -> 600%"
+    },
+    "es": {
+     "main": "var d = 1\nvar e = empty\nLuego de impactar con un Escudo de otro elemento al arma, o la Barrera de un Campeon:\nLos proximos impactos aumentan en daño contra el escudo del enemigo.\n\nEl bufo se termina si se impacta contra un escudo con mismo elemento, o contra un enemigo sin escudo.\n\n< weapon type ( fusion rifle ) >\n#e${29 * #d}% por bala, hasta #e${435 * #d}%\n<$$>\n< weapon type ( auto rifle, machine gun, pulse rifle, trace rifle ) >\n#e${33.3 * #d}% por bala, hasta #e${500 * #d}%\n<$$>\n< weapon type ( linear fusion rifle ) >\n#e${150 * #d}% por bala, hasta #e${450 * #d}%\n<$$>\n< weapon type ( combat bow, glaive, hand cannon, scout rifle ) >\n#e${166.6 * #d}% por bala, hasta #e${500 * #d}%\n<$$>\n\n<title Dependiendo del tipo de arma [weapon list] />\n\ntitle weapon list (\n< table wide >\n| Tipo de Arma          |   Por bala       |   hasta           <bold/>\n| Fusil de Fusion        |   #e${29 * #d}%   |   #e${435 * #d}%  <background/>\n| Fusil de Fusion Lineal  |   #e${150 * #d}%  |   #e${450 * #d}% \n| Fusil Automatico           |-4 #e${33.3 * #d}% |-4 #e${500 * #d}%  <background/>\n| Ametralladora                                                 <background/> \n| Fusil de Pulsos                                                <background/>    \n| Fusil de Rastreo                                                  <background/> \n| Arco                  |-4 #e${166.6 * #d}% |-4 #e${500 * #d}%\n| Gujas\n| Cañon de Mano\n| Fusil de Explorador\n<$>\n)",
+     "secondary": "Luego de impactar con un Escudo de otro elemento al arma, o la Barrera de un Campeon:\nLos proximos impactos aumentan en daño contra el escudo del enemigo.\n\nEl bufo se termina si se impacta contra un escudo con mismo elemento, o contra un enemigo sin escudo.\n\n+29% por bala, hasta 435%: Fusil de Fusion\n\n+33.3% por bala, hasta 500%: \nFusiles Automaticos, Fusiles de Pulsos, Fusiles de Rastreo y Ametralladoras\n\n+150% por bala, hasta 450%: Fusiles de Fusion Lineales\n\n+166.6% por bala, hasta 500%;\nArcos, Gujas, Cañones de Mano y Fusiles de Explorador\n\nMejorado: El daño aumentado por bala aumenta, y el maximo daño aumenta un 20%\nPor ejemplo: 500% -> 600%"
     }
    }
   },
@@ -4596,6 +4636,10 @@
      "ko": {
       "lastUpdate": 1665682298577,
       "updatedBy": "tritonesub251"
+     },
+     "es": {
+      "lastUpdate": 1665676212671,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -5618,6 +5662,10 @@
      "zh-chs": {
       "lastUpdate": 1664433627914,
       "undatedBy": "Mistwalker"
+     },
+     "es": {
+      "lastUpdate": 1665682570721,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -5638,6 +5686,10 @@
     "zh-chs": {
      "main": "弹夹为空时：\n加快 15% 换弹装填动画。",
      "secondary": "弹夹为空时：\n加快 15% 换弹装填动画。"
+    },
+    "es": {
+     "main": "export description (\n    Al recargar con el cargador vacio: \n    Aumento del 15% a la Velocidad de Recarga\n)\n\n<formula Reload Time: [reload_0] />",
+     "secondary": "import description from self "
     }
    }
   },
@@ -8253,6 +8305,10 @@
      "zh-chs": {
       "lastUpdate": 1664434138323,
       "undatedBy": "Mistwalker"
+     },
+     "es": {
+      "lastUpdate": 1665683033126,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -8272,6 +8328,10 @@
     },
     "zh-chs": {
      "main": "增加 5% 对战斗人员护盾的伤害。\n\n子弹可以穿透敌人一次。",
+     "secondary": "import self"
+    },
+    "es": {
+     "main": "Otorga de forma pasiva:\n+5 al Alcance\n+5% al Daño contra escudos de enemigos\n\nLas balas son capaces de penetrar enemigos 1 vez",
      "secondary": "import self"
     }
    }
@@ -8382,6 +8442,10 @@
      "zh-chs": {
       "lastUpdate": 1664433784615,
       "undatedBy": "Mistwalker"
+     },
+     "es": {
+      "lastUpdate": 1665682849650,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -8392,6 +8456,10 @@
     },
     "zh-chs": {
      "main": "该武器击杀后 X 秒内换弹：\n每个击杀增加 10% 过量填加弹匣， 最高 50%。\n\n计算结果向上取整。\n\n强化特征：+5 填装速度。",
+     "secondary": "import self"
+    },
+    "es": {
+     "main": "Luego de recargar despues de  [?] segundos despues de una Baja con el arma:\nAumenta la capacidad del Cargador por baja dentro de [?] segundos\n\nPuede llegar a ser un 150% la cantidad del cargador original. Redondea hacia arriba. \n\nArmas Primarias reciben un 20% a la capacidad aumentada por baja. Armas Especiales y Pesadas reciben un 10%\n\nAumentado: Otorga +5 a la velocidad de recarga de forma pasiva",
      "secondary": "import self"
     }
    }
@@ -12551,6 +12619,10 @@
      "zh-chs": {
       "lastUpdate": 1664434504092,
       "undatedBy": "Mistwalker"
+     },
+     "es": {
+      "lastUpdate": 1665683340998,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -12562,6 +12634,10 @@
     "zh-chs": {
      "main": "武器收起 2.5 秒后<title 刷新 [refreshes] />弹匣。\n\n强化特征：激活所需时间降低为 2.3 秒。\n\ntitle refreshes (\n装填，但没有动画，也不触发换弹相关 perk。\n)",
      "secondary": "武器收起 2.5 秒后刷新弹匣。\n\n强化特征：激活所需时间降低为 2.3 秒。"
+    },
+    "es": {
+     "main": "<<title Rellena [G_refreshes] /> el arma guardada luego de 2.5 segundos\n\nMejorado: El tiempo de activacion es reducido a 2.3 segundos",
+     "secondary": "Rellena el arma, si esta guardada, luego de 2.5 segundos\n\nMejorado: El tiempo de activacion se reduce a 2.3 segundos"
     }
    }
   },
@@ -13899,6 +13975,10 @@
       "lastUpdate": 1665506622178,
       "undatedBy": "Fading Shadow",
       "updatedBy": "Icemourne"
+     },
+     "es": {
+      "lastUpdate": 1665681669959,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -13932,6 +14012,10 @@
     "en": {
      "main": "var e = empty\nOn Weapon Kill for #e${7 + #t} seconds: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Range\n<$$>\n// separator for readabilty\n< weapon type ( combat bow, shotgun ) >\n    +20% Damage\n< weapon type ( other ) >\n    +30% Damage\n<$$>\n// separator for readabilty\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Fire Rate [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    -15% <title Charge Rate [ROF] />\n< weapon type ( other ) >\n    -20% <title Fire Rate [ROF] />\n<$$>\n<formula In-Game Range: [range_0] />\n\n<title Efects on all weapons [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n| Weapon              | Damage         | Fire/Charge Rate <bold/>\n| Hand Cannon         | <green 30% />  | <green -15% />\n| Scout Rifle         | <green 30% />  | <green -15% />\n| Auto Rifle          | <purple 30% /> | <purple -20% />\n| Sidearm             | <purple 30% /> | <purple -20% />\n| Grenade Launcher    | <purple 30% /> | <purple -20% />\n| Linear Fusion Rifle | 30%            | -15%          \n| Fusion Rifle        | <yellow 27% /> | <yellow -15% />\n| Bow                 | <blue 20% />   | <blue -20% /> \n| Shotgun             | <blue 20% />   | <blue -20% />\n<$>\n)\n\ntitle ROF (\nThe rate of Fire tends to be shifted to the next slower-firing frame.\n\nEg: Rapid Fire Auto => Adaptive Auto\n)",
      "secondary": "On Weapon Kill:\n30% increased damage, 20% slower Rate of Fire/Charge Rate, and +10 Range for 7 seconds.\n\nBows and Shotguns only receive a 20% damage increase.\n\nRate of Fire tends to be shifted to the next slower-firing frame. Eg: Rapid Fire Auto -> Adaptive Auto\n\nEnhanced: Buff Duration is increased to a maximum of 8 seconds."
+    },
+    "es": {
+     "main": "var e = empty\nDurante #e${7 + #t} segundos luego de una baja con el arma: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Alcance\n<$$>\n// separator for readabilty\n< weapon type ( combat bow, shotgun ) >\n    +20% Daño\n< weapon type ( other ) >\n    +30% Daño\n<$$>\n// separator for readabilty\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Cadencialde Tiro  [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    -15% <title Tiempo de Carga [ROF] />\n< weapon type ( other ) >\n    -20% <title Cadencia de Tiro [ROF] />\n<$$>\n<formula Alcance: [range_0] />\n\n<title Efectos por Tipo de Arma [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n| Tipo de Arma              | Daño        | Cadencia/Carga <bold/>\n| Cañon de Mano         | <green 30% />  | <green -15% />\n| Fusil Explorador         | <green 30% />  | <green -15% />\n| Fusil Automatico         | <purple 30% /> | <purple -20% />\n| Pistola            | <purple 30% /> | <purple -20% />\n| Lanza Granadas    | <purple 30% /> | <purple -20% />\n| Fusil de Fusion Lineal | 30%            | -15%          \n| Fusil de Fusion        | <yellow 27% /> | <yellow -15% />\n| Arco                | <blue 20% />   | <blue -20% /> \n| Escopeta             | <blue 20% />   | <blue -20% />\n<$>\n)\n\ntitle ROF (\nLa Cadencia de Tiro tiende a cambiar hacia el proximo armazon mas lento.\n\nPor Ejemplo: Fusil automatico de Precision => Fusil automatico de Alto Impacto \n)",
+     "secondary": "Luego de una baja:\nAumento de daño en un 30%, aumento 10 al alcance y disminucion de 20% a la Cadencia de Tiro o Velocidad de Carga durante 7 segundos\n\nArcos y Escopetas solo reciben un 20% de aumento a su daño\n\nLa Cadencia de Tiro tiende a cambiar hacia el proximo armazon mas lento. Por Ejemplo: Fusil automatico de Precision => Fusil automatico de Alto Impacto \n\nMejorado: La duracion del bufo aumenta a un maximo de 8 segundos"
     }
    }
   },
@@ -14255,6 +14339,10 @@
      "zh-chs": {
       "lastUpdate": 1664433396838,
       "undatedBy": "Mistwalker"
+     },
+     "es": {
+      "lastUpdate": 1665682493046,
+      "updatedBy": "miniatimat"
      }
     }
    },
@@ -14265,6 +14353,10 @@
     },
     "zh-chs": {
      "main": "生命值降低时：\n最高获取 60 空中效率。\n空中效率效果随着生命值降低而线性增强。当重伤时达到最大值。\n\n强化特征：最高获取 66[?] 空中效率。",
+     "secondary": "import self"
+    },
+    "es": {
+     "main": "Mientras la vida esta baja:\nHasta +60 de Eficacia en el Aire\n\nEl efecto aumenta linealmente mientras la vida disminuye. Efecto maximo cuando la vida esta en estado critico\n\nOtorga +10 de Eficacia en el Aire de forma pasiva\n\nMejorado: Otorga hasta +70 de Eficacia en el Aire. Otorga +12 de Eficacia en el Aire de forma pasiva",
      "secondary": "import self"
     }
    },
