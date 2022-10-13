@@ -6969,6 +6969,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665682478048,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -6976,6 +6980,9 @@
     "en": {
      "main": "Passively grants 30 Airborne Effectiveness to Auto Rifles and Machine Guns.\r\n\r\nRefreshes 10% of equipped Auto Rifle/Machine Gun magazine every 1.5 seconds.",
      "secondary": "Passively grants 30 Airborne Effectiveness to Auto Rifles and Machine Guns.\r\n\r\nRefreshes 10% of equipped Auto Rifle/Machine Gun magazine every 1.5 seconds."
+    },
+    "ko": {
+     "main": "자동 소총군과 기관총군에 상시로 공중 효율을 30 만큼 올려줍니다.\n\n발사하는 동안 1.5초마다 자동 소총/기관총의 탄창의 10%를 재장전합니다. "
     }
    }
   },
