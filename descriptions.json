@@ -13104,6 +13104,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665698800512,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -13130,6 +13134,9 @@
     "en": {
      "main": "While inside a Rift or Well of Radiance:\r\n+100 Reload with 0.9x <title RDS [rds] /> to all Guardians inside.\r\n\r\nWhile inside an <bold Empowering /> Rift or Well of Radiance:\r\n2x Falloff Distance Increase.\r\n\r\ntitle rds (\r\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\r\n)",
      "secondary": "While inside a Rift or Well of Radiance:\r\n+100 Reload with 0.9x Duration Scale to all Guardians inside.\r\n\r\nWhile inside an Empowering Rift or Well of Radiance:\r\n2x Falloff Distance Increase."
+    },
+    "ko": {
+     "main": "빛의 샘이나 균열안에 있을 떄:\n안에 있는 수호자의 재장전 속도를 100 만큼 증가시킵니다.\n\n빛의 샘이나 강화의 균열안에 있을 때:\n무기의 사거리가 2배로 증가합니다.\n"
     }
    }
   },
