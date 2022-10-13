@@ -16039,6 +16039,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665697619293,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -16046,6 +16050,9 @@
     "en": {
      "main": "Powered Melee Hit instantly casts Smoke Bomb.\nSmoke Bombs deal 150% increased damage.\n\nStanding in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\n",
      "secondary": "Powered Melee Hit instantly casts Smoke Bomb.\r\nSmoke Bombs deal 150% increased damage.\r\n\r\nStanding in the Smoke Bomb's Cloud grants Truesight for 3 seconds, allowing you to see enemy outlines through walls from up to 64 meters away.\r\n"
+    },
+    "ko": {
+     "main": "근접 능력이 충전 된 상태에서 근접 공격을 하면 연막탄이 즉시 터집니다.\n연막탄의 피해가 150% 증가합니다.\n\n연막안에 들어가면 3초간 트루사이트를 부여하며 벽을 뚫고 64미터 이내의 적들의 위치를 알 수 있습니다."
     }
    }
   },
