@@ -2306,6 +2306,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665698639393,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -2313,6 +2317,9 @@
     "en": {
      "main": "Additive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability\n\nArcbolt Grenades chain up to 4 times (from 3)\n",
      "secondary": "Additive 25% Chance per Enemy hit with Arcbolt Grenade to recharge your Grenade Ability\r\n\r\nArcbolt Grenades chain up to 4 times (from 3)\r\n"
+    },
+    "ko": {
+     "main": "전기화살 수류탄으로 적중한 적 당 25%의 수류탄 에너지가 반환됩니다.\n\n전기화살 수류탄이 4번 까지 이어집니다."
     }
    }
   },
