@@ -7793,6 +7793,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665686033030,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -7800,6 +7804,9 @@
     "en": {
      "main": "Alters Towering Barricade\r\n\r\nAssault Barricade has reduced health and duration, but enables you and your allies to shoot through it.\r\n\r\nBarricade Stats\r\n<pvp 600HP -> 350HP />\r\n20 seconds -> 10 seconds ",
      "secondary": "Alters Towering Barricade\r\n\r\nAssault Barricade has reduced health and duration, but enables you and your allies to shoot through it.\r\n\r\nBarricade Stats\r\nPVP: 600HP -> 350HP\r\n20 seconds -> 10 seconds "
+    },
+    "ko": {
+     "main": "치솟은 방벽을 변형시킵니다.\n\n공격 방벽은 체력과 지속 시간이 줄어들지만 아군들이 방벽을 뚫고 사격 할 수 있게 해줍니다.\n\n방벽 수치\n<pvp 600HP -> 350HP />\n20초 -> 10초"
     }
    }
   },
