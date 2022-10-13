@@ -130,6 +130,10 @@
      "en": {
       "lastUpdate": 1658513881742,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665686324447,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -137,6 +141,9 @@
     "en": {
      "main": "While Charging a Grenade:\nChaotic Exchanger grants 20% Damage Resist.\n\nGrenade Hits grant Chaotic Exchange, granting <pve 2000% /> <pvp [1000%] /> Additional Grenade Regeneration Rate for 1.75 seconds.\n4 second cooldown.\n\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks.",
      "secondary": "While Charging a Grenade:\r\nChaotic Exchanger grants 20% Damage Resist.\r\n\r\nGrenade Hits grant Chaotic Exchange, granting 2000% [PVP: 1000%] Additional Base Grenade Regeneration Rate for 1.75 seconds.\r\n4 second cooldown.\r\n\r\nCharged Vortex Grenade can proc twice if enemies get hit by the initial explosion and the last few ticks."
+    },
+    "ko": {
+     "main": "수류탄을 충전하는 동안:\n혼돈 교환기는 20% 피해 저항을 제공합니다.\n\n수류탄 적중 시 혼돈의 교환을 제공하고 <pve 2000% /> <pvp [1000%] /> 만큼의 수류탄 피해를 증가시키며 수류탄 재생 속도를 1.75초 만큼 줄입니다.\n4초의 쿨다운이 있습니다.\n\n충전된 소용돌이 수류탄이 착탄과 동시에 피해를 입히거나 마지막 틱으로 피해를 주면 두번 발동 할 수 있습니다."
     }
    }
   },
@@ -10216,6 +10223,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665686063853,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -10223,6 +10234,9 @@
     "en": {
      "main": "Grants an extra Melee Charge.",
      "secondary": "Grants an extra Melee Charge."
+    },
+    "ko": {
+     "main": "추가 근접 공격 횟수를 제공합니다."
     }
    }
   },
