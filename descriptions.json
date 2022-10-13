@@ -9481,6 +9481,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665697470668,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -9488,6 +9492,9 @@
     "en": {
      "main": "On Barricade Cast:\nUnleashes a Solar Wave that returns back to the Barricade after 18.5 meters.\n<pvp Deals 100 damage. />\n\nSolar Kills refresh 25% of Class Ability Energy.\n",
      "secondary": "On Barricade Cast:\r\nUnleashes a Solar Wave that returns back to the Barricade after 18.5 meters.\r\nPVP: Deals 100 damage.\r\n\r\nSolar Kills refresh 25% of Class Ability Energy.\r\n"
+    },
+    "ko": {
+     "main": "방벽 시전 시:\n18.5미터를 나아간 뒤 다시 방벽으로 돌아오는 태양 파동을 내보냅니다.\n<pvp 100 피해를 줍니다. />\n\n태양 처치 시 직업 능력 에너지 25%를 반환합니다."
     }
    }
   },
