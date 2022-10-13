@@ -15960,6 +15960,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665683472825,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -15967,6 +15971,9 @@
     "en": {
      "main": "On Super Ability Activation:\nFully restores Health, Grenade, Melee, and Class Ability Energy.\n\nAllies within 18(?) metres receive [?]% Additional Base Ability Class Regeneration Rate.",
      "secondary": "On Super Ability Activation:\r\nFully restores Health, Grenade, Melee, and Class Ability Energy.\r\n\r\nAllies within 18(?) metres receive [?]% Additional Base Ability Class Regeneration Rate."
+    },
+    "ko": {
+     "main": "궁극기 발동 시:\n체력, 수류탄, 근접 공격, 그리고 직업 능력을 완전히 채웁니다.\n\n약 18미터 이내에 있는 아군들은 알 수 없는 만큼의 직업 능력 재생 속도를 추가로 받습니다."
     }
    }
   },
