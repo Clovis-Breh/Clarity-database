@@ -9010,6 +9010,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665685885774,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -9017,6 +9021,9 @@
     "en": {
      "main": "On Kinetic Damage Precision Kill:\nEnemy explodes in an elemental explosion of your currently selected Subclass.\nExplosion Radius and Falloff Distance scale with your Weapon's Range Stat.\n\n<pvp Deals ~200 Damage at epicenter. /> \n",
      "secondary": "On Kinetic Damage Precision Kill:\r\nEnemy explodes in an elemental explosion of your currently selected Subclass.\r\nExplosion Radius and Falloff Distance scale with your Weapon's Range Stat.\r\n\r\nPVP: Deals ~200 Damage at epicenter."
+    },
+    "ko": {
+     "main": "물리 피해 정밀타 처치 시:\n적이 현재 장착한 하위직업의 속성 폭발을 일으킵니다.\n폭발 반경과 피해 사거리는 무기의 사거리 수치에 기반합니다.\n\n<pvp 중심부에서 약 200의 피해를 일으킵니다. />"
     }
    }
   },
