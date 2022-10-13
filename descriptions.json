@@ -4692,6 +4692,10 @@
      "en": {
       "lastUpdate": 1658513881743,
       "undatedBy": "Fading-Shadow"
+     },
+     "ko": {
+      "lastUpdate": 1665694682007,
+      "updatedBy": "tritonesub251"
      }
     }
    },
@@ -4699,6 +4703,9 @@
     "en": {
      "main": "Powered Void Melee Kills grant <pve 20% /> <pvp [10%] /> Super Energy once per usage.\n\nSentinel Shield's Shield Throws regenerate 10% Super Energy\n",
      "secondary": "Powered Void Melee Kills grant 20% [PVP: 10%] Super Energy once per usage.\r\n\r\nSentinel Shield's Shield Throws regenerate 10% Super Energy\r\n"
+    },
+    "ko": {
+     "main": "공허 근접 능력으로 처치 시 <pve 20% /> <pvp [10%] />의 궁극기 에너지를 얻습니다.\n\n파수병의 방패를 사용하는 동안 방패 투척을 적중하면 10%의 궁극기 에너지를 반환 받습니다."
     }
    }
   },
