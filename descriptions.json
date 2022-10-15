@@ -11506,7 +11506,8 @@
      "secondary": "import secondary from 3673922083"
     }
    },
-   "mirrorStatsFrom": 3673922083
+   "mirrorStatsFrom": 3673922083,
+   "linkedWith": 3673922083
   },
   "2896038713": {
    "hash": 2896038713,
@@ -13521,12 +13522,6 @@
       "updatedBy": "Icemourne"
      }
     }
-   },
-   "editor": {
-    "en": {
-     "main": "var d = 1.2\nimport main from 1048183818",
-     "secondary": "import secondary from 1048183818"
-    }
    }
   },
   "3436462433": {
@@ -14255,7 +14250,8 @@
      "main": "var e = empty\nDurante #e${7 + #t} segundos luego de una baja con el arma: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Alcance\n<$$>\n// separator for readabilty\n< weapon type ( combat bow, shotgun ) >\n    +20% Daño\n< weapon type ( other ) >\n    +30% Daño\n<$$>\n// separator for readabilty\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Cadencialde Tiro  [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    -15% <title Tiempo de Carga [ROF] />\n< weapon type ( other ) >\n    -20% <title Cadencia de Tiro [ROF] />\n<$$>\n<formula Alcance: [range_0] />\n\n<title Efectos por Tipo de Arma [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n| Tipo de Arma              | Daño        | Cadencia/Carga <bold/>\n| Cañon de Mano         | <green 30% />  | <green -15% />\n| Fusil Explorador         | <green 30% />  | <green -15% />\n| Fusil Automatico         | <purple 30% /> | <purple -20% />\n| Pistola            | <purple 30% /> | <purple -20% />\n| Lanza Granadas    | <purple 30% /> | <purple -20% />\n| Fusil de Fusion Lineal | 30%            | -15%          \n| Fusil de Fusion        | <yellow 27% /> | <yellow -15% />\n| Arco                | <blue 20% />   | <blue -20% /> \n| Escopeta             | <blue 20% />   | <blue -20% />\n<$>\n)\n\ntitle ROF (\nLa Cadencia de Tiro tiende a cambiar hacia el proximo armazon mas lento.\n\nPor Ejemplo: Fusil automatico de Precision => Fusil automatico de Alto Impacto \n)",
      "secondary": "Luego de una baja:\nAumento de daño en un 30%, aumento 10 al alcance y disminucion de 20% a la Cadencia de Tiro o Velocidad de Carga durante 7 segundos\n\nArcos y Escopetas solo reciben un 20% de aumento a su daño\n\nLa Cadencia de Tiro tiende a cambiar hacia el proximo armazon mas lento. Por Ejemplo: Fusil automatico de Precision => Fusil automatico de Alto Impacto \n\nMejorado: La duracion del bufo aumenta a un maximo de 8 segundos"
     }
-   }
+   },
+   "linkedWith": 2889515627
   },
   "3674673997": {
    "hash": 3674673997,
