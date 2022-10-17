@@ -203,15 +203,17 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        20
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.067,
@@ -222,7 +224,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Weapon or Grenade Kill:\n20 Handling and a Stacking Damage Increase for 4.5 seconds.\n\nBuff Refreshed on Kill. Grenade Kills grant all 5 Stacks instantly.\n\n< table >\n|  Stacks          | 1x    | 2x     | 3x   | 4x     | 5x    <bold/>\n|b Damage Increase | 6.7%  | 13.3%  | 20%  | 26.6%  | 33.3% <background/>\n<$>\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Duration is increased to 5 seconds.",
@@ -313,8 +315,9 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        25,
@@ -322,7 +325,8 @@
       ]
      }
     },
-    "aimAssist": {
+    {
+     "statName": "aimAssist",
      "active": {
       "stat": [
        20,
@@ -330,7 +334,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "For the <title first bullet only [first bullet only] />:\n+20 Aim Assist, +25 Range, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [accuracy cone growth] />.\n\n3.1 seconds cooldown, resets if the weapon is shot.\n\n<formula In-Game Range: [range_0] />\n\nEnhanced: Grants an additional +5 Aim Assist and +5 Range.\n\ntitle first bullet only (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
@@ -706,15 +710,16 @@
      }
     }
    },
-   "stats": {
-    "chargeDraw": {
+   "stats": [
+    {
+     "statName": "chargeDraw",
      "active": {
       "multiplier": [
        0.75
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Precision Hit:\nDecreases Draw Time by 25% for 3 seconds.\n\nEnhanced: Buff duration increased to 4 seconds.",
@@ -757,8 +762,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        50,
@@ -770,7 +776,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While below 113 HP:\nUp to +100 Reload Speed, and 0.9x Reload Duration Multiplier.\n\nEffect increases linearly as health decreases\n\n<formula Half Strength Reload Time: [reload_0] />\n<formula Maximum Strength Reload Time: [reload_1] />",
@@ -934,8 +940,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        5,
@@ -953,7 +960,8 @@
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        2,
@@ -964,7 +972,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Gain 1 Rapid Hit Stack per Precision Hit, granting +Reload Speed and +Stability for 2 seconds.\n\n< table background_2 >\n|  Stack| Stability | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n|b 1x   | 2         | 5           | 0.985x              | <formula [reload_0] />\n|b 2x   | 12        | 30          | 0.970x              | <formula [reload_1] />\n|b 3x   | 14        | 35          | 0.955x              | <formula [reload_2] />\n|b 4x   | 18        | 45          | 0.940x              | <formula [reload_3] />\n|b 5x   | 25        | 60          | 0.925x              | <formula [reload_4] />\n<$>\n\nEnhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)\n",
@@ -1022,8 +1030,9 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        30,
@@ -1033,7 +1042,8 @@
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        20,
@@ -1043,7 +1053,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While Crouched:\n30 Handling, 20 Stability, -40% Accuracy Cone Size, -17% <title Accuracy Cone Growth [accuracy cone growth] />, -80% Recoil Yaw (Horizontal Recoil)\n\n<center/><bold Effects are halved on Fusion Rifles. />\n\n< table formula > \n|               |b Most Weapons          |b Fusion Rifles\n|b Ready Speed: |  <formula [ready_0] /> |  <formula [ready_1] /> <background/>\n|b Stow Speed:  |  <formula [stow_0] />  |  <formula [stow_1] />\n<$>\n\nEnhanced: Grants an additional +5 Handling and +5 Stability. (Fusion Rifles only receive +3)\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
@@ -1188,15 +1198,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.15
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Sword Kill:\n15% Increased Damage and sets Forward Movement Speed to 9 meters per second for [?] seconds.\n\nRemains active even if stowed.\n\nEnhanced: Buff duration is increased to [?] seconds.",
@@ -1531,22 +1542,24 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        15
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.2
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:\n\n20% Increased Damage and 15 Handling for 7 seconds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Duration is increased to 8 seconds.",
@@ -1576,15 +1589,17 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        100
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        5,
@@ -1592,7 +1607,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon dealing Melee Damage while an Enemy is within 15 meters:\n<pve 500% /> <pvp [100%] /> increased damage and +100 Handling for 10 seconds or until firing a full burst.\n4 second cooldown. Can be activated while stowed.\n\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff duration increased to 11 seconds.",
@@ -1622,15 +1637,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.08
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "After dealing non-Precision Weapon Damage:\r\n8% Increased Precision Damage for 0.3 seconds\r\n\r\nEnhanced: Passively grants 5 Stability.",
@@ -1777,22 +1793,24 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        100
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        100
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Passively grants 50 Airborne Effectiveness, 100 Handling and 100 Reload Speed to Sidearms.\n\nUpon readying a sidearm while at Critical Health:\n<pve 100% /> <pvp [35%] /> increased damage until no longer critical.\nRefreshes sidearm magazine.",
@@ -1856,8 +1874,9 @@
      "secondary": "On Weapon Kill:\n+100 Handling, 0.825x Handling Animation Duration Multiplier for all weapons for 8.5 seconds.\n\nCan be refreshed to up to 6.5 seconds.\n\nEnhanced: Buff Duration is increased."
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        100
@@ -1867,7 +1886,7 @@
       ]
      }
     }
-   }
+   ]
   },
   "509594246": {
    "hash": 509594246,
@@ -2017,8 +2036,9 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.1,
@@ -2030,7 +2050,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Weapon Kill:\nIncreased damage until stow or reload.\n\n<pve [PVE] 10% | 20% | 30% increased damage />\n<pvp [PVP] 5% | 10% | 15% increased damage />\n\nEnhanced: Passively grants 10 Magazine Stat (Identical to Tactical Mag).",
@@ -2146,20 +2166,21 @@
      }
     }
    },
-   "stats": {
-    "aimAssist": {
-     "passive": {
+   "stats": [
+    {
+     "statName": "aimAssist",
+     "active": {
       "stat": [
        10
       ]
      },
-     "active": {
+     "passive": {
       "stat": [
        10
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While Aiming-Down-Sights:\n+10 Aim Assist, and 3% Reduced Aiming-Down-Sights Movement Speed Penalty.\n\nEnhanced: Aim Assist bonus is slightly increased.",
@@ -2228,15 +2249,17 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        100
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        100
@@ -2246,7 +2269,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Dodge:\r\nGrants Wraithmetal Mail for 9 seconds.\r\n\r\nWraithmetal Mail:\r\nReloads all weapons\r\nGrants 100 Handling (w/ 0.95x Multiplier), 100 Reload, and 50 Mobility.\r\nIncreases Sprint Speed by 6.25%.\r\nIncreases Slide Distance by 33%.",
@@ -2647,8 +2670,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        50,
@@ -2659,7 +2683,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While above 70% Magazine:\n+50 Reload Speed with a 0.95x Duration Multiplier.\n\n<formula Reload Time: [reload_0] />\n\nEnhanced: Reload Speed is increased to [+55 maybe?]",
@@ -2702,22 +2726,24 @@
      }
     }
    },
-   "stats": {
-    "chargeDraw": {
+   "stats": [
+    {
+     "statName": "chargeDraw",
      "passive": {
       "stat": [
        -40
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "passive": {
       "multiplier": [
        0.98
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Decreases charge time by 40ms, and damage by 2%",
@@ -2760,15 +2786,16 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        35
       ]
      }
     }
-   }
+   ]
   },
   "692285813": {
    "hash": 692285813,
@@ -2823,15 +2850,16 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        30
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While at Low Health:\nUp to 30 Handling, -40% Accuracy Cone Size, and -17% <title Accuracy Cone Growth [accuracy cone growth] />.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\n<formula Ready Speed at Maximized Strength: [ready_0] />\n<formula Stow Speed at Maximized Strength: [stow_0] />\n\nEnhanced: Passively grants 5 Stability.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
@@ -2923,8 +2951,9 @@
      }
     }
    },
-   "stats": {
-    "stow": {
+   "stats": [
+    {
+     "statName": "stow",
      "active": {
       "stat": [
        100
@@ -2934,7 +2963,8 @@
       ]
      }
     },
-    "ready": {
+    {
+     "statName": "ready",
      "active": {
       "stat": [
        100
@@ -2944,7 +2974,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Ready:\n100 Ready/Stow Handling, and 0.95x Ready Animation Duration Multiplier for 1 second, or until ADS.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Passively grants 5 Handling.",
@@ -3125,8 +3155,9 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        10,
@@ -3134,7 +3165,8 @@
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        10,
@@ -3142,7 +3174,8 @@
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        10,
@@ -3150,7 +3183,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Using your Grenade, hitting an enemy with a Powered Melee Attack, or using your Super Ability grants stacks of Well-Rounded. Super Ability grants two stacks.\n\n+10 Range, +10 Stability, and +10 Handling per stack.\nMaximum of 2 Stacks and lasts 10 seconds.\n\n< table > \n|  Stacks| In-Game Range         | Ready Speed           | Stow Speed           <bold/>\n|b 1x    | <formula [range_0] /> | <formula [ready_0] /> | <formula [stow_0] /> <background/>\n|b 2x    | <formula [range_1] /> | <formula [ready_1] /> | <formula [stow_1] />\n<$>\n\nEnhanced: Increases Stat Bonuses to [?].",
@@ -3184,15 +3217,16 @@
      }
     }
    },
-   "stats": {
-    "chargeDraw": {
+   "stats": [
+    {
+     "statName": "chargeDraw",
      "passive": {
       "stat": [
        -40
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "-40ms Charge Time\r\nDoes not reduce damage, unlike Charge Time MW.\r\nDoes not display in the stats.",
@@ -3366,22 +3400,24 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        30
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.5
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "After dealing non-projectile Melee Damage:\n50% Increased damage, [+?] Reload Speed, and +30 Handling for 5 seconds OR 3 shots.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Effect is increased.",
@@ -3416,15 +3452,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.67
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "If Heavy Attack fully consumes all remaining Ammo:\n67% Increased damage to Grounded Heavy Attack.",
@@ -4046,8 +4083,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "passive": {
       "stat": [
        10
@@ -4057,7 +4095,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Passively grants:\n- 35% Faster Projectile Velocity \n- 10 Reload Speed with 0.8x Duration Multiplier\n\nEnhanced: Increases Reload Speed.",
@@ -4146,22 +4184,24 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        50
       ]
      }
     },
-    "stow": {
+    {
+     "statName": "stow",
      "active": {
       "multiplier": [
        0.95
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon being reduced to 110 HP or less:\nGrants +50 Handling, 0.95x Ready/Stow Duration Multiplier, and <title refreshes [G_refreshes] /> your weapon.\n\nWorks while stowed.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Health Threshold Requirement is reduced.",
@@ -4195,15 +4235,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.0777
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "7.77% Damage Increase against Elites and Minibosses",
@@ -4316,15 +4357,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.33
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon finishing a reload within 3.8 seconds of a Weapon Kill:\n33% Increased damage for 5 seconds.\n\nBuff can't be refreshed. Persists through stow.\n\nEnhanced: Buff Duration is increased to 5.5 seconds.",
@@ -4504,15 +4546,16 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "passive": {
       "multiplier": [
        1.1
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Combines the penetration from Armor-Piercing Rounds, the guaranteed ricochets from Ricochet Rounds, and the flinch increase from High-Caliber Rounds.\n\nIncreases Damage Falloff Distance by 10%",
@@ -4601,22 +4644,24 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "passive": {
       "stat": [
        32
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "passive": {
       "stat": [
        32
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Passively grants 10 Airborne Effectiveness, 32 Reload and Handling to all weapons.\n\nIncreased Lunge Distance (4.5 meters -> 6.5 meters)",
@@ -4872,8 +4917,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        70
@@ -4883,7 +4929,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Precision Kill:\n70 Reload Speed with a 0.9x Reload Duration Multiplier for 6 seconds.\n\n<formula Reload Time: [reload_0] />\n\nEnhanced: Duration increased to 7 seconds.",
@@ -5043,8 +5089,9 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        10,
@@ -5053,14 +5100,15 @@
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        30
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Precision Kill: +10 Range per Stack, up to +30 Range at 3 Stacks.\n\n< table formula >\n|b Stacks |b In-Game Range\n|b 1x     |  <formula [range_0] />\n|b 2x     |  <formula [range_1] />\n|b 3x     |  <formula [range_2] />\n<$>\n\nOn Non-Precision Kill: Removes 1 Stack. If at 0 Stacks, it improves Accuracy and grants +30 Stability.\n\nLasts 7 seconds. Refreshed on Kill.\n\nEnhanced: Buff Duration is increased to 8 seconds.",
@@ -5201,15 +5249,16 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        30
       ]
      }
     }
-   }
+   ]
   },
   "1264398905": {
    "hash": 1264398905,
@@ -5237,29 +5286,32 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        100
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        100
       ]
      }
     },
-    "aimAssist": {
+    {
+     "statName": "aimAssist",
      "active": {
       "stat": [
        100
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While Last Guardian Standing:\n+100 Handling, +100 Reload Speed, and +[?] Aim Assist, massively decreased flinch received, increased accuracy, stronger scope highlight, and enables radar while ADS.\n\nPassively grants +20 Handling and +20 Reload Speed.\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
@@ -5521,15 +5573,16 @@
      }
     }
    },
-   "stats": {
-    "stability": {
+   "stats": [
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        10
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While holding down the trigger:\nGradually increases Accuracy and Stability, up to -100% Accuracy Cone Size and +10 Stability after firing 10 shots.\nEffect at maximum strength removes all spread.\n\nEnhanced: Effect reaches full effect after [8?] shots.",
@@ -5643,15 +5696,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.25
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "If Magazine is Full:\n25% Increased damage and causes enemies to explode on death, dealing <pve 444 /> <pvp [163] /> damage in a [?] meter radius.\n\nPassively grants +30 Magazine Size\n\nEnhanced: Passively grants +5 Stability.",
@@ -5682,8 +5736,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        5,
@@ -5691,7 +5746,8 @@
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        5,
@@ -5699,7 +5755,8 @@
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        5,
@@ -5707,7 +5764,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "<center/>While continuously moving at a minimum speed of 2 meters per second:\n<center/>Gain a Stack after 2 seconds and an additional Stack after 10 seconds.\n\n< table >\n|  Stacks   | Stability | Reload                 | Handling                     <bold/>\n|b x1       | +5         | +5                      | +5                            <background/>\n|  In-game: |           | <formula [reload_0] /> | <formula Ready: [ready_0] />\n|  values   |           |                        | <formula Stow: [stow_0] />\n|b x2       | +15        | +15                     | +15                           <background/>\n|  In-game: |           | <formula [reload_1] /> | <formula Ready: [ready_1] />\n|  values   |           |                        | <formula Stow: [stow_1] />\n<$>\n\nRemoves all stacks if movement speed is below 2 meters per second for 0.5 seconds.\n\nCan activate and remain active while stowed.\n\nEnhanced: Removes all stacks if movement speed is below 2 meters per second for 1 seconds.",
@@ -5746,15 +5803,16 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "multiplier": [
        0.85
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "export description (\nUpon Reload with an empty magazine:\n15% faster Reload Speed\n)\n\n<formula Reload Time: [reload_0] />",
@@ -5825,15 +5883,16 @@
      }
     }
    },
-   "stats": {
-    "chargeDraw": {
+   "stats": [
+    {
+     "statName": "chargeDraw",
      "active": {
       "stat": [
        -30
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Passively grants 40 Airborne Effectiveness to Bows.\n\nBows are able to hold perfect draws indefinitely.\n\nBows have a -30ms Draw Time.",
@@ -6097,15 +6156,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.1
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "10% Damage Increase against Taken Combatants.",
@@ -6231,8 +6291,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        70
@@ -6242,7 +6303,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "import stats from 1168162263\nimport main from 1168162263",
@@ -6485,15 +6546,16 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        50
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Precision Kill:\nTarget explodes, dealing 80 Solar Damage in a 3 meter radius, and grants +50 Reload Speed for 6 seconds.\n\nDamage against Combatants is multiplied by 1.3x, then multiplied again by Combatant Rank Modifiers.\n\n<formula Reload Time: [reload_0] />",
@@ -6575,8 +6637,9 @@
      }
     }
    },
-   "stats": {
-    "stability": {
+   "stats": [
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        15,
@@ -6584,7 +6647,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Weapon Kill:\n-15% <title Accuracy Cone Growth [accuracy cone growth] />, 15 Stability, and ~20 Recoil Direction.\n\nStacks up to 2x.\n\nEnhanced: Buff Duration is increased.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
@@ -6615,8 +6678,9 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        10
@@ -6626,7 +6690,8 @@
       ]
      }
     },
-    "reload": {
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        35
@@ -6636,21 +6701,23 @@
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        35
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        10
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "After Damaging 3 Separate Enemies within 3 seconds of each:\n+10 Range, 5% Increased Falloff Distance, +10 Stability, +35 Handling, +35 Reload Speed, and 0.95x Reload Duration Multiplier for 10 seconds.\n\nBuff can't be refreshed.\n\n<formula In-Game Range: [range_0] />\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Buff Duration is increased to 11 seconds.\n",
@@ -6741,29 +6808,32 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        100
       ]
      }
     },
-    "chargeDraw": {
+    {
+     "statName": "chargeDraw",
      "active": {
       "multiplier": [
        0.7
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        0.8
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "export desciption (\nUpon readying the weapon:\n0.7x Charge Time, 20% decreased damage, and +100 Handling for [?] seconds.\n\nEnhanced: Buff duration is increased to [?] seconds.\n)\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
@@ -6941,8 +7011,9 @@
      }
     }
    },
-   "stats": {
-    "stability": {
+   "stats": [
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        15,
@@ -6950,7 +7021,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "As Magazine goes below 50% until empty:\nUp to -[?]% Accuracy Cone Size, -[?]% <title Accuracy Cone Growth [accuracy cone growth] />, and 30[?] Stability.\n\nEnhanced: Stronger effect.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
@@ -7227,15 +7298,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.3
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon readying a Sword:\n30% Increased damage for 1.5 seconds.\n\nEnhanced: Buff duration is increased.",
@@ -7265,22 +7337,24 @@
      }
     }
    },
-   "stats": {
-    "chargeDraw": {
+   "stats": [
+    {
+     "statName": "chargeDraw",
      "passive": {
       "stat": [
        40
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "passive": {
       "multiplier": [
        1.02
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Increases charge time by 40, and damage by 2%",
@@ -7316,8 +7390,9 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.6,
@@ -7333,7 +7408,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Intrinsic Hand Cannon Holster\n100 Handling Ready Speed with 0.6 Duration Multiplier, 20 Airborne Effectiveness, and -40% Accuracy Cone Size on Ready for 4 seconds.\n\nUpon readying a Kinetic or Matching Hand Cannon with a Full Magazine:\n<pve 60% Increased damage per Hit for 5 seconds. Maxes out at 600% after 10 Hits. />\nOnly works against Combatants.\n\nFor Exotic Hand Cannon interactions, go to <link Court's Spreadsheet [https://docs.google.com/spreadsheets/d/1i1KUwgVkd8qhwYj481gkV9sZNJQCE-C3Q-dpQutPCi4/edit#rangeid=1312688627] />!\n\nAfter the Buff runs out, you swap weapons, or firing after the 5 second period:\nYou cannot gain stacks or reacquire the buff for 10 seconds.",
@@ -7647,8 +7722,9 @@
      }
     }
    },
-   "stats": {
-    "chargeDraw": {
+   "stats": [
+    {
+     "statName": "chargeDraw",
      "active": {
       "stat": [
        -100
@@ -7658,14 +7734,15 @@
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.2
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon Sliding, after Sprinting for 1.5 seconds:\n20% Increased damage and 0.8x Charge Time for [?] seconds. \n\nEnhanced: Buff Duration is increased.",
@@ -7695,15 +7772,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.2
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While within X meters of 2+ Allies:\n20% Increased Precision Damage\n\nEnhanced: Passively grants 5 Range.",
@@ -7767,8 +7845,9 @@
      }
     }
    },
-   "stats": {
-    "chargeDraw": {
+   "stats": [
+    {
+     "statName": "chargeDraw",
      "active": {
       "stat": [
        -100
@@ -7778,7 +7857,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While within 15[?] meters of 2 enemies:\n0.85x Charge/Draw Time.\n\nLingers for 1.5 seconds.\n\nEnhanced: Passively grants +5 Stability.",
@@ -7846,22 +7925,24 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        100
       ]
      }
     },
-    "ready": {
+    {
+     "statName": "ready",
      "active": {
       "multiplier": [
        0.95
       ]
      }
     }
-   }
+   ]
   },
   "1828251441": {
    "hash": 1828251441,
@@ -7923,15 +8004,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.5
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "50% Increased Damage and Radius for Dragonfly explosions",
@@ -7992,29 +8074,32 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "multiplier": [
        1.2
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        30
       ]
      }
     },
-    "aimAssist": {
+    {
+     "statName": "aimAssist",
      "active": {
       "stat": [
        15
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "If hipfiring:\n20% Increased: Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance\n15 Aim Assist\n+2.7 degrees Precision Angle Threshold\n-30% Accuracy Cone Size and ~30 Stability.\n\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\n\nEnhanced: Stronger Effect.",
@@ -8143,8 +8228,9 @@
      }
     }
    },
-   "stats": {
-    "stability": {
+   "stats": [
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        40,
@@ -8152,7 +8238,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Immediately upon firing:\n40 Stability, -50% Recoil, and -10% Accuracy Cone Size for 0.6 seconds.\n\n<blue Fusion Rifles Only Receive 25% of the benefits />\n\n<green [Controller-Only] /> Weapon fires the instant trigger pressure is applied.\n\nEnhanced: Stronger Effect, duration increased to 0.76 seconds.",
@@ -8431,15 +8517,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.05
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Passively grants +5 Range\n\n5% Increased damage against Combatant Shields.\n\nBullets are able to overpenetrate enemies once.",
@@ -8660,8 +8747,9 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        20,
@@ -8669,7 +8757,8 @@
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        20,
@@ -8677,7 +8766,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "export description (\nUpon Sliding:\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.\n)\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nexport enhanced (\nEnhanced: Buff Effect increased to 25 Stability and Handling.\n)\n\nexport calculators hidden (\n<formula Ready Speed: [ready_1] />\n<formula Stow Speed: [stow_1] />\n)",
@@ -8823,15 +8912,16 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        100
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Void Invisibility effects last 2 seconds longer.\n\nWhile Invisible:\n<pve 400% /> <pvp [100%] /> Additional Base Melee Regeneration Rate.\nEach enemy within 15 metres will increase the bonus to a total of <pve 600% /> <pvp [200%] /> and <pve 800% /> <pvp [300%] />.\n\n100 Recovery and 100 Reload Speed.",
@@ -8951,8 +9041,9 @@
      "secondary": "Upon readying a Weapon within 3.5 seconds of getting kills with other Weapons and Abilities:\n+10 Handling, +10 Reload Speed, and +10 Stability per stack for 7.5 seconds.\n\nStacks up to 3 times. Buff is removed on stow.\n\nEnhanced: Buff Duration is increased to 8.5 seconds."
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        10,
@@ -8961,7 +9052,8 @@
       ]
      }
     },
-    "reload": {
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        10,
@@ -8970,7 +9062,8 @@
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        10,
@@ -8979,7 +9072,7 @@
       ]
      }
     }
-   }
+   ]
   },
   "2173046394": {
    "hash": 2173046394,
@@ -9299,15 +9392,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.3
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon blocking damage with your Glaive Shield:\r\n\r\n30% increased projectile damage for 4 seconds or until you stop blocking. Blocking any hit refreshes the duration.\r\n\r\nEnhanced: Buff Duration is increased to 5 seconds.",
@@ -9554,22 +9648,24 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        30
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.5
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "import main from 806159697",
@@ -9731,15 +9827,17 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        20
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.066,
@@ -9750,7 +9848,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "import stats from 11612903\r\nimport main from 11612903",
@@ -9781,8 +9879,9 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        20
@@ -9792,14 +9891,15 @@
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        40
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Weapon Kill:\n+20 Range, +50 Mobility, +40 Handling, and a 5% Increased Damage Falloff Distance\n\n<formula In-Game Range: [range_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\n\nEnhanced: Initial Buff Duration is increased.",
@@ -9829,15 +9929,16 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        20
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Passively grants +20 Range.\nReceiving any incoming damage disables the perk for 5 seconds.\n\n<formula Effective Range: [range_0] />\n\nEnhanced: Timer after receiving damage is reduced to 4 seconds.",
@@ -9868,8 +9969,9 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.17,
@@ -9878,7 +9980,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon finishing a reload within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage for 5 seconds, depending on the amount of enemies killed within X seconds of each.\n\nBuff is overwritten every time you refresh it.\n\nEnhanced: Buff Duration is increased to 5.5 seconds.",
@@ -10029,15 +10131,17 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        100
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        5,
@@ -10045,7 +10149,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "import stats from 454085387\r\nimport main from 454085387",
@@ -10102,8 +10206,9 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.29,
@@ -10113,7 +10218,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon aiming-down-sights for 1.5 seconds without firing:\n10% increased Aim Assist Falloff Distance and increases Precision Multiplier by +1 for one shot.\n\nTimer starts as soon as the ADS input is pressed.\n\n< table >\n| Weapon Frame        | Precision Multiplier Increase <bold/>\n| Linear Fusion Rifle | <title 29% [mult1] />         <background/>\n| Sniper Rifle        | <title 33.22% [mult0] />   \n| Scout Rifle         | <title 62.75% [mult2] />      <background/>\n<$>\n\nEnhanced: Activation timer is reduced to 1.4 seconds.\n\ntitle mult0 (\n3x -> 4x\n)\n\ntitle mult1 (\n3.44x -> 4.44x\n)\n\ntitle mult2 (\n1.6x -> 2.6x\n)",
@@ -10233,8 +10338,9 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.15,
@@ -10242,7 +10348,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Weapon Kill:\n15% Increased damage for 7 seconds.\nCan be refreshed with a Weapon Kill.\n\nMatching Grenade and Powered Melee Kills while the buff is active grant 50% increased damage for 10 seconds.\nCan be refreshed by getting another Matching Ability Kill.\n\nEnhanced: 15% Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active.",
@@ -10303,8 +10409,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        40,
@@ -10312,7 +10419,8 @@
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        30,
@@ -10320,7 +10428,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While within 15 meters of 1 or more allies:\n30 Handling and 40 Reload Speed.\n\nLingers for 1.5 seconds.\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: [35?] Handling and [45?] Reload Speed",
@@ -10388,15 +10496,16 @@
      }
     }
    },
-   "stats": {
-    "chargeDraw": {
+   "stats": [
+    {
+     "statName": "chargeDraw",
      "active": {
       "multiplier": [
        0.625
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Weapon Kill:\r\n37.5% Increased Charge Rate/Draw Speed for 6 seconds.\r\nEach kill while the perk is active adds an additional 4 seconds up to 20 seconds.\r\n\r\nEnhanced: Added time from additional kills is increased to 5 seconds.",
@@ -10923,8 +11032,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        10,
@@ -10942,7 +11052,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Weapon Kill: Increased Reload Speed.\n\n< table >\n| Stacks | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n| 1x     | 10          | 1x                  | <formula [reload_0] /><background/>\n| 2x     | 45          | 0.9x                | <formula [reload_1] />\n| 3x     | 55          | 0.875x              | <formula [reload_2] /><background/>\n| 4x     | 70          | 0.85x               | <formula [reload_3] />\n| 5x     | 100         | 0.8x                | <formula [reload_4] /><background/>\n<$>\n\nLasts 3.5 seconds. Max of 5 Stacks.\n\nEnhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
@@ -10976,15 +11086,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.0777
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "7.77% Damage Increase against Bosses and Vehicles.",
@@ -11157,8 +11268,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        30,
@@ -11167,7 +11279,8 @@
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        20,
@@ -11176,7 +11289,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "The top 50% of the magazine has up to +20 Stability and +30 Reload Speed.\n\n<formula Maximum Effect Reload Time: [reload_0] />\n<formula Half Effect Reload Time: [reload_1] />",
@@ -11237,15 +11350,16 @@
      }
     }
    },
-   "stats": {
-    "zoom": {
+   "stats": [
+    {
+     "statName": "zoom",
      "passive": {
       "multiplier": [
        1.1
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While Aiming-Down-Sights:\n<title 10% Increased Zoom [increased zoom] />, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\n\nEnhanced: Passively grants +5 Handling\n\ntitle increased zoom (\nZoom acts as a multiplier to hipfire range and maximum falloff distance while ADS.\nIn this case, it effectively pushes out the weapon's range by 10%.\n)",
@@ -11386,8 +11500,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        50
@@ -11397,14 +11512,15 @@
       ]
      }
     },
-    "stow": {
+    {
+     "statName": "stow",
      "active": {
       "multiplier": [
        0.8
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While Crouched:\n+50 Reload Speed, 0.8x Reload Duration Multiplier, and 0.8x Ready/Stow Duration Multiplier.\n\nPassively grants increased Ammo Reserves.\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.",
@@ -11440,15 +11556,16 @@
      "secondary": "import self"
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "stat": [
        17
       ]
      }
     }
-   }
+   ]
   },
   "2889515627": {
    "hash": 2889515627,
@@ -11474,15 +11591,17 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        10
       ]
      }
     },
-    "chargeDraw": {
+    {
+     "statName": "chargeDraw",
      "active": {
       "multiplier": [
        1.15,
@@ -11490,7 +11609,8 @@
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.3,
@@ -11499,7 +11619,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "import main from 3673922083",
@@ -11531,15 +11651,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.2
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon scoring 50% of Magazine as Precision Hits:\n20% increased damage for 11 seconds.\n\nBuff can be refreshed.\nStows and Reloads reset the precision counter. \n\nEnhanced: Buff Duration is increased to 12 seconds.",
@@ -11707,15 +11828,16 @@
      }
     }
    },
-   "stats": {
-    "aimAssist": {
+   "stats": [
+    {
+     "statName": "aimAssist",
      "active": {
       "stat": [
        20
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon Reload within 6 seconds of a Weapon Kill:\n20 Aim Assist, -20% Accuracy Cone Size, and [+?] Handling (ADS only) for 5 seconds.\n\nCannot be refreshed.\n\nEnhanced: Buff Duration is increased.",
@@ -11852,36 +11974,40 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        10
       ]
      }
     },
-    "reload": {
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        20
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        20
       ]
      }
     },
-    "aimAssist": {
+    {
+     "statName": "aimAssist",
      "active": {
       "stat": [
        10
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While Last Guardian Standing or Solo:\r\n\r\n20 Reload, 20 Stability, 10 Aim Assist, and 10 Range.\r\n\r\n<formula Reload Time: [reload_0] />\r\n<formula In-Game Range: [range_0] />",
@@ -11945,15 +12071,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.5
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon blocking an attack within 0.5 seconds of starting to Block:\n50% Increased damage for 2 seconds.\n\nEnhanced: Buff Duration is increased.",
@@ -12157,15 +12284,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.35
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon dealing damage with all your weapons within [?] seconds of each:\n35% increased damage for 10 seconds.\n\nEnhanced: Buff Duration is increased to 11 seconds",
@@ -12396,22 +12524,24 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        20
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        30
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Upon Sliding:\n15% Magazine Refresh, +20 Range, and +30 Stability for 3 seconds. <title Only buffs first shot [only buffs first shot] />.\nCan activate multiple times per slide. 0.3 second cooldown between activation.\n\n<formula In-Game Range: [range_0] />\n\nEnhanced: Buff Effect is increased.\n\ntitle only buffs first shot (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)",
@@ -12447,8 +12577,9 @@
      "secondary": "import self"
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "stat": [
        52,
@@ -12456,7 +12587,7 @@
       ]
      }
     }
-   }
+   ]
   },
   "3201496230": {
    "hash": 3201496230,
@@ -12480,8 +12611,9 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.2,
@@ -12492,7 +12624,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Low-Tier Minor Combatant Hit:\nGrants 1 Stack of Redirection, up to 20 Stacks\n\nGrants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks.\n\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks.\n\nCheck out <link this sheet [https://d2clarity.page.link/combatant] /> for Combatant Classifications.",
@@ -12654,22 +12786,24 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        100
       ]
      }
     },
-    "stow": {
+    {
+     "statName": "stow",
      "active": {
       "multiplier": [
        0.6
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Passively grants 40 Airborne Effectiveness to SMGs.\r\n\r\nWhen an SMG is readied:\r\n50 Mobility\r\nIncreases Sprint Speed by 6.25%\r\nIncreases Slide Distance by 33%\r\nDecreases SMG ADS penalty from 25% to 9%\r\n100 Handling with a 0.6x Ready/Stow Duration Multiplier.\r\n\r\nReloads stowed SMGs in 1.3s",
@@ -13112,15 +13246,17 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "multiplier": [
        2
       ]
      }
     },
-    "reload": {
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        100
@@ -13130,7 +13266,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While inside a Rift or Well of Radiance:\r\n+100 Reload with 0.9x <title RDS [rds] /> to all Guardians inside.\r\n\r\nWhile inside an <bold Empowering /> Rift or Well of Radiance:\r\n2x Falloff Distance Increase.\r\n\r\ntitle rds (\r\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\r\n)",
@@ -13194,15 +13330,16 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "passive": {
       "stat": [
        20
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Reload within 6 seconds of a Weapon Kill:\n<title Refreshes [refreshes] /> stowed weapons.\n\nPassively grants 20 Reload Speed.\n\n<formula Reload Time: [reload_0] />\n\nEnhanced: Reload Timer is increased to 7 seconds.\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
@@ -13478,8 +13615,9 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        10,
@@ -13488,7 +13626,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Weapon Kill:\n10% | 21% | 33.1% increased damage for 3.5 seconds.\nBuff Refreshed on Kill. \n\nEnhanced: Buff Duration is increased to 4 seconds.",
@@ -13547,8 +13685,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        5,
@@ -13557,7 +13696,8 @@
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        10,
@@ -13566,7 +13706,8 @@
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        5,
@@ -13575,7 +13716,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Grants Stat Bonuses depending on the amount of Charged Abilities.\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\n< table >\n|  Abilities| Stability | Reload                 | Handling\n|b 1x       | 5         | 5                      | 10                          <background/>\n|  In-Game  |           | <formula [reload_0] /> | <formula Ready: [ready_0] />\n|  Values:  |           |                        | <formula Stow: [stow_0] />\n|b 2x       | 15        | 25                     | 25                          <background/>\n|  In-Game  |           | <formula [reload_1] /> | <formula Ready: [ready_1] />\n|  Values:  |           |                        | <formula Stow: [stow_1] />\n|b 3x       | 25        | 50                     | 50                          <background/>\n|  In-Game  |           | <formula [reload_2] /> | <formula Ready: [ready_2] />\n|  Values:  |           |                        | <formula Stow: [stow_2] />\n<$>\n\nEnhanced: Stronger Effect",
@@ -14215,15 +14356,17 @@
      }
     }
    },
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        10
       ]
      }
     },
-    "chargeDraw": {
+    {
+     "statName": "chargeDraw",
      "active": {
       "multiplier": [
        1.2,
@@ -14231,7 +14374,8 @@
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.3,
@@ -14240,7 +14384,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Weapon Kill for #e${7 + #t} seconds: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Range\n<$$>\n// separator for readabilty\n< weapon type ( combat bow, shotgun ) >\n    +20% Damage\n< weapon type ( other ) >\n    +30% Damage\n<$$>\n// separator for readabilty\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Fire Rate [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    -15% <title Charge Rate [ROF] />\n< weapon type ( other ) >\n    -20% <title Fire Rate [ROF] />\n<$$>\n<formula In-Game Range: [range_0] />\n\n<title Efects on all weapons [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n| Weapon              | Damage         | Fire/Charge Rate <bold/>\n| Hand Cannon         | <green 30% />  | <green -15% />\n| Scout Rifle         | <green 30% />  | <green -15% />\n| Auto Rifle          | <purple 30% /> | <purple -20% />\n| Sidearm             | <purple 30% /> | <purple -20% />\n| Grenade Launcher    | <purple 30% /> | <purple -20% />\n| Linear Fusion Rifle | 30%            | -15%          \n| Fusion Rifle        | <yellow 27% /> | <yellow -15% />\n| Bow                 | <blue 20% />   | <blue -20% /> \n| Shotgun             | <blue 20% />   | <blue -20% />\n<$>\n)\n\ntitle ROF (\nThe rate of Fire tends to be shifted to the next slower-firing frame.\n\nEg: Rapid Fire Auto => Adaptive Auto\n)\nenhanced (\nvar t = 1\n)",
@@ -14428,8 +14572,9 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        25,
@@ -14437,7 +14582,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "While within 8 metres of 3+ Enemies:\n30% Increased Damage. (Swords receive a 25% Damage Increase)\n\nEnhanced: Surrounded's damage buff is increased by a multiplicative 5%.",
@@ -14522,8 +14667,9 @@
      }
     }
    },
-   "stats": {
-    "stow": {
+   "stats": [
+    {
+     "statName": "stow",
      "active": {
       "multiplier": [
        0.9
@@ -14535,14 +14681,15 @@
       ]
      }
     },
-    "ready": {
+    {
+     "statName": "ready",
      "passive": {
       "multiplier": [
        0.9
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Passively grants a 0.9x Ready/Stow Animation Duration Multiplier.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />",
@@ -14594,14 +14741,9 @@
      "secondary": "import self"
     }
    },
-   "stats": {
-    "airborne": {
-     "passive": {
-      "stat": [
-       10,
-       12
-      ]
-     },
+   "stats": [
+    {
+     "statName": "airborne",
      "active": {
       "stat": [
        30,
@@ -14609,9 +14751,15 @@
        35,
        70
       ]
+     },
+     "passive": {
+      "stat": [
+       10,
+       12
+      ]
      }
     }
-   }
+   ]
   },
   "3723531833": {
    "hash": 3723531833,
@@ -14674,15 +14822,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.35
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "import stats from 3078487919\r\nimport main from 3078487919",
@@ -14831,15 +14980,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.022
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base.",
@@ -14927,15 +15077,16 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        50
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "import main from 1561789734",
@@ -15140,15 +15291,16 @@
    "hidden": false,
    "inLiveDatabase": false,
    "optional": false,
-   "stats": {
-    "range": {
+   "stats": [
+    {
+     "statName": "range",
      "active": {
       "stat": [
        10
       ]
      }
     }
-   }
+   ]
   },
   "3913600130": {
    "hash": 3913600130,
@@ -15177,8 +15329,9 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.03,
@@ -15194,7 +15347,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Hit:\n3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% Increased damage for 3.5(?) seconds. \nBlocking removes all stacks.\n\nEnhanced: Buff duration is increased.",
@@ -15255,15 +15408,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "passive": {
       "multiplier": [
        1.2
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\n(Overall 20% increased total damage)\n\nPassively grants +50 Blast Radius.\n\nEnhanced: Passively grants an additional +5 Blast Radius.",
@@ -15684,15 +15838,16 @@
      }
     }
    },
-   "stats": {
-    "handling": {
+   "stats": [
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        40
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Reloading grants 40 Handling and 20% Flinch Resistance for 6 seconds.\r\nCannot be refreshed. Persists while stowed but does not provide effect for other weapons.\r\n\r\n<formula Ready Speed: [ready_0] />\r\n<formula Stow Speed: [stow_0] />",
@@ -15821,15 +15976,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.35
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "After Damaging 3 Separate Enemies within 3 seconds of each:\n35% Increased Damage for 10 seconds.\nBuff can't be refreshed.\n\nEnhanced: Buff Duration is increased to 11 seconds.",
@@ -15864,8 +16020,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        15,
@@ -15873,7 +16030,8 @@
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "multiplier": [
        0.75,
@@ -15881,7 +16039,8 @@
       ]
      }
     },
-    "stability": {
+    {
+     "statName": "stability",
      "active": {
       "stat": [
        15,
@@ -15889,7 +16048,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Grants the following while within 15 meters of enemies:\n\n< table >\n|b Enemy Count |bc Stability |bc Reload Speed                 |bc Handling Animation Duration\n|b 1           |c  ~15       |c  15                     |c  0.75x <background/>\n|  In-Game     |            |c  <formula [reload_0] /> |c  <formula Ready: [ready_0] />\n|  Values:     |            |                         |c  <formula Stow: [stow_0] />\n|b 2+          |c  ~40       |c  55                     |c  0.56x <background/>\n|  In-Game     |            |c  <formula [reload_1] /> |c  <formula Ready: [ready_1] />\n|  Values:     |            |                         |c  <formula Stow: [stow_1] />\n<$>\n\nEnhanced: Buff Effect is increased.",
@@ -15925,8 +16084,9 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.067,
@@ -15937,7 +16097,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds.\n\nBuff is refreshed on Kill. Melee Kills grants max stacks instantly.\n\n< table wide >\n|  Stacks          | 1x   | 2x    | 3x  | 4x    | 5x  <bold/>\n|b Damage Increase | 6.7% | 13.3% | 20% | 26.6% | 33.3% <background/>\n<$>\n\nEnhanced: Buff Duration is increased to 5 seconds.",
@@ -15997,15 +16157,16 @@
      }
     }
    },
-   "stats": {
-    "damage": {
+   "stats": [
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.0777
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "7.77% Damage Increase against Rank-And-File",
@@ -16043,15 +16204,16 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        40
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "40 Reload Stat while Out-of-Combat\r\n\r\n<formula Reload Time: [reload_0] />",
@@ -16123,29 +16285,32 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "active": {
       "stat": [
        50
       ]
      }
     },
-    "handling": {
+    {
+     "statName": "handling",
      "active": {
       "stat": [
        50
       ]
      }
     },
-    "damage": {
+    {
+     "statName": "damage",
      "active": {
       "multiplier": [
        1.15
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "After being <title in Combat [in combat] /> for 12 seconds:\n15% Increased Damage, +50 Handling, and +50 Reload Speed.\n\nLasts until you're out of combat and works while stowed.\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] /> \n\nEnhanced: In Combat Timer is increased to 5.5 seconds\n\ntitle in combat (\nDefined as having either dealt or received damage within 5 seconds.\n)",
@@ -16201,8 +16366,9 @@
      }
     }
    },
-   "stats": {
-    "reload": {
+   "stats": [
+    {
+     "statName": "reload",
      "passive": {
       "stat": [
        30
@@ -16212,7 +16378,7 @@
       ]
      }
     }
-   },
+   ],
    "editor": {
     "en": {
      "main": "Passively grants +30 Reload Speed with 0.9x Duration Multiplier.\n\nDecreases Magazine Size Stat by 20.",
