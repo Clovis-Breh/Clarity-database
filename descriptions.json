@@ -204,24 +204,28 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       20
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        20
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.067,
-       1.133,
-       1.2,
-       1.266,
-       1.333
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.067,
+        1.133,
+        1.2,
+        1.266,
+        1.333
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -314,22 +318,26 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       25,
-       30
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        25,
+        30
+       ]
+      }
      }
-    },
-    "aimAssist": {
-     "active": {
-      "stat": [
-       20,
-       25
-      ]
+    ],
+    "aimAssist": [
+     {
+      "active": {
+       "stat": [
+        20,
+        25
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -707,13 +715,15 @@
     }
    },
    "stats": {
-    "chargeDraw": {
-     "active": {
-      "multiplier": [
-       0.75
-      ]
+    "chargeDraw": [
+     {
+      "active": {
+       "multiplier": [
+        0.75
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -758,18 +768,20 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       50,
-       100
-      ],
-      "multiplier": [
-       0.95,
-       0.9
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        50,
+        100
+       ],
+       "multiplier": [
+        0.95,
+        0.9
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -935,35 +947,39 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       5,
-       30,
-       35,
-       45,
-       60
-      ],
-      "multiplier": [
-       0.985,
-       0.97,
-       0.955,
-       0.94,
-       0.925
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        5,
+        30,
+        35,
+        45,
+        60
+       ],
+       "multiplier": [
+        0.985,
+        0.97,
+        0.955,
+        0.94,
+        0.925
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       2,
-       12,
-       14,
-       18,
-       25
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        2,
+        12,
+        14,
+        18,
+        25
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -1023,26 +1039,30 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       30,
-       15,
-       35,
-       17.5
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        30,
+        15,
+        35,
+        17.5
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       20,
-       10,
-       25,
-       12.5
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        20,
+        10,
+        25,
+        12.5
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -1189,13 +1209,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.15
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.15
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -1532,20 +1554,24 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       15
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        15
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.2
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.2
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -1577,21 +1603,25 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       100
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       5,
-       2
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        5,
+        2
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -1623,13 +1653,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.08
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.08
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -1778,20 +1810,24 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       100
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "stat": [
-       100
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -1857,16 +1893,18 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       100
-      ],
-      "multiplier": [
-       0.825
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        100
+       ],
+       "multiplier": [
+        0.825
+       ]
+      }
      }
-    }
+    ]
    }
   },
   "509594246": {
@@ -2018,18 +2056,20 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.1,
-       1.2,
-       1.3,
-       1.05,
-       1.1,
-       1.15
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.1,
+        1.2,
+        1.3,
+        1.05,
+        1.1,
+        1.15
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -2147,18 +2187,20 @@
     }
    },
    "stats": {
-    "aimAssist": {
-     "passive": {
-      "stat": [
-       10
-      ]
-     },
-     "active": {
-      "stat": [
-       10
-      ]
+    "aimAssist": [
+     {
+      "passive": {
+       "stat": [
+        10
+       ]
+      },
+      "active": {
+       "stat": [
+        10
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -2229,23 +2271,27 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       100
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "stat": [
-       100
-      ],
-      "multiplier": [
-       0.95
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        100
+       ],
+       "multiplier": [
+        0.95
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -2648,17 +2694,19 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       50,
-       55
-      ],
-      "multiplier": [
-       0.95
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        50,
+        55
+       ],
+       "multiplier": [
+        0.95
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -2703,20 +2751,24 @@
     }
    },
    "stats": {
-    "chargeDraw": {
-     "passive": {
-      "stat": [
-       -40
-      ]
+    "chargeDraw": [
+     {
+      "passive": {
+       "stat": [
+        -40
+       ]
+      }
      }
-    },
-    "damage": {
-     "passive": {
-      "multiplier": [
-       0.98
-      ]
+    ],
+    "damage": [
+     {
+      "passive": {
+       "multiplier": [
+        0.98
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -2761,13 +2813,15 @@
    "inLiveDatabase": false,
    "optional": false,
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       35
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        35
+       ]
+      }
      }
-    }
+    ]
    }
   },
   "692285813": {
@@ -2824,13 +2878,15 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       30
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        30
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -2924,26 +2980,30 @@
     }
    },
    "stats": {
-    "stow": {
-     "active": {
-      "stat": [
-       100
-      ],
-      "multiplier": [
-       0.95
-      ]
+    "stow": [
+     {
+      "active": {
+       "stat": [
+        100
+       ],
+       "multiplier": [
+        0.95
+       ]
+      }
      }
-    },
-    "ready": {
-     "active": {
-      "stat": [
-       100
-      ],
-      "multiplier": [
-       0.95
-      ]
+    ],
+    "ready": [
+     {
+      "active": {
+       "stat": [
+        100
+       ],
+       "multiplier": [
+        0.95
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -3126,30 +3186,36 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       10,
-       20
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        10,
+        20
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "stat": [
-       10,
-       20
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        10,
+        20
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       10,
-       20
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        10,
+        20
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -3185,13 +3251,15 @@
     }
    },
    "stats": {
-    "chargeDraw": {
-     "passive": {
-      "stat": [
-       -40
-      ]
+    "chargeDraw": [
+     {
+      "passive": {
+       "stat": [
+        -40
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -3367,20 +3435,24 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       30
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        30
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.5
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.5
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -3417,13 +3489,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.67
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.67
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -4047,16 +4121,18 @@
     }
    },
    "stats": {
-    "reload": {
-     "passive": {
-      "stat": [
-       10
-      ],
-      "multiplier": [
-       0.8
-      ]
+    "reload": [
+     {
+      "passive": {
+       "stat": [
+        10
+       ],
+       "multiplier": [
+        0.8
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -4147,20 +4223,24 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       50
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        50
+       ]
+      }
      }
-    },
-    "stow": {
-     "active": {
-      "multiplier": [
-       0.95
-      ]
+    ],
+    "stow": [
+     {
+      "active": {
+       "multiplier": [
+        0.95
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -4196,13 +4276,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.0777
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.0777
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -4317,13 +4399,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.33
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.33
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -4505,13 +4589,15 @@
     }
    },
    "stats": {
-    "range": {
-     "passive": {
-      "multiplier": [
-       1.1
-      ]
+    "range": [
+     {
+      "passive": {
+       "multiplier": [
+        1.1
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -4602,20 +4688,24 @@
     }
    },
    "stats": {
-    "reload": {
-     "passive": {
-      "stat": [
-       32
-      ]
+    "reload": [
+     {
+      "passive": {
+       "stat": [
+        32
+       ]
+      }
      }
-    },
-    "handling": {
-     "passive": {
-      "stat": [
-       32
-      ]
+    ],
+    "handling": [
+     {
+      "passive": {
+       "stat": [
+        32
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -4873,16 +4963,18 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       70
-      ],
-      "multiplier": [
-       0.9
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        70
+       ],
+       "multiplier": [
+        0.9
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -5044,22 +5136,26 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       10,
-       20,
-       30
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        10,
+        20,
+        30
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       30
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        30
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -5202,13 +5298,15 @@
    "inLiveDatabase": false,
    "optional": false,
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       30
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        30
+       ]
+      }
      }
-    }
+    ]
    }
   },
   "1264398905": {
@@ -5238,27 +5336,33 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       100
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "stat": [
-       100
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    },
-    "aimAssist": {
-     "active": {
-      "stat": [
-       100
-      ]
+    ],
+    "aimAssist": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -5522,13 +5626,15 @@
     }
    },
    "stats": {
-    "stability": {
-     "active": {
-      "stat": [
-       10
-      ]
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        10
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -5644,13 +5750,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.25
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.25
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -5683,30 +5791,36 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       5,
-       15
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        5,
+        15
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "stat": [
-       5,
-       15
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        5,
+        15
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       5,
-       15
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        5,
+        15
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -5747,13 +5861,15 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "multiplier": [
-       0.85
-      ]
+    "reload": [
+     {
+      "active": {
+       "multiplier": [
+        0.85
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -5826,13 +5942,15 @@
     }
    },
    "stats": {
-    "chargeDraw": {
-     "active": {
-      "stat": [
-       -30
-      ]
+    "chargeDraw": [
+     {
+      "active": {
+       "stat": [
+        -30
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -6098,13 +6216,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.1
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.1
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -6232,16 +6352,18 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       70
-      ],
-      "multiplier": [
-       0.9
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        70
+       ],
+       "multiplier": [
+        0.9
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -6486,13 +6608,15 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       50
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        50
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -6576,14 +6700,16 @@
     }
    },
    "stats": {
-    "stability": {
-     "active": {
-      "stat": [
-       15,
-       30
-      ]
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        15,
+        30
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -6616,40 +6742,48 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       10
-      ],
-      "multiplier": [
-       1.05
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        10
+       ],
+       "multiplier": [
+        1.05
+       ]
+      }
      }
-    },
-    "reload": {
-     "active": {
-      "stat": [
-       35
-      ],
-      "multiplier": [
-       0.95
-      ]
+    ],
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        35
+       ],
+       "multiplier": [
+        0.95
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "stat": [
-       35
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        35
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       10
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        10
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -6742,27 +6876,33 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       100
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    },
-    "chargeDraw": {
-     "active": {
-      "multiplier": [
-       0.7
-      ]
+    ],
+    "chargeDraw": [
+     {
+      "active": {
+       "multiplier": [
+        0.7
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       0.8
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        0.8
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -6942,14 +7082,16 @@
     }
    },
    "stats": {
-    "stability": {
-     "active": {
-      "stat": [
-       15,
-       30
-      ]
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        15,
+        30
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -7228,13 +7370,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.3
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.3
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -7266,20 +7410,24 @@
     }
    },
    "stats": {
-    "chargeDraw": {
-     "passive": {
-      "stat": [
-       40
-      ]
+    "chargeDraw": [
+     {
+      "passive": {
+       "stat": [
+        40
+       ]
+      }
      }
-    },
-    "damage": {
-     "passive": {
-      "multiplier": [
-       1.02
-      ]
+    ],
+    "damage": [
+     {
+      "passive": {
+       "multiplier": [
+        1.02
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -7317,22 +7465,24 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.6,
-       2.2,
-       2.8,
-       3.4,
-       4,
-       4.6,
-       5.2,
-       5.8,
-       6.4,
-       7
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.6,
+        2.2,
+        2.8,
+        3.4,
+        4,
+        4.6,
+        5.2,
+        5.8,
+        6.4,
+        7
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -7648,23 +7798,27 @@
     }
    },
    "stats": {
-    "chargeDraw": {
-     "active": {
-      "stat": [
-       -100
-      ],
-      "multiplier": [
-       0.8
-      ]
+    "chargeDraw": [
+     {
+      "active": {
+       "stat": [
+        -100
+       ],
+       "multiplier": [
+        0.8
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.2
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.2
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -7696,13 +7850,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.2
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.2
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -7768,16 +7924,18 @@
     }
    },
    "stats": {
-    "chargeDraw": {
-     "active": {
-      "stat": [
-       -100
-      ],
-      "multiplier": [
-       0.85
-      ]
+    "chargeDraw": [
+     {
+      "active": {
+       "stat": [
+        -100
+       ],
+       "multiplier": [
+        0.85
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -7847,20 +8005,24 @@
    "inLiveDatabase": false,
    "optional": false,
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       100
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    },
-    "ready": {
-     "active": {
-      "multiplier": [
-       0.95
-      ]
+    ],
+    "ready": [
+     {
+      "active": {
+       "multiplier": [
+        0.95
+       ]
+      }
      }
-    }
+    ]
    }
   },
   "1828251441": {
@@ -7924,13 +8086,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.5
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.5
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -7993,27 +8157,33 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "multiplier": [
-       1.2
-      ]
+    "range": [
+     {
+      "active": {
+       "multiplier": [
+        1.2
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       30
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        30
+       ]
+      }
      }
-    },
-    "aimAssist": {
-     "active": {
-      "stat": [
-       15
-      ]
+    ],
+    "aimAssist": [
+     {
+      "active": {
+       "stat": [
+        15
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -8144,14 +8314,16 @@
     }
    },
    "stats": {
-    "stability": {
-     "active": {
-      "stat": [
-       40,
-       10
-      ]
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        40,
+        10
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -8432,13 +8604,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.05
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.05
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -8661,22 +8835,26 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       20,
-       25
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        20,
+        25
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       20,
-       25
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        20,
+        25
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -8824,13 +9002,15 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       100
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -8952,33 +9132,39 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       10,
-       20,
-       30
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        10,
+        20,
+        30
+       ]
+      }
      }
-    },
-    "reload": {
-     "active": {
-      "stat": [
-       10,
-       20,
-       30
-      ]
+    ],
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        10,
+        20,
+        30
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       10,
-       20,
-       30
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        10,
+        20,
+        30
+       ]
+      }
      }
-    }
+    ]
    }
   },
   "2173046394": {
@@ -9300,13 +9486,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.3
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.3
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -9555,20 +9743,24 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       30
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        30
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.5
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.5
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -9732,24 +9924,28 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       20
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        20
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.066,
-       1.132,
-       1.2,
-       1.266,
-       1.33
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.066,
+        1.132,
+        1.2,
+        1.266,
+        1.33
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -9782,23 +9978,27 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       20
-      ],
-      "multiplier": [
-       1.05
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        20
+       ],
+       "multiplier": [
+        1.05
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "stat": [
-       40
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        40
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -9830,13 +10030,15 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       20
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        20
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -9869,15 +10071,17 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.17,
-       1.33,
-       1.5
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.17,
+        1.33,
+        1.5
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -10030,21 +10234,25 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       100
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       5,
-       2
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        5,
+        2
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -10103,16 +10311,18 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.29,
-       1.3322,
-       1.6275,
-       1.66
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.29,
+        1.3322,
+        1.6275,
+        1.66
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -10234,14 +10444,16 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.15,
-       1.5
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.15,
+        1.5
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -10304,22 +10516,26 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       40,
-       45
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        40,
+        45
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "stat": [
-       30,
-       35
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        30,
+        35
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -10389,13 +10605,15 @@
     }
    },
    "stats": {
-    "chargeDraw": {
-     "active": {
-      "multiplier": [
-       0.625
-      ]
+    "chargeDraw": [
+     {
+      "active": {
+       "multiplier": [
+        0.625
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -10924,24 +11142,26 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       10,
-       45,
-       55,
-       70,
-       100
-      ],
-      "multiplier": [
-       1,
-       0.9,
-       0.875,
-       0.85,
-       0.8
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        10,
+        45,
+        55,
+        70,
+        100
+       ],
+       "multiplier": [
+        1,
+        0.9,
+        0.875,
+        0.85,
+        0.8
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -10977,13 +11197,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.0777
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.0777
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -11158,24 +11380,28 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       30,
-       15,
-       0
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        30,
+        15,
+        0
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       20,
-       10,
-       0
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        20,
+        10,
+        0
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -11238,13 +11464,15 @@
     }
    },
    "stats": {
-    "zoom": {
-     "passive": {
-      "multiplier": [
-       1.1
-      ]
+    "zoom": [
+     {
+      "passive": {
+       "multiplier": [
+        1.1
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -11387,23 +11615,27 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       50
-      ],
-      "multiplier": [
-       0.8
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        50
+       ],
+       "multiplier": [
+        0.8
+       ]
+      }
      }
-    },
-    "stow": {
-     "active": {
-      "multiplier": [
-       0.8
-      ]
+    ],
+    "stow": [
+     {
+      "active": {
+       "multiplier": [
+        0.8
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -11441,13 +11673,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "stat": [
-       17
-      ]
+    "damage": [
+     {
+      "active": {
+       "stat": [
+        17
+       ]
+      }
      }
-    }
+    ]
    }
   },
   "2889515627": {
@@ -11475,30 +11709,36 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       10
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        10
+       ]
+      }
      }
-    },
-    "chargeDraw": {
-     "active": {
-      "multiplier": [
-       1.15,
-       1.2
-      ]
+    ],
+    "chargeDraw": [
+     {
+      "active": {
+       "multiplier": [
+        1.15,
+        1.2
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.3,
-       1.27,
-       1.2
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.3,
+        1.27,
+        1.2
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -11532,13 +11772,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.2
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.2
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -11708,13 +11950,15 @@
     }
    },
    "stats": {
-    "aimAssist": {
-     "active": {
-      "stat": [
-       20
-      ]
+    "aimAssist": [
+     {
+      "active": {
+       "stat": [
+        20
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -11853,34 +12097,42 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       10
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        10
+       ]
+      }
      }
-    },
-    "reload": {
-     "active": {
-      "stat": [
-       20
-      ]
+    ],
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        20
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       20
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        20
+       ]
+      }
      }
-    },
-    "aimAssist": {
-     "active": {
-      "stat": [
-       10
-      ]
+    ],
+    "aimAssist": [
+     {
+      "active": {
+       "stat": [
+        10
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -11946,13 +12198,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.5
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.5
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -12158,13 +12412,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.35
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.35
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -12397,20 +12653,24 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       20
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        20
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       30
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        30
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -12448,14 +12708,16 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "stat": [
-       52,
-       25
-      ]
+    "damage": [
+     {
+      "active": {
+       "stat": [
+        52,
+        25
+       ]
+      }
      }
-    }
+    ]
    }
   },
   "3201496230": {
@@ -12481,17 +12743,19 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.2,
-       1.4,
-       1.6,
-       1.8,
-       2
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.2,
+        1.4,
+        1.6,
+        1.8,
+        2
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -12655,20 +12919,24 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       100
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        100
+       ]
+      }
      }
-    },
-    "stow": {
-     "active": {
-      "multiplier": [
-       0.6
-      ]
+    ],
+    "stow": [
+     {
+      "active": {
+       "multiplier": [
+        0.6
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -13113,23 +13381,27 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "multiplier": [
-       2
-      ]
+    "range": [
+     {
+      "active": {
+       "multiplier": [
+        2
+       ]
+      }
      }
-    },
-    "reload": {
-     "active": {
-      "stat": [
-       100
-      ],
-      "multiplier": [
-       0.9
-      ]
+    ],
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        100
+       ],
+       "multiplier": [
+        0.9
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -13195,13 +13467,15 @@
     }
    },
    "stats": {
-    "reload": {
-     "passive": {
-      "stat": [
-       20
-      ]
+    "reload": [
+     {
+      "passive": {
+       "stat": [
+        20
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -13479,15 +13753,17 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       10,
-       21,
-       33.1
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        10,
+        21,
+        33.1
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -13548,33 +13824,39 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       5,
-       25,
-       50
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        5,
+        25,
+        50
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "stat": [
-       10,
-       25,
-       50
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        10,
+        25,
+        50
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       5,
-       15,
-       25
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        5,
+        15,
+        25
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -14216,30 +14498,36 @@
     }
    },
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       10
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        10
+       ]
+      }
      }
-    },
-    "chargeDraw": {
-     "active": {
-      "multiplier": [
-       1.2,
-       1.2
-      ]
+    ],
+    "chargeDraw": [
+     {
+      "active": {
+       "multiplier": [
+        1.2,
+        1.2
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.3,
-       1.2,
-       1.2
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.3,
+        1.2,
+        1.2
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -14429,14 +14717,16 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       25,
-       30
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        25,
+        30
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -14523,25 +14813,29 @@
     }
    },
    "stats": {
-    "stow": {
-     "active": {
-      "multiplier": [
-       0.9
-      ]
-     },
-     "passive": {
-      "multiplier": [
-       0.9
-      ]
+    "stow": [
+     {
+      "active": {
+       "multiplier": [
+        0.9
+       ]
+      },
+      "passive": {
+       "multiplier": [
+        0.9
+       ]
+      }
      }
-    },
-    "ready": {
-     "passive": {
-      "multiplier": [
-       0.9
-      ]
+    ],
+    "ready": [
+     {
+      "passive": {
+       "multiplier": [
+        0.9
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -14595,22 +14889,24 @@
     }
    },
    "stats": {
-    "airborne": {
-     "passive": {
-      "stat": [
-       10,
-       12
-      ]
-     },
-     "active": {
-      "stat": [
-       30,
-       60,
-       35,
-       70
-      ]
+    "airborne": [
+     {
+      "passive": {
+       "stat": [
+        10,
+        12
+       ]
+      },
+      "active": {
+       "stat": [
+        30,
+        60,
+        35,
+        70
+       ]
+      }
      }
-    }
+    ]
    }
   },
   "3723531833": {
@@ -14675,13 +14971,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.35
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.35
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -14832,13 +15130,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.022
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.022
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -14928,13 +15228,15 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       50
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        50
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -15141,13 +15443,15 @@
    "inLiveDatabase": false,
    "optional": false,
    "stats": {
-    "range": {
-     "active": {
-      "stat": [
-       10
-      ]
+    "range": [
+     {
+      "active": {
+       "stat": [
+        10
+       ]
+      }
      }
-    }
+    ]
    }
   },
   "3913600130": {
@@ -15178,22 +15482,24 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.03,
-       1.06,
-       1.09,
-       1.12,
-       1.15,
-       1.18,
-       1.21,
-       1.24,
-       1.27,
-       1.3
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.03,
+        1.06,
+        1.09,
+        1.12,
+        1.15,
+        1.18,
+        1.21,
+        1.24,
+        1.27,
+        1.3
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -15256,13 +15562,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "passive": {
-      "multiplier": [
-       1.2
-      ]
+    "damage": [
+     {
+      "passive": {
+       "multiplier": [
+        1.2
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -15685,13 +15993,15 @@
     }
    },
    "stats": {
-    "handling": {
-     "active": {
-      "stat": [
-       40
-      ]
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        40
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -15822,13 +16132,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.35
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.35
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -15865,30 +16177,36 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       15,
-       55
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        15,
+        55
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "multiplier": [
-       0.75,
-       0.56
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "multiplier": [
+        0.75,
+        0.56
+       ]
+      }
      }
-    },
-    "stability": {
-     "active": {
-      "stat": [
-       15,
-       40
-      ]
+    ],
+    "stability": [
+     {
+      "active": {
+       "stat": [
+        15,
+        40
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -15926,17 +16244,19 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.067,
-       1.133,
-       1.2,
-       1.266,
-       1.333
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.067,
+        1.133,
+        1.2,
+        1.266,
+        1.333
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -15998,13 +16318,15 @@
     }
    },
    "stats": {
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.0777
-      ]
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.0777
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -16044,13 +16366,15 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       40
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        40
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -16124,27 +16448,33 @@
     }
    },
    "stats": {
-    "reload": {
-     "active": {
-      "stat": [
-       50
-      ]
+    "reload": [
+     {
+      "active": {
+       "stat": [
+        50
+       ]
+      }
      }
-    },
-    "handling": {
-     "active": {
-      "stat": [
-       50
-      ]
+    ],
+    "handling": [
+     {
+      "active": {
+       "stat": [
+        50
+       ]
+      }
      }
-    },
-    "damage": {
-     "active": {
-      "multiplier": [
-       1.15
-      ]
+    ],
+    "damage": [
+     {
+      "active": {
+       "multiplier": [
+        1.15
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
@@ -16202,16 +16532,18 @@
     }
    },
    "stats": {
-    "reload": {
-     "passive": {
-      "stat": [
-       30
-      ],
-      "multiplier": [
-       0.9
-      ]
+    "reload": [
+     {
+      "passive": {
+       "stat": [
+        30
+       ],
+       "multiplier": [
+        0.9
+       ]
+      }
      }
-    }
+    ]
    },
    "editor": {
     "en": {
