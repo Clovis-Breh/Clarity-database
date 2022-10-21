@@ -6870,8 +6870,9 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1666387771356,
+     "undatedBy": "Fading-Shadow",
+     "updatedBy": "Icemourne"
     },
     "descriptions": {
      "en": {
@@ -6909,6 +6910,15 @@
       "active": {
        "multiplier": [
         0.8
+       ]
+      }
+     }
+    ],
+    "rateOfFire": [
+     {
+      "active": {
+       "multiplier": [
+        0.7
        ]
       }
      }
