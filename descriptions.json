@@ -14928,13 +14928,15 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1665004218327,
-     "undatedBy": "Fading Shadow"
+     "lastUpdate": 1666426017442,
+     "undatedBy": "Fading Shadow",
+     "updatedBy": "Icemourne"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665004183971,
-      "undatedBy": "Fading Shadow"
+      "lastUpdate": 1666425964907,
+      "undatedBy": "Fading Shadow",
+      "updatedBy": "Icemourne"
      },
      "zh-chs": {
       "lastUpdate": 1664433396838,
@@ -14948,7 +14950,7 @@
    },
    "editor": {
     "en": {
-     "main": "While at Low Health:\nUp to +60 Airborne Effectiveness.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\nPassively grants +10 Airborne Effectiveness.\n\nEnhanced: Grants up to +70 Airborne Effectiveness. Passively grants +12 Airborne Effectiveness.",
+     "main": "While at Low Health:\nUp to +60 Airborne Effectiveness.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\nEnhanced: Grants up to +70 Airborne Effectiveness.",
      "secondary": "import self"
     },
     "zh-chs": {
