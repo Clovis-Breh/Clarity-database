@@ -689,13 +689,13 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1666624173074,
+     "updatedBy": "Icemourne"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1659903012345,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1666624140881,
+      "updatedBy": "Icemourne"
      },
      "zh-chs": {
       "lastUpdate": 1664434059804,
@@ -706,17 +706,6 @@
       "updatedBy": "miniatimat"
      }
     }
-   },
-   "stats": {
-    "chargeDraw": [
-     {
-      "active": {
-       "multiplier": [
-        0.75
-       ]
-      }
-     }
-    ]
    },
    "editor": {
     "en": {
@@ -731,6 +720,17 @@
      "main": "En tiros de Precision:\nReduce en un 25% el tiempo de tensado durante 3 segundos\n\nAumentado: Aumenta la duracion del bufo a 4 segundos",
      "secondary": "import self"
     }
+   },
+   "stats": {
+    "rateOfFire": [
+     {
+      "active": {
+       "multiplier": [
+        0.75
+       ]
+      }
+     }
+    ]
    }
   },
   "205890336": {
@@ -1735,14 +1735,14 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1660340225750,
-      "undatedBy": "Fading-Shadow"
+      "lastUpdate": 1666624397786,
+      "updatedBy": "Icemourne"
      }
     }
    },
    "editor": {
     "en": {
-     "main": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon.\n\n< table >\n| Stacks | Heritage | Succession | Both in PVP <bold/>\n| 1x     | 8%       | 8%         | 5%  <background/>\n| 2x     | 15%      | 17%        | 10%\n| 3x     | 24%      | 27%        | 15% <background/>\n| 4x     | 33%      | 38%        | 20%\n| 5x     | 42%      | 46%        | 25% <background/>\n| 6x     | 50%      | 57%        | 30%\n| 7x     | 59%      | 68%        | 35% <background/>\n| 8x     | 70%      | 80%        | 40%\n| 9x     | 80%      | 89%        | 45% <background/>\n| 10x    | 88%      | 100%       | 50%\n<$>\n\n",
+     "main": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon.\n\n< table background_2 >\n| Stacks | Heritage | Succession | Both in PVP <bold/>\n| 1x     | 8%       | 8%         | 5%          \n| 2x     | 15%      | 17%        | 10%\n| 3x     | 24%      | 27%        | 15%         \n| 4x     | 33%      | 38%        | 20%\n| 5x     | 42%      | 46%        | 25%         \n| 6x     | 50%      | 57%        | 30%\n| 7x     | 59%      | 68%        | 35%         \n| 8x     | 70%      | 80%        | 40%\n| 9x     | 80%      | 89%        | 45%         \n| 10x    | 88%      | 100%       | 50%\n<$>\n\n",
      "secondary": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon, up to 10 stacks.\r\n\r\n8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage in PVE\r\n\r\n8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession in PVE\r\n\r\n5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession in PVP"
     }
    }
@@ -2724,15 +2724,13 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1666441683752,
-     "undatedBy": "Fading-Shadow",
+     "lastUpdate": 1666624033263,
      "updatedBy": "Icemourne"
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1666601511637,
-      "undatedBy": "Fading-Shadow",
-      "updatedBy": "Fading-Shadow"
+      "lastUpdate": 1666624029905,
+      "updatedBy": "Icemourne"
      },
      "zh-chs": {
       "lastUpdate": 1664433230817,
@@ -2745,15 +2743,6 @@
     }
    },
    "stats": {
-    "chargeDraw": [
-     {
-      "passive": {
-       "stat": [
-        -40
-       ]
-      }
-     }
-    ],
     "damage": [
      {
       "passive": {
@@ -2775,7 +2764,7 @@
    },
    "editor": {
     "en": {
-     "main": "Decreases charge time by 40ms, and damage by 2%\na",
+     "main": "Decreases charge time by 40ms, and damage by 2%",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -6863,8 +6852,7 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1666387771356,
-     "undatedBy": "Fading-Shadow",
+     "lastUpdate": 1666624183901,
      "updatedBy": "Icemourne"
     },
     "descriptions": {
@@ -6885,15 +6873,6 @@
       "active": {
        "stat": [
         100
-       ]
-      }
-     }
-    ],
-    "chargeDraw": [
-     {
-      "active": {
-       "multiplier": [
-        0.7
        ]
       }
      }
@@ -7412,8 +7391,8 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1666624355572,
+     "updatedBy": "Icemourne"
     },
     "descriptions": {
      "en": {
@@ -7423,20 +7402,20 @@
     }
    },
    "stats": {
-    "chargeDraw": [
-     {
-      "passive": {
-       "stat": [
-        40
-       ]
-      }
-     }
-    ],
     "damage": [
      {
       "passive": {
        "multiplier": [
         1.02
+       ]
+      }
+     }
+    ],
+    "rateOfFire": [
+     {
+      "passive": {
+       "stat": [
+        40
        ]
       }
      }
@@ -7804,9 +7783,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665089551707,
-      "undatedBy": "Fading-Shadow",
-      "updatedBy": "Fading Shadow"
+      "lastUpdate": 1666624326274,
+      "updatedBy": "Icemourne"
      }
     }
    },
@@ -7835,7 +7813,7 @@
    },
    "editor": {
     "en": {
-     "main": "Upon Sliding, after Sprinting for 1.5 seconds:\n20% Increased damage and 0.8x Charge Time for [?] seconds. \n\nEnhanced: Buff Duration is increased.",
+     "main": "Upon Sliding, after Sprinting for 1.5 seconds:\n20% Increased damage and 0.8x Charge Time for [?] seconds. \n\nEnhanced: Buff Duration is increased.\n// why -100 stat? also change charge draw to rate of fire",
      "secondary": "import self"
     }
    }
@@ -7927,8 +7905,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665006629998,
-      "undatedBy": "Fading Shadow"
+      "lastUpdate": 1666624216654,
+      "updatedBy": "Icemourne"
      },
      "zh-chs": {
       "lastUpdate": 1664460228616,
@@ -7952,7 +7930,7 @@
    },
    "editor": {
     "en": {
-     "main": "While within 15[?] meters of 2 enemies:\n0.85x Charge/Draw Time.\n\nLingers for 1.5 seconds.\n\nEnhanced: Passively grants +5 Stability.",
+     "main": "While within 15[?] meters of 2 enemies:\n0.85x Charge/Draw Time.\n\nLingers for 1.5 seconds.\n\nEnhanced: Passively grants +5 Stability.\n// why is where -100 stat?",
      "secondary": "import self"
     },
     "zh-chs": {
@@ -10607,8 +10585,8 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1666624496888,
+     "updatedBy": "Icemourne"
     },
     "descriptions": {
      "en": {
@@ -10618,7 +10596,7 @@
     }
    },
    "stats": {
-    "chargeDraw": [
+    "rateOfFire": [
      {
       "active": {
        "multiplier": [
@@ -11709,8 +11687,7 @@
    "hidden": false,
    "updateTracker": {
     "stats": {
-     "lastUpdate": 1666441701799,
-     "undatedBy": "Fading-Shadow",
+     "lastUpdate": 1666624055139,
      "updatedBy": "Icemourne"
     },
     "descriptions": {
@@ -11720,38 +11697,6 @@
       "updatedBy": "Icemourne"
      }
     }
-   },
-   "stats": {
-    "range": [
-     {
-      "active": {
-       "stat": [
-        10
-       ]
-      }
-     }
-    ],
-    "chargeDraw": [
-     {
-      "active": {
-       "multiplier": [
-        1.15,
-        1.2
-       ]
-      }
-     }
-    ],
-    "damage": [
-     {
-      "active": {
-       "multiplier": [
-        1.3,
-        1.27,
-        1.2
-       ]
-      }
-     }
-    ]
    },
    "editor": {
     "en": {
@@ -13830,9 +13775,8 @@
     },
     "descriptions": {
      "en": {
-      "lastUpdate": 1665259970858,
-      "undatedBy": "Fading-Shadow",
-      "updatedBy": "Fading Shadow"
+      "lastUpdate": 1666624513955,
+      "updatedBy": "Icemourne"
      }
     }
    },
@@ -13874,7 +13818,7 @@
    "editor": {
     "en": {
      "main": "Grants Stat Bonuses depending on the amount of Charged Abilities.\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\n< table >\n|  Abilities| Stability | Reload                 | Handling\n|b 1x       | 5         | 5                      | 10                          <background/>\n|  In-Game  |           | <formula [reload_0] /> | <formula Ready: [ready_0] />\n|  Values:  |           |                        | <formula Stow: [stow_0] />\n|b 2x       | 15        | 25                     | 25                          <background/>\n|  In-Game  |           | <formula [reload_1] /> | <formula Ready: [ready_1] />\n|  Values:  |           |                        | <formula Stow: [stow_1] />\n|b 3x       | 25        | 50                     | 50                          <background/>\n|  In-Game  |           | <formula [reload_2] /> | <formula Ready: [ready_2] />\n|  Values:  |           |                        | <formula Stow: [stow_2] />\n<$>\n\nEnhanced: Stronger Effect",
-     "secondary": "Grants Stat Bonuses depending on the amount of Charged Abilities.\n\n•   +5 | +15 | +25 Stability <breakSpaces/>\n•   +5 | +25 | +50 Reload Speed <breakSpaces/>\n•   +10 | +25 | +50 Handling <breakSpaces/>\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\nEnhanced: Stronger Effect."
+     "secondary": "Grants Stat Bonuses depending on the amount of Charged Abilities.\n\n•   +5 | +15 | +25 Stability <breakSpaces/>\n•   +5 | +25 | +50 Reload Speed <breakSpaces/>\n•  +10 | +25 | +50 Handling <breakSpaces/>\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\nEnhanced: Stronger Effect."
     }
    }
   },
