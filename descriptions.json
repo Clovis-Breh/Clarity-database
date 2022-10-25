@@ -12299,8 +12299,8 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1666624055139,
-    "updatedBy": "Icemourne"
+    "lastUpdate": 1666719585532,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
@@ -12317,7 +12317,8 @@
    }
   },
   "mirrorStatsFrom": 3673922083,
-  "linkedWith": 3673922083
+  "linkedWith": 3673922083,
+  "importStatsFrom": 3673922083
  },
  "2896038713": {
   "hash": 2896038713,
@@ -15236,15 +15237,13 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1666385397893,
-    "undatedBy": "Fading-Shadow",
-    "updatedBy": "Icemourne"
+    "lastUpdate": 1666721143690,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1666386608476,
-     "undatedBy": "Fading Shadow",
-     "updatedBy": "Icemourne"
+     "lastUpdate": 1666721120047,
+     "updatedBy": "Fading Shadow"
     },
     "es": {
      "lastUpdate": 1665822580077,
@@ -15258,16 +15257,6 @@
      "active": {
       "stat": [
        10
-      ]
-     }
-    }
-   ],
-   "chargeDraw": [
-    {
-     "active": {
-      "multiplier": [
-       1.2,
-       1.2
       ]
      }
     }
@@ -15289,6 +15278,16 @@
     {
      "active": {
       "multiplier": [
+       1.27
+      ]
+     },
+     "weaponTypes": [
+      "fusion rifle"
+     ]
+    },
+    {
+     "active": {
+      "multiplier": [
        30
       ]
      }
@@ -15298,39 +15297,7 @@
     {
      "active": {
       "multiplier": [
-       -15
-      ]
-     },
-     "weaponTypes": [
-      "hand cannon",
-      "scout rifle"
-     ]
-    },
-    {
-     "active": {
-      "multiplier": [
-       15
-      ]
-     },
-     "weaponTypes": [
-      "fusion rifle",
-      "linear fusion rifle"
-     ]
-    },
-    {
-     "active": {
-      "multiplier": [
-       20
-      ]
-     },
-     "weaponTypes": [
-      "combat bow"
-     ]
-    },
-    {
-     "active": {
-      "multiplier": [
-       -20
+       0.8
       ]
      }
     }
@@ -15338,8 +15305,8 @@
   },
   "editor": {
    "en": {
-    "main": "On Weapon Kill for #e${7 + #t} seconds: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Range\n<$$>\n// separator for readabilty\n< weapon type ( combat bow, shotgun ) >\n    +20% Damage\n< weapon type ( other ) >\n    +30% Damage\n<$$>\n// separator for readabilty\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Fire Rate [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    +15% <title Charge Time [ROF] />\n< weapon type ( combat bow ) >\n    +20% <title Draw Time [ROF] />\n< weapon type ( other ) >\n    -20% <title Fire Rate [ROF] />\n<$$>\n<formula In-Game Range: [range_0] />\n\n<title Efects on all weapons [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n| Weapon              | Damage         | Fire/Charge Rate <bold/>\n| Hand Cannon         | <green 30% />  | <green -15% />\n| Scout Rifle         | <green 30% />  | <green -15% />\n| Auto Rifle          | <purple 30% /> | <purple -20% />\n| Sidearm             | <purple 30% /> | <purple -20% />\n| Grenade Launcher    | <purple 30% /> | <purple -20% />\n| Linear Fusion Rifle | 30%            | +15%          \n| Fusion Rifle        | <yellow 30% /> | <yellow +15% />\n| Bow                 | <blue 20% />   | <blue +20% /> \n| Shotgun             | <blue 20% />   | <blue -20% />\n<$>\n)\n\ntitle ROF (\nThe rate of Fire tends to be shifted to the next slower-firing frame.\n\nEg: Rapid Fire Auto => Adaptive Auto\n)\nenhanced (\nvar t = 1\n)",
-    "secondary": "On Weapon Kill:\n30% increased damage, 20% slower Rate of Fire/Charge Rate, and +10 Range for #e${7 + #t} seconds.\n\nBows and Shotguns only receive a 20% damage increase.\n\nRate of Fire tends to be shifted to the next slower-firing frame. Eg: Rapid Fire Auto -> Adaptive Auto\nenhanced (\nvar t = 1\n)"
+    "main": "On Weapon Kill:\n30% increased damage, 20% slower Rate of Fire/Charge Rate, and +10 Range for 7 seconds.\n\nBows and Shotguns only receive a 20% damage increase.\n\n🡅Enhanced: Buff Duration is increased to a maximum of 8 seconds.\n\n<formula Effective Range: [range_0] />",
+    "secondary": "On Weapon Kill:\n30% increased damage, 20% slower Rate of Fire/Charge Rate, and +10 Range for 7 seconds.\n\nBows and Shotguns only receive a 20% damage increase.\n\n🡅Enhanced: Buff Duration is increased to a maximum of 8 seconds."
    },
    "es": {
     "main": "Durante #e${7 + #t} segundos luego de una baja con el arma: \n< weapon type ( combat bow ) >\n< weapon type ( other ) >\n    +10 Alcance\n<$$>\n// separator for readabilty\n< weapon type ( combat bow, shotgun ) >\n    +20% Daño\n< weapon type ( other ) >\n    +30% Daño\n<$$>\n// separator for readabilty\n< weapon type ( hand cannon, scout rifle ) >\n    -15% <title Cadencialde Tiro  [ROF] />\n< weapon type ( fusion rifle, linear fusion rifle ) >\n    -15% <title Tiempo de Carga [ROF] />\n< weapon type ( other ) >\n    -20% <title Cadencia de Tiro [ROF] />\n<$$>\n<formula Alcance: [range_0] />\n\n<title Efectos por Tipo de Arma [weapon list] />\n\ntitle weapon list (\n< table wide background_2 > \n| Tipo de Arma              | Daño        | Cadencia/Carga <bold/>\n| Cañon de Mano         | <green 30% />  | <green -15% />\n| Fusil Explorador         | <green 30% />  | <green -15% />\n| Fusil Automatico         | <purple 30% /> | <purple -20% />\n| Pistola            | <purple 30% /> | <purple -20% />\n| Lanza Granadas    | <purple 30% /> | <purple -20% />\n| Fusil de Fusion Lineal | 30%            | -15%          \n| Fusil de Fusion        | <yellow 27% /> | <yellow -15% />\n| Arco                | <blue 20% />   | <blue -20% /> \n| Escopeta             | <blue 20% />   | <blue -20% />\n<$>\n)\n\ntitle ROF (\nLa Cadencia de Tiro tiende a cambiar hacia el proximo armazon mas lento.\n\nPor Ejemplo: Fusil automatico de Precision => Fusil automatico de Alto Impacto \n)\nenhanced (\nvar t = 1\n)",
