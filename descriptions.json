@@ -4738,7 +4738,7 @@
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1666722846696,
+     "lastUpdate": 1666723761659,
      "updatedBy": "Fading Shadow"
     },
     "es": {
@@ -4749,14 +4749,15 @@
   },
   "editor": {
    "en": {
-    "main": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\n< weapon type ( fusion rifle ) >\nOn this weapon: 29% per hit, up to 435%\n<$$>\n< weapon type ( auto rifle, machine gun, pulse rifle, trace rifle ) >\nOn this weapon: 33.3% per hit, up to 500%\n<$$>\n< weapon type ( linear fusion rifle ) >\nOn this weapon: 150% per hit, up to 450%\n<$$>\n< weapon type ( combat bow, glaive, hand cannon, scout rifle ) >\nOn this weapon: 166.6% per hit, up to 500%\n<$$>\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nenhanced (\nvar d = 1.2\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%\n)\n<title Hover to see effects on each weapon type. [weapon list] />\n\ntitle weapon list (\n< table wide >\n| Weapon type          |   Per hit          |   Up to          <bold/>\n| Fusion Rifles        |   #e${29 * #d}%    |   #e${435 * #d}% <background/>\n| Linear Fusion Rifles |   #e${150 * #d}%   |   #e${450 * #d}%\n| Auto Rifles          |-4 #e${33.3 * #d}%  |-4 #e${500 * #d}% <background/>\n| Machine Guns                                                 <background/>\n| Pulse Rifles                                                 <background/>\n| Trace Rifles                                                 <background/>\n| Bows                 |-4 #e${166.6 * #d}% |-4 #e${500 * #d}%\n| Glaives\n| Hand Cannons\n| Scout Rifles\n<$>\n)",
+    "main": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\n< weapon type ( fusion rifle ) >\nOn this weapon: ${29 * #d}% per hit, up to ${435 * #d}%\n<$$>\n< weapon type ( auto rifle, machine gun, pulse rifle, trace rifle ) >\nOn this weapon: ${33.3 * #d}% per hit, up to ${500 * #d}%\n<$$>\n< weapon type ( linear fusion rifle ) >\nOn this weapon: ${150 * #d}% per hit, up to ${450 * #d}%\n<$$>\n< weapon type ( combat bow, glaive, hand cannon, scout rifle ) >\nOn this weapon: ${166.6 * #d}% per hit, up to ${500 * #d}%\n<$$>\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nenhanced (\nvar d = 1.2\n\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%. This is included in the shown numbers.\n\n)\n<title Hover to see effects on each weapon type. [weapon list] />\n\ntitle weapon list (\n< table wide >\n|c Weapon Type          |c   Damage Increase Increment   |c   Maximum Damage Increase          <bold/>\n| Fusion Rifle        |c   ${29 * #d}%    |c   ${435 * #d}% <background/>\n| Linear Fusion Rifle |c   ${150 * #d}%   |c   ${450 * #d}%\n| Auto Rifle          |-4c ${33.3 * #d}%  |-4c ${500 * #d}% <background/>\n| Machine Gun                                                 <background/>\n| Pulse Rifles                                                 <background/>\n| Trace Rifle                                                 <background/>\n| Bow                 |-4c ${166.6 * #d}% |-4c ${500 * #d}%\n| Glaive\n| Hand Cannon\n| Scout Rifle\n<$>\n)",
     "secondary": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\n29% per hit, up to 435%: Fusion Rifles\n\n33.3% per hit, up to 500%:\nAuto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\n\n150% per hit, up to 450%: Linear Fusion Rifles\n\n166.6% per hit, up to 500%:\nBows, Glaives, Hand Cannons, Scout Rifles\n\n\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%\nEg: 500% -> 600%"
    },
    "es": {
     "main": "var d = 1\nvar e = empty\nLuego de impactar con un Escudo de otro elemento al arma, o la Barrera de un Campeon:\nLos proximos impactos aumentan en daño contra el escudo del enemigo.\n\nEl bufo se termina si se impacta contra un escudo con mismo elemento, o contra un enemigo sin escudo.\n\n< weapon type ( fusion rifle ) >\n#e${29 * #d}% por bala, hasta #e${435 * #d}%\n<$$>\n< weapon type ( auto rifle, machine gun, pulse rifle, trace rifle ) >\n#e${33.3 * #d}% por bala, hasta #e${500 * #d}%\n<$$>\n< weapon type ( linear fusion rifle ) >\n#e${150 * #d}% por bala, hasta #e${450 * #d}%\n<$$>\n< weapon type ( combat bow, glaive, hand cannon, scout rifle ) >\n#e${166.6 * #d}% por bala, hasta #e${500 * #d}%\n<$$>\n\n<title Dependiendo del tipo de arma [weapon list] />\n\ntitle weapon list (\n< table wide >\n| Tipo de Arma          |   Por bala       |   hasta           <bold/>\n| Fusil de Fusion        |   #e${29 * #d}%   |   #e${435 * #d}%  <background/>\n| Fusil de Fusion Lineal  |   #e${150 * #d}%  |   #e${450 * #d}% \n| Fusil Automatico           |-4 #e${33.3 * #d}% |-4 #e${500 * #d}%  <background/>\n| Ametralladora                                                 <background/> \n| Fusil de Pulsos                                                <background/>    \n| Fusil de Rastreo                                                  <background/> \n| Arco                  |-4 #e${166.6 * #d}% |-4 #e${500 * #d}%\n| Gujas\n| Cañon de Mano\n| Fusil de Explorador\n<$>\n)",
     "secondary": "Luego de impactar con un Escudo de otro elemento al arma, o la Barrera de un Campeon:\nLos proximos impactos aumentan en daño contra el escudo del enemigo.\n\nEl bufo se termina si se impacta contra un escudo con mismo elemento, o contra un enemigo sin escudo.\n\n+29% por bala, hasta 435%: Fusil de Fusion\n\n+33.3% por bala, hasta 500%: \nFusiles Automaticos, Fusiles de Pulsos, Fusiles de Rastreo y Ametralladoras\n\n+150% por bala, hasta 450%: Fusiles de Fusion Lineales\n\n+166.6% por bala, hasta 500%;\nArcos, Gujas, Cañones de Mano y Fusiles de Explorador\n\nMejorado: El daño aumentado por bala aumenta, y el maximo daño aumenta un 20%\nPor ejemplo: 500% -> 600%"
    }
-  }
+  },
+  "linkedWith": 3431277734
  },
  "1050260245": {
   "hash": 1050260245,
@@ -14506,13 +14507,14 @@
   "hidden": false,
   "editor": {
    "en": {
-    "main": "For some reason it deleted it self and i added this manualy to fix crashing"
+    "main": "import main from 1048183818",
+    "secondary": "import secondary from 1048183818"
    }
   },
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1658513881743,
-    "undatedBy": "Fading-Shadow"
+    "lastUpdate": 1666723236957,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
@@ -14520,7 +14522,9 @@
      "updatedBy": "Icemourne"
     }
    }
-  }
+  },
+  "linkedWith": 1048183818,
+  "importStatsFrom": 1048183818
  },
  "3436462433": {
   "hash": 3436462433,
