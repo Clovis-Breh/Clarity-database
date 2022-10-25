@@ -14509,6 +14509,12 @@
    "uploadToLive": false,
    "optional": false,
    "hidden": false,
+   "editor": {
+     "en": {
+      "main": "For some reason it deleted it self and i added this manualy to fix crashing",
+      "secondary": ""
+     }
+   }
    "updateTracker": {
     "stats": {
      "lastUpdate": 1658513881743,
@@ -14517,7 +14523,6 @@
     "descriptions": {
      "en": {
       "lastUpdate": 1665338008058,
-      "undatedBy": "Fading-Shadow",
       "updatedBy": "Icemourne"
      }
     }
