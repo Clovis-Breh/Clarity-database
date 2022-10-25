@@ -167,7 +167,19 @@
      "main": "Passively grants 20 Stability and -30 Reload Speed.",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 20,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 4188031367,
+     "value": -30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "11612903": {
    "hash": 11612903,
@@ -284,7 +296,14 @@
      "main": "Loads 2 Ammo at a time.\nReduces Reload Speed by 35.\n\nEnhanced: Loads 3 Ammo instead of 2.",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 4188031367,
+     "value": -35,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "47981717": {
    "hash": 47981717,
@@ -363,7 +382,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "79448657": {
    "hash": 79448657,
@@ -477,7 +503,14 @@
      "main": "+10 Accuracy",
      "secondary": "+10 Accuracy"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1591432999,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "120721526": {
    "hash": 120721526,
@@ -611,7 +644,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 4188031367,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "185514250": {
    "hash": 185514250,
@@ -814,7 +854,14 @@
      "main": "+10 Blast Radius",
      "secondary": "+10 Blast Radius"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3614673599,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "235075862": {
    "hash": 235075862,
@@ -1005,7 +1052,19 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3871231066,
+     "value": 30,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 155624089,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "280464955": {
    "hash": 280464955,
@@ -1117,7 +1176,14 @@
      "main": "+10 Range",
      "secondary": "+10 Range"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "320071920": {
    "hash": 320071920,
@@ -1169,7 +1235,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "354401740": {
    "hash": 354401740,
@@ -1415,7 +1488,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "402033656": {
    "hash": 402033656,
@@ -1441,7 +1521,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 4188031367,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "405677814": {
    "hash": 405677814,
@@ -1467,7 +1554,19 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 925767036,
+     "value": 5,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 3871231066,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "406461158": {
    "hash": 406461158,
@@ -1493,7 +1592,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3614673599,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "409831596": {
    "hash": 409831596,
@@ -1522,7 +1628,14 @@
      "main": "Grenades fired from this weapon have increased proximity detection but a decreased blast radius.\n",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3614673599,
+     "value": -20,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "438098033": {
    "hash": 438098033,
@@ -1716,7 +1829,14 @@
      "main": "Increases Shotgun Pellet Spread by 7.5%",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 15,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "469285294": {
    "hash": 469285294,
@@ -1924,7 +2044,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 943549884,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "515704826": {
    "hash": 515704826,
@@ -2237,7 +2364,19 @@
      "main": "增加 20 射程，降低 30 稳定性。",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 20,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 155624089,
+     "value": -30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "593361144": {
    "hash": 593361144,
@@ -2450,7 +2589,19 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 1931675084,
+     "value": 20,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 925767036,
+     "value": 20,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "617966211": {
    "hash": 617966211,
@@ -2566,7 +2717,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "634781242": {
    "hash": 634781242,
@@ -2595,7 +2753,14 @@
      "main": "+10 Reload",
      "secondary": "+10 Reload"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 4188031367,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "650047261": {
    "hash": 650047261,
@@ -2621,7 +2786,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "666440382": {
    "hash": 666440382,
@@ -2945,7 +3117,14 @@
      "main": "import main from 4252909580",
      "secondary": "import secondary from 4252909580"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3871231066,
+     "value": 30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "706527188": {
    "hash": 706527188,
@@ -3028,7 +3207,49 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 943549884,
+     "value": 50,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 4188031367,
+     "value": 50,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 155624089,
+     "value": 20,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 2715839340,
+     "value": 20,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 943549884,
+     "value": 5,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 4188031367,
+     "value": 5,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 155624089,
+     "value": 5,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 2715839340,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "712951940": {
    "hash": 712951940,
@@ -3054,7 +3275,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 2,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "722862450": {
    "hash": 722862450,
@@ -3288,7 +3516,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "776531651": {
    "hash": 776531651,
@@ -3344,7 +3579,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 943549884,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "781192741": {
    "hash": 781192741,
@@ -3593,7 +3835,19 @@
      "main": "Sets the Submachine Gun's Damage and Magazine Profile into that of a Precision Frame's.\n",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 4284893193,
+     "value": -50,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 3871231066,
+     "value": -5,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "834262328": {
    "hash": 834262328,
@@ -3723,7 +3977,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 943549884,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "859780267": {
    "hash": 859780267,
@@ -3920,7 +4181,14 @@
      "main": "While Crouched:\nPrevents Radar Ping when shooting, increases Reload Speed, and increases Arrow Hold Time by 25%.",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1931675084,
+     "value": 15,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "921817150": {
    "hash": 921817150,
@@ -4088,7 +4356,14 @@
      "main": "+15 空中效率。",
      "secondary": "+15 空中效率。"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 2714457168,
+     "value": 15,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "951095735": {
    "hash": 951095735,
@@ -4339,7 +4614,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "1015337793": {
    "hash": 1015337793,
@@ -4365,7 +4647,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 4,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1015611457": {
    "hash": 1015611457,
@@ -4499,7 +4788,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 1,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1077019636": {
    "hash": 1077019636,
@@ -4525,7 +4821,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3614673599,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "1095471953": {
    "hash": 1095471953,
@@ -4929,7 +5232,19 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3614673599,
+     "value": 50,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 3614673599,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "1168162263": {
    "hash": 1168162263,
@@ -5025,7 +5340,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "1172098417": {
    "hash": 1172098417,
@@ -5222,7 +5544,24 @@
      "main": "+40 弹夹属性\n-15 操控性",
      "secondary": "+40 弹夹属性\n-15 操控性"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3871231066,
+     "value": 40,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 943549884,
+     "value": -15,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 925767036,
+     "value": 40,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "1250481499": {
    "hash": 1250481499,
@@ -5365,7 +5704,19 @@
      "main": "+20 操控性，填装速度。\n\n当你作为你的火力战队最后一名存活的队员时：\n+100 操控性，+100 填装速度，+[?] 瞄准辅助。\n大幅降低收到伤害时的屏幕抖动。\n瞄准时可显示雷达。\n\n<formula 填装时间： [reload_0] />\n<formula 拔枪速度： [ready_0] />\n<formula 收枪速度： [stow_0] />",
      "secondary": "+20 操控性，填装速度。\n\n当你作为你的火力战队最后一名存活的队员时：\n+100 操控性，+100 填装速度，+[?] 瞄准辅助。\n大幅降低收到伤害时的屏幕抖动。\n瞄准时可显示雷达。"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 943549884,
+     "value": 20,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 4188031367,
+     "value": 20,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1275731761": {
    "hash": 1275731761,
@@ -5757,7 +6108,14 @@
      "main": "If Magazine is Full:\n25% Increased damage and causes enemies to explode on death, dealing <pve 444 /> <pvp [163] /> damage in a [?] meter radius.\n\nPassively grants +30 Magazine Size\n\nEnhanced: Passively grants +5 Stability.",
      "secondary": "If Magazine is Full:\n25% Increased damage and causes enemies to explode on death, dealing 444 [PVP: 163] damage in a [?] meter radius.\n\nPassively grants +30 Magazine Size\n\nEnhanced: Passively grants +5 Stability."
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3871231066,
+     "value": 30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1428297954": {
    "hash": 1428297954,
@@ -6101,7 +6459,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 2,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1489035549": {
    "hash": 1489035549,
@@ -6127,7 +6492,19 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 943549884,
+     "value": 20,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 4188031367,
+     "value": 20,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1499759470": {
    "hash": 1499759470,
@@ -6153,7 +6530,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1507854082": {
    "hash": 1507854082,
@@ -6179,7 +6563,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 2,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1513326571": {
    "hash": 1513326571,
@@ -6319,7 +6710,19 @@
      "main": "+35 后座方向\n-10 射程",
      "secondary": "+35 后座方向\n-10 射程"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 2715839340,
+     "value": 35,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 1240592695,
+     "value": -10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1528281896": {
    "hash": 1528281896,
@@ -6426,7 +6829,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 4188031367,
+     "value": 20,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1545231802": {
    "hash": 1545231802,
@@ -6516,7 +6926,19 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3291498659,
+     "value": 1,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 1591432999,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "1556840489": {
    "hash": 1556840489,
@@ -6575,7 +6997,14 @@
      "main": "Increased Flinch on Enemies.\n\n<pve Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors. />\n\n<pvp Flinch amount against Guardians varies between Weapon Archetypes, from 6% to 11% Increased Flinch received. />\n",
      "secondary": "Increased Flinch on Enemies.\r\n\r\n[PVE] Allows Primary Weapons to affect higher ranked enemies and consistently stunlock Minors.\r\n\r\n[PVP] Flinch amount against Guardians varies between Weapon Archetypes, from 6% to 11% Increased Flinch received.\r\n"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 5,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1561789734": {
    "hash": 1561789734,
@@ -6641,7 +7070,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "1563455254": {
    "hash": 1563455254,
@@ -6811,7 +7247,14 @@
      "main": "+15 Recoil Direction",
      "secondary": "+15 Recoil Direction"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 2715839340,
+     "value": 15,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1598147670": {
    "hash": 1598147670,
@@ -7020,7 +7463,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1631667848": {
    "hash": 1631667848,
@@ -7168,7 +7618,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 1931675084,
+     "value": 15,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1667892708": {
    "hash": 1667892708,
@@ -7621,7 +8078,19 @@
      "main": "+10 瞄准辅助\n-15 稳定性",
      "secondary": "+10 瞄准辅助\n-15 稳定性"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1345609583,
+     "value": 10,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 155624089,
+     "value": -15,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1716000303": {
    "hash": 1716000303,
@@ -7650,7 +8119,14 @@
      "main": "Grenades fired from this weapon emit a blast that staggers enemies.",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3614673599,
+     "value": -200,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1731450287": {
    "hash": 1731450287,
@@ -7733,7 +8209,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "1749209109": {
    "hash": 1749209109,
@@ -8245,7 +8728,19 @@
      "main": "-40ms 拔枪时间",
      "secondary": "-40ms 拔枪时间"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 2961396640,
+     "value": 10,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 447667954,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1885400500": {
    "hash": 1885400500,
@@ -8275,7 +8770,19 @@
      "main": "Bullets are guaranteed to ricochet off of surfaces, and can ricochet from sharper angles.",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 5,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 155624089,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1890422124": {
    "hash": 1890422124,
@@ -8562,7 +9069,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 943549884,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "1968497646": {
    "hash": 1968497646,
@@ -8618,7 +9132,14 @@
      "main": "Otorga de forma pasiva:\n+5 al Alcance\n+5% al Daño contra escudos de enemigos\n\nLas balas son capaces de penetrar enemigos 1 vez",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 5,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "1971489086": {
    "hash": 1971489086,
@@ -8907,7 +9428,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 4,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "2091001077": {
    "hash": 2091001077,
@@ -8933,7 +9461,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3614673599,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "2117683199": {
    "hash": 2117683199,
@@ -9037,7 +9572,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "2139363611": {
    "hash": 2139363611,
@@ -9547,7 +10089,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 2523465841,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "2284787283": {
    "hash": 2284787283,
@@ -9613,7 +10162,14 @@
      "main": "+10 Velocity",
      "secondary": "+10 Velocity"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 2523465841,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "2307244871": {
    "hash": 2307244871,
@@ -9639,7 +10195,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 5,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "2308090567": {
    "hash": 2308090567,
@@ -9665,7 +10228,19 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 1931675084,
+     "value": 30,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 1931675084,
+     "value": 10,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "2355041704": {
    "hash": 2355041704,
@@ -10410,7 +10985,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "2610012052": {
    "hash": 2610012052,
@@ -11108,7 +11690,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "2779035018": {
    "hash": 2779035018,
@@ -11340,7 +11929,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 5,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "2839173408": {
    "hash": 2839173408,
@@ -11429,7 +12025,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "2846385770": {
    "hash": 2846385770,
@@ -11551,7 +12154,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 925767036,
+     "value": 10,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "2866798147": {
    "hash": 2866798147,
@@ -11633,7 +12243,14 @@
      "main": "While Crouched:\n+50 Reload Speed, 0.8x Reload Duration Multiplier, and 0.8x Ready/Stow Duration Multiplier.\n\nPassively grants increased Ammo Reserves.\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.",
      "secondary": "While Crouched:\n+50 Reload Speed, 0.8x Reload Duration Multiplier, and 0.8x Ready/Stow Duration Multiplier.\n\nPassively grants increased Ammo Reserves.\n\nEnhanced: Stronger effect. Greatly increased Ammo Reserves.\t"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1931675084,
+     "value": 30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "2888557110": {
    "hash": 2888557110,
@@ -11771,7 +12388,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3871231066,
+     "value": 10,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "2898218424": {
    "hash": 2898218424,
@@ -11800,7 +12424,14 @@
      "main": "import main from 3722653512 ",
      "secondary": "import secondary from 3722653512"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 2714457168,
+     "value": 12,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "2919349723": {
    "hash": 2919349723,
@@ -11826,7 +12457,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "2923251173": {
    "hash": 2923251173,
@@ -12249,7 +12887,14 @@
      "main": "榴弹爆炸可产生短暂失明效果。",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3614673599,
+     "value": -200,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3038247973": {
    "hash": 3038247973,
@@ -12444,7 +13089,19 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 20,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 4188031367,
+     "value": -30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3102670337": {
    "hash": 3102670337,
@@ -12533,7 +13190,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3118144663": {
    "hash": 3118144663,
@@ -12585,7 +13249,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 4188031367,
+     "value": -35,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3161816588": {
    "hash": 3161816588,
@@ -12746,7 +13417,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 2,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3208647503": {
    "hash": 3208647503,
@@ -12812,7 +13490,14 @@
      "main": "+5 瞄准辅助",
      "secondary": "+5 瞄准辅助"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1345609583,
+     "value": 5,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3241194940": {
    "hash": 3241194940,
@@ -13119,7 +13804,14 @@
      "main": "Increases impact damage by 50%, doesn't apply to explosion damage.\n\n(Higher Blast Radius Stat will lower total damage)",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3315935575": {
    "hash": 3315935575,
@@ -13145,7 +13837,19 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 1240592695,
+     "value": 20,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 155624089,
+     "value": -30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3319681729": {
    "hash": 3319681729,
@@ -13171,7 +13875,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3330325954": {
    "hash": 3330325954,
@@ -13197,7 +13908,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3335686050": {
    "hash": 3335686050,
@@ -13252,7 +13970,19 @@
      "main": "+30 Magazine Stat \r\nComplicated stat, equivalent of Extended Mag",
      "secondary": "+30 Magazine Stat \r\nComplicated stat, equivalent of Extended Mag"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3871231066,
+     "value": 30,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 925767036,
+     "value": 30,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "3337692349": {
    "hash": 3337692349,
@@ -13308,7 +14038,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 5,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3347978672": {
    "hash": 3347978672,
@@ -13440,7 +14177,14 @@
      "main": "On Reload within 6 seconds of a Weapon Kill:\n<title Refreshes [refreshes] /> stowed weapons.\n\nPassively grants 20 Reload Speed.\n\n<formula Reload Time: [reload_0] />\n\nEnhanced: Reload Timer is increased to 7 seconds.\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
      "secondary": "On Reload within 6 seconds of a Weapon Kill:\r\nRefreshes stowed weapons.\r\n\r\nPassively grants 20 Reload Speed.\r\n\r\nEnhanced: Reload Timer is increased to 7 seconds."
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 4188031367,
+     "value": 20,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3363267119": {
    "hash": 3363267119,
@@ -13507,7 +14251,14 @@
      "main": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage.\nDetonation timer varies on draw and distance.\n\n<pve [PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on the Precision Multiplier. />\n\n<pvp [PVP] Total damage remains practically the same. />\n\nEnhanced: Passively grants +5 Accuracy.",
      "secondary": "Splits 50% of Damage into an Explosive Damage portion that deals 30% increased damage. \nDetonation timer varies on draw and distance.\n\n[PVE] 15% Body Shot Damage Increase. Precision Damage Increase varies depending on Precision Multiplier.\n[PVP] Total damage remains practically the same.\n\nEnhanced: Passively grants +5 Accuracy."
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3291498659,
+     "value": 1,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3373736292": {
    "hash": 3373736292,
@@ -13562,7 +14313,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 2,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3400784728": {
    "hash": 3400784728,
@@ -13652,7 +14410,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 4188031367,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "3418782618": {
    "hash": 3418782618,
@@ -13906,7 +14671,29 @@
      "main": "Grants different Stat Bonuses based on your selected Subclass.\n\n<solar/> +50 Reload Speed\n<arc/> +50 Handling\n<void/> +20 Stability\n<stasis/> +20 Recoil Direction & 5% reduced ADS Movement Speed Penalty\n\nEnhanced: Adds an additional +5 to the corresponding Subclass Stat Bonus.",
      "secondary": "Grants Stat Bonuses depending on your selected Subclass.\n\nSolar: +50 Reload Speed.\nArc: +50 Handling.\nVoid: +20 Stability.\nStasis: +20 Recoil Direction & 5% reduced ADS Movement Speed Penalty.\n\nEnhanced: Adds an additional +5 to the corresponding Subclass Stat Bonus."
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 943549884,
+     "value": 50,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 4188031367,
+     "value": 50,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 155624089,
+     "value": 20,
+     "isConditionallyActive": true
+    },
+    {
+     "statTypeHash": 2715839340,
+     "value": 20,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "3513791699": {
    "hash": 3513791699,
@@ -14189,7 +14976,19 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 1345609583,
+     "value": 20,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 1240592695,
+     "value": -30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3643424744": {
    "hash": 3643424744,
@@ -14795,7 +15594,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "3721627275": {
    "hash": 3721627275,
@@ -14918,7 +15724,14 @@
       }
      }
     ]
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 2714457168,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3723531833": {
    "hash": 3723531833,
@@ -15116,7 +15929,19 @@
      "main": "+15 空中效率\n+5 操控性",
      "secondary": "+15 空中效率\n+5 操控性"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 2714457168,
+     "value": 15,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 943549884,
+     "value": 5,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3796465595": {
    "hash": 3796465595,
@@ -15156,7 +15981,14 @@
      "main": "Buffs the Impact Damage by 10% resulting in a 2.2% overall total damage increase at base.",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3797647183": {
    "hash": 3797647183,
@@ -15185,7 +16017,14 @@
      "main": "import main from 2010801679",
      "secondary": "import secondary from 2010801679"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 4188031367,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "3800201097": {
    "hash": 3800201097,
@@ -15312,7 +16151,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 2,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3865257976": {
    "hash": 3865257976,
@@ -15393,7 +16239,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 4,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3907299874": {
    "hash": 3907299874,
@@ -15588,7 +16441,14 @@
      "main": "Rockets attach on impact and detonate after 3 seconds, dealing an additional 25% Explosive Damage.\n(Overall 20% increased total damage)\n\nPassively grants +50 Blast Radius.\n\nEnhanced: Passively grants an additional +5 Blast Radius.",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3614673599,
+     "value": 50,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3927963100": {
    "hash": 3927963100,
@@ -15752,7 +16612,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "3974407819": {
    "hash": 3974407819,
@@ -15946,7 +16813,19 @@
      "main": "Fires a grenade projectile that bounces and detonates on trigger release.\n",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3614673599,
+     "value": 20,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 3871231066,
+     "value": -10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "4003264426": {
    "hash": 4003264426,
@@ -15975,7 +16854,14 @@
      "main": "+10 Stability",
      "secondary": "+10 Stability"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "4008116374": {
    "hash": 4008116374,
@@ -16087,7 +16973,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "4048389864": {
    "hash": 4048389864,
@@ -16518,7 +17411,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 155624089,
+     "value": 5,
+     "isConditionallyActive": true
+    }
+   ]
   },
   "4134353779": {
    "hash": 4134353779,
@@ -16561,7 +17461,14 @@
      "main": "Passively grants +30 Reload Speed with 0.9x Duration Multiplier.\n\nDecreases Magazine Size Stat by 20.",
      "secondary": "Passively grants +30 Reload Speed with 0.9x Duration Multiplier.\n\nDecreases Magazine Size Stat by 20."
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 4188031367,
+     "value": 30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "4148827738": {
    "hash": 4148827738,
@@ -16587,7 +17494,14 @@
    "uploadToLive": false,
    "hidden": false,
    "inLiveDatabase": false,
-   "optional": false
+   "optional": false,
+   "investmentStats": [
+    {
+     "statTypeHash": 3578062600,
+     "value": 3,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "4152709778": {
    "hash": 4152709778,
@@ -16624,7 +17538,19 @@
      "main": "增加 20 辅助瞄准，降低 30 射程。",
      "secondary": "import self"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 1345609583,
+     "value": 20,
+     "isConditionallyActive": false
+    },
+    {
+     "statTypeHash": 1240592695,
+     "value": -30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "4154828211": {
    "hash": 4154828211,
@@ -16946,7 +17872,14 @@
      "main": "While Last Guardian Standing:\nKills fully <title refresh [refresh] /> Magazine.\n\nPassively grants +30 Magazine stat.\n\ntitle refresh (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
      "secondary": "While Last Guardian Standing:\r\nKills fully refresh Magazine.\r\n\r\nPassively grants +30 Magazine stat."
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 3871231066,
+     "value": 30,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "4267945040": {
    "hash": 4267945040,
@@ -17004,7 +17937,14 @@
      "main": "+10 Handling",
      "secondary": "+10 Handling"
     }
-   }
+   },
+   "investmentStats": [
+    {
+     "statTypeHash": 943549884,
+     "value": 10,
+     "isConditionallyActive": false
+    }
+   ]
   },
   "4290541820": {
    "hash": 4290541820,
