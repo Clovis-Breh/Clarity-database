@@ -15240,7 +15240,7 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1666721143690,
+    "lastUpdate": 1666724188135,
     "updatedBy": "Fading Shadow"
    },
    "descriptions": {
@@ -15264,12 +15264,19 @@
      }
     }
    ],
+   "rateOfFire": [
+    {
+     "active": {
+      "multiplier": [
+       0.8
+      ]
+     }
+    }
+   ],
    "damage": [
     {
      "active": {
       "multiplier": [
-       20,
-       1.2,
        1.2
       ]
      },
@@ -15281,26 +15288,7 @@
     {
      "active": {
       "multiplier": [
-       1.27
-      ]
-     },
-     "weaponTypes": [
-      "fusion rifle"
-     ]
-    },
-    {
-     "active": {
-      "multiplier": [
-       30
-      ]
-     }
-    }
-   ],
-   "rateOfFire": [
-    {
-     "active": {
-      "multiplier": [
-       0.8
+       1.3
       ]
      }
     }
