@@ -6,7 +6,7 @@
   "lastUpload": 0,
   "editor": {
    "en": {
-    "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nThe same can be done to lines of text <green/>\n\nYou probably noticed having multiple spaces in the editor\n              doesn't mean it will be the same in description\n              you can change that with <breakSpaces/>\n\n// This is comment content after // will not appear in the description\n\nIn case only part of the description or the entire description only applies to some weapon type\nThis will apply to every weapon\n< weapon type ( auto rifle, combat bow, fusion rifle ) >\nThe description here will be applied only to specified weapon types\nWeapon type can be selected under weapons name in item popup\n< weapon type ( other ) >\nThis will apply to all not specified weapon types\n<$$>\n\nIf there is something you want just ask\nThis is not everything you can do btw\n\nTo see the full list press CTRL + SPACE\nAlso, CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
+    "main": "Images you can use in descriptions\n<arc/> <void/> <solar/>\n<primary/> <special/> <heavy/>\n<warlock/> <hunter/> <titan/>\nText coloring\n<blue text /> <green text /> <purple text /> <yellow text />\n<pvp text /> <pve text />\n\nThe same can be done to lines of text <green/>\n\nYou probably noticed having multiple spaces in the editor\n              doesn't mean it will be the same in description\n              you can change that with <breakSpaces/>\n\n// This is comment content after // will not appear in the description\n\n// ----------------------------------------------------------\n// weapon type explanation\n// they work like if else in programming\n\n// if auto rifle\n< weapon type ( auto rifle ) >\n    Apply this text\n// else if glaive\n< weapon type ( glaive ) >\n    Apply this text\n// else\n< weapon type ( other ) >\n    Apply this text to all weapons not specified in this block\n<$$>\n// also, you can preview how it would look on x weapon by selecting the weapon in the weapon popup under the weapons name\n// ----------------------------------------------------------\nIf there is something you want just ask\nThis is not everything you can do btw\n\nTo see the full list press CTRL + SPACE\nAlso, CTRL + F is a thing and can be used to find and replace\nAlso also editor has other stuff to see them press F1"
    }
   },
   "updateTracker": {
@@ -29,7 +29,7 @@
   "name": "Global exports",
   "type": "none",
   "lastUpload": 0,
-    "editor": {
+  "editor": {
    "en": {
     "main": "manual fix"
    }
@@ -4743,8 +4743,8 @@
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1666727158395,
-     "updatedBy": "Fading Shadow"
+     "lastUpdate": 1666795529268,
+     "updatedBy": "Icemourne"
     },
     "es": {
      "lastUpdate": 1665682073849,
@@ -4754,7 +4754,7 @@
   },
   "editor": {
    "en": {
-    "main": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\n< weapon type ( fusion rifle ) >\nOn this weapon: ${29 * #d}% per hit, up to ${435 * #d}%\n<$$>\n< weapon type ( auto rifle, machine gun, pulse rifle, trace rifle ) >\nOn this weapon: ${33.3 * #d}% per hit, up to ${500 * #d}%\n<$$>\n< weapon type ( linear fusion rifle ) >\nOn this weapon: ${150 * #d}% per hit, up to ${450 * #d}%\n<$$>\n< weapon type ( combat bow, glaive, hand cannon, scout rifle ) >\nOn this weapon: ${166.6 * #d}% per hit, up to ${500 * #d}%\n<$$>\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nenhanced (\n\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%. This is factored into the shown numbers.\n\n)\n<title Hover to see the effects on each weapon type. [weapon list] />\n\ntitle weapon list (\n< table wide >\n|c Weapon Type          |c   Damage Increase Increment   |c   Maximum Damage Increase          <bold/>\n| Fusion Rifle        |c   ${29 * #d}%    |c   ${435 * #d}% <background/>\n| Linear Fusion Rifle |c   ${150 * #d}%   |c   ${450 * #d}%\n| Auto Rifle          |-4c ${33.3 * #d}%  |-4c ${500 * #d}% <background/>\n| Machine Gun                                                 <background/>\n| Pulse Rifles                                                 <background/>\n| Trace Rifle                                                 <background/>\n| Bow                 |-4c ${166.6 * #d}% |-4c ${500 * #d}%\n| Glaive\n| Hand Cannon\n| Scout Rifle\n<$>\n)\nvar d = 1\nenhanced (\n#d = 1.2\n)",
+    "main": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\n< weapon type ( fusion rifle ) >\nOn this weapon: ${29 * #d}% per hit, up to ${435 * #d}%\n<$$>\n< weapon type ( auto rifle, machine gun, pulse rifle, trace rifle ) >\nOn this weapon: ${33.3 * #d}% per hit, up to ${500 * #d}%\n<$$>\n< weapon type ( linear fusion rifle ) >\nOn this weapon: ${150 * #d}% per hit, up to ${450 * #d}%\n<$$>\n< weapon type ( combat bow, glaive, hand cannon, scout rifle ) >\nOn this weapon: ${166.6 * #d}% per hit, up to ${500 * #d}%\n<$$>\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nenhanced (\n\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%. This is factored into the shown numbers.\n\n)\n<title Hover to see the effects on each weapon type. [weapon list] />\n\ntitle weapon list (\n< table wide >\n|c Weapon Type         |c   Damage Increase Increment |c   Maximum Damage Increase <bold/>\n|  Fusion Rifle        |c   ${29 * #d}%               |c   ${435 * #d}%            <background/>\n|  Linear Fusion Rifle |c   ${150 * #d}%              |c   ${450 * #d}%\n|  Auto Rifle          |-4c ${33.3 * #d}%             |-4c ${500 * #d}%            <background/>\n|  Machine Gun                                                                     <background/>\n|  Pulse Rifles                                                                    <background/>\n|  Trace Rifle                                                                     <background/>\n|  Bow                 |-4c ${166.6 * #d}%            |-4c ${500 * #d}%\n|  Glaive\n|  Hand Cannon\n|  Scout Rifle\n<$>\n)\nenhanced (\nvar d = 1.2\n)",
     "secondary": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\n29% per hit, up to 435%: Fusion Rifles\n\n33.3% per hit, up to 500%:\nAuto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\n\n150% per hit, up to 450%: Linear Fusion Rifles\n\n166.6% per hit, up to 500%:\nBows, Glaives, Hand Cannons, Scout Rifles\n\n\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%\nEg: 500% -> 600%"
    },
    "es": {
