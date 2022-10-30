@@ -33,6 +33,7 @@
   "name": "Global exports",
   "type": "none",
   "lastUpload": 0,
+  "uploadedBy": "",
   "editor": {
    "en": {
     "main": "manual fix"
@@ -59,6 +60,7 @@
   "name": "Global variables",
   "type": "none",
   "lastUpload": 0,
+  "uploadedBy": "",
   "editor": {
    "en": {
     "main": "var e = 🡅"
@@ -85,6 +87,7 @@
   "name": "Global titles",
   "type": "none",
   "lastUpload": 0,
+  "uploadedBy": "",
   "editor": {
    "en": {
     "main": "title G_refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)"
