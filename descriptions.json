@@ -3,7 +3,7 @@
   "hash": 0,
   "name": "Default perk",
   "type": "none",
-  "lastUpload": 1667164236876,
+  "lastUpload": 1667210867071,
   "uploadedBy": "Icemourne",
   "editor": {
    "en": {
@@ -25,7 +25,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false
  },
  "1": {
