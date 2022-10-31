@@ -3,7 +3,7 @@
   "hash": 0,
   "name": "Default perk",
   "type": "none",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "uploadedBy": "Fading Shadow",
   "editor": {
    "en": {
@@ -251,7 +251,7 @@
   "hash": 23371658,
   "name": "Box Breathing",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 2551157718",
@@ -282,7 +282,7 @@
   "name": "Dual Loader",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -370,7 +370,7 @@
   "hash": 64866129,
   "name": "Explosive Payload",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3038247973",
@@ -634,7 +634,7 @@
   "hash": 169755979,
   "name": "Dragonfly",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3865257976",
@@ -1083,7 +1083,7 @@
   "name": "Firmly Planted",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -1240,7 +1240,7 @@
   "hash": 344235611,
   "name": "Chill Clip",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 2978966579",
@@ -1496,7 +1496,7 @@
   "hash": 395388285,
   "name": "Firing Line",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 1771339417",
@@ -1564,7 +1564,7 @@
   "hash": 405677814,
   "name": "Cold Steel",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3650930298",
@@ -2535,7 +2535,7 @@
   "hash": 595108252,
   "name": "Compulsive Reloader",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 671806388",
@@ -2616,7 +2616,7 @@
   "hash": 598607952,
   "name": "Chain Reaction",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 2396489472",
@@ -2720,7 +2720,7 @@
   "hash": 624891305,
   "name": "Desperado",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3047969693",
@@ -2888,7 +2888,7 @@
   "name": "Compulsive Reloader",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -3075,7 +3075,7 @@
   "name": "Eye of the Storm",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -3239,7 +3239,7 @@
   "hash": 711234314,
   "name": "Elemental Capacitor",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3511092054",
@@ -3932,7 +3932,7 @@
   "hash": 838873202,
   "name": "Encore",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 1195158366",
@@ -4499,7 +4499,7 @@
   "name": "Danger Zone",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -4651,7 +4651,7 @@
   "hash": 1008128453,
   "name": "Cornered",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 1799762209",
@@ -4861,7 +4861,7 @@
   "hash": 1077019636,
   "name": "Danger Zone",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "",
@@ -4997,7 +4997,7 @@
   "hash": 1145640183,
   "name": "Counterattack",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3016987351",
@@ -5358,7 +5358,7 @@
   "hash": 1171147302,
   "name": "Feeding Frenzy",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 2779035018",
@@ -5473,7 +5473,7 @@
   "hash": 1183436451,
   "name": "Firefly",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3824105627",
@@ -5504,7 +5504,7 @@
   "name": "Encore",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -5718,7 +5718,7 @@
   "name": "Celerity",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -5797,7 +5797,7 @@
   "name": "Cluster Bomb",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -6601,7 +6601,7 @@
   "hash": 1489035549,
   "name": "Celerity",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 1264398905",
@@ -7038,7 +7038,7 @@
   "hash": 1551736345,
   "name": "Explosive Head",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3365897133",
@@ -7144,7 +7144,7 @@
   "name": "Firefly",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -7539,7 +7539,7 @@
   "hash": 1618208178,
   "name": "Eager Edge",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 2077819806",
@@ -7670,7 +7670,7 @@
   "hash": 1646437399,
   "name": "Duelist's Trance",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3705817207",
@@ -7872,7 +7872,7 @@
   "name": "Disruption Break",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -7928,7 +7928,7 @@
   "name": "En Garde",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -8225,7 +8225,7 @@
   "name": "Concussion Grenades",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": true,
@@ -8429,7 +8429,7 @@
   "name": "Firing Line",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -8499,7 +8499,7 @@
   "name": "Cornered",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -9022,7 +9022,7 @@
   "hash": 1906147653,
   "name": "Demolitionist",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3523296417",
@@ -9423,7 +9423,7 @@
   "name": "Energy Transfer",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -9504,7 +9504,7 @@
   "name": "Eager Edge",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -9566,7 +9566,7 @@
   "hash": 2091001077,
   "name": "Cluster Bomb",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 1275731761",
@@ -10099,7 +10099,7 @@
   "hash": 2216471363,
   "name": "Disruption Break",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 1683379515",
@@ -10196,7 +10196,7 @@
   "hash": 2275087323,
   "name": "Explosive Light",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 3194351027",
@@ -10234,7 +10234,7 @@
   "name": "Clown Cartridge",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -10340,7 +10340,7 @@
   "hash": 2308090567,
   "name": "Field Prep",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 2869569095",
@@ -10544,7 +10544,7 @@
   "name": "Chain Reaction",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -10836,7 +10836,7 @@
   "hash": 2495011826,
   "name": "Ensemble",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 2621346526",
@@ -11186,7 +11186,7 @@
   "name": "Ensemble",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -11817,7 +11817,7 @@
   "name": "Feeding Frenzy",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -12193,7 +12193,7 @@
   "name": "Dragonfly",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -12222,7 +12222,7 @@
   "hash": 2856365672,
   "name": "Energy Transfer",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 2030760728",
@@ -12313,7 +12313,7 @@
   "name": "Field Prep",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -12732,7 +12732,7 @@
   "name": "Chill Clip",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -12902,7 +12902,7 @@
   "name": "Counterattack",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -13032,7 +13032,7 @@
   "name": "Explosive Payload",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -13062,7 +13062,7 @@
   "name": "Desperado",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -13364,7 +13364,7 @@
   "hash": 3143051906,
   "name": "Dual Loader",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 25606670",
@@ -13449,7 +13449,7 @@
   "name": "Explosive Light",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -14366,7 +14366,7 @@
   "name": "Explosive Head",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -14501,7 +14501,7 @@
   "hash": 3406782879,
   "name": "En Garde",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 1685431615",
@@ -14794,7 +14794,7 @@
   "name": "Elemental Capacitor",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -14873,7 +14873,7 @@
   "name": "Demolitionist",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -14907,7 +14907,7 @@
   "name": "Archer's Tempo",
   "type": "weaponPerkEnhanced",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -15041,7 +15041,7 @@
   "hash": 3563868667,
   "name": "Clown Cartridge",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 2284787283",
@@ -15174,7 +15174,7 @@
   "name": "Cold Steel",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -15582,7 +15582,7 @@
   "name": "Duelist's Trance",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -15679,7 +15679,7 @@
   "hash": 3719974635,
   "name": "Eye of the Storm",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 699525795",
@@ -16152,7 +16152,7 @@
   "name": "Firefly",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -16258,7 +16258,7 @@
   "name": "Dragonfly",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -16473,7 +16473,7 @@
   "hash": 3920370755,
   "name": "Firmly Planted",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "editor": {
    "en": {
     "main": "import main from 280464955",
@@ -17558,7 +17558,7 @@
   "name": "Drop Mag",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667224786467,
+  "lastUpload": 1667224873132,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
