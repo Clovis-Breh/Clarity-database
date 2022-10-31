@@ -13747,7 +13747,7 @@
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1667217027433,
+     "lastUpdate": 1667219844569,
      "updatedBy": "Fading Shadow"
     },
     "zh-chs": {
@@ -13762,7 +13762,7 @@
   },
   "editor": {
    "en": {
-    "main": "<title Refreshes [G_refreshes] /> stowed weapon from reserves after 2.5 seconds.\n\n🡅Enhanced: Activation timer is reduced to 2.3 seconds.",
+    "main": "<title Refreshes [G_refresh] /> stowed weapon from reserves after 2.5 seconds.\n\n🡅Enhanced: Activation timer is reduced to 2.3 seconds.",
     "secondary": "Refreshes stowed weapon from reserves after 2.5 seconds.\r\n\r\nEnhanced: Activation timer is reduced to 2.3 seconds."
    },
    "zh-chs": {
