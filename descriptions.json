@@ -6179,9 +6179,8 @@
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1665511433416,
-     "undatedBy": "Fading Shadow",
-     "updatedBy": "Icemourne"
+     "lastUpdate": 1667217631256,
+     "updatedBy": "Fading Shadow"
     },
     "zh-chs": {
      "lastUpdate": 1664433627914,
@@ -6206,7 +6205,7 @@
   },
   "editor": {
    "en": {
-    "main": "export description (\nUpon Reload with an empty magazine:\n15% faster Reload Speed\n)\n\n<formula Reload Time: [reload_0] />",
+    "main": "export description (\nUpon starting a reload with an empty magazine:\n0.85x Reload Duration Multiplier.\n)\n\n<formula Reload Time: [reload_0] />",
     "secondary": "import description from self"
    },
    "zh-chs": {
@@ -8356,8 +8355,8 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1665006618573,
-    "undatedBy": "Fading Shadow"
+    "lastUpdate": 1667217448732,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
@@ -8370,20 +8369,6 @@
     }
    }
   },
-  "stats": {
-   "chargeDraw": [
-    {
-     "active": {
-      "stat": [
-       -100
-      ],
-      "multiplier": [
-       0.85
-      ]
-     }
-    }
-   ]
-  },
   "editor": {
    "en": {
     "main": "While within 15[?] meters of 2 enemies:\n0.85x Charge/Draw Time.\n\nLingers for 1.5 seconds.\n\n🡅Enhanced: Passively grants +5 Stability.\n// why is where -100 stat?",
@@ -8393,6 +8378,17 @@
     "main": "当 15 米范围内有两个以上敌人时：\n-15% 充能/蓄力时间。\n增益持续 1.5 秒，效果线性减弱。\n\n强化特征：+5 稳定性",
     "secondary": "import self"
    }
+  },
+  "stats": {
+   "rateOfFire": [
+    {
+     "active": {
+      "multiplier": [
+       0.85
+      ]
+     }
+    }
+   ]
   }
  },
  "1820235745": {
