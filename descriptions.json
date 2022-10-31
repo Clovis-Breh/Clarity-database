@@ -250,8 +250,8 @@
   "lastUpload": 0,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2551157718",
+    "secondary": "import secondary from 2551157718"
    }
   },
   "updateTracker": {
@@ -267,7 +267,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2551157718
  },
  "25606670": {
   "hash": 25606670,
@@ -10883,7 +10884,8 @@
     "main": "Upon aiming-down-sights for 1.5 seconds without firing:\n10% increased Aim Assist Falloff Distance and increases Precision Multiplier by +1 for one shot.\n\nTimer starts as soon as the ADS input is pressed.\n\n< table >\n| Weapon Frame        | Precision Multiplier Increase <bold/>\n| Linear Fusion Rifle | <title 29% [mult1] />         <background/>\n| Sniper Rifle        | <title 33.22% [mult0] />   \n| Scout Rifle         | <title 62.75% [mult2] />      <background/>\n<$>\n\n🡅Enhanced: Activation timer is reduced to 1.4 seconds.\n\ntitle mult0 (\n3x -> 4x\n)\n\ntitle mult1 (\n3.44x -> 4.44x\n)\n\ntitle mult2 (\n1.6x -> 2.6x\n)",
     "secondary": "Upon aiming-down-sights for 1.5 seconds without firing:\n10% increased Aim Assist Falloff Distance and increases Precision Multiplier by +1 for one shot.\nTimer starts as soon as the ADS input is pressed.\n\nPrecision Multipliers:\nScout Rifles: 62.75% Increase (1.6x -> 2.6x)\nSniper Rifles: 33.22% Increase (3x -> 4x)\nLinear Fusion Rifles: 29% Increase (3.44x -> 4.44x)\n\nEnhanced: Activation timer is reduced to 1.4 seconds."
    }
-  }
+  },
+  "linkedWith": 23371658
  },
  "2570477205": {
   "hash": 2570477205,
