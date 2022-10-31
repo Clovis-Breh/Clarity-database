@@ -5972,6 +5972,63 @@
   },
   "linkedWith": 3060983774
  },
+ "1365187766": {
+  "hash": 1365187766,
+  "name": "Gutshot Straight",
+  "type": "weaponPerk",
+  "lastUpload": 0,
+  "editor": {
+   "en": {
+    "main": "While Aiming-Down-Sights:\nIncreased Bodyshot Damage, -[35?]% Aim Assistance Cone Size.\n\nBows, Hand Cannons: 20%\nAuto Rifles, Pulse Rifles, Sidearm, Submachine Guns: 10%\n\n🡅Enhanced: Reduces Aim Assistance penalty to -[?]",
+    "secondary": "import self"
+   }
+  },
+  "updateTracker": {
+   "stats": {
+    "lastUpdate": 1667218620312,
+    "updatedBy": "Fading Shadow"
+   },
+   "descriptions": {
+    "en": {
+     "lastUpdate": 1667218640623,
+     "updatedBy": "Fading Shadow"
+    }
+   }
+  },
+  "uploadToLive": false,
+  "hidden": false,
+  "inLiveDatabase": false,
+  "optional": false,
+  "linkedWith": 4200236906,
+  "stats": {
+   "damage": [
+    {
+     "active": {
+      "multiplier": [
+       1.2
+      ]
+     },
+     "weaponTypes": [
+      "combat bow",
+      "hand cannon"
+     ]
+    },
+    {
+     "active": {
+      "multiplier": [
+       1.1
+      ]
+     },
+     "weaponTypes": [
+      "auto rifle",
+      "pulse rifle",
+      "sidearm",
+      "submachine gun"
+     ]
+    }
+   ]
+  }
+ },
  "1370847713": {
   "hash": 1370847713,
   "name": "Opening Shot",
@@ -17592,6 +17649,35 @@
     "secondary": "Move forward at 90% your speed while blocking with Sentinel Shield.\r\n\r\nConverts incoming damage into Super Energy after Super ends, up to 50%.\r\n\r\nOvershields prevent damage into Super Energy conversion so don't stand in a Well of Radiance.\r\n"
    }
   }
+ },
+ "4200236906": {
+  "hash": 4200236906,
+  "name": "Gutshot Straight",
+  "type": "weaponPerkEnhanced",
+  "lastUpload": 0,
+  "editor": {
+   "en": {
+    "main": "import main from 1365187766",
+    "secondary": "import secondary from 1365187766"
+   }
+  },
+  "updateTracker": {
+   "stats": {
+    "lastUpdate": 1667218600048,
+    "updatedBy": "Fading Shadow"
+   },
+   "descriptions": {
+    "en": {
+     "lastUpdate": 0
+    }
+   }
+  },
+  "uploadToLive": false,
+  "hidden": false,
+  "inLiveDatabase": false,
+  "optional": false,
+  "linkedWith": 1365187766,
+  "importStatsFrom": 1365187766
  },
  "4207509907": {
   "hash": 4207509907,
