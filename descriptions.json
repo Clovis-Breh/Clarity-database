@@ -240,7 +240,8 @@
     "main": "Bajas con el arma o una granada otorgan:\n20 Manejo y Aumento de Daño acumulable, durante 4.5 segundos\n\nEl bufo se renueva con cada baja. Baja con granada otorga la maxima cantidad de Daño\n\n< table >\n|  Indicador          | 1x    | 2x     | 3x   | 4x     | 5x    <bold/>\n|b Aumento de Daño | 6.7%  | 13.3%  | 20%  | 26.6%  | 33.3% <background/>\n<$>\n\n<formula Velocidad de Desenfundado: [ready_0] />\n<formula Velocidad de Enfundado: [stow_0] />\n\nAumentado: La duracion del bufo aumenta a 5 segundos",
     "secondary": "Bajas con el Arma o Granadas otorgan:\nAumento de daño:\n6.7% | 13.3% | 20% | 26.6% | 33.3% \n+20 al manejo\n\nEl bufo se renueva con cada baja. Baja con granada otorga la maxima cantidad de Daño\n\nMejorado: La duracion del bufo aumenta a 5 segundos"
    }
-  }
+  },
+  "linkedWith": 2422968039
  },
  "23371658": {
   "hash": 23371658,
@@ -10502,8 +10503,8 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1658513881743,
-    "undatedBy": "Fading-Shadow"
+    "lastUpdate": 1667218774505,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
@@ -10538,10 +10539,12 @@
   },
   "editor": {
    "en": {
-    "main": "import stats from 11612903\r\nimport main from 11612903",
+    "main": "import main from 11612903",
     "secondary": "import secondary from 11612903"
    }
-  }
+  },
+  "linkedWith": 11612903,
+  "importStatsFrom": 11612903
  },
  "2450788523": {
   "hash": 2450788523,
@@ -12426,8 +12429,8 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1658170590674,
-    "undatedBy": "Fading-Shadow"
+    "lastUpdate": 1667219065454,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
@@ -12438,7 +12441,7 @@
   },
   "editor": {
    "en": {
-    "main": "import main from 3722653512 ",
+    "main": "import main from 3722653512",
     "secondary": "import secondary from 3722653512"
    }
   },
@@ -12448,7 +12451,20 @@
     "value": 12,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 3722653512,
+  "stats": {
+   "airborne": [
+    {
+     "active": {
+      "stat": [
+       35,
+       70
+      ]
+     }
+    }
+   ]
+  }
  },
  "2919349723": {
   "hash": 2919349723,
@@ -15641,13 +15657,12 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1666437227785,
-    "undatedBy": "Fading Shadow",
-    "updatedBy": "Icemourne"
+    "lastUpdate": 1667218878136,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1667217014932,
+     "lastUpdate": 1667219006040,
      "updatedBy": "Fading Shadow"
     },
     "zh-chs": {
@@ -15662,7 +15677,7 @@
   },
   "editor": {
    "en": {
-    "main": "While at Low Health:\nUp to +60 Airborne Effectiveness.\n\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\n🡅Enhanced: Grants up to +70 Airborne Effectiveness.",
+    "main": "While at Low Health:\nUp to +60 Airborne Effectiveness.\nEffect increases linearly as Health decreases. Maximized strength at Critical Health.\n\nPassively grants +10 Airborne Effectiveness.\n\n🡅Enhanced: Grants up to +70[?] Airborne Effectiveness. Passively grants +12 Airborne Effectiveness.",
     "secondary": "import self"
    },
    "zh-chs": {
@@ -15674,33 +15689,26 @@
     "secondary": "import self"
    }
   },
-  "stats": {
-   "airborne": [
-    {
-     "passive": {
-      "stat": [
-       10,
-       12
-      ]
-     },
-     "active": {
-      "stat": [
-       30,
-       60,
-       35,
-       70
-      ]
-     }
-    }
-   ]
-  },
   "investmentStats": [
    {
     "statTypeHash": 2714457168,
     "value": 10,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "stats": {
+   "airborne": [
+    {
+     "active": {
+      "stat": [
+       30,
+       60
+      ]
+     }
+    }
+   ]
+  },
+  "linkedWith": 2898218424
  },
  "3723531833": {
   "hash": 3723531833,
