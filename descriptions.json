@@ -3,7 +3,7 @@
   "hash": 0,
   "name": "Default perk",
   "type": "none",
-  "lastUpload": 1667224873132,
+  "lastUpload": 1667225803761,
   "uploadedBy": "Fading Shadow",
   "editor": {
    "en": {
@@ -148,8 +148,8 @@
   "hash": 11551321,
   "name": "Iron Grip",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": true,
@@ -183,7 +183,8 @@
     "value": -30,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 3097973565
  },
  "11612903": {
   "hash": 11612903,
@@ -318,8 +319,8 @@
   "hash": 47981717,
   "name": "Opening Shot",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -364,7 +365,8 @@
     "main": "For the <title first bullet only [first bullet only] />:\n+20 Aim Assist, +25 Range, -5% Accuracy Cone Size, -10% <title Accuracy Cone Growth [accuracy cone growth] />.\n\n3.1 seconds cooldown, resets if the weapon is shot.\n\n<formula In-Game Range: [range_0] />\n\n🡅Enhanced: Grants an additional +5 Aim Assist and +5 Range.\n\ntitle first bullet only (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
     "secondary": "For one bullet only:\n+20 Aim Assist, +25 Range, -5% Accuracy Cone Size, -10% Accuracy Cone Growth.\n\n3.1 seconds cooldown, timer is reset if the weapon is shot.\n\nEnhanced: Grants an additional +5 Aim Assist and +5 Range."
    }
-  }
+  },
+  "linkedWith": 1370847713
  },
  "64866129": {
   "hash": 64866129,
@@ -553,8 +555,8 @@
   "hash": 124408337,
   "name": "Headstone",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -576,17 +578,18 @@
     "main": "On Precision Kill:\nSpawns a Large <stasis/>Stasis Crystal on Enemy Death Location. \nRank-and-File Combatants spawn a Medium Stasis Crystal.\n\nHaving 5 crystals active at once incurs in a 5 second cooldown.\n\n🡅Enhanced: Passively grants 5 Stability",
     "secondary": "On Precision Kill:\r\nSpawns a Large Stasis Crystal on Enemy Death Location. \r\nRank-and-File Combatants spawn a Medium Stasis Crystal.\r\n\r\nHaving 5 crystals active at once incurs in a 5 second cooldown.\r\n\r\nEnhanced: Passively grants 5 Stability"
    }
-  }
+  },
+  "linkedWith": 1171887445
  },
  "147913470": {
   "hash": 147913470,
   "name": "Whirlwind Blade",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 3913600130",
+    "secondary": "import secondary from 3913600130"
    }
   },
   "updateTracker": {
@@ -602,17 +605,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 3913600130,
+  "uploadedBy": "Fading Shadow"
  },
  "162561147": {
   "hash": 162561147,
   "name": "Mulligan",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -628,7 +633,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "169755979": {
   "hash": 169755979,
@@ -664,6 +670,35 @@
   ],
   "linkedWith": 3865257976,
   "uploadedBy": "Fading Shadow"
+ },
+ "183938251": {
+  "hash": 183938251,
+  "name": "Under-Over",
+  "type": "weaponPerkEnhanced",
+  "lastUpload": 1667225803761,
+  "uploadedBy": "Fading Shadow",
+  "editor": {
+   "en": {
+    "main": "",
+    "secondary": ""
+   }
+  },
+  "updateTracker": {
+   "stats": {
+    "lastUpdate": 0,
+    "updatedBy": ""
+   },
+   "descriptions": {
+    "en": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   }
+  },
+  "uploadToLive": false,
+  "hidden": false,
+  "inLiveDatabase": false,
+  "optional": false
  },
  "185514250": {
   "hash": 185514250,
@@ -707,11 +742,11 @@
   "hash": 191144788,
   "name": "Slideshot",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -727,7 +762,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "201365942": {
   "hash": 201365942,
@@ -790,8 +826,8 @@
   "hash": 205890336,
   "name": "Underdog",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -838,7 +874,8 @@
     "main": "While below 113 HP:\nUp to +100 Reload Speed with 0.9x <title RDS [rds] />\nEffect increases linearly as health decreases\n\n<formula Half Strength Reload Time: [reload_0] />\n<formula Maximum Strength Reload Time: [reload_1] />\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)",
     "secondary": "While below 113 HP:\nUp to +100 Reload Speed with 0.9x Duration Multiplier \nEffect increases linearly as health decreases"
    }
-  }
+  },
+  "linkedWith": 320071920
  },
  "229003538": {
   "hash": 229003538,
@@ -980,8 +1017,8 @@
   "hash": 247725512,
   "name": "Rapid Hit",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -1038,17 +1075,18 @@
     "main": "Gain 1 Rapid Hit Stack per Precision Hit, granting +Reload Speed and +Stability for 2 seconds.\n\n< table background_2 >\n|  Stack| Stability | Reload Stat | <title RDS [rds] /> | Reload Time <bold/>\n|b 1x   | 2         | 5           | 0.985x              | <formula [reload_0] />\n|b 2x   | 12        | 30          | 0.970x              | <formula [reload_1] />\n|b 3x   | 14        | 35          | 0.955x              | <formula [reload_2] />\n|b 4x   | 18        | 45          | 0.940x              | <formula [reload_3] />\n|b 5x   | 25        | 60          | 0.925x              | <formula [reload_4] />\n<$>\n\n🡅Enhanced: Stronger Effect.\n\ntitle rds (\nReload Duration Scalar (Multiplies Reload Animation Duration by that number)\n)\n",
     "secondary": "Gain 1 Rapid Hit Stack per Precision Hit, granting +Reload Speed and +Stability for 2 seconds.\n\n•  +2 | +12 | +14 | +18 | +25 Stability <breakSpaces/>\n•  +5 | +30 | +35 | +45 | +60 Reload Speed Stat <breakSpaces/>\n•  0.99x | 0.97x | 0.96x | 0.94x | 0.93x Reload Duration Multiplier <breakSpaces/>\n\nEnhanced: Stronger Effect."
    }
-  }
+  },
+  "linkedWith": 2938480696
  },
  "254337357": {
   "hash": 254337357,
   "name": "Reservoir Burst",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1427256713",
+    "secondary": "import secondary from 1427256713"
    }
   },
   "updateTracker": {
@@ -1076,7 +1114,9 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 1427256713,
+  "uploadedBy": "Fading Shadow"
  },
  "280464955": {
   "hash": 280464955,
@@ -1152,11 +1192,11 @@
   "hash": 288411554,
   "name": "Rampage",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -1172,7 +1212,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "299264772": {
   "hash": 299264772,
@@ -1214,11 +1255,11 @@
   "hash": 320071920,
   "name": "Underdog",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 205890336",
+    "secondary": "import secondary from 205890336"
    }
   },
   "updateTracker": {
@@ -1234,7 +1275,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 205890336,
+  "uploadedBy": "Fading Shadow"
  },
  "344235611": {
   "hash": 344235611,
@@ -1531,11 +1574,11 @@
   "hash": 402033656,
   "name": "Grave Robber",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1631667848",
+    "secondary": "import secondary from 1631667848"
    }
   },
   "updateTracker": {
@@ -1558,7 +1601,9 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 1631667848,
+  "uploadedBy": "Fading Shadow"
  },
  "405677814": {
   "hash": 405677814,
@@ -1604,11 +1649,11 @@
   "hash": 406461158,
   "name": "Tracking Module",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -1631,17 +1676,18 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "uploadedBy": "Fading Shadow"
  },
  "409831596": {
   "hash": 409831596,
   "name": "Proximity Grenades",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
-  "optional": false,
+  "optional": true,
   "hidden": false,
   "updateTracker": {
    "stats": {
@@ -1673,8 +1719,8 @@
   "hash": 438098033,
   "name": "Harmony",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -1716,7 +1762,8 @@
     "main": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:\n\n20% Increased Damage and 15 Handling for 7 seconds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\n🡅Enhanced: Buff Duration is increased to 8 seconds.",
     "secondary": "Upon readying a weapon within 3 seconds of getting a Kill with a different weapon:\r\n\r\n20% Increased Damage and 15 Handling for 7 seconds.\r\n\r\nEnhanced: Buff Duration is increased to 8 seconds."
    }
-  }
+  },
+  "linkedWith": 2748801589
  },
  "454085387": {
   "hash": 454085387,
@@ -1773,8 +1820,8 @@
   "hash": 460017080,
   "name": "Headseeker",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -1807,17 +1854,18 @@
     "main": "After dealing non-Precision Weapon Damage:\n8% Increased Precision Damage for 0.3 seconds\n\n🡅Enhanced: Passively grants 5 Stability.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 4045335048
  },
  "461595545": {
   "hash": 461595545,
   "name": "Reconstruction",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -1833,7 +1881,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "466087222": {
   "hash": 466087222,
@@ -1875,8 +1924,8 @@
   "hash": 469285294,
   "name": "Recombination",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -1898,7 +1947,8 @@
     "main": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon.\n\n< table background_2 >\n| Stacks | Heritage | Succession | Both in PVP <bold/>\n| 1x     | 8%       | 8%         | 5%          \n| 2x     | 15%      | 17%        | 10%\n| 3x     | 24%      | 27%        | 15%         \n| 4x     | 33%      | 38%        | 20%\n| 5x     | 42%      | 46%        | 25%         \n| 6x     | 50%      | 57%        | 30%\n| 7x     | 59%      | 68%        | 35%         \n| 8x     | 70%      | 80%        | 40%\n| 9x     | 80%      | 89%        | 45%         \n| 10x    | 88%      | 100%       | 50%\n<$>\n\n",
     "secondary": "Elemental Kills grant 1 stack of Recombination, increasing the damage of the next shot of the weapon, up to 10 stacks.\r\n\r\n8% | 15% | 24% | 33% | 42% | 50% | 59% | 70% | 80% | 88% for Heritage in PVE\r\n\r\n8% | 17% | 27% | 38% | 46% | 57% | 68% | 80% | 89% | 100% for Succession in PVE\r\n\r\n5% | 10% | 15% | 20% | 25% | 30% | 35% | 40% | 45% | 50% for Heritage and Succession in PVP"
    }
-  }
+  },
+  "linkedWith": 3335686050
  },
  "481860150": {
   "hash": 481860150,
@@ -1986,11 +2036,11 @@
   "hash": 494941759,
   "name": "Threat Detector",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -2006,14 +2056,15 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "509074078": {
   "hash": 509074078,
   "name": "Steady Hands",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -2050,17 +2101,18 @@
      }
     }
    ]
-  }
+  },
+  "linkedWith": 843318450
  },
  "509594246": {
   "hash": 509594246,
   "name": "Rangefinder",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2846385770",
+    "secondary": "import secondary from 2846385770"
    }
   },
   "updateTracker": {
@@ -2083,7 +2135,9 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 2846385770,
+  "uploadedBy": "Fading Shadow"
  },
  "515704826": {
   "hash": 515704826,
@@ -2152,6 +2206,35 @@
    }
   }
  },
+ "536173722": {
+  "hash": 536173722,
+  "name": "Pugilist",
+  "type": "weaponPerkEnhanced",
+  "lastUpload": 1667225803761,
+  "uploadedBy": "Fading Shadow",
+  "editor": {
+   "en": {
+    "main": "",
+    "secondary": ""
+   }
+  },
+  "updateTracker": {
+   "stats": {
+    "lastUpdate": 0,
+    "updatedBy": ""
+   },
+   "descriptions": {
+    "en": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   }
+  },
+  "uploadToLive": false,
+  "hidden": false,
+  "inLiveDatabase": false,
+  "optional": false
+ },
  "553093017": {
   "hash": 553093017,
   "name": "Beyond The Veil",
@@ -2187,8 +2270,8 @@
   "hash": 557221067,
   "name": "Killing Tally",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -2227,7 +2310,8 @@
     "main": "On Weapon Kill:\nIncreased damage until stow or reload.\n\n<pve [PVE] 10% | 20% | 30% increased damage />\n<pvp [PVP] 5% | 10% | 15% increased damage />\n\n🡅Enhanced: Passively grants 10 Magazine Stat (Identical to Tactical Mag).",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 2896748467
  },
  "567997816": {
   "hash": 567997816,
@@ -2291,11 +2375,11 @@
   "hash": 573122728,
   "name": "Triple Tap",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 3400784728",
+    "secondary": "import secondary from 3400784728"
    }
   },
   "updateTracker": {
@@ -2311,14 +2395,16 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 3400784728,
+  "uploadedBy": "Fading Shadow"
  },
  "588594999": {
   "hash": 588594999,
   "name": "Moving Target",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -2357,14 +2443,15 @@
     "main": "While Aiming-Down-Sights:\n+10 Aim Assist, and 3% Reduced Aiming-Down-Sights Movement Speed Penalty.\n\n🡅Enhanced: Aim Assist bonus is slightly increased.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 2717805783
  },
  "591790007": {
   "hash": 591790007,
   "name": "Iron Reach",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": true,
@@ -2406,7 +2493,8 @@
     "value": -30,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 3315935575
  },
  "593361144": {
   "hash": 593361144,
@@ -2656,11 +2744,11 @@
   "hash": 617966211,
   "name": "Successful Warm-Up",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2652708987",
+    "secondary": "import secondary from 2652708987"
    }
   },
   "updateTracker": {
@@ -2676,7 +2764,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2652708987,
+  "uploadedBy": "Fading Shadow"
  },
  "622433369": {
   "hash": 622433369,
@@ -3004,7 +3094,7 @@
   "hash": 691659142,
   "name": "Pugilist",
   "type": "weaponPerk",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
     "main": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Melee Ability Energy. Most <special/>Special Weapons grant 20%.\n\nGlaives, Grenade Launchers, and Trace Rifles share the ability gains of primary weapons.\n\nDealing Melee Damage grants +35 Handling for 3 seconds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\n🡅Enhanced: Kills with Primary Weapons and Power Weapons grant 11% Melee Ability Energy. [Most] Special Weapons grant 22%.",
@@ -3037,7 +3127,9 @@
      }
     }
    ]
-  }
+  },
+  "linkedWith": 536173722,
+  "uploadedBy": "Fading Shadow"
  },
  "692285813": {
   "hash": 692285813,
@@ -3183,8 +3275,8 @@
   "hash": 706527188,
   "name": "Quickdraw",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -3233,7 +3325,8 @@
     "main": "On Ready:\n100 Ready/Stow Handling, and 0.95x Ready Animation Duration Multiplier for 1 second, or until ADS.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\n🡅Enhanced: Passively grants 5 Handling.",
     "secondary": "On Ready:\n100 Ready/Stow Handling, and 0.95x Ready Animation Duration Multiplier for 1 second, or until ADS.\n\nEnhanced: Passively grants 5 Handling."
    }
-  }
+  },
+  "linkedWith": 1961144892
  },
  "711234314": {
   "hash": 711234314,
@@ -3440,8 +3533,8 @@
   "hash": 744594675,
   "name": "Well-Rounded",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -3495,7 +3588,8 @@
     "main": "Using your Grenade, hitting an enemy with a Powered Melee Attack, or using your Super Ability grants stacks of Well-Rounded. Super Ability grants two stacks.\n\n+10 Range, +10 Stability, and +10 Handling per stack.\nMaximum of 2 Stacks and lasts 10 seconds.\n\n< table > \n|  Stacks| In-Game Range         | Ready Speed           | Stow Speed           <bold/>\n|b 1x    | <formula [range_0] /> | <formula [ready_0] /> | <formula [stow_0] /> <background/>\n|b 2x    | <formula [range_1] /> | <formula [ready_1] /> | <formula [stow_1] />\n<$>\n\n🡅Enhanced: Increases Stat Bonuses to [?].",
     "secondary": "Using your Grenade, hitting an enemy with a Powered Melee Attack, or using your Super Ability grants stacks of Well-Rounded. Super Ability grants two stacks.\n\n+10 Range, +10 Stability, and +10 Handling per stack.\nMaximum of 2 Stacks and lasts 10 seconds.\n\nEnhanced: Increases Stat Bonuses to [?]."
    }
-  }
+  },
+  "linkedWith": 2139363611
  },
  "744770875": {
   "hash": 744770875,
@@ -3582,8 +3676,8 @@
   "hash": 776531651,
   "name": "Repulsor Brace",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -3605,17 +3699,18 @@
     "main": "On Weapon Kill against an enemy affected by a Void Debuff:\nGrants Void Overshield for 8 seconds.\n\n🡅Enhanced: Buff Duration is increased to 9 seconds.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 2541826827
  },
  "777774560": {
   "hash": 777774560,
   "name": "Osmosis",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1774574192",
+    "secondary": "import secondary from 1774574192"
    }
   },
   "updateTracker": {
@@ -3638,17 +3733,19 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 1774574192,
+  "uploadedBy": "Fading Shadow"
  },
  "781192741": {
   "hash": 781192741,
   "name": "Surrounded",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 3708227201",
+    "secondary": "import secondary from 3708227201"
    }
   },
   "updateTracker": {
@@ -3664,17 +3761,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 3708227201,
+  "uploadedBy": "Fading Shadow"
  },
  "788178929": {
   "hash": 788178929,
   "name": "One-Two Punch",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2679249093",
+    "secondary": "import secondary from 2679249093"
    }
   },
   "updateTracker": {
@@ -3690,14 +3789,16 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2679249093,
+  "uploadedBy": "Fading Shadow"
  },
  "806159697": {
   "hash": 806159697,
   "name": "Trench Barrel",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -3748,14 +3849,15 @@
     "main": "在进行一次成功的近战打击后：\n在 5 秒内，或直到发射完三枚子弹前，提高 50% 武器伤害、30 操控性、 X填装速度。\n\n<formula 准备速度： [ready_0] />\n<formula 收枪速度： [stow_0] />\n\n强化特征：增强 Buff 效果。",
     "secondary": "在进行一次成功的近战打击后：\n在 5 秒内，或直到发射完三枚子弹前，提高 50% 武器伤害、30 操控性、 X填装速度。\n\n强化特征：增强 Buff 效果。"
    }
-  }
+  },
+  "linkedWith": 2459015849
  },
  "818211479": {
   "hash": 818211479,
   "name": "Shattering Blade",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -3906,11 +4008,11 @@
   "hash": 834262328,
   "name": "Kickstart",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1754714824",
+    "secondary": "import secondary from 1754714824"
    }
   },
   "updateTracker": {
@@ -3926,7 +4028,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 1754714824,
+  "uploadedBy": "Fading Shadow"
  },
  "838873202": {
   "hash": 838873202,
@@ -3962,11 +4066,11 @@
   "hash": 843318450,
   "name": "Steady Hands",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 509074078",
+    "secondary": "import secondary from 509074078"
    }
   },
   "updateTracker": {
@@ -3982,17 +4086,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 509074078,
+  "uploadedBy": "Fading Shadow"
  },
  "848860060": {
   "hash": 848860060,
   "name": "Fourth Time's the Charm",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1354429876",
+    "secondary": "import secondary from 1354429876"
    }
   },
   "updateTracker": {
@@ -4008,17 +4114,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 1354429876,
+  "uploadedBy": "Fading Shadow"
  },
  "855168139": {
   "hash": 855168139,
   "name": "Unrelenting",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 3108830275",
+    "secondary": "import secondary from 3108830275"
    }
   },
   "updateTracker": {
@@ -4041,17 +4149,19 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 3108830275,
+  "uploadedBy": "Fading Shadow"
  },
  "859780267": {
   "hash": 859780267,
   "name": "One for All",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -4067,7 +4177,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "883366072": {
   "hash": 883366072,
@@ -4214,8 +4325,8 @@
   "hash": 908147344,
   "name": "Sneak Bow",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -4245,7 +4356,8 @@
     "value": 15,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 1663363584
  },
  "921817150": {
   "hash": 921817150,
@@ -4426,8 +4538,8 @@
   "hash": 951095735,
   "name": "Impulse Amplifier",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -4463,14 +4575,15 @@
     "main": "Passively grants:\n- 35% Faster Projectile Velocity \n- 10 Reload Speed with 0.8x Duration Multiplier\n\n🡅Enhanced: Increases Reload Speed.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3878366039
  },
  "957782887": {
   "hash": 957782887,
   "name": "Snapshot Sights",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -4492,7 +4605,8 @@
     "main": "0.5x Aim Down Sights Animation Scalar for Primary Weapons\n0.75x Aim Down Sights Animation Scalar for Special Weapons\n\n🡅Enhanced: Passively grants 4 Stability.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 4116820839
  },
  "960810156": {
   "hash": 960810156,
@@ -4528,8 +4642,8 @@
   "hash": 972757866,
   "name": "Pulse Monitor",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -4571,7 +4685,8 @@
     "main": "Upon being reduced to 110 HP or less:\nGrants +50 Handling, 0.95x Ready/Stow Duration Multiplier, and <title refreshes [G_refreshes] /> your weapon.\n\nWorks while stowed.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\n🡅Enhanced: Health Threshold Requirement is reduced.",
     "secondary": "Upon being reduced to 110 HP or less:\nGrants +50 Handling, 0.95x Ready/Stow Duration Multiplier, and refreshes your weapon.\n \nWorks while stowed.\n\nEnhanced: Health Threshold Requirement is reduced."
    }
-  }
+  },
+  "linkedWith": 1685378950
  },
  "984527513": {
   "hash": 984527513,
@@ -4625,11 +4740,11 @@
   "hash": 987673306,
   "name": "Tunnel Vision",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -4645,7 +4760,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "1008128453": {
   "hash": 1008128453,
@@ -4721,8 +4837,8 @@
   "hash": 1015611457,
   "name": "Kill Clip",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -4755,7 +4871,8 @@
     "main": "Upon finishing a reload within 3.8 seconds of a Weapon Kill:\n33% Increased damage for 5 seconds.\n\nBuff can't be refreshed. Persists through stow.\n\n🡅Enhanced: Buff Duration is increased to 5.5 seconds.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 2923251173
  },
  "1047830412": {
   "hash": 1047830412,
@@ -4926,8 +5043,8 @@
   "hash": 1140096971,
   "name": "Seraph Rounds",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -5205,11 +5322,11 @@
   "hash": 1161469972,
   "name": "Swashbuckler",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 4082225868",
+    "secondary": "import secondary from 4082225868"
    }
   },
   "updateTracker": {
@@ -5225,7 +5342,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 4082225868,
+  "uploadedBy": "Fading Shadow"
  },
  "1163213078": {
   "hash": 1163213078,
@@ -5277,11 +5396,11 @@
   "hash": 1167468626,
   "name": "Lasting Impression",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 3927722942",
+    "secondary": "import secondary from 3927722942"
    }
   },
   "updateTracker": {
@@ -5309,14 +5428,16 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 3927722942,
+  "uploadedBy": "Fading Shadow"
  },
  "1168162263": {
   "hash": 1168162263,
   "name": "Outlaw",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -5352,7 +5473,8 @@
     "main": "On Precision Kill:\n70 Reload Speed with a 0.9x Reload Duration Multiplier for 6 seconds.\n\n<formula Reload Time: [reload_0] />\n\n🡅Enhanced: Duration increased to 7 seconds.",
     "secondary": "On Precision Kill:\n+70 Reload Speed, and 0.9x Reload Duration Multiplier for 6 seconds.\n\nEnhanced: Duration increased to 7 seconds."
    }
-  }
+  },
+  "linkedWith": 1347741687
  },
  "1171147302": {
   "hash": 1171147302,
@@ -5388,11 +5510,11 @@
   "hash": 1171887445,
   "name": "Headstone",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 124408337",
+    "secondary": "import secondary from 124408337"
    }
   },
   "updateTracker": {
@@ -5415,17 +5537,19 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 124408337,
+  "uploadedBy": "Fading Shadow"
  },
  "1172098417": {
   "hash": 1172098417,
   "name": "Sleight of Hand",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -5441,17 +5565,18 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "1172413778": {
   "hash": 1172413778,
   "name": "Thresh",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -5467,7 +5592,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "1183436451": {
   "hash": 1183436451,
@@ -5969,11 +6095,11 @@
   "hash": 1347741687,
   "name": "Outlaw",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1168162263",
+    "secondary": "import secondary from 1168162263"
    }
   },
   "updateTracker": {
@@ -5989,14 +6115,16 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 1168162263,
+  "uploadedBy": "Fading Shadow"
  },
  "1354429876": {
   "hash": 1354429876,
   "name": "Fourth Time's the Charm",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -6018,7 +6146,8 @@
     "main": "Scoring 4 Precision Hits generates 2 Ammo to Magazine.\nPrecision Hit counter is reset if no precision hits are scored within 2 seconds.\n\n🡅Enhanced: Timer between Precision Hits increased to 3 seconds.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 848860060
  },
  "1359896290": {
   "hash": 1359896290,
@@ -6122,11 +6251,11 @@
   "hash": 1370847713,
   "name": "Opening Shot",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 47981717",
+    "secondary": "import secondary from 47981717"
    }
   },
   "updateTracker": {
@@ -6142,17 +6271,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 47981717,
+  "uploadedBy": "Fading Shadow"
  },
  "1409206216": {
   "hash": 1409206216,
   "name": "Stats for All",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -6168,7 +6299,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "1420473289": {
   "hash": 1420473289,
@@ -6205,8 +6337,8 @@
   "hash": 1427256713,
   "name": "Reservoir Burst",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -6246,14 +6378,15 @@
     "value": 30,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 254337357
  },
  "1428297954": {
   "hash": 1428297954,
   "name": "Perpetual Motion",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -6307,7 +6440,8 @@
     "main": "<center/>While continuously moving at a minimum speed of 2 meters per second:\n<center/>Gain a Stack after 2 seconds and an additional Stack after 10 seconds.\n\n< table >\n|  Stacks   | Stability | Reload                 | Handling                     <bold/>\n|b x1       | +5         | +5                      | +5                            <background/>\n|  In-game: |           | <formula [reload_0] /> | <formula Ready: [ready_0] />\n|  values   |           |                        | <formula Stow: [stow_0] />\n|b x2       | +15        | +15                     | +15                           <background/>\n|  In-game: |           | <formula [reload_1] /> | <formula Ready: [ready_1] />\n|  values   |           |                        | <formula Stow: [stow_1] />\n<$>\n\nRemoves all stacks if movement speed is below 2 meters per second for 0.5 seconds.\n\nCan activate and remain active while stowed.\n\n🡅Enhanced: Removes all stacks if movement speed is below 2 meters per second for 1 seconds.",
     "secondary": "While continuously moving at a minimum of 2 meters per second:\nAfter 2 seconds: +5 Stability, +5 Handling, and +5 Reload Speed at x1 Stack.\nAfter 10 seconds: +15 Stability, +15 Handling and +15 Reload Speed at x2 Stack.\n\nRemoves all stacks if movement speed is below 2 meters per second for 0.5 seconds.\n\nCan activate and remain active while stowed.\n\nEnhanced: Removes all stacks if movement speed is below 2 meters per second for 1 seconds."
    }
-  }
+  },
+  "linkedWith": 2014892510
  },
  "1431678320": {
   "hash": 1431678320,
@@ -6757,11 +6891,11 @@
   "hash": 1523649716,
   "name": "Tap the Trigger",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -6777,14 +6911,15 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "1523832109": {
   "hash": 1523832109,
   "name": "Reconstruction",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -6806,7 +6941,8 @@
     "main": "After not shooting for 4 seconds:\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity.",
     "secondary": "After not shooting for 4 seconds:\r\nRefreshes 10% of Magazine Capacity. Maxes out at Double Magazine Capacity."
    }
-  }
+  },
+  "linkedWith": 461595545
  },
  "1525622117": {
   "hash": 1525622117,
@@ -6861,44 +6997,31 @@
   "hash": 1528281896,
   "name": "Outlaw",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
   "hidden": true,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1659903012345,
-    "undatedBy": "Fading-Shadow"
+    "lastUpdate": 1667225424843,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1667225411187,
+     "updatedBy": "Fading Shadow"
     }
    }
-  },
-  "stats": {
-   "reload": [
-    {
-     "active": {
-      "stat": [
-       70
-      ],
-      "multiplier": [
-       0.9
-      ]
-     }
-    }
-   ]
   },
   "editor": {
    "en": {
-    "main": "import stats from 1168162263\nimport main from 1168162263",
+    "main": "import main from 1168162263",
     "secondary": "import secondary from 1168162263"
    }
-  }
+  },
+  "importStatsFrom": 1168162263
  },
  "1536798515": {
   "hash": 1536798515,
@@ -6942,11 +7065,11 @@
   "hash": 1537607344,
   "name": "Sympathetic Arsenal",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 3350417888",
+    "secondary": "import secondary from 3350417888"
    }
   },
   "updateTracker": {
@@ -6969,17 +7092,19 @@
     "value": 20,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 3350417888,
+  "uploadedBy": "Fading Shadow"
  },
  "1545231802": {
   "hash": 1545231802,
   "name": "Redirection",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 3201496230",
+    "secondary": "import secondary from 3201496230"
    }
   },
   "updateTracker": {
@@ -6995,14 +7120,16 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 3201496230,
+  "uploadedBy": "Fading Shadow"
  },
  "1546637391": {
   "hash": 1546637391,
   "name": "Vorpal Weapon",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -7032,7 +7159,8 @@
     "main": "提高对首领、强大敌人、载具的伤害。\n<pve 主武器：20% | 特殊武器：15% | 重型武器：10% />\n\n<pvp 仅对激活超能的玩家生效 />\n<primary/>主武器：<pvp 40% - 50% />\n<special/>特殊武器：<pvp 10% - 20% />\n<heavy/>重型武器： <pvp 5% - 10% />\n当超能没有额外伤害抵抗时，使用上述数值中较低的一个。\n\n强化特征：+5 装填速度。",
     "secondary": "提高对首领、强大敌人、载具的伤害。\n主武器：20% | 特殊武器：15% | 重型武器：10%\n\n仅对激活超能的玩家生效\n主武器：40% - 50% \n特殊武器： 10% - 20% \n重型武器： 5% - 10%\n\n当超能没有额外伤害抵抗时，使用上述数值中较低的一个。\n\n强化特征：+5 装填速度。"
    }
-  }
+  },
+  "linkedWith": 3418165135
  },
  "1551736345": {
   "hash": 1551736345,
@@ -7078,8 +7206,8 @@
   "hash": 1556840489,
   "name": "Lead from Gold",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -7101,14 +7229,15 @@
     "main": "On Power Ammo Pickup:\nGrants 25% of your maximum Special Ammo Reserves.\n\nEquipping two Special Weapons halves the amount of ammo granted.\n\n🡅Enhanced: Increases the amount of Special Ammo received to 35%.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3442762221
  },
  "1561002382": {
   "hash": 1561002382,
   "name": "High-Caliber Rounds",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -7173,11 +7302,11 @@
   "hash": 1562897767,
   "name": "Timed Payload",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -7200,17 +7329,18 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "uploadedBy": "Fading Shadow"
  },
  "1563455254": {
   "hash": 1563455254,
   "name": "Rewind Rounds",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 3418782618",
+    "secondary": "import secondary from 3418782618"
    }
   },
   "updateTracker": {
@@ -7226,14 +7356,16 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 3418782618,
+  "uploadedBy": "Fading Shadow"
  },
  "1570042021": {
   "hash": 1570042021,
   "name": "Heating Up",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -7267,14 +7399,15 @@
     "main": "On Weapon Kill:\n-15% <title Accuracy Cone Growth [accuracy cone growth] />, 15 Stability, and ~20 Recoil Direction.\n\nStacks up to 2x.\n\n🡅Enhanced: Buff Duration is increased.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
     "secondary": "On Weapon Kill:\r\n-15% Accuracy Cone Growth, 15 Stability, and ~20 Recoil Direction.\r\n\r\nStacks up to 2x.\r\n\r\nEnhanced: Buff Duration is increased."
    }
-  }
+  },
+  "linkedWith": 2748258257
  },
  "1583705720": {
   "hash": 1583705720,
   "name": "Stats for All",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -7340,7 +7473,8 @@
     "main": "After Damaging 3 Separate Enemies within 3 seconds of each:\n+10 Range, 5% Increased Falloff Distance, +10 Stability, +35 Handling, +35 Reload Speed, and 0.95x Reload Duration Multiplier for 10 seconds.\n\nBuff can't be refreshed.\n\n<formula In-Game Range: [range_0] />\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\n🡅Enhanced: Buff Duration is increased to 11 seconds.\n",
     "secondary": "After Damaging 3 Separate Enemies within 3 seconds of each:\n+10 Range, 5% Increased Falloff Distance, +10 Stability, +35 Handling, +35 Reload Speed, and 0.95x Reload Duration Multiplier for 10 seconds.\nBuff can't be refreshed.\n\nEnhanced: Buff Duration is increased to 11 seconds."
    }
-  }
+  },
+  "linkedWith": 1409206216
  },
  "1588595445": {
   "hash": 1588595445,
@@ -7513,37 +7647,11 @@
   "hash": 1609056795,
   "name": "Fragile Focus",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
-   }
-  },
-  "updateTracker": {
-   "stats": {
-    "lastUpdate": 0
-   },
-   "descriptions": {
-    "en": {
-     "lastUpdate": 0
-    }
-   }
-  },
-  "uploadToLive": false,
-  "hidden": false,
-  "inLiveDatabase": false,
-  "optional": false
- },
- "1618208178": {
-  "hash": 1618208178,
-  "name": "Eager Edge",
-  "type": "weaponPerkEnhanced",
-  "lastUpload": 1667224873132,
-  "editor": {
-   "en": {
-    "main": "import main from 2077819806",
-    "secondary": "import secondary from 2077819806"
+    "main": "import main from 2451262963",
+    "secondary": "import secondary from 2451262963"
    }
   },
   "updateTracker": {
@@ -7560,7 +7668,34 @@
   "hidden": false,
   "inLiveDatabase": false,
   "optional": false,
-  "linkedWith": 2077819806,
+  "linkedWith": 2451262963,
+  "uploadedBy": "Fading Shadow"
+ },
+ "1618208178": {
+  "hash": 1618208178,
+  "name": "Eager Edge",
+  "type": "weaponPerkEnhanced",
+  "lastUpload": 1667225803761,
+  "editor": {
+   "en": {
+    "main": "",
+    "secondary": ""
+   }
+  },
+  "updateTracker": {
+   "stats": {
+    "lastUpdate": 0
+   },
+   "descriptions": {
+    "en": {
+     "lastUpdate": 0
+    }
+   }
+  },
+  "uploadToLive": false,
+  "hidden": false,
+  "inLiveDatabase": false,
+  "optional": false,
   "uploadedBy": "Fading Shadow"
  },
  "1624081088": {
@@ -7600,8 +7735,8 @@
   "hash": 1631667848,
   "name": "Grave Robber",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -7623,14 +7758,15 @@
     "main": "On Melee Kill:\nWeapons get <title refreshed [refreshed] />.\n\n🡅Enhanced: Passively grants 5 Reload Speed.\n\ntitle refreshed (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
     "secondary": "On Melee Kill:\r\nWeapons get refreshed.\r\n\r\nEnhanced: Passively grants 5 Reload Speed."
    }
-  }
+  },
+  "linkedWith": 402033656
  },
  "1645158859": {
   "hash": 1645158859,
   "name": "Under Pressure",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -7664,7 +7800,8 @@
     "main": "As Magazine goes below 50% until empty:\nUp to -[?]% Accuracy Cone Size, -[?]% <title Accuracy Cone Growth [accuracy cone growth] />, and 30[?] Stability.\n\n🡅Enhanced: Stronger effect.\n\ntitle accuracy cone growth (\nHow Fast Your Accuracy Cone Expands. The less the better.\n)",
     "secondary": "As Magazine goes below 50% until empty:\r\nUp to -[?]% Accuracy Cone Size, -[?]% Accuracy Cone Growth, and 30[?] Stability.\r\n\r\nEnhanced: Stronger effect."
    }
-  }
+  },
+  "linkedWith": 3755250867
  },
  "1646437399": {
   "hash": 1646437399,
@@ -7698,11 +7835,11 @@
   "hash": 1658784563,
   "name": "Genesis",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 3096702027",
+    "secondary": "import secondary from 3096702027"
    }
   },
   "updateTracker": {
@@ -7718,17 +7855,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 3096702027,
+  "uploadedBy": "Fading Shadow"
  },
  "1663363584": {
   "hash": 1663363584,
   "name": "Sneak Bow",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 908147344",
+    "secondary": "import secondary from 908147344"
    }
   },
   "updateTracker": {
@@ -7751,7 +7890,9 @@
     "value": 15,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 908147344,
+  "uploadedBy": "Fading Shadow"
  },
  "1667892708": {
   "hash": 1667892708,
@@ -7901,11 +8042,11 @@
   "hash": 1685378950,
   "name": "Pulse Monitor",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 972757866",
+    "secondary": "import secondary from 972757866"
    }
   },
   "updateTracker": {
@@ -7921,7 +8062,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 972757866,
+  "uploadedBy": "Fading Shadow"
  },
  "1685431615": {
   "hash": 1685431615,
@@ -8256,6 +8399,35 @@
    }
   ]
  },
+ "1720528630": {
+  "hash": 1720528630,
+  "name": "Voltshot",
+  "type": "weaponPerkEnhanced",
+  "lastUpload": 1667225803761,
+  "uploadedBy": "Fading Shadow",
+  "editor": {
+   "en": {
+    "main": "",
+    "secondary": ""
+   }
+  },
+  "updateTracker": {
+   "stats": {
+    "lastUpdate": 0,
+    "updatedBy": ""
+   },
+   "descriptions": {
+    "en": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   }
+  },
+  "uploadToLive": false,
+  "hidden": false,
+  "inLiveDatabase": false,
+  "optional": false
+ },
  "1731450287": {
   "hash": 1731450287,
   "name": "Clenched Fist",
@@ -8291,11 +8463,11 @@
   "hash": 1738338041,
   "name": "Tilting at Windmills",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -8311,17 +8483,18 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "1748774930": {
   "hash": 1748774930,
   "name": "Zen Moment",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2387244414",
+    "secondary": "import secondary from 2387244414"
    }
   },
   "updateTracker": {
@@ -8344,14 +8517,16 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 2387244414,
+  "uploadedBy": "Fading Shadow"
  },
  "1749209109": {
   "hash": 1749209109,
   "name": "Relentless Strikes",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -8373,14 +8548,15 @@
     "main": "After 3 Powered Hits within [2?] seconds of each:\nGain +1 Ammo.\n\n🡅Enhanced: Timer between Hits is increased.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 4085959009
  },
  "1754714824": {
   "hash": 1754714824,
   "name": "Kickstart",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -8422,7 +8598,8 @@
     "main": "Upon Sliding, after Sprinting for 1.5 seconds:\n20% Increased damage and 0.8x Charge Time for [?] seconds. \n\n🡅Enhanced: Buff Duration is increased.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 834262328
  },
  "1771339417": {
   "hash": 1771339417,
@@ -8469,8 +8646,8 @@
   "hash": 1774574192,
   "name": "Osmosis",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -8492,7 +8669,8 @@
     "main": "On Grenade Ability Usage:\nChanges your Weapon Element to match the selected Subclass until stowed. \n\n🡅Enhanced: Passively grants +5 Handling.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 777774560
  },
  "1799762209": {
   "hash": 1799762209,
@@ -8547,8 +8725,8 @@
   "hash": 1820235745,
   "name": "Subsistence",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -8570,13 +8748,14 @@
     "main": "On Weapon Kill:\n<title Refreshes [refreshes] /> 10% of Magazine.\nSubmachine Guns and Auto Rifles: 17%\n\n🡅Enhanced: Magazine Refresh increased to 20%\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
     "secondary": "On Weapon Kill:\r\nRefreshes 10% of Magazine.\r\nSubmachine Guns and Auto Rifles: 17%\r\n\r\nEnhanced: Magazine Refresh increased to 20%"
    }
-  }
+  },
+  "linkedWith": 4245865861
  },
  "1821614984": {
   "hash": 1821614984,
   "name": "Slickdraw",
   "type": "weaponPerk",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
     "main": "Passively grants +100 Handling, 0.95x Ready Animation Duration Multiplier, and -[60%?] Aim Assistance Cone Size.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\n🡅Enhanced: Aim Assistance Cone Size Penalty is decreased to -[?]%.",
@@ -8618,7 +8797,9 @@
      }
     }
    ]
-  }
+  },
+  "linkedWith": 1942880504,
+  "uploadedBy": "Fading Shadow"
  },
  "1828251441": {
   "hash": 1828251441,
@@ -8733,8 +8914,8 @@
   "hash": 1866048759,
   "name": "Hip-Fire Grip",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -8785,13 +8966,14 @@
     "main": "If hipfiring:\n20% Increased: Aim Assist Falloff Distance, Reticle Stickiness Falloff Distance, Damage Falloff Start and End Distance\n15 Aim Assist\n+2.7 degrees Precision Angle Threshold\n-30% Accuracy Cone Size and ~30 Stability.\n\nDamage Falloff Multipliers do not apply to The Last Word, Shotguns, Sniper Rifles, and Fusion Rifles.\n\n🡅Enhanced: Stronger Effect.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3118144663
  },
  "1870851715": {
   "hash": 1870851715,
   "name": "Under-Over",
   "type": "weaponPerk",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
     "main": "Passively increases damage dealt to certain shields.\n\n20% Increased Damage against Overshields.\n10% Increased Damage against Combatant Shields.\n\n🡅Enhanced: Damage Increase to Overshields is increased.",
@@ -8812,7 +8994,9 @@
   "uploadToLive": true,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 183938251,
+  "uploadedBy": "Fading Shadow"
  },
  "1885045197": {
   "hash": 1885045197,
@@ -8909,8 +9093,8 @@
   "hash": 1890422124,
   "name": "Tap the Trigger",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -8952,7 +9136,8 @@
     "main": "开火时：\n+40 稳定性，-50% 最大后坐力，-10% 精准圆锥范围，持续 0.6 秒。\n\n<blue 融合步枪仅获得上述数值 25% 的增益 />\n\n<green [手柄] /> 轻触扳机键即会开火。\n\n强化特征：增强效果，持续时间提高到 0.76 秒。",
     "secondary": "开火时：\n+40 稳定性，-50% 最大后坐力，-10% 精准圆锥范围，持续 0.6 秒。\n\n[融合步枪仅获得上述数值 25% 的增益]\n\n[手柄]轻触扳机键即会开火。\n\n强化特征：增强效果，持续时间提高到 0.76 秒。"
    }
-  }
+  },
+  "linkedWith": 1523649716
  },
  "1905044254": {
   "hash": 1905044254,
@@ -8996,11 +9181,11 @@
   "hash": 1905598698,
   "name": "Full Court",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2888557110",
+    "secondary": "import secondary from 2888557110"
    }
   },
   "updateTracker": {
@@ -9016,7 +9201,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2888557110,
+  "uploadedBy": "Fading Shadow"
  },
  "1906147653": {
   "hash": 1906147653,
@@ -9130,12 +9317,41 @@
    }
   }
  },
+ "1942880504": {
+  "hash": 1942880504,
+  "name": "Slickdraw",
+  "type": "weaponPerkEnhanced",
+  "lastUpload": 1667225803761,
+  "uploadedBy": "Fading Shadow",
+  "editor": {
+   "en": {
+    "main": "",
+    "secondary": ""
+   }
+  },
+  "updateTracker": {
+   "stats": {
+    "lastUpdate": 0,
+    "updatedBy": ""
+   },
+   "descriptions": {
+    "en": {
+     "lastUpdate": 0,
+     "updatedBy": ""
+    }
+   }
+  },
+  "uploadToLive": false,
+  "hidden": false,
+  "inLiveDatabase": false,
+  "optional": false
+ },
  "1954620775": {
   "hash": 1954620775,
   "name": "Timed Payload",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -9165,17 +9381,18 @@
     "main": "将 55% 的武器伤害转化为 <pve 增伤 30% /> 的爆炸伤害，该部分伤害不会因距离衰减。爆炸在 0.6 秒后产生。\n\n<pve [PVE] 身体伤害提高 16%。 精准伤害将根据武器精准伤害系数变化。 />\n<pvp [PVP] 总伤害不变。 />",
     "secondary": "将 55% 的武器伤害转化为增伤 30% 的爆炸伤害，该部分伤害不会因距离衰减。爆炸在 0.6 秒后产生。\n\n[PVE] 身体伤害提高 16%。 精准伤害将根据武器精准伤害系数变化。\n[PVP] 总伤害不变。"
    }
-  }
+  },
+  "linkedWith": 1562897767
  },
  "1961144892": {
   "hash": 1961144892,
   "name": "Quickdraw",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 706527188",
+    "secondary": "import secondary from 706527188"
    }
   },
   "updateTracker": {
@@ -9198,7 +9415,9 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 706527188,
+  "uploadedBy": "Fading Shadow"
  },
  "1968497646": {
   "hash": 1968497646,
@@ -9298,11 +9517,11 @@
   "hash": 2000295559,
   "name": "Turnabout",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2209918983",
+    "secondary": "import secondary from 2209918983"
    }
   },
   "updateTracker": {
@@ -9318,17 +9537,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2209918983,
+  "uploadedBy": "Fading Shadow"
  },
  "2002547233": {
   "hash": 2002547233,
   "name": "High-Impact Reserves",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2213355989",
+    "secondary": "import secondary from 2213355989"
    }
   },
   "updateTracker": {
@@ -9344,7 +9565,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2213355989,
+  "uploadedBy": "Fading Shadow"
  },
  "2010801679": {
   "hash": 2010801679,
@@ -9396,11 +9619,11 @@
   "hash": 2014892510,
   "name": "Perpetual Motion Enhanced",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -9416,7 +9639,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "2030760728": {
   "hash": 2030760728,
@@ -9452,8 +9676,8 @@
   "hash": 2039302152,
   "name": "Slideways",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -9497,7 +9721,8 @@
     "main": "export description (\nUpon Sliding:\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.\n)\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nexport enhanced (\n🡅Enhanced: Buff Effect increased to 25 Stability and Handling.\n)\n\nexport calculators hidden (\n<formula Ready Speed: [ready_1] />\n<formula Stow Speed: [stow_1] />\n)",
     "secondary": "Upon Sliding:\r\n15% Magazine Refresh, 20 Stability and Handling for 3 seconds.\r\n\r\nEnhanced: Buff Effect increased to 25 Stability and Handling."
    }
-  }
+  },
+  "linkedWith": 2396422520
  },
  "2077819806": {
   "hash": 2077819806,
@@ -9712,11 +9937,11 @@
   "hash": 2139363611,
   "name": "Well-Rounded",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -9732,7 +9957,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "2171055345": {
   "hash": 2171055345,
@@ -9765,8 +9991,8 @@
   "hash": 2172504645,
   "name": "Sleight of Hand",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -9824,13 +10050,14 @@
      }
     }
    ]
-  }
+  },
+  "linkedWith": 1172098417
  },
  "2173046394": {
   "hash": 2173046394,
   "name": "Voltshot",
   "type": "weaponPerk",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
     "main": "Upon finishing a reload within 3.8 seconds of a Kill:\nYour next Weapon Hit within 7 seconds applies Jolt. \n\nDamage from Jolt can be increased through Weapon Damage Increases, Debuffs, and Combatant Rank Modifiers.\n\n🡅Enhanced: Buff Duration is increased to 8 seconds.",
@@ -9851,7 +10078,9 @@
   "uploadToLive": true,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 1720528630,
+  "uploadedBy": "Fading Shadow"
  },
  "2179827240": {
   "hash": 2179827240,
@@ -10033,8 +10262,8 @@
   "hash": 2209918983,
   "name": "Turnabout",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -10064,14 +10293,15 @@
     "main": "打破战斗人员或正在使用超能的守护者的护盾时：\n获得一个持续 10 秒，30 生命值的覆盖护盾。",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 2000295559
  },
  "2213355989": {
   "hash": 2213355989,
   "name": "High-Impact Reserves",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -10093,7 +10323,8 @@
     "main": "As Magazine goes below 50%, until empty: \n<pve [PVE] 12.1% to 25.6% Increased damage. />\n<pvp [PVP] 3% to 6% Increased damage. />\n\n🡅Enhanced: Activates at the 75% Magazine Threshold.",
     "secondary": "As Magazine goes below 50%, until empty: \r\n[PVE] 12.1% to 25.6% Increased damage.\r\n[PVP] 3% to 6% Increased damage.\r\n\r\nEnhanced: Activates at the 75% Magazine Threshold."
    }
-  }
+  },
+  "linkedWith": 2002547233
  },
  "2216471363": {
   "hash": 2216471363,
@@ -10127,8 +10358,8 @@
   "hash": 2224838837,
   "name": "Unstoppable Force",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -10161,14 +10392,15 @@
     "main": "Upon blocking damage with your Glaive Shield:\n\n30% increased projectile damage for 4 seconds or until you stop blocking. Blocking any hit refreshes the duration.\n\n🡅Enhanced: Buff Duration is increased to 5 seconds.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3102670337
  },
  "2244851822": {
   "hash": 2244851822,
   "name": "Flash Counter",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -10190,7 +10422,8 @@
     "main": "Upon Blocking a Melee Attack within 0.5 seconds of starting to Block:\nSuppresses and weakens the enemy, making the enemy receive 20% increased damage for 4 seconds.\n\n🡅Enhanced: Passively grants increased Ammo Reserves.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 2860991074
  },
  "2275087323": {
   "hash": 2275087323,
@@ -10480,8 +10713,8 @@
   "hash": 2387244414,
   "name": "Zen Moment",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -10511,17 +10744,18 @@
     "main": "连续命中时：\n降低最大后坐力角度、武器晃动。\n使用手柄时移除准星抖动。\n\n强化特征：+5 稳定性。",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 1748774930
  },
  "2396422520": {
   "hash": 2396422520,
   "name": "Slideways",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2039302152",
+    "secondary": "import secondary from 2039302152"
    }
   },
   "updateTracker": {
@@ -10537,7 +10771,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2039302152,
+  "uploadedBy": "Fading Shadow"
  },
  "2396489472": {
   "hash": 2396489472,
@@ -10581,11 +10817,11 @@
   "hash": 2402480669,
   "name": "Focused Fury",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2896038713",
+    "secondary": "import secondary from 2896038713"
    }
   },
   "updateTracker": {
@@ -10601,7 +10837,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2896038713,
+  "uploadedBy": "Fading Shadow"
  },
  "2422968039": {
   "hash": 2422968039,
@@ -10638,8 +10876,8 @@
   "hash": 2450788523,
   "name": "Killing Wind",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -10684,14 +10922,15 @@
     "main": "On Weapon Kill:\n+20 Range, +50 Mobility, +40 Handling, and a 5% Increased Damage Falloff Distance\n\n<formula In-Game Range: [range_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\n\n🡅Enhanced: Initial Buff Duration is increased.",
     "secondary": "On Weapon Kill:\n+20 Range, +50 Mobility, +40 Handling, and a 5% Increased Damage Falloff Distance.\n\nLasts 5 seconds, additional kills add 5 seconds, maxing out at 8 seconds.\n\nEnhanced: Initial Buff Duration is increased."
    }
-  }
+  },
+  "linkedWith": 4207509907
  },
  "2451262963": {
   "hash": 2451262963,
   "name": "Fragile Focus",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -10724,14 +10963,15 @@
     "main": "Passively grants +20 Range.\nReceiving any incoming damage disables the perk for 5 seconds.\n\n<formula Effective Range: [range_0] />\n\n🡅Enhanced: Timer after receiving damage is reduced to 4 seconds.",
     "secondary": "Passively grants +20 Range.\nReceiving any incoming damage disables the perk for 5 seconds.\n\nEnhanced: Timer after receiving damage is reduced to 4 seconds."
    }
-  }
+  },
+  "linkedWith": 1609056795
  },
  "2458213969": {
   "hash": 2458213969,
   "name": "Multikill Clip",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -10766,17 +11006,18 @@
     "main": "Upon finishing a reload within 3.8 seconds of a Weapon Kill:\n17% | 33% | 50% Increased damage for 5 seconds, depending on the amount of enemies killed within X seconds of each.\n\nBuff is overwritten every time you refresh it.\n\n🡅Enhanced: Buff Duration is increased to 5.5 seconds.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 2570477205
  },
  "2459015849": {
   "hash": 2459015849,
   "name": "Trench Barrel",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 806159697",
+    "secondary": "import secondary from 806159697"
    }
   },
   "updateTracker": {
@@ -10792,7 +11033,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 806159697,
+  "uploadedBy": "Fading Shadow"
  },
  "2471523345": {
   "hash": 2471523345,
@@ -10947,11 +11190,11 @@
   "hash": 2541826827,
   "name": "Repulsor Brace",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 776531651",
+    "secondary": "import secondary from 776531651"
    }
   },
   "updateTracker": {
@@ -10967,7 +11210,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 776531651,
+  "uploadedBy": "Fading Shadow"
  },
  "2551157718": {
   "hash": 2551157718,
@@ -11017,11 +11262,11 @@
   "hash": 2570477205,
   "name": "Multikill Clip",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2458213969",
+    "secondary": "import secondary from 2458213969"
    }
   },
   "updateTracker": {
@@ -11037,14 +11282,16 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2458213969,
+  "uploadedBy": "Fading Shadow"
  },
  "2590710093": {
   "hash": 2590710093,
   "name": "Tireless Blade",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -11074,7 +11321,8 @@
     "main": "每隔一次的赋能刀剑击杀提供 1 发刀剑弹药。",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 4183521337
  },
  "2603856295": {
   "hash": 2603856295,
@@ -11113,8 +11361,8 @@
   "hash": 2610012052,
   "name": "Golden Tricorn",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -11148,7 +11396,8 @@
     "main": "On Weapon Kill:\n15% Increased damage for 7 seconds.\nCan be refreshed with a Weapon Kill.\n\nMatching Grenade and Powered Melee Kills while the buff is active grant 50% increased damage for 10 seconds.\nCan be refreshed by getting another Matching Ability Kill.\n\n🡅Enhanced: 15% Damage Buff Duration is increased to 8 seconds if a weapon kill is made while it is active.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 4290541820
  },
  "2618534366": {
   "hash": 2618534366,
@@ -11273,8 +11522,8 @@
   "hash": 2652708987,
   "name": "Successful Warm-Up",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -11307,17 +11556,18 @@
     "main": "On Weapon Kill:\n37.5% Increased Charge Rate/Draw Speed for 6 seconds.\nEach kill while the perk is active adds an additional 4 seconds up to 20 seconds.\n\n🡅Enhanced: Added time from additional kills is increased to 5 seconds.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 617966211
  },
  "2658083589": {
   "hash": 2658083589,
   "name": "Surplus",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -11333,7 +11583,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "2663272109": {
   "hash": 2663272109,
@@ -11453,11 +11704,11 @@
   "hash": 2675184851,
   "name": "Incandescent",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 4293542123",
+    "secondary": "import secondary from 4293542123"
    }
   },
   "updateTracker": {
@@ -11473,17 +11724,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 4293542123,
+  "uploadedBy": "Fading Shadow"
  },
  "2675361166": {
   "hash": 2675361166,
   "name": "Wellspring",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -11499,14 +11752,15 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "2679249093": {
   "hash": 2679249093,
   "name": "One-Two Punch",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -11536,17 +11790,18 @@
     "main": "当一发弹药的 12 枚弹片全部命中时：\r\n在 1.22 秒内增加 200% 近战伤害。\r\n对首领和载具时，变为增加 350% 近战伤害。\r\n当触发骗徒的握手时，变为增加 80% 近战伤害。\r\n\r\n强化特征： 需要命中的弹片从 12 枚降低为 10 枚。",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 788178929
  },
  "2682205016": {
   "hash": 2682205016,
   "name": "Overflow",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 3643424744",
+    "secondary": "import secondary from 3643424744"
    }
   },
   "updateTracker": {
@@ -11562,17 +11817,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 3643424744,
+  "uploadedBy": "Fading Shadow"
  },
  "2717805783": {
   "hash": 2717805783,
   "name": "Moving Target",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -11588,14 +11845,15 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "2726471870": {
   "hash": 2726471870,
   "name": "Thresh",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -11625,7 +11883,8 @@
     "main": "主武器/威能武器击杀提供 1% 超能充能。\n特殊武器击杀提供 1.5% 超能充能。\n<pvp [PVP] 武器击杀提供 1% 超能充能。 />\n\n强化特征：1% -> 1.33% || 1.5% -> 2%",
     "secondary": "主武器/威能武器击杀提供 1% 超能充能。\n特殊武器击杀提供 1.5% 超能充能。\n[PVP] 武器击杀提供 1% 超能充能。\n\n强化特征：1% -> 1.33% || 1.5% -> 2%"
    }
-  }
+  },
+  "linkedWith": 1172413778
  },
  "2731901709": {
   "hash": 2731901709,
@@ -11731,11 +11990,11 @@
   "hash": 2748258257,
   "name": "Heating Up",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1570042021",
+    "secondary": "import secondary from 1570042021"
    }
   },
   "updateTracker": {
@@ -11751,17 +12010,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 1570042021,
+  "uploadedBy": "Fading Shadow"
  },
  "2748801589": {
   "hash": 2748801589,
   "name": "Harmony",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 438098033",
+    "secondary": "import secondary from 438098033"
    }
   },
   "updateTracker": {
@@ -11777,7 +12038,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 438098033,
+  "uploadedBy": "Fading Shadow"
  },
  "2754084930": {
   "hash": 2754084930,
@@ -12119,11 +12382,11 @@
   "hash": 2840833776,
   "name": "Shoot to Loot",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -12146,14 +12409,15 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "uploadedBy": "Fading Shadow"
  },
  "2846385770": {
   "hash": 2846385770,
   "name": "Rangefinder",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -12186,7 +12450,8 @@
     "main": "While Aiming-Down-Sights:\n<title 10% Increased Zoom [increased zoom] />, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\n\n🡅Enhanced: Passively grants +5 Handling\n\ntitle increased zoom (\nZoom acts as a multiplier to hipfire range and maximum falloff distance while ADS.\nIn this case, it effectively pushes out the weapon's range by 10%.\n)",
     "secondary": "While Aiming-Down-Sights:\n10% Increased Zoom, 30% Increased Aim Assist Falloff Distance, and 5% Faster Projectile Speed.\n\nEnhanced: Passively grants +5 Handling"
    }
-  }
+  },
+  "linkedWith": 509594246
  },
  "2848615171": {
   "hash": 2848615171,
@@ -12250,11 +12515,11 @@
   "hash": 2860991074,
   "name": "Flash Counter",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2244851822",
+    "secondary": "import secondary from 2244851822"
    }
   },
   "updateTracker": {
@@ -12277,14 +12542,16 @@
     "value": 10,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 2244851822,
+  "uploadedBy": "Fading Shadow"
  },
  "2866798147": {
   "hash": 2866798147,
   "name": "No Distractions",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -12306,7 +12573,8 @@
     "main": "Upon being scoped-in for 1 second without firing:\n35% Flinch Reduction.\n\nTimer starts as soon as the ADS input is pressed.\n\n🡅Enhanced: Aiming-Down-Sights timer is reduced.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3974407819
  },
  "2869569095": {
   "hash": 2869569095,
@@ -12372,8 +12640,8 @@
   "hash": 2888557110,
   "name": "Full Court",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -12406,7 +12674,8 @@
      }
     }
    ]
-  }
+  },
+  "linkedWith": 1905598698
  },
  "2889515627": {
   "hash": 2889515627,
@@ -12445,8 +12714,8 @@
   "hash": 2896038713,
   "name": "Focused Fury",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -12479,17 +12748,18 @@
     "main": "Upon scoring 50% of Magazine as Precision Hits:\n20% increased damage for 11 seconds.\n\nBuff can be refreshed.\nStows and Reloads reset the precision counter. \n\n🡅Enhanced: Buff Duration is increased to 12 seconds.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 2402480669
  },
  "2896748467": {
   "hash": 2896748467,
   "name": "Killing Tally",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 557221067",
+    "secondary": "import secondary from 557221067"
    }
   },
   "updateTracker": {
@@ -12512,7 +12782,9 @@
     "value": 10,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 557221067,
+  "uploadedBy": "Fading Shadow"
  },
  "2898218424": {
   "hash": 2898218424,
@@ -12600,11 +12872,11 @@
   "hash": 2923251173,
   "name": "Kill Clip",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1015611457",
+    "secondary": "import secondary from 1015611457"
    }
   },
   "updateTracker": {
@@ -12620,17 +12892,19 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 1015611457,
+  "uploadedBy": "Fading Shadow"
  },
  "2938480696": {
   "hash": 2938480696,
   "name": "Rapid Hit",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 247725512",
+    "secondary": "import secondary from 247725512"
    }
   },
   "updateTracker": {
@@ -12646,14 +12920,16 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 247725512,
+  "uploadedBy": "Fading Shadow"
  },
  "2946784966": {
   "hash": 2946784966,
   "name": "Tunnel Vision",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -12694,7 +12970,8 @@
     "main": "消灭目标后在 6 秒内填装：\n+20 瞄准辅助、-20% 瞄准圆锥范围、[?] 瞄准时的操控性，持续 5 秒。\n该 Buff 无法被刷新。\n\n强化特征：增加 Buff 持续时间。",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 987673306
  },
  "2951499542": {
   "hash": 2951499542,
@@ -12875,11 +13152,11 @@
   "hash": 3007133316,
   "name": "Frenzy",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 4104185692",
+    "secondary": "import secondary from 4104185692"
    }
   },
   "updateTracker": {
@@ -12895,7 +13172,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 4104185692,
+  "uploadedBy": "Fading Shadow"
  },
  "3016987351": {
   "hash": 3016987351,
@@ -13175,8 +13454,8 @@
   "hash": 3096702027,
   "name": "Genesis",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -13198,17 +13477,18 @@
     "main": "On Elemental or Barrier Champion Shield Break:\n<title Refreshes [refreshes] /> magazine.\n\nEnergy Weapons are refunded 1 Ammo upon hitting Matching Elemental Shields.\n\n🡅Enhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely.\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
     "secondary": "On Elemental or Barrier Champion Shield Break:\r\nRefreshes magazine. (Refresh: Reload, but does not need animation and doesn't proc on-reload perks.)\r\n\r\nEnergy Weapons are refunded 1 Ammo upon hitting Matching Elemental Shields.\r\n\r\nEnhanced: Primary Weapons overflow their magazines, increasing the magazine capacity by 33% of its base magazine capacity. The Overflow effect can stack seemingly indefinitely."
    }
-  }
+  },
+  "linkedWith": 1658784563
  },
  "3097973565": {
   "hash": 3097973565,
   "name": "Iron Grip",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 11551321",
+    "secondary": "import secondary from 11551321"
    }
   },
   "updateTracker": {
@@ -13236,17 +13516,19 @@
     "value": -30,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 11551321,
+  "uploadedBy": "Fading Shadow"
  },
  "3102670337": {
   "hash": 3102670337,
   "name": "Unstoppable Force",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2224838837",
+    "secondary": "import secondary from 2224838837"
    }
   },
   "updateTracker": {
@@ -13262,14 +13544,16 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2224838837,
+  "uploadedBy": "Fading Shadow"
  },
  "3108830275": {
   "hash": 3108830275,
   "name": "Unrelenting",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -13299,7 +13583,8 @@
     "main": "武器连续击杀 3 名敌人时：\n开始生命恢复，恢复总值约为 80。\n\n普通敌人记为 1 个击杀。\n守护者记为 2 个击杀。\n精英、强大敌人、首领记为 3 个击杀。\n\n可在 <link Court's Spreadsheet [https://d2clarity.page.link/combatant] /> 查询敌人分类\n\n连续击杀敌人需在 5 秒内完成。\n\n强化特征：+5 操控性。",
     "secondary": "武器连续击杀 3 名敌人时：\n开始生命恢复，恢复总值约为 80 点。\n\n普通敌人记为 1 个击杀。\n守护者记为 2 个击杀。\n精英、强大敌人、首领记为 3 个击杀。\n\n连续击杀敌人需在 5 秒内完成。\n\n强化特征：+5 操控性。"
    }
-  }
+  },
+  "linkedWith": 855168139
  },
  "3109470977": {
   "hash": 3109470977,
@@ -13338,11 +13623,11 @@
   "hash": 3118144663,
   "name": "Hip-Fire Grip",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1866048759",
+    "secondary": "import secondary from 1866048759"
    }
   },
   "updateTracker": {
@@ -13358,7 +13643,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 1866048759,
+  "uploadedBy": "Fading Shadow"
  },
  "3143051906": {
   "hash": 3143051906,
@@ -13399,8 +13686,8 @@
   "hash": 3161816588,
   "name": "Slideshot",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -13442,7 +13729,8 @@
     "main": "Upon Sliding:\n15% Magazine Refresh, +20 Range, and +30 Stability for 3 seconds. <title Only buffs first shot [only buffs first shot] />.\nCan activate multiple times per slide. 0.3 second cooldown between activation.\n\n<formula In-Game Range: [range_0] />\n\n🡅Enhanced: Buff Effect is increased.\n\ntitle only buffs first shot (\nEven in the case of burst weapons. Only the first bullet of the burst is affected.\n)",
     "secondary": "Upon Sliding:\n15% Magazine Refresh, +20 Range, and +30 Stability for [3?] seconds. Only active for the first shot.\n\nCan activate multiple times per slide. 0.3 second cooldown between activations. \n\nEnhanced: Buff Effect is increased."
    }
-  }
+  },
+  "linkedWith": 191144788
  },
  "3194351027": {
   "hash": 3194351027,
@@ -13490,8 +13778,8 @@
   "hash": 3201496230,
   "name": "Redirection",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -13528,7 +13816,8 @@
     "main": "On Low-Tier Minor Combatant Hit:\nGrants 1 Stack of Redirection, up to 20 Stacks\n\nGrants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks.\n\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks.\n\nCheck out <link this sheet [https://d2clarity.page.link/combatant] /> for Combatant Classifications.",
     "secondary": "On Low-Tier Minor Combatant Hit:\r\nGrants 1 Stack of Redirection, up to 20 Stacks\r\n\r\nGrants 20% increased damage to Medium and High Tier Combatants (and Vehicles) per stack, up to 100% at 5 Stacks.\r\n\r\nConsumes 1 stack per hit if at or below 5 stacks. Consumes 5 stacks per hit if at or above 6 stacks."
    }
-  }
+  },
+  "linkedWith": 1545231802
  },
  "3201675491": {
   "hash": 3201675491,
@@ -13805,8 +14094,8 @@
   "hash": 3275789089,
   "name": "Shield Disorient",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -13829,7 +14118,8 @@
     "main": "On Matching Elemental Shield Break:\nShield Explosion disorients enemies within 7 metres for 5 seconds",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3979224005
  },
  "3295796664": {
   "hash": 3295796664,
@@ -13955,11 +14245,11 @@
   "hash": 3315935575,
   "name": "Iron Reach",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 591790007",
+    "secondary": "import secondary from 591790007"
    }
   },
   "updateTracker": {
@@ -13987,7 +14277,9 @@
     "value": -30,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 591790007,
+  "uploadedBy": "Fading Shadow"
  },
  "3319681729": {
   "hash": 3319681729,
@@ -14059,11 +14351,11 @@
   "hash": 3335686050,
   "name": "Recombination",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -14079,7 +14371,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "3336648220": {
   "hash": 3336648220,
@@ -14126,12 +14419,12 @@
   "hash": 3337692349,
   "name": "Mulligan",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
-  "hidden": false,
+  "hidden": true,
   "updateTracker": {
    "stats": {
     "lastUpdate": 1659903012345,
@@ -14139,15 +14432,15 @@
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1667217145775,
+     "lastUpdate": 1667225272336,
      "updatedBy": "Fading Shadow"
     }
    }
   },
   "editor": {
    "en": {
-    "main": "On Miss:\nPrimary Weapons have a 35% chance to refund ammo.\nSpecial Weapons and Power Weapons have a 20% chance to refund ammo.\n\n🡅Enhanced:\nPrimary Weapons have a [40% maybe] chance to refund ammo. \nSpecial Weapons and Power Weapons have a [25% maybe] chance to refund ammo.",
-    "secondary": "import self"
+    "main": "import main from 3513791699",
+    "secondary": "import secondary from 3513791699"
    }
   }
  },
@@ -14280,8 +14573,8 @@
   "hash": 3350417888,
   "name": "Sympathetic Arsenal",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -14321,7 +14614,8 @@
     "value": 20,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 1537607344
  },
  "3363267119": {
   "hash": 3363267119,
@@ -14402,11 +14696,11 @@
   "hash": 3373736292,
   "name": "Sticky Grenades",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
-  "optional": false,
+  "optional": true,
   "hidden": true,
   "updateTracker": {
    "stats": {
@@ -14464,8 +14758,8 @@
   "hash": 3400784728,
   "name": "Triple Tap",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -14495,7 +14789,8 @@
     "main": "3 次精准命中后，向弹夹内装填 1 枚弹药。\n两次精准命中时间间隔不得超过 2 秒。\n\n强化特征：增加两次精准命中间的可允许时间间隔。",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 573122728
  },
  "3406782879": {
   "hash": 3406782879,
@@ -14529,11 +14824,11 @@
   "hash": 3418165135,
   "name": "Vorpal Weapon",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1546637391",
+    "secondary": "import secondary from 1546637391"
    }
   },
   "updateTracker": {
@@ -14556,14 +14851,16 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 1546637391,
+  "uploadedBy": "Fading Shadow"
  },
  "3418782618": {
   "hash": 3418782618,
   "name": "Rewind Rounds",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -14585,14 +14882,15 @@
     "main": "Upon emptying the Magazine:\n<title Refreshes [refreshes] /> Magazine based on the Number of Hits.\n\nHits to Returned Ammo Ratio:\n50-60% for Primaries | 30-40% for Special\n\ntitle refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
     "secondary": "Upon emptying the Magazine:\r\nRefreshes Magazine based on the Number of Hits.\r\n\r\nHits to Returned Ammo Ratio:\r\n50-60% for Primaries | 30-40% for Special"
    }
-  }
+  },
+  "linkedWith": 1563455254
  },
  "3425386926": {
   "hash": 3425386926,
   "name": "Rampage",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -14635,7 +14933,8 @@
     "main": "完成武器击杀时:\r\n3.5 秒内提高 10% | 21% | 33.1% 伤害。\r\n击杀可刷新 Buff 时间。\r\n\r\n强化特征：Buff 持续时间增加为 4 秒。\r\n\r\n狂暴规格模组提高 1 秒持续时间。",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 288411554
  },
  "3431277734": {
   "hash": 3431277734,
@@ -14672,8 +14971,8 @@
   "hash": 3436462433,
   "name": "Surplus",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -14730,17 +15029,18 @@
     "main": "Grants Stat Bonuses depending on the amount of Charged Abilities.\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\n< table >\n|  Abilities| Stability | Reload                 | Handling\n|b 1x       | 5         | 5                      | 10                          <background/>\n|  In-Game  |           | <formula [reload_0] /> | <formula Ready: [ready_0] />\n|  Values:  |           |                        | <formula Stow: [stow_0] />\n|b 2x       | 15        | 25                     | 25                          <background/>\n|  In-Game  |           | <formula [reload_1] /> | <formula Ready: [ready_1] />\n|  Values:  |           |                        | <formula Stow: [stow_1] />\n|b 3x       | 25        | 50                     | 50                          <background/>\n|  In-Game  |           | <formula [reload_2] /> | <formula Ready: [ready_2] />\n|  Values:  |           |                        | <formula Stow: [stow_2] />\n<$>\n\n🡅Enhanced: Stronger Effect",
     "secondary": "Grants Stat Bonuses depending on the amount of Charged Abilities.\n\n•   +5 | +15 | +25 Stability <breakSpaces/>\n•   +5 | +25 | +50 Reload Speed <breakSpaces/>\n•  +10 | +25 | +50 Handling <breakSpaces/>\n\nEach Ability Charge contributes to this. Having 3 Abilities Charged maxes the effect.\n\nEnhanced: Stronger Effect."
    }
-  }
+  },
+  "linkedWith": 2658083589
  },
  "3442762221": {
   "hash": 3442762221,
   "name": "Lead from Gold",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1556840489",
+    "secondary": "import secondary from 1556840489"
    }
   },
   "updateTracker": {
@@ -14756,7 +15056,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 1556840489,
+  "uploadedBy": "Fading Shadow"
  },
  "3449001998": {
   "hash": 3449001998,
@@ -14845,11 +15147,11 @@
   "hash": 3513791699,
   "name": "Mulligan",
   "type": "weaponPerk",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "import main from 3337692349",
-    "secondary": "import secondary from 3337692349"
+    "main": "On Miss:\nPrimary Weapons have a 35% chance to refund ammo.\nSpecial Weapons and Power Weapons have a 20% chance to refund ammo.\n\n🡅Enhanced:\nPrimary Weapons have a [40% maybe] chance to refund ammo. \nSpecial Weapons and Power Weapons have a [25% maybe] chance to refund ammo.",
+    "secondary": "import self"
    }
   },
   "updateTracker": {
@@ -14858,7 +15160,7 @@
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1665247791830,
+     "lastUpdate": 1667225282887,
      "updatedBy": "Fading Shadow"
     }
    }
@@ -14866,7 +15168,9 @@
   "uploadToLive": true,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 162561147,
+  "uploadedBy": "Fading Shadow"
  },
  "3523296417": {
   "hash": 3523296417,
@@ -14936,8 +15240,8 @@
   "hash": 3526486541,
   "name": "Tilting at Windmills",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -14967,7 +15271,8 @@
     "main": "使用偃月阻挡伤害时：\n\n提高敏捷[?]持续 [?] 秒，或直到你停止阻挡。\n\n强化特征：延长 Buff 持续时间。",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 1738338041
  },
  "3528046508": {
   "hash": 3528046508,
@@ -15069,8 +15374,8 @@
   "hash": 3592538738,
   "name": "Wellspring",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -15100,17 +15405,18 @@
     "main": "使用武器击杀时：\r\n获取 8% 的技能能量，平均分配到所有未充能的技能中。\r\n\r\n<blue 如果你有 3 个以上技能充能完毕， 该 perk 将不会生效。 />\r\n\r\n强化特征： 获取 9% 的技能能量，平均分配到所有未充能的技能中。",
     "secondary": "使用武器击杀时：\r\n获取 8% 的技能能量，平均分配到所有未充能的技能中。\r\n\r\n如果你有 3 个以上技能充能完毕， 该 perk 将不会生效。\r\n\r\n强化特征： 获取 9% 的技能能量，平均分配到所有未充能的技能中。"
    }
-  }
+  },
+  "linkedWith": 2675361166
  },
  "3609952942": {
   "hash": 3609952942,
   "name": "Iron Gaze",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 4152709778",
+    "secondary": "import secondary from 4152709778"
    }
   },
   "updateTracker": {
@@ -15138,14 +15444,16 @@
     "value": -30,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 4152709778,
+  "uploadedBy": "Fading Shadow"
  },
  "3643424744": {
   "hash": 3643424744,
   "name": "Overflow",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -15167,7 +15475,8 @@
     "main": "Upon Picking Up <special/>Special or <heavy/>Power Ammo:\nMagazine gets overflowed to 200% of its regular capacity.\n\n🡅Enhanced: Magazine gets increased to 205-222% of its regular capacity.",
     "secondary": "Upon Picking Up Special or Power Ammo:\nMagazine gets overflowed to 200% of its regular capacity.\n\nEnhanced: Magazine gets increased to 205-222% of its regular capacity."
    }
-  }
+  },
+  "linkedWith": 2682205016
  },
  "3650930298": {
   "hash": 3650930298,
@@ -15457,11 +15766,11 @@
   "hash": 3674673997,
   "name": "Immovable Object",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -15477,7 +15786,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "3678483220": {
   "hash": 3678483220,
@@ -15552,8 +15862,8 @@
   "hash": 3700496672,
   "name": "Shoot to Loot",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1660340225750,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -15575,7 +15885,8 @@
     "main": "After Shooting an Ammo Pickup:\nPicks up the Ammo and Refreshes all your Weapons.\nTriggers Ammo Pickup effects. Only activates if you are not full on Ammo.\n\n🡅Enhanced: Passively grants +5 Range.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 2840833776
  },
  "3705817207": {
   "hash": 3705817207,
@@ -15611,8 +15922,8 @@
   "hash": 3708227201,
   "name": "Surrounded",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -15646,7 +15957,8 @@
     "main": "While within 8 metres of 3+ Enemies:\n30% Increased Damage. (Swords receive a 25% Damage Increase)\n\n🡅Enhanced: Surrounded's damage buff is increased by a multiplicative 5%.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 781192741
  },
  "3717985200": {
   "hash": 3717985200,
@@ -15716,8 +16028,8 @@
   "hash": 3721627275,
   "name": "Swap Mag",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -15934,11 +16246,11 @@
   "hash": 3755250867,
   "name": "Under Pressure",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -15954,7 +16266,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "3785661089": {
   "hash": 3785661089,
@@ -16038,8 +16351,8 @@
   "hash": 3796465595,
   "name": "Impact Casing",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -16122,8 +16435,8 @@
   "hash": 3800201097,
   "name": "Immovable Object",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -16145,7 +16458,8 @@
     "main": "While blocking and stationary:\n[50%?] Additional Weapon Energy on Hit.\n\n🡅Enhanced: Increases Energy Bonus on Hit.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3674673997
  },
  "3824105627": {
   "hash": 3824105627,
@@ -16287,11 +16601,11 @@
   "hash": 3878366039,
   "name": "Impulse Amplifier",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 951095735",
+    "secondary": "import secondary from 951095735"
    }
   },
   "updateTracker": {
@@ -16307,7 +16621,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 951095735,
+  "uploadedBy": "Fading Shadow"
  },
  "3901392720": {
   "hash": 3901392720,
@@ -16416,8 +16732,8 @@
   "hash": 3913600130,
   "name": "Whirlwind Blade",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -16467,7 +16783,8 @@
     "main": "武器命中时：\n在 3.5(?) 秒内提高 3% | 6% | 9% | 12% | 15% | 18% | 21% | 24% | 27% | 30% 伤害。\n防御时移除所有效果。",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 147913470
  },
  "3920370755": {
   "hash": 3920370755,
@@ -16542,8 +16859,8 @@
   "hash": 3927722942,
   "name": "Lasting Impression",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -16583,7 +16900,8 @@
     "value": 50,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 1167468626
  },
  "3927963100": {
   "hash": 3927963100,
@@ -16760,11 +17078,11 @@
   "hash": 3974407819,
   "name": "No Distractions",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2866798147",
+    "secondary": "import secondary from 2866798147"
    }
   },
   "updateTracker": {
@@ -16780,14 +17098,16 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2866798147,
+  "uploadedBy": "Fading Shadow"
  },
  "3977735242": {
   "hash": 3977735242,
   "name": "Tracking Module",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -16817,17 +17137,18 @@
     "main": "当瞄准敌人时：\n火箭可追踪敌人 <pvp [PVP 时追踪效果渐弱] />\n取消瞄准时，追踪效果持续 1 秒。\n\n强化特征： +5 爆炸范围。",
     "secondary": "当瞄准敌人时：\n火箭可追踪敌人 [PVP 时追踪效果渐弱]\n取消瞄准时，追踪效果持续 1 秒。\n\n强化特征： +5 爆炸范围。"
    }
-  }
+  },
+  "linkedWith": 406461158
  },
  "3979224005": {
   "hash": 3979224005,
   "name": "Shield Disorient",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -16843,7 +17164,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "3988215619": {
   "hash": 3988215619,
@@ -16925,8 +17247,8 @@
   "hash": 3999527219,
   "name": "Remote Detonation",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -17088,11 +17410,11 @@
   "hash": 4045335048,
   "name": "Headseeker",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 460017080",
+    "secondary": "import secondary from 460017080"
    }
   },
   "updateTracker": {
@@ -17115,7 +17437,9 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 460017080,
+  "uploadedBy": "Fading Shadow"
  },
  "4048389864": {
   "hash": 4048389864,
@@ -17152,8 +17476,8 @@
   "hash": 4049631843,
   "name": "One for All",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": false,
   "optional": false,
@@ -17186,14 +17510,15 @@
     "main": "After Damaging 3 Separate Enemies within 3 seconds of each:\n35% Increased Damage for 10 seconds.\nBuff can't be refreshed.\n\n🡅Enhanced: Buff Duration is increased to 11 seconds.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 859780267
  },
  "4071163871": {
   "hash": 4071163871,
   "name": "Threat Detector",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -17255,14 +17580,15 @@
     "main": "15 米内有敌人时，获得以下提升：\n\n< table >\n|b 敌人数量    |b 稳定性     |b 装填速度               |b 动画持续时间\n|b 1           |  ~15       |  15                     |  0.75x <background/>\n|  实际数值     |            |  <formula [reload_0] /> |  <formula 准备：[ready_0] />\n|              |            |                         |  <formula 收起：[stow_0] />\n|b 2+          |  ~40       |  55                     |  0.56x <background/>\n|  实际数值     |            |  <formula [reload_1] /> |  <formula 准备：[ready_1] />\n|              |            |                         |  <formula 收起：[stow_1] />\n<$>\n\n强化特征：增强 Buff 效果。",
     "secondary": "15 米内有 1 个敌人时：\n~15 稳定性、15 装填速度、0.75x 操作动画持续时间。\n\n15 米内有 2 个以上敌人时：\n~40 稳定性、55 装填速度、0.56x 操作动画持续时间。\n\n强化特征：增强 Buff 效果。"
    }
-  }
+  },
+  "linkedWith": 494941759
  },
  "4082225868": {
   "hash": 4082225868,
   "name": "Swashbuckler",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -17300,17 +17626,18 @@
     "main": "On Weapon or Melee Kill:\nIncreased Damage for 4.5 seconds.\n\nBuff is refreshed on Kill. Melee Kills grants max stacks instantly.\n\n< table wide >\n|  Stacks          | 1x   | 2x    | 3x  | 4x    | 5x  <bold/>\n|b Damage Increase | 6.7% | 13.3% | 20% | 26.6% | 33.3% <background/>\n<$>\n\n🡅Enhanced: Buff Duration is increased to 5 seconds.",
     "secondary": "On Weapon or Melee Kill:\n6.7% | 13.3% | 20% | 26.6% | 33.3% Increased Damage for 4.5 seconds.\n\nBuff is refreshed on Kill. Melee Kills grants max stacks instantly.\n\nEnhanced: Buff Duration is increased to 5 seconds."
    }
-  }
+  },
+  "linkedWith": 1161469972
  },
  "4085959009": {
   "hash": 4085959009,
   "name": "Relentless Strikes",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1749209109",
+    "secondary": "import secondary from 1749209109"
    }
   },
   "updateTracker": {
@@ -17326,7 +17653,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 1749209109,
+  "uploadedBy": "Fading Shadow"
  },
  "4091000557": {
   "hash": 4091000557,
@@ -17466,8 +17795,8 @@
   "hash": 4104185692,
   "name": "Frenzy",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -17518,17 +17847,18 @@
     "main": "After being <title in Combat [in combat] /> for 12 seconds:\n15% Increased Damage, +50 Handling, and +50 Reload Speed.\n\nLasts until you're out of combat and works while stowed.\n\n<formula Reload Time: [reload_0] />\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] /> \n\n🡅Enhanced: In Combat Timer is increased to 5.5 seconds\n\ntitle in combat (\nDefined as having either dealt or received damage within 5 seconds.\n)",
     "secondary": "After being in Combat for 12 seconds:\n15% Increased Damage, +50 Handling, and +50 Reload Speed.\n\nLasts until you're out of combat and works while stowed.\n\nBeing in Combat is defined as having either dealt or received damage within 5 seconds.\n\nEnhanced: In Combat Timer is increased to 5.5 seconds"
    }
-  }
+  },
+  "linkedWith": 3007133316
  },
  "4116820839": {
   "hash": 4116820839,
   "name": "Snapshot Sights",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -17551,7 +17881,8 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "uploadedBy": "Fading Shadow"
  },
  "4134353779": {
   "hash": 4134353779,
@@ -17637,8 +17968,8 @@
   "hash": 4152709778,
   "name": "Iron Gaze",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": true,
@@ -17680,7 +18011,8 @@
     "value": -30,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 3609952942
  },
  "4154828211": {
   "hash": 4154828211,
@@ -17762,11 +18094,11 @@
   "hash": 4183521337,
   "name": "Tireless Blade",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2590710093",
+    "secondary": "import secondary from 2590710093"
    }
   },
   "updateTracker": {
@@ -17782,7 +18114,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2590710093,
+  "uploadedBy": "Fading Shadow"
  },
  "4190535237": {
   "hash": 4190535237,
@@ -17848,11 +18182,11 @@
   "hash": 4207509907,
   "name": "Killing Wind",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2450788523",
+    "secondary": "import secondary from 2450788523"
    }
   },
   "updateTracker": {
@@ -17868,7 +18202,9 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2450788523,
+  "uploadedBy": "Fading Shadow"
  },
  "4222205045": {
   "hash": 4222205045,
@@ -17951,11 +18287,11 @@
   "hash": 4245865861,
   "name": "Subsistence",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "",
+    "secondary": ""
    }
   },
   "updateTracker": {
@@ -17971,7 +18307,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "uploadedBy": "Fading Shadow"
  },
  "4251375227": {
   "hash": 4251375227,
@@ -18110,11 +18447,11 @@
   "hash": 4290541820,
   "name": "Golden Tricorn Enhanced",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 0,
+  "lastUpload": 1667225803761,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 2610012052",
+    "secondary": "import secondary from 2610012052"
    }
   },
   "updateTracker": {
@@ -18130,14 +18467,16 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 2610012052,
+  "uploadedBy": "Fading Shadow"
  },
  "4293542123": {
   "hash": 4293542123,
   "name": "Incandescent",
   "type": "weaponPerk",
-  "uploadedBy": "Fading-Shadow",
-  "lastUpload": 1659903012345,
+  "uploadedBy": "Fading Shadow",
+  "lastUpload": 1667225803761,
   "inLiveDatabase": false,
   "uploadToLive": true,
   "optional": false,
@@ -18159,6 +18498,7 @@
     "main": "On Weapon Kill:\nApply 30 Scorch to enemies within [?] meters.\nEmber of Ashes increases this to 40 Scorch.\n\nKilling Powerful Combatants and Players increases the range to 8 meters.\n\nDamage from Scorch can be increased through Weapon Damage Increases, Debuffs, and Combatant Rank Modifiers.\n\n🡅Enhanced: Increases the amount of Scorch Stacks applied to 45 against PVE Combatants with Ember of Ashes equipped.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 2675184851
  }
 }
