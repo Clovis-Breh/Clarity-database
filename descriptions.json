@@ -4730,7 +4730,7 @@
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1667216987628,
+     "lastUpdate": 1667218185408,
      "updatedBy": "Fading Shadow"
     },
     "es": {
@@ -4741,7 +4741,7 @@
   },
   "editor": {
    "en": {
-    "main": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\n< weapon type ( fusion rifle ) >\nOn this weapon: ${29 * #d}% per hit, up to ${435 * #d}%\n<$$>\n< weapon type ( auto rifle, machine gun, pulse rifle, trace rifle ) >\nOn this weapon: ${33.3 * #d}% per hit, up to ${500 * #d}%\n<$$>\n< weapon type ( linear fusion rifle ) >\nOn this weapon: ${150 * #d}% per hit, up to ${450 * #d}%\n<$$>\n< weapon type ( combat bow, glaive, hand cannon, scout rifle ) >\nOn this weapon: ${166.6 * #d}% per hit, up to ${500 * #d}%\n<$$>\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nenhanced (\n\n🡅Enhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%. This is factored into the shown numbers.\n\n)\n<title Hover to see the effects on each weapon type. [weapon list] />\n\ntitle weapon list (\n< table wide >\n|c Weapon Type         |c   Damage Increase Increment |c   Maximum Damage Increase <bold/>\n|  Fusion Rifle        |c   ${29 * #d}%               |c   ${435 * #d}%            <background/>\n|  Linear Fusion Rifle |c   ${150 * #d}%              |c   ${450 * #d}%\n|  Auto Rifle          |-4c ${33.3 * #d}%             |-4c ${500 * #d}%            <background/>\n|  Machine Gun                                                                     <background/>\n|  Pulse Rifles                                                                    <background/>\n|  Trace Rifle                                                                     <background/>\n|  Bow                 |-4c ${166.6 * #d}%            |-4c ${500 * #d}%\n|  Glaive\n|  Hand Cannon\n|  Scout Rifle\n<$>\n)\nenhanced (\nvar d = 1.2\n)",
+    "main": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\n< weapon type ( fusion rifle ) >\nOn this weapon: ${29 * #d}% per hit, up to ${435 * #d}%\n<$$>\n< weapon type ( auto rifle, machine gun, pulse rifle, trace rifle ) >\nOn this weapon: ${33.3 * #d}% per hit, up to ${500 * #d}%\n<$$>\n< weapon type ( linear fusion rifle ) >\nOn this weapon: ${150 * #d}% per hit, up to ${450 * #d}%\n<$$>\n< weapon type ( combat bow, glaive, hand cannon, scout rifle ) >\nOn this weapon: ${166.6 * #d}% per hit, up to ${500 * #d}%\n<$$>\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\nenhanced (\nvar d = 1.2\n\n🡅Enhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%. This is factored into the shown numbers.\n\n)\n<title Hover to see the effects on each weapon type. [weapon list] />\n\ntitle weapon list (\n< table wide >\n|c Weapon Type         |c   Damage Increase Increment |c   Maximum Damage Increase <bold/>\n|  Fusion Rifle        |c   ${29 * #d}%               |c   ${435 * #d}%            <background/>\n|  Linear Fusion Rifle |c   ${150 * #d}%              |c   ${450 * #d}%\n|  Auto Rifle          |-4c ${33.3 * #d}%             |-4c ${500 * #d}%            <background/>\n|  Machine Gun                                                                     <background/>\n|  Pulse Rifles                                                                    <background/>\n|  Trace Rifle                                                                     <background/>\n|  Bow                 |-4c ${166.6 * #d}%            |-4c ${500 * #d}%\n|  Glaive\n|  Hand Cannon\n|  Scout Rifle\n<$>\n)",
     "secondary": "Upon hitting a Non-Matching Shield or a Barrier Champion Shield:\nHits deal increasingly higher damage against Combatant Shields.\n\nBuff is removed upon hitting a matching shield or an unshielded enemy.\n\n29% per hit, up to 435%: Fusion Rifles\n\n33.3% per hit, up to 500%:\nAuto Rifles, Machine Guns, Pulse Rifles, Trace Rifles\n\n150% per hit, up to 450%: Linear Fusion Rifles\n\n166.6% per hit, up to 500%:\nBows, Glaives, Hand Cannons, Scout Rifles\n\n\nEnhanced: Damage Increase per Stack and Maximum Damage Increase are increased by a multiplicative 20%\nEg: 500% -> 600%"
    },
    "es": {
@@ -5948,7 +5948,7 @@
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1667217061785,
+     "lastUpdate": 1667217936078,
      "updatedBy": "Fading Shadow"
     }
    }
@@ -5966,10 +5966,11 @@
   },
   "editor": {
    "en": {
-    "main": "While holding down the trigger:\nGradually increases Accuracy and Stability, up to -100% Accuracy Cone Size and +10 Stability after firing 10 shots.\nEffect at maximum strength removes all spread.\n\n🡅Enhanced: Effect reaches full effect after [8?] shots.",
+    "main": "While holding down the trigger:\nEvery successive shot grants -10% Accuracy Cone Size and +1 Stability, up to -100% Accuracy Cone Size and +10 Stability after firing 10 shots.\n\nEffect at maximum strength removes all spread.\n\n🡅Enhanced: Effect reaches maximum strength after 8 shots.",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3060983774
  },
  "1370847713": {
   "hash": 1370847713,
@@ -12927,8 +12928,8 @@
   "lastUpload": 0,
   "editor": {
    "en": {
-    "main": "none",
-    "secondary": "empty"
+    "main": "import main from 1359896290",
+    "secondary": "import secondary from 1359896290"
    }
   },
   "updateTracker": {
@@ -12944,7 +12945,8 @@
   "uploadToLive": false,
   "hidden": false,
   "inLiveDatabase": false,
-  "optional": false
+  "optional": false,
+  "linkedWith": 1359896290
  },
  "3078487919": {
   "hash": 3078487919,
