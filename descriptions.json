@@ -83,7 +83,7 @@
   "lastUpload": 0,
   "editor": {
    "en": {
-    "main": "title G_refreshes (\nReload, but does not need animation and doesn't proc on-reload perks.\n)"
+    "main": "title G_refresh (\nReload, but does not need animation and doesn't proc on-reload perks.\n)"
    }
   },
   "updateTracker": {
@@ -92,8 +92,8 @@
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1665004789092,
-     "undatedBy": "Fading Shadow"
+     "lastUpdate": 1667219834636,
+     "updatedBy": "Fading Shadow"
     }
    }
   },
@@ -770,7 +770,8 @@
      }
     }
    ]
-  }
+  },
+  "linkedWith": 3523746922
  },
  "205890336": {
   "hash": 205890336,
@@ -1295,7 +1296,8 @@
     "main": "En baja con Espada:\nAumento de 15% al Daño, y pone a la velocidad de movimiento hacia adelante a 9 metros por segundo durante [?] segundos\n\nSe mantiene activo al guardar la espada\n\nMejorado: Aumenta la duración del bufo a [?] segundos",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3678483220
  },
  "357495645": {
   "hash": 357495645,
@@ -1731,7 +1733,8 @@
     "main": "Upon dealing Melee Damage while an Enemy is within 15 meters:\n<pve 500% /> <pvp [100%] /> increased damage and +100 Handling for 10 seconds or until firing a full burst.\n4 second cooldown. Can be activated while stowed.\n\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\n🡅Enhanced: Buff duration increased to 11 seconds.",
     "secondary": "Upon dealing Melee Damage while an Enemy is within 15 meters:\n500% [PVP: 100%] increased damage and +100 Handling for 10 seconds or until firing a full burst.\n4 second cooldown. Can be activated while stowed.\n\nAny Powered Melee which requires sprinting, sliding, or performs a slam will not activate Blunt Execution Rounds.\n\nEnhanced: Buff duration increased to 11 seconds."
    }
-  }
+  },
+  "linkedWith": 2529412083
  },
  "460017080": {
   "hash": 460017080,
@@ -3118,7 +3121,8 @@
     "value": 30,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 4252909580
  },
  "706527188": {
   "hash": 706527188,
@@ -3781,8 +3785,8 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1658170590674,
-    "undatedBy": "Fading-Shadow"
+    "lastUpdate": 1667219497692,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
@@ -3793,10 +3797,12 @@
   },
   "editor": {
    "en": {
-    "main": "import stats from 3336648220\r\nimport main from 1600092898",
+    "main": "import main from 1600092898",
     "secondary": "import secondary from 1600092898"
    }
-  }
+  },
+  "linkedWith": 1600092898,
+  "importStatsFrom": 1600092898
  },
  "830282363": {
   "hash": 830282363,
@@ -7385,7 +7391,8 @@
     "main": "切换至此武器的 4 秒内：\n+30% 充能速度，-20% 伤害，+100 操控性。\n\n<formula 拔枪速度： [ready_0] />\n<formula 收起速度： [stow_0] />",
     "secondary": "切换至此武器的 4 秒内：\n+30% 充能速度，-20% 伤害，+100 操控性。"
    }
-  }
+  },
+  "linkedWith": 828056542
  },
  "1607056502": {
   "hash": 1607056502,
@@ -9294,7 +9301,8 @@
     "main": "Luego de recargar despues de  [?] segundos despues de una Baja con el arma:\nAumenta la capacidad del Cargador por baja dentro de [?] segundos\n\nPuede llegar a ser un 150% la cantidad del cargador original. Redondea hacia arriba. \n\nArmas Primarias reciben un 20% a la capacidad aumentada por baja. Armas Especiales y Pesadas reciben un 10%\n\nAumentado: Otorga +5 a la velocidad de recarga de forma pasiva",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3797647183
  },
  "2014892510": {
   "hash": 2014892510,
@@ -10503,7 +10511,7 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1667218774505,
+    "lastUpdate": 1667219366382,
     "updatedBy": "Fading Shadow"
    },
    "descriptions": {
@@ -10512,30 +10520,6 @@
      "undatedBy": "Fading-Shadow"
     }
    }
-  },
-  "stats": {
-   "handling": [
-    {
-     "active": {
-      "stat": [
-       20
-      ]
-     }
-    }
-   ],
-   "damage": [
-    {
-     "active": {
-      "multiplier": [
-       1.066,
-       1.132,
-       1.2,
-       1.266,
-       1.33
-      ]
-     }
-    }
-   ]
   },
   "editor": {
    "en": {
@@ -10813,8 +10797,8 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1658170590674,
-    "undatedBy": "Fading-Shadow"
+    "lastUpdate": 1667219774494,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
@@ -10823,33 +10807,14 @@
     }
    }
   },
-  "stats": {
-   "handling": [
-    {
-     "active": {
-      "stat": [
-       100
-      ]
-     }
-    }
-   ],
-   "damage": [
-    {
-     "active": {
-      "multiplier": [
-       5,
-       2
-      ]
-     }
-    }
-   ]
-  },
   "editor": {
    "en": {
-    "main": "import stats from 454085387\r\nimport main from 454085387",
+    "main": "import main from 454085387",
     "secondary": "import secondary from 454085387"
    }
-  }
+  },
+  "linkedWith": 454085387,
+  "importStatsFrom": 454085387
  },
  "2541826827": {
   "hash": 2541826827,
@@ -12892,7 +12857,7 @@
   "lastUpload": 1659903012345,
   "inLiveDatabase": false,
   "uploadToLive": false,
-  "optional": false,
+  "optional": true,
   "hidden": false,
   "updateTracker": {
    "stats": {
@@ -13067,7 +13032,8 @@
     "main": "在 [?] 秒内使用所有武器造成伤害后：\n提高 30% 该武器伤害，持续 10 秒。\n\n强化特征：增益持续时间提高到 11 秒。",
     "secondary": "import self"
    }
-  }
+  },
+  "linkedWith": 3744057135
  },
  "3096702027": {
   "hash": 3096702027,
@@ -13807,7 +13773,8 @@
     "main": "<<title Rellena [G_refreshes] /> el arma guardada luego de 2.5 segundos\n\nMejorado: El tiempo de activacion es reducido a 2.3 segundos",
     "secondary": "Rellena el arma, si esta guardada, luego de 2.5 segundos\n\nMejorado: El tiempo de activacion se reduce a 2.3 segundos"
    }
-  }
+  },
+  "linkedWith": 3528046508
  },
  "3301904089": {
   "hash": 3301904089,
@@ -14803,8 +14770,8 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1658170590674,
-    "undatedBy": "Fading-Shadow"
+    "lastUpdate": 1667219332476,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
@@ -14818,7 +14785,9 @@
     "main": "import main from 201365942",
     "secondary": "import secondary from 201365942"
    }
-  }
+  },
+  "linkedWith": 201365942,
+  "importStatsFrom": 201365942
  },
  "3526486541": {
   "hash": 3526486541,
@@ -14884,7 +14853,8 @@
     "main": "import main from 3300816228",
     "secondary": "import secondary from 3300816228"
    }
-  }
+  },
+  "linkedWith": 3300816228
  },
  "3556461530": {
   "hash": 3556461530,
@@ -15375,8 +15345,8 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1658170590674,
-    "undatedBy": "Fading-Shadow"
+    "lastUpdate": 1667219432508,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
@@ -15390,7 +15360,9 @@
     "main": "import main from 354401740",
     "secondary": "import secondary from 354401740"
    }
-  }
+  },
+  "linkedWith": 354401740,
+  "importStatsFrom": 354401740
  },
  "3683811620": {
   "hash": 3683811620,
@@ -15761,8 +15733,8 @@
   "hidden": false,
   "updateTracker": {
    "stats": {
-    "lastUpdate": 1658170590674,
-    "undatedBy": "Fading-Shadow"
+    "lastUpdate": 1667219491068,
+    "updatedBy": "Fading Shadow"
    },
    "descriptions": {
     "en": {
@@ -15771,23 +15743,14 @@
     }
    }
   },
-  "stats": {
-   "damage": [
-    {
-     "active": {
-      "multiplier": [
-       1.35
-      ]
-     }
-    }
-   ]
-  },
   "editor": {
    "en": {
-    "main": "import stats from 3078487919\r\nimport main from 3078487919",
+    "main": "import main from 3078487919",
     "secondary": "import secondary from 3078487919"
    }
-  }
+  },
+  "linkedWith": 3078487919,
+  "importStatsFrom": 3078487919
  },
  "3754350707": {
   "hash": 3754350707,
@@ -16001,7 +15964,8 @@
     "value": 5,
     "isConditionallyActive": true
    }
-  ]
+  ],
+  "linkedWith": 2010801679
  },
  "3800201097": {
   "hash": 3800201097,
@@ -17864,14 +17828,14 @@
    },
    "descriptions": {
     "en": {
-     "lastUpdate": 1659903012345,
-     "undatedBy": "Fading-Shadow"
+     "lastUpdate": 1667219825477,
+     "updatedBy": "Fading Shadow"
     }
    }
   },
   "editor": {
    "en": {
-    "main": "While Last Guardian Standing:\nKills fully <title refresh [refresh] /> Magazine.\n\nPassively grants +30 Magazine stat.\n\ntitle refresh (\nReload, but does not need animation and doesn't proc on-reload perks.\n)",
+    "main": "While Last Guardian Standing:\nKills fully <title refresh [G_refresh] /> Magazine.\n\nPassively grants +30 Magazine stat.\n",
     "secondary": "While Last Guardian Standing:\r\nKills fully refresh Magazine.\r\n\r\nPassively grants +30 Magazine stat."
    }
   },
@@ -17881,7 +17845,8 @@
     "value": 30,
     "isConditionallyActive": false
    }
-  ]
+  ],
+  "linkedWith": 706172244
  },
  "4267945040": {
   "hash": 4267945040,
