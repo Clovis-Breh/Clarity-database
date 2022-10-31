@@ -3,7 +3,7 @@
   "hash": 0,
   "name": "Default perk",
   "type": "none",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "uploadedBy": "Fading Shadow",
   "editor": {
    "en": {
@@ -25,7 +25,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false
  },
  "1": {
@@ -149,9 +149,9 @@
   "name": "Iron Grip",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": true,
   "hidden": false,
   "updateTracker": {
@@ -320,9 +320,9 @@
   "name": "Opening Shot",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -556,8 +556,8 @@
   "name": "Headstone",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -585,7 +585,7 @@
   "hash": 147913470,
   "name": "Whirlwind Blade",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 3913600130",
@@ -604,7 +604,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 3913600130,
   "uploadedBy": "Fading Shadow"
@@ -613,7 +613,7 @@
   "hash": 162561147,
   "name": "Mulligan",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -632,7 +632,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -675,7 +675,7 @@
   "hash": 183938251,
   "name": "Under-Over",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "uploadedBy": "Fading Shadow",
   "editor": {
    "en": {
@@ -742,7 +742,7 @@
   "hash": 191144788,
   "name": "Slideshot",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -761,7 +761,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -827,9 +827,9 @@
   "name": "Underdog",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -1018,9 +1018,9 @@
   "name": "Rapid Hit",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -1082,7 +1082,7 @@
   "hash": 254337357,
   "name": "Reservoir Burst",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1427256713",
@@ -1101,7 +1101,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -1192,7 +1192,7 @@
   "hash": 288411554,
   "name": "Rampage",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -1211,7 +1211,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -1255,7 +1255,7 @@
   "hash": 320071920,
   "name": "Underdog",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 205890336",
@@ -1274,7 +1274,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 205890336,
   "uploadedBy": "Fading Shadow"
@@ -1574,7 +1574,7 @@
   "hash": 402033656,
   "name": "Grave Robber",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1631667848",
@@ -1593,7 +1593,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -1649,7 +1649,7 @@
   "hash": 406461158,
   "name": "Tracking Module",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -1668,7 +1668,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -1684,11 +1684,11 @@
   "name": "Proximity Grenades",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": true,
-  "hidden": false,
+  "hidden": true,
   "updateTracker": {
    "stats": {
     "lastUpdate": 1659903012345,
@@ -1720,8 +1720,8 @@
   "name": "Harmony",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -1821,8 +1821,8 @@
   "name": "Headseeker",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -1861,7 +1861,7 @@
   "hash": 461595545,
   "name": "Reconstruction",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -1880,7 +1880,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -1925,8 +1925,8 @@
   "name": "Recombination",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -2036,7 +2036,7 @@
   "hash": 494941759,
   "name": "Threat Detector",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -2055,7 +2055,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -2064,9 +2064,9 @@
   "name": "Steady Hands",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -2108,7 +2108,7 @@
   "hash": 509594246,
   "name": "Rangefinder",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2846385770",
@@ -2127,7 +2127,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -2210,7 +2210,7 @@
   "hash": 536173722,
   "name": "Pugilist",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "uploadedBy": "Fading Shadow",
   "editor": {
    "en": {
@@ -2271,9 +2271,9 @@
   "name": "Killing Tally",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -2375,7 +2375,7 @@
   "hash": 573122728,
   "name": "Triple Tap",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 3400784728",
@@ -2394,7 +2394,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 3400784728,
   "uploadedBy": "Fading Shadow"
@@ -2404,9 +2404,9 @@
   "name": "Moving Target",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -2451,9 +2451,9 @@
   "name": "Iron Reach",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": true,
   "hidden": false,
   "updateTracker": {
@@ -2744,7 +2744,7 @@
   "hash": 617966211,
   "name": "Successful Warm-Up",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2652708987",
@@ -2763,7 +2763,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2652708987,
   "uploadedBy": "Fading Shadow"
@@ -3094,7 +3094,7 @@
   "hash": 691659142,
   "name": "Pugilist",
   "type": "weaponPerk",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "Kills with <primary/>Primary Weapons and <heavy/>Power Weapons grant 10% Melee Ability Energy. Most <special/>Special Weapons grant 20%.\n\nGlaives, Grenade Launchers, and Trace Rifles share the ability gains of primary weapons.\n\nDealing Melee Damage grants +35 Handling for 3 seconds.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\n🡅Enhanced: Kills with Primary Weapons and Power Weapons grant 11% Melee Ability Energy. [Most] Special Weapons grant 22%.",
@@ -3113,9 +3113,9 @@
     }
    }
   },
-  "uploadToLive": true,
+  "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "stats": {
    "handling": [
@@ -3276,9 +3276,9 @@
   "name": "Quickdraw",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -3534,9 +3534,9 @@
   "name": "Well-Rounded",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -3677,9 +3677,9 @@
   "name": "Repulsor Brace",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -3706,7 +3706,7 @@
   "hash": 777774560,
   "name": "Osmosis",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1774574192",
@@ -3725,7 +3725,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -3741,7 +3741,7 @@
   "hash": 781192741,
   "name": "Surrounded",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 3708227201",
@@ -3760,7 +3760,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 3708227201,
   "uploadedBy": "Fading Shadow"
@@ -3769,7 +3769,7 @@
   "hash": 788178929,
   "name": "One-Two Punch",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2679249093",
@@ -3788,7 +3788,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2679249093,
   "uploadedBy": "Fading Shadow"
@@ -3798,9 +3798,9 @@
   "name": "Trench Barrel",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -3857,9 +3857,9 @@
   "name": "Shattering Blade",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -4008,7 +4008,7 @@
   "hash": 834262328,
   "name": "Kickstart",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1754714824",
@@ -4027,7 +4027,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 1754714824,
   "uploadedBy": "Fading Shadow"
@@ -4066,7 +4066,7 @@
   "hash": 843318450,
   "name": "Steady Hands",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 509074078",
@@ -4085,7 +4085,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 509074078,
   "uploadedBy": "Fading Shadow"
@@ -4094,7 +4094,7 @@
   "hash": 848860060,
   "name": "Fourth Time's the Charm",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1354429876",
@@ -4113,7 +4113,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 1354429876,
   "uploadedBy": "Fading Shadow"
@@ -4122,7 +4122,7 @@
   "hash": 855168139,
   "name": "Unrelenting",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 3108830275",
@@ -4141,7 +4141,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -4157,7 +4157,7 @@
   "hash": 859780267,
   "name": "One for All",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -4176,7 +4176,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -4326,9 +4326,9 @@
   "name": "Sneak Bow",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -4539,8 +4539,8 @@
   "name": "Impulse Amplifier",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -4583,8 +4583,8 @@
   "name": "Snapshot Sights",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -4643,9 +4643,9 @@
   "name": "Pulse Monitor",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -4740,7 +4740,7 @@
   "hash": 987673306,
   "name": "Tunnel Vision",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -4759,7 +4759,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -4838,9 +4838,9 @@
   "name": "Kill Clip",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -5044,8 +5044,8 @@
   "name": "Seraph Rounds",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -5322,7 +5322,7 @@
   "hash": 1161469972,
   "name": "Swashbuckler",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 4082225868",
@@ -5341,7 +5341,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 4082225868,
   "uploadedBy": "Fading Shadow"
@@ -5396,7 +5396,7 @@
   "hash": 1167468626,
   "name": "Lasting Impression",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 3927722942",
@@ -5415,7 +5415,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -5437,9 +5437,9 @@
   "name": "Outlaw",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -5510,7 +5510,7 @@
   "hash": 1171887445,
   "name": "Headstone",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 124408337",
@@ -5529,7 +5529,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -5545,7 +5545,7 @@
   "hash": 1172098417,
   "name": "Sleight of Hand",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -5564,7 +5564,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -5572,7 +5572,7 @@
   "hash": 1172413778,
   "name": "Thresh",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -5591,7 +5591,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -6095,7 +6095,7 @@
   "hash": 1347741687,
   "name": "Outlaw",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1168162263",
@@ -6114,7 +6114,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 1168162263,
   "uploadedBy": "Fading Shadow"
@@ -6124,9 +6124,9 @@
   "name": "Fourth Time's the Charm",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -6251,7 +6251,7 @@
   "hash": 1370847713,
   "name": "Opening Shot",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 47981717",
@@ -6270,7 +6270,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 47981717,
   "uploadedBy": "Fading Shadow"
@@ -6279,7 +6279,7 @@
   "hash": 1409206216,
   "name": "Stats for All",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -6298,7 +6298,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -6338,9 +6338,9 @@
   "name": "Reservoir Burst",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -6386,9 +6386,9 @@
   "name": "Perpetual Motion",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -6891,7 +6891,7 @@
   "hash": 1523649716,
   "name": "Tap the Trigger",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -6910,7 +6910,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -6919,8 +6919,8 @@
   "name": "Reconstruction",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -6998,8 +6998,8 @@
   "name": "Outlaw",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": true,
@@ -7065,7 +7065,7 @@
   "hash": 1537607344,
   "name": "Sympathetic Arsenal",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 3350417888",
@@ -7084,7 +7084,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -7100,7 +7100,7 @@
   "hash": 1545231802,
   "name": "Redirection",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 3201496230",
@@ -7119,7 +7119,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 3201496230,
   "uploadedBy": "Fading Shadow"
@@ -7129,9 +7129,9 @@
   "name": "Vorpal Weapon",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -7207,9 +7207,9 @@
   "name": "Lead from Gold",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -7237,8 +7237,8 @@
   "name": "High-Caliber Rounds",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -7302,7 +7302,7 @@
   "hash": 1562897767,
   "name": "Timed Payload",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -7321,7 +7321,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -7336,7 +7336,7 @@
   "hash": 1563455254,
   "name": "Rewind Rounds",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 3418782618",
@@ -7355,7 +7355,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 3418782618,
   "uploadedBy": "Fading Shadow"
@@ -7365,8 +7365,8 @@
   "name": "Heating Up",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -7407,9 +7407,9 @@
   "name": "Stats for All",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -7647,7 +7647,7 @@
   "hash": 1609056795,
   "name": "Fragile Focus",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2451262963",
@@ -7666,7 +7666,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2451262963,
   "uploadedBy": "Fading Shadow"
@@ -7675,7 +7675,7 @@
   "hash": 1618208178,
   "name": "Eager Edge",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -7694,7 +7694,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -7736,8 +7736,8 @@
   "name": "Grave Robber",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -7766,8 +7766,8 @@
   "name": "Under Pressure",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -7835,7 +7835,7 @@
   "hash": 1658784563,
   "name": "Genesis",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 3096702027",
@@ -7854,7 +7854,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 3096702027,
   "uploadedBy": "Fading Shadow"
@@ -7863,7 +7863,7 @@
   "hash": 1663363584,
   "name": "Sneak Bow",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 908147344",
@@ -7882,7 +7882,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -8042,7 +8042,7 @@
   "hash": 1685378950,
   "name": "Pulse Monitor",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 972757866",
@@ -8061,7 +8061,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 972757866,
   "uploadedBy": "Fading Shadow"
@@ -8403,7 +8403,7 @@
   "hash": 1720528630,
   "name": "Voltshot",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "uploadedBy": "Fading Shadow",
   "editor": {
    "en": {
@@ -8463,7 +8463,7 @@
   "hash": 1738338041,
   "name": "Tilting at Windmills",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -8482,7 +8482,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -8490,7 +8490,7 @@
   "hash": 1748774930,
   "name": "Zen Moment",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2387244414",
@@ -8509,7 +8509,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -8526,9 +8526,9 @@
   "name": "Relentless Strikes",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -8556,9 +8556,9 @@
   "name": "Kickstart",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -8647,9 +8647,9 @@
   "name": "Osmosis",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -8726,8 +8726,8 @@
   "name": "Subsistence",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -8755,7 +8755,7 @@
   "hash": 1821614984,
   "name": "Slickdraw",
   "type": "weaponPerk",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "Passively grants +100 Handling, 0.95x Ready Animation Duration Multiplier, and -[60%?] Aim Assistance Cone Size.\n\n<formula Ready Speed: [ready_0] />\n<formula Stow Speed: [stow_0] />\n\n🡅Enhanced: Aim Assistance Cone Size Penalty is decreased to -[?]%.",
@@ -8774,9 +8774,9 @@
     }
    }
   },
-  "uploadToLive": true,
+  "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "stats": {
    "handling": [
@@ -8915,8 +8915,8 @@
   "name": "Hip-Fire Grip",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -8973,7 +8973,7 @@
   "hash": 1870851715,
   "name": "Under-Over",
   "type": "weaponPerk",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "Passively increases damage dealt to certain shields.\n\n20% Increased Damage against Overshields.\n10% Increased Damage against Combatant Shields.\n\n🡅Enhanced: Damage Increase to Overshields is increased.",
@@ -8991,9 +8991,9 @@
     }
    }
   },
-  "uploadToLive": true,
+  "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 183938251,
   "uploadedBy": "Fading Shadow"
@@ -9094,9 +9094,9 @@
   "name": "Tap the Trigger",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -9181,7 +9181,7 @@
   "hash": 1905598698,
   "name": "Full Court",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2888557110",
@@ -9200,7 +9200,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2888557110,
   "uploadedBy": "Fading Shadow"
@@ -9321,7 +9321,7 @@
   "hash": 1942880504,
   "name": "Slickdraw",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "uploadedBy": "Fading Shadow",
   "editor": {
    "en": {
@@ -9351,8 +9351,8 @@
   "name": "Timed Payload",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -9388,7 +9388,7 @@
   "hash": 1961144892,
   "name": "Quickdraw",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 706527188",
@@ -9407,7 +9407,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -9517,7 +9517,7 @@
   "hash": 2000295559,
   "name": "Turnabout",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2209918983",
@@ -9536,7 +9536,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2209918983,
   "uploadedBy": "Fading Shadow"
@@ -9545,7 +9545,7 @@
   "hash": 2002547233,
   "name": "High-Impact Reserves",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2213355989",
@@ -9564,7 +9564,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2213355989,
   "uploadedBy": "Fading Shadow"
@@ -9619,7 +9619,7 @@
   "hash": 2014892510,
   "name": "Perpetual Motion Enhanced",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -9638,7 +9638,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -9677,8 +9677,8 @@
   "name": "Slideways",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -9937,7 +9937,7 @@
   "hash": 2139363611,
   "name": "Well-Rounded",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -9956,7 +9956,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -9992,9 +9992,9 @@
   "name": "Sleight of Hand",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -10057,7 +10057,7 @@
   "hash": 2173046394,
   "name": "Voltshot",
   "type": "weaponPerk",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "Upon finishing a reload within 3.8 seconds of a Kill:\nYour next Weapon Hit within 7 seconds applies Jolt. \n\nDamage from Jolt can be increased through Weapon Damage Increases, Debuffs, and Combatant Rank Modifiers.\n\n🡅Enhanced: Buff Duration is increased to 8 seconds.",
@@ -10075,9 +10075,9 @@
     }
    }
   },
-  "uploadToLive": true,
+  "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 1720528630,
   "uploadedBy": "Fading Shadow"
@@ -10263,9 +10263,9 @@
   "name": "Turnabout",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -10301,8 +10301,8 @@
   "name": "High-Impact Reserves",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -10359,8 +10359,8 @@
   "name": "Unstoppable Force",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -10400,9 +10400,9 @@
   "name": "Flash Counter",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -10714,9 +10714,9 @@
   "name": "Zen Moment",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -10751,7 +10751,7 @@
   "hash": 2396422520,
   "name": "Slideways",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2039302152",
@@ -10770,7 +10770,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2039302152,
   "uploadedBy": "Fading Shadow"
@@ -10817,7 +10817,7 @@
   "hash": 2402480669,
   "name": "Focused Fury",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2896038713",
@@ -10836,7 +10836,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2896038713,
   "uploadedBy": "Fading Shadow"
@@ -10877,9 +10877,9 @@
   "name": "Killing Wind",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -10930,9 +10930,9 @@
   "name": "Fragile Focus",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -10971,9 +10971,9 @@
   "name": "Multikill Clip",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -11013,7 +11013,7 @@
   "hash": 2459015849,
   "name": "Trench Barrel",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 806159697",
@@ -11032,7 +11032,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 806159697,
   "uploadedBy": "Fading Shadow"
@@ -11190,7 +11190,7 @@
   "hash": 2541826827,
   "name": "Repulsor Brace",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 776531651",
@@ -11209,7 +11209,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 776531651,
   "uploadedBy": "Fading Shadow"
@@ -11262,7 +11262,7 @@
   "hash": 2570477205,
   "name": "Multikill Clip",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2458213969",
@@ -11281,7 +11281,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2458213969,
   "uploadedBy": "Fading Shadow"
@@ -11291,9 +11291,9 @@
   "name": "Tireless Blade",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -11362,9 +11362,9 @@
   "name": "Golden Tricorn",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -11523,8 +11523,8 @@
   "name": "Successful Warm-Up",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -11563,7 +11563,7 @@
   "hash": 2658083589,
   "name": "Surplus",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -11582,7 +11582,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -11704,7 +11704,7 @@
   "hash": 2675184851,
   "name": "Incandescent",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 4293542123",
@@ -11723,7 +11723,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 4293542123,
   "uploadedBy": "Fading Shadow"
@@ -11732,7 +11732,7 @@
   "hash": 2675361166,
   "name": "Wellspring",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -11751,7 +11751,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -11760,9 +11760,9 @@
   "name": "One-Two Punch",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -11797,7 +11797,7 @@
   "hash": 2682205016,
   "name": "Overflow",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 3643424744",
@@ -11816,7 +11816,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 3643424744,
   "uploadedBy": "Fading Shadow"
@@ -11825,7 +11825,7 @@
   "hash": 2717805783,
   "name": "Moving Target",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -11844,7 +11844,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -11853,8 +11853,8 @@
   "name": "Thresh",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -11990,7 +11990,7 @@
   "hash": 2748258257,
   "name": "Heating Up",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1570042021",
@@ -12009,7 +12009,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 1570042021,
   "uploadedBy": "Fading Shadow"
@@ -12018,7 +12018,7 @@
   "hash": 2748801589,
   "name": "Harmony",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 438098033",
@@ -12037,7 +12037,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 438098033,
   "uploadedBy": "Fading Shadow"
@@ -12382,7 +12382,7 @@
   "hash": 2840833776,
   "name": "Shoot to Loot",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -12401,7 +12401,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -12417,9 +12417,9 @@
   "name": "Rangefinder",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -12515,7 +12515,7 @@
   "hash": 2860991074,
   "name": "Flash Counter",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2244851822",
@@ -12534,7 +12534,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -12551,9 +12551,9 @@
   "name": "No Distractions",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -12641,9 +12641,9 @@
   "name": "Full Court",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -12715,9 +12715,9 @@
   "name": "Focused Fury",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -12755,7 +12755,7 @@
   "hash": 2896748467,
   "name": "Killing Tally",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 557221067",
@@ -12774,7 +12774,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -12872,7 +12872,7 @@
   "hash": 2923251173,
   "name": "Kill Clip",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1015611457",
@@ -12891,7 +12891,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 1015611457,
   "uploadedBy": "Fading Shadow"
@@ -12900,7 +12900,7 @@
   "hash": 2938480696,
   "name": "Rapid Hit",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 247725512",
@@ -12919,7 +12919,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 247725512,
   "uploadedBy": "Fading Shadow"
@@ -12929,9 +12929,9 @@
   "name": "Tunnel Vision",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -13152,7 +13152,7 @@
   "hash": 3007133316,
   "name": "Frenzy",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 4104185692",
@@ -13171,7 +13171,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 4104185692,
   "uploadedBy": "Fading Shadow"
@@ -13455,8 +13455,8 @@
   "name": "Genesis",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -13484,7 +13484,7 @@
   "hash": 3097973565,
   "name": "Iron Grip",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 11551321",
@@ -13503,7 +13503,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -13524,7 +13524,7 @@
   "hash": 3102670337,
   "name": "Unstoppable Force",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2224838837",
@@ -13543,7 +13543,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2224838837,
   "uploadedBy": "Fading Shadow"
@@ -13553,8 +13553,8 @@
   "name": "Unrelenting",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -13623,7 +13623,7 @@
   "hash": 3118144663,
   "name": "Hip-Fire Grip",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1866048759",
@@ -13642,7 +13642,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 1866048759,
   "uploadedBy": "Fading Shadow"
@@ -13687,9 +13687,9 @@
   "name": "Slideshot",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -13779,8 +13779,8 @@
   "name": "Redirection",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -14095,9 +14095,9 @@
   "name": "Shield Disorient",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -14245,7 +14245,7 @@
   "hash": 3315935575,
   "name": "Iron Reach",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 591790007",
@@ -14264,7 +14264,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -14351,7 +14351,7 @@
   "hash": 3335686050,
   "name": "Recombination",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -14370,7 +14370,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -14420,9 +14420,9 @@
   "name": "Mulligan",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": true,
   "updateTracker": {
@@ -14574,8 +14574,8 @@
   "name": "Sympathetic Arsenal",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -14697,8 +14697,8 @@
   "name": "Sticky Grenades",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": true,
   "hidden": true,
@@ -14759,9 +14759,9 @@
   "name": "Triple Tap",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -14824,7 +14824,7 @@
   "hash": 3418165135,
   "name": "Vorpal Weapon",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1546637391",
@@ -14843,7 +14843,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -14860,8 +14860,8 @@
   "name": "Rewind Rounds",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -14890,9 +14890,9 @@
   "name": "Rampage",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -14972,9 +14972,9 @@
   "name": "Surplus",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -15036,7 +15036,7 @@
   "hash": 3442762221,
   "name": "Lead from Gold",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1556840489",
@@ -15055,7 +15055,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 1556840489,
   "uploadedBy": "Fading Shadow"
@@ -15147,7 +15147,7 @@
   "hash": 3513791699,
   "name": "Mulligan",
   "type": "weaponPerk",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "On Miss:\nPrimary Weapons have a 35% chance to refund ammo.\nSpecial Weapons and Power Weapons have a 20% chance to refund ammo.\n\n🡅Enhanced:\nPrimary Weapons have a [40% maybe] chance to refund ammo. \nSpecial Weapons and Power Weapons have a [25% maybe] chance to refund ammo.",
@@ -15165,9 +15165,9 @@
     }
    }
   },
-  "uploadToLive": true,
+  "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 162561147,
   "uploadedBy": "Fading Shadow"
@@ -15241,9 +15241,9 @@
   "name": "Tilting at Windmills",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -15375,8 +15375,8 @@
   "name": "Wellspring",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -15412,7 +15412,7 @@
   "hash": 3609952942,
   "name": "Iron Gaze",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 4152709778",
@@ -15431,7 +15431,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -15453,9 +15453,9 @@
   "name": "Overflow",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -15766,7 +15766,7 @@
   "hash": 3674673997,
   "name": "Immovable Object",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -15785,7 +15785,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -15863,9 +15863,9 @@
   "name": "Shoot to Loot",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -15923,9 +15923,9 @@
   "name": "Surrounded",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -16029,9 +16029,9 @@
   "name": "Swap Mag",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -16246,7 +16246,7 @@
   "hash": 3755250867,
   "name": "Under Pressure",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -16265,7 +16265,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -16352,8 +16352,8 @@
   "name": "Impact Casing",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -16436,8 +16436,8 @@
   "name": "Immovable Object",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -16601,7 +16601,7 @@
   "hash": 3878366039,
   "name": "Impulse Amplifier",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 951095735",
@@ -16620,7 +16620,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 951095735,
   "uploadedBy": "Fading Shadow"
@@ -16733,9 +16733,9 @@
   "name": "Whirlwind Blade",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -16860,9 +16860,9 @@
   "name": "Lasting Impression",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -17078,7 +17078,7 @@
   "hash": 3974407819,
   "name": "No Distractions",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2866798147",
@@ -17097,7 +17097,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2866798147,
   "uploadedBy": "Fading Shadow"
@@ -17107,8 +17107,8 @@
   "name": "Tracking Module",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -17144,7 +17144,7 @@
   "hash": 3979224005,
   "name": "Shield Disorient",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -17163,7 +17163,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -17248,8 +17248,8 @@
   "name": "Remote Detonation",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -17410,7 +17410,7 @@
   "hash": 4045335048,
   "name": "Headseeker",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 460017080",
@@ -17429,7 +17429,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -17477,8 +17477,8 @@
   "name": "One for All",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
   "uploadToLive": false,
   "optional": false,
   "hidden": false,
@@ -17518,9 +17518,9 @@
   "name": "Threat Detector",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -17588,9 +17588,9 @@
   "name": "Swashbuckler",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -17633,7 +17633,7 @@
   "hash": 4085959009,
   "name": "Relentless Strikes",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 1749209109",
@@ -17652,7 +17652,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 1749209109,
   "uploadedBy": "Fading Shadow"
@@ -17796,9 +17796,9 @@
   "name": "Frenzy",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
@@ -17854,7 +17854,7 @@
   "hash": 4116820839,
   "name": "Snapshot Sights",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -17873,7 +17873,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "investmentStats": [
    {
@@ -17969,9 +17969,9 @@
   "name": "Iron Gaze",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": true,
   "hidden": false,
   "updateTracker": {
@@ -18094,7 +18094,7 @@
   "hash": 4183521337,
   "name": "Tireless Blade",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2590710093",
@@ -18113,7 +18113,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2590710093,
   "uploadedBy": "Fading Shadow"
@@ -18182,7 +18182,7 @@
   "hash": 4207509907,
   "name": "Killing Wind",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2450788523",
@@ -18201,7 +18201,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2450788523,
   "uploadedBy": "Fading Shadow"
@@ -18287,7 +18287,7 @@
   "hash": 4245865861,
   "name": "Subsistence",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "",
@@ -18306,7 +18306,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "uploadedBy": "Fading Shadow"
  },
@@ -18447,7 +18447,7 @@
   "hash": 4290541820,
   "name": "Golden Tricorn Enhanced",
   "type": "weaponPerkEnhanced",
-  "lastUpload": 1667225803761,
+  "lastUpload": 1667226153031,
   "editor": {
    "en": {
     "main": "import main from 2610012052",
@@ -18466,7 +18466,7 @@
   },
   "uploadToLive": false,
   "hidden": false,
-  "inLiveDatabase": false,
+  "inLiveDatabase": true,
   "optional": false,
   "linkedWith": 2610012052,
   "uploadedBy": "Fading Shadow"
@@ -18476,9 +18476,9 @@
   "name": "Incandescent",
   "type": "weaponPerk",
   "uploadedBy": "Fading Shadow",
-  "lastUpload": 1667225803761,
-  "inLiveDatabase": false,
-  "uploadToLive": true,
+  "lastUpload": 1667226153031,
+  "inLiveDatabase": true,
+  "uploadToLive": false,
   "optional": false,
   "hidden": false,
   "updateTracker": {
