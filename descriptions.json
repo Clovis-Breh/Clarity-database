@@ -2838,7 +2838,7 @@
  "631976966": {
   "hash": 631976966,
   "name": "Scout Rifle Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -2907,7 +2907,7 @@
  "650047261": {
   "hash": 650047261,
   "name": "Hand Cannon Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -3402,7 +3402,7 @@
  "712951940": {
   "hash": 712951940,
   "name": "Glaive Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -3643,7 +3643,7 @@
  "755265365": {
   "hash": 755265365,
   "name": "Grenade Launcher Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -4804,7 +4804,7 @@
  "1015337793": {
   "hash": 1015337793,
   "name": "Machine Gun Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -4945,7 +4945,7 @@
  "1050260245": {
   "hash": 1050260245,
   "name": "Sidearm Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -6702,7 +6702,7 @@
  "1476367343": {
   "hash": 1476367343,
   "name": "Sword Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -6777,7 +6777,7 @@
  "1499759470": {
   "hash": 1499759470,
   "name": "Linear Fusion Rifle Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -6810,7 +6810,7 @@
  "1507854082": {
   "hash": 1507854082,
   "name": "Sidearm Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -7702,7 +7702,7 @@
  "1624081088": {
   "hash": 1624081088,
   "name": "Bow Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -9758,7 +9758,7 @@
  "2080519917": {
   "hash": 2080519917,
   "name": "Bow Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -9904,7 +9904,7 @@
  "2128395292": {
   "hash": 2128395292,
   "name": "Machine Gun Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -10540,7 +10540,7 @@
  "2307244871": {
   "hash": 2307244871,
   "name": "Sniper Rifle Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -11328,7 +11328,7 @@
  "2603856295": {
   "hash": 2603856295,
   "name": "Rocket Launcher Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -12046,7 +12046,7 @@
  "2754084930": {
   "hash": 2754084930,
   "name": "Sniper Rifle Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -12286,7 +12286,7 @@
  "2829974286": {
   "hash": 2829974286,
   "name": "Hand Cannon Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -12839,7 +12839,7 @@
  "2919349723": {
   "hash": 2919349723,
   "name": "Shotgun Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -13590,7 +13590,7 @@
  "3109470977": {
   "hash": 3109470977,
   "name": "Glaive Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -13823,7 +13823,7 @@
  "3201675491": {
   "hash": 3201675491,
   "name": "Auto Rifle Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -14285,7 +14285,7 @@
  "3319681729": {
   "hash": 3319681729,
   "name": "Pulse Rifle Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -14318,7 +14318,7 @@
  "3330325954": {
   "hash": 3330325954,
   "name": "Trace Rifle Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -14448,7 +14448,7 @@
  "3338875786": {
   "hash": 3338875786,
   "name": "Linear Fusion Rifle Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -14725,7 +14725,7 @@
  "3394151347": {
   "hash": 3394151347,
   "name": "Fusion Rifle Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -16538,7 +16538,7 @@
  "3857411140": {
   "hash": 3857411140,
   "name": "Submachine Gun Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -16629,7 +16629,7 @@
  "3901392720": {
   "hash": 3901392720,
   "name": "Fusion Rifle Targeting",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -17045,7 +17045,7 @@
  "3973928133": {
   "hash": 3973928133,
   "name": "Trace Rifle Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
@@ -17935,7 +17935,7 @@
  "4148827738": {
   "hash": 4148827738,
   "name": "Shotgun Ammo Finder",
-  "type": "armorMod",
+  "type": "armorModGeneral",
   "lastUpload": 0,
   "editor": {
    "en": {
